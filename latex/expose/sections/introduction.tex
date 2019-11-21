@@ -1,0 +1,88 @@
+This master thesis is in context of a cooperation between the Visual Computing Institute at RWTH Aachen University and the Department of Oral and Maxillofacial Surgery (OMFS) at University Hospital RWTH Aachen.
+The main goal of this thesis is to create a pre-operative assistance software for oral and maxillofacial surgery.
+Additionaly, results of the pre-operative planning will be used intra-operatively to provide assistance via Augmented Reality (AR). Dies wird im rahmen einer weiter master thesis entwickelt
+
+This thesis simulates a virtual operating room for maxillofacial surgeons in Virtual Reality (VR).
+Workflows and procedures will be strongly oriented by clinical practices of the oral and maxillofacial department in UHA.
+
+Through the well established field of medical imaging, surgeons can get a very detailed view of patient’s specific anatomy and pathology today. 
+It is an essential part of preparing for surgery.
+Most common medical 3D image acquisition techniques (not exlusive) are computed tomography (CT), cone-beam computed tomography (CBCT) and magnetic resonance imaging (MRI).
+CT / CBCT makes use of x-ray measurements from different angles to produce cross-sectional (tomographic) "slices" of the scanned site.
+With this technique, bone structure and soft tissue can be displayed in medical imaging.
+The disadvantage of these techniques is the exposure to carcinogenic x-rays.
+In MRI, strong magnetic fields, magnetic field gradients and ultrasound are used to create tomography of the patients soft tissue.
+Since this technique makes use of hydrogen atoms, which is predominantly present in patient's soft tissue, this bone structure is imaged not as good.
+However, when studying mandibular joints for example, MRI is able to outperform CT (TODO zitat).
+The most recent one, CBCT, lowers radiation dosage of traditional CT and continually contributes to the accuracy of diagnostic tasks of the maxillofacial region.
+It is able to produce images with isotropic submillimeter spatial resolution, which is ideally suited for dedicated maxillofacial CT scans. The radiation dosage of CBCT is less than traditional CT and thus helps optimize health-to-risk ratio \cite{WHITE2008689}.
+
+As discussed, there are a variety of ways to acquire medical imaging.
+However, the displaying methods of 3D medical imaging data is very limited for clinicians.
+After acquiring raw data via mentioned techniques, volume images are generated. Generally, data is reconstruced in three planes (axial, sagittal and coronal).
+Each plane is represented in "slices" which are .
+
+Even though three-dimensional objects are being analysed and also generated, they are viewed in a two-dimensional format on conventional computer screens.
+The generated slices from medical imaging are viewed in the mentioned planes to get volumentric understanding of patient's underlying anatomy and pathalogy.
+Because of the two-dimensional nature of slices, the spatial perception of the viewed image is solely based on the resolution of slices in combination with the viewers experience.
+Another problem with slices is that they are generally unsegmented and it is up to the viewer of the medical imaging to interpret them correctly.
+Generally, this will not be a problem for trained clinicians. Planned procedures are hard to visualize and discuss with patients.
+
+Before medical procedures, there are a number of ways in which surgeons can prepare.
+We will discuss each of them based on how well it is suited for the individuality of patients, the realism and the cost (time and resources) associated in preparing for the operation.
+
+\begin{itemize}
+    \item Simulation based on the surgeons imagination
+    \begin{itemize}
+        \item Depends on the experience and spatial imagination of the surgeon
+        \item Can be very patient specific
+        \item Low realism
+        \item Cost based on experience and skill of surgeon
+    \end{itemize}
+    \item Modeloperation on 3D-printed models
+    \begin{itemize}
+        \item Very patient specific
+        \item High realism
+        \item Very costly
+    \end{itemize}
+    \item Papersimulation
+    \begin{itemize}
+        \item Little patient specific
+        \item Low realism
+        \item Low cost
+    \end{itemize}
+    \item Operational textbooks / videos
+    \begin{itemize}
+        \item Not patient specific
+        \item Low to medium realism
+        \item Low cost
+    \end{itemize}
+\end{itemize}
+
+Each of theses techniques (except simulation based on 3D models, which is very costly) has major disadvantages.
+They all cannot reflect the underlying specific anatomy and pathology of the patient and lack spatial perception.
+The process of preparing for the operation is based solely on the experience of the surgeon, and hence can take a lot of time to properly prepare, especially for first time operations.
+Also, the 3D medical imaging, which gets viewed on 2D computer screens, has to be translated back onto the patient via the surgeons imaginative power. 
+As discussed, there does not seem to be a trivial technique which all surgeons should use.
+Surgeons will often use a combination of mentioned techniques to get the best results.
+In the preparation stage, it is crucial that the operator gets a well defined mental image by medical imaging data of the patient's anatomy and pathology.
+
+This thesis aims to improve medical imaging and pre operational planning by using a modern approach with virtual reality.
+By using acquired 3D medical imaging in a virtual reality application, we hope to provide a very patient specific, highly realistic and only moderately costly technique with which surgeons can prepare for operations.
+
+We aim to achieve the following advantages over conventional methods:
+
+\begin{itemize}
+    \item Important procedures can be simulated
+    \item Faster preparation
+    \item Patient anatomy and pathology specific 
+    \item X-ray vision through tissue for 3D spatial perception
+    \item Assign structures to each other
+\end{itemize}
+
+Especially the imaging of voluminous objects is demanding mentally and this thesis hopes to eliminate this problem completely by providing realistic medical imaging in virtual reality.
+To provide a useful preparational tool, it is critical that we can simulate individual operation steps.
+Planned steps will be storable in a format in which they can be loaded and viewed in both the virtual and augmented reality applications bi-directionally.
+By planning the operational steps in virtual reality, planned procedures can easily be shown to other staff involved.
+Naturally, it will be of uttermost importance that we have medical equipment and an appropriate virtual environment recreated as close to reality as possible.
+

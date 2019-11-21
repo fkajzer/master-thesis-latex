@@ -1,0 +1,84 @@
+%\documentclass[german, twoside, parskip]{VRThesis} % dies ist eine deutsche Abschlussarbeit
+\documentclass[twoside, parskip]{VRThesis} % this is an english bachelor/master thesis
+
+% replace this by the title of the thesis
+\title{Three-Dimensional Treatment Planning of Maxillofacial Surgery in Virtual Reality}
+% replace this by the authors name
+\author{Filip Kajzer}
+% replace this by the date of issue (Abgabedatum), for PhD thesis date of the exam
+\date{\today}                 
+
+% options for master thesis and Diplomarbeit
+% Matrikelnummer, student ID
+\studentid{380 428} 
+\fieldofstudy{Informatik}
+%\fieldofstudy{Software Systems Engineering}
+\firstsupervisor{Prof. Dr. Torsten W. Kuhlen \\ Visual Computing Institute, University RWTH Aachen}
+%\firstsupervisor{Prof. C. Bischof, Ph.D. \\ Institute for Scientific Computing}
+\secondsupervisor{PD Dr. Dr. A. Modabber \\ Department for Oral and Maxillofacial Surgery, University Hospital RWTH Aachen}
+\tutor{Hans Tutor, M.Sc.}
+
+% options for a PhD thesis
+%\academictitle{eines Doktors der Naturwissenschaften}
+%\academictitle{einer Doktorin der Naturwissenschaften}
+%\bornin{Bonn}
+%\firstsupervisor{Prof. C. Bischof, Ph.D.}
+%\secondsupervisor{Univ.-Prof. Dr. A. Supervisor}
+%\onlinesentence{}
+
+\addtolength{\oddsidemargin}{+.2in}
+\addtolength{\evensidemargin}{-.2in}
+\usepackage{enumitem}
+\setlist[itemize]{noitemsep}
+\begin{document} 
+
+% generates the title page - use the proper one for your thesis
+%\maketitle
+%\makecoverMaster % this is the thesis cover (a shorter version of the title page)
+%\maketitleMaster % this is the thesis title page
+%\maketitlePhD
+%\maketitlePhDfinal
+
+% generates the statement (Erkl�rung) page for master thesis and Diplomarbeit
+%\makestatement
+
+% generates the table of contents (Inhaltsverzeichnis)
+\tableofcontents
+
+\chapter{Introduction}
+
+\input{sections/introduction.tex}
+
+\chapter{Related Work}
+
+A key part of this thesis is to advance the area of visualisation of medical imaging.
+Even though techniques exist, operations are still planned on two-dimensional images of three-dimensional surgical sites.
+Since 3D imaging is still an unconventional area, there does not exist much research in the oral and maxillofacial surgery. 
+In \ref{sec::RelatedWork1}, we will take a look at efforts made in the area of three-dimensional treatment planning in orthognathic surgery.
+Differences and possible advantages and disadvantages towards the conventional techniques will be thoroughly discussed.
+%Furthermore, we will take a look at an approach to virtual reality sugery simulation in \ref{sec::RelatedWork2} to discuss requirements needed to achieve a good approval rate of the simulation for surgeons.
+%Even though the goals of this work and this thesises differ, it gives great insight in the challenges involved
+%in creating an immersive and realistic virtual reality simulation of surgeries.
+
+\section{\label{sec::RelatedWork1}Three-Dimensional Treatment Planning of Orthognathic Surgery}
+\input{sections/related_work1.tex}
+
+%\section{\label{sec::RelatedWork2}Virtual reality orthopedic surgery simulator}
+%\input{sections/related_work2.tex}
+
+\chapter{Scope of the Thesis}
+
+This chapter outlines the requirements of this thesis based on the challenges mentioned in Chapter 1.
+It will also outline a broad monthly schedule of the thesis at the end.
+As this thesis is a cooperation between two endeveours we will also clarify in which way those applications need to communicate and how we are planning to achieve this.
+
+\section{\label{sec::Features}Features of the Virtual Reality Application}
+\input{sections/features.tex}
+
+\section{Schedule}
+\input{sections/schedule.tex}
+
+\bibliography{ms_thesis} 
+\bibliographystyle{ieeetr}
+
+\end{document} 
