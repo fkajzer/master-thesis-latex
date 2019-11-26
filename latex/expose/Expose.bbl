@@ -1,10 +1,10 @@
 \begin{thebibliography}{}
 
-\bibitem[RN6, a]{RN63}
-<1-s2.0-s0002937807009076-main.pdf>.
-
-\bibitem[RN6, b]{RN64}
-<application-pdf.pdf>.
+\bibitem[Banks et~al., 2007]{RN63}
+Banks, E.~H., Chudnoff, S., Karmin, I., Wang, C., and Pardanani, S. (2007).
+\newblock Does a surgical simulator improve resident operative performance of
+  laparoscopic tubal ligation?
+\newblock {\em American journal of obstetrics and gynecology}, 197(5):541--e1.
 
 \bibitem[Camp, 2018]{RN59}
 Camp, C.~L. (2018).
@@ -57,6 +57,13 @@ Pulijala, Y., Ma, M., and Ayoub, A. (2017).
 \newblock {\em VR Surgery: Interactive Virtual Reality Application for Training
   Oral and Maxillofacial Surgeons using Oculus Rift and Leap Motion}, book
   section Chapter 8, pages 187--202.
+
+\bibitem[Seymour et~al., 2002]{RN64}
+Seymour, N.~E., Gallagher, A.~G., Roman, S.~A., O’brien, M.~K., Bansal,
+  V.~K., Andersen, D.~K., and Satava, R.~M. (2002).
+\newblock Virtual reality training improves operating room performance: results
+  of a randomized, double-blinded study.
+\newblock {\em Annals of surgery}, 236(4):458.
 
 \bibitem[Swennen et~al., 2009]{swennen2009three}
 Swennen, G.~R., Mollemans, W., and Schutyser, F. (2009).

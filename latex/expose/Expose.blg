@@ -4,54 +4,46 @@ The top-level auxiliary file: Expose.aux
 The style file: apalike.bst
 Database file #1: ms_thesis.bib
 Database file #2: ms_endnote.bib
-Warning--to sort, need author or key in RN63
-Warning--to sort, need author or key in RN64
-Warning--empty author in RN63
-Warning--empty year in RN63
-Warning--empty journal in RN63
-Warning--empty author in RN64
-Warning--empty year in RN64
-Warning--empty journal in RN64
 Warning--empty publisher in RN6
 You've used 12 entries,
             1935 wiz_defined-function locations,
-            563 strings with 6861 characters,
-and the built_in function-call counts, 6406 in all, are:
-= -- 556
-> -- 449
+            573 strings with 7333 characters,
+and the built_in function-call counts, 6950 in all, are:
+= -- 605
+> -- 515
 < -- 4
-+ -- 171
-- -- 168
-* -- 647
-:= -- 1126
-add.period$ -- 32
++ -- 194
+- -- 192
+* -- 709
+:= -- 1242
+add.period$ -- 36
 call.type$ -- 12
-change.case$ -- 144
-chr.to.int$ -- 11
-cite$ -- 23
-duplicate$ -- 177
-empty$ -- 352
-format.name$ -- 180
-if$ -- 1202
-int.to.chr$ -- 2
+change.case$ -- 156
+chr.to.int$ -- 12
+cite$ -- 13
+duplicate$ -- 179
+empty$ -- 361
+format.name$ -- 206
+if$ -- 1296
+int.to.chr$ -- 1
 int.to.str$ -- 0
 missing$ -- 13
-newline$ -- 59
-num.names$ -- 30
-pop$ -- 139
+newline$ -- 63
+num.names$ -- 36
+pop$ -- 137
 preamble$ -- 1
-purify$ -- 144
+purify$ -- 156
 quote$ -- 0
-skip$ -- 128
+skip$ -- 133
 stack$ -- 0
-substring$ -- 357
-swap$ -- 20
+substring$ -- 386
+swap$ -- 22
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 70
-warning$ -- 9
-while$ -- 32
+warning$ -- 1
+while$ -- 39
 width$ -- 0
-write$ -- 146
-(There were 9 warnings)
+write$ -- 158
+(There was 1 warning)

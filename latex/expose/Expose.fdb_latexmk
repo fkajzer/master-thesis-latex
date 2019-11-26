@@ -1,15 +1,15 @@
 # Fdb version 3
-["bibtex Expose"] 1574725763 "Expose.aux" "Expose.bbl" "Expose" 1574766385
+["bibtex Expose"] 1574766964 "Expose.aux" "Expose.bbl" "Expose" 1574767008
   "/usr/local/texlive/2019/texmf-dist/bibtex/bst/base/apalike.bst" 1292289607 24635 604dafcc79f521a11ea73e506e1fbd98 ""
-  "Expose.aux" 1574766385 2709 dff2d72611f4fed12e883104d8f114f6 "pdflatex"
-  "ms_endnote.bib" 1574695174 9836 c216646d7c7a594fc73fb4b7a583cffe ""
+  "Expose.aux" 1574766993 2767 8225019bf151fe5c5731e24d4cde4dfa "pdflatex"
+  "ms_endnote.bib" 1574766954 10510 cb6b364cb56da1b7ae3da04cb984f574 ""
   "ms_thesis.bib" 1574684357 3618 2aa600bb13c0f07c0d1028150e796719 ""
   (generated)
   "Expose.bbl"
   "Expose.blg"
-["pdflatex"] 1574766382 "/Users/fkajzer/Projects/master-thesis/latex/expose/Expose.tex" "/Users/fkajzer/Projects/master-thesis/latex/expose/Expose.pdf" "Expose" 1574766385
-  "/Users/fkajzer/Projects/master-thesis/latex/expose/Expose.aux" 1574766385 2709 dff2d72611f4fed12e883104d8f114f6 ""
-  "/Users/fkajzer/Projects/master-thesis/latex/expose/Expose.tex" 1574765927 4605 c6694aac0733d0c56c34a805d064dfa9 ""
+["pdflatex"] 1574766992 "/Users/fkajzer/Projects/master-thesis/latex/expose/Expose.tex" "/Users/fkajzer/Projects/master-thesis/latex/expose/Expose.pdf" "Expose" 1574767008
+  "/Users/fkajzer/Projects/master-thesis/latex/expose/Expose.aux" 1574766993 2767 8225019bf151fe5c5731e24d4cde4dfa ""
+  "/Users/fkajzer/Projects/master-thesis/latex/expose/Expose.tex" 1574767008 4604 55efb26691eb0fd3cb2ee2c4928df3a0 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/helvetic/phvb7t.tfm" 1136768653 2240 eb56c13537f4d8a0bd3fafc25572b1bd ""
@@ -106,10 +106,10 @@
   "/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1557342064 3277517 23507ed665b4dd9046f0f2a94bbef2be ""
   "/usr/local/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt" 1573316839 4259636 2d06c5e8e00ac196c3c73e041bf89d38 ""
   "/usr/local/texlive/2019/texmf.cnf" 1557341546 577 d150fef99ac436ad1156e86b0892f6ef ""
-  "Expose.aux" 1574766385 2709 dff2d72611f4fed12e883104d8f114f6 "pdflatex"
-  "Expose.bbl" 1574725763 3594 da44fc7d0a12bac252b584dca88fe3f4 "bibtex Expose"
-  "Expose.tex" 1574765927 4605 c6694aac0733d0c56c34a805d064dfa9 ""
-  "Expose.toc" 1574766385 667 ede72ac714c5faf9fcde11bdfbc9464c "pdflatex"
+  "Expose.aux" 1574766993 2767 8225019bf151fe5c5731e24d4cde4dfa "pdflatex"
+  "Expose.bbl" 1574766964 4118 222d3b62b7fab303f46975cd4d77978c "bibtex Expose"
+  "Expose.tex" 1574767008 4604 55efb26691eb0fd3cb2ee2c4928df3a0 ""
+  "Expose.toc" 1574766993 667 ede72ac714c5faf9fcde11bdfbc9464c "pdflatex"
   "VRThesis.cls" 1550585270 34591 c8961e1c61c240b6d9c44a3520154696 ""
   "hangcaption.sty" 1550585270 5432 fbc59befe5d5d0826805aa5e54bfcb29 ""
   "images/project_plan.png" 1574698509 193350 498187cbbff42065cc29e2aab6317528 ""
@@ -120,9 +120,9 @@
   "sections/related_work2.tex" 1574766266 2995 28b5439474c6e805e00fc190b065814d ""
   "sections/schedule.tex" 1574166808 1452 3b80a3dd14f5df4b8e928fd572cd669c ""
   (generated)
-  "/Users/fkajzer/Projects/master-thesis/latex/expose/Expose.pdf"
-  "Expose.toc"
-  "Expose.aux"
-  "Expose.log"
   "/Users/fkajzer/Projects/master-thesis/latex/expose/Expose.log"
   "Expose.pdf"
+  "Expose.toc"
+  "Expose.aux"
+  "/Users/fkajzer/Projects/master-thesis/latex/expose/Expose.pdf"
+  "Expose.log"
