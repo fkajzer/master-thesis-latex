@@ -1,6 +1,7 @@
 \contentsline {chapter}{\numberline {1}Introduction}{3}% 
 \contentsline {chapter}{\numberline {2}Related Work}{7}% 
-\contentsline {section}{\numberline {2.1}Three-Dimensional Treatment Planning of Orthognathic Surgery}{7}% 
-\contentsline {chapter}{\numberline {3}Scope of the Thesis}{11}% 
-\contentsline {section}{\numberline {3.1}Features of the Virtual Reality Application}{11}% 
-\contentsline {section}{\numberline {3.2}Schedule}{14}% 
+\contentsline {section}{\numberline {2.1}Creating a low-cost virtual reality surgical simulation to increase surgical oncology capacity and capability}{8}% 
+\contentsline {section}{\numberline {2.2}VR Surgery: Interactive Virtual Reality Application for Training Oral and Maxillofacial Surgeons using Oculus Rift and Leap Motion}{10}% 
+\contentsline {chapter}{\numberline {3}Scope of the Thesis}{13}% 
+\contentsline {section}{\numberline {3.1}Features of the Virtual Reality Application}{13}% 
+\contentsline {section}{\numberline {3.2}Schedule}{16}% 

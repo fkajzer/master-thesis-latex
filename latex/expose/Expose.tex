@@ -2,7 +2,7 @@
 \documentclass[twoside, parskip]{VRThesis} % this is an english bachelor/master thesis
 
 % replace this by the title of the thesis
-\title{Three-Dimensional Treatment Planning of Maxillofacial Surgery in Virtual Reality}
+\title{Pre-operative Planning in Virtual Reality with Head Mounted Displays for Oral and Maxillofacial Surgery}
 % replace this by the authors name
 \author{Filip Kajzer}
 % replace this by the date of issue (Abgabedatum), for PhD thesis date of the exam
@@ -10,34 +10,25 @@
 
 % options for master thesis and Diplomarbeit
 % Matrikelnummer, student ID
-\studentid{380 428} 
+\studentid{380 428}
 \fieldofstudy{Informatik}
 %\fieldofstudy{Software Systems Engineering}
 \firstsupervisor{Prof. Dr. Torsten W. Kuhlen \\ Visual Computing Institute, University RWTH Aachen}
 %\firstsupervisor{Prof. C. Bischof, Ph.D. \\ Institute for Scientific Computing}
-\secondsupervisor{PD Dr. Dr. A. Modabber \\ Department for Oral and Maxillofacial Surgery, University Hospital RWTH Aachen}
-\tutor{Hans Tutor, M.Sc.}
-
-% options for a PhD thesis
-%\academictitle{eines Doktors der Naturwissenschaften}
-%\academictitle{einer Doktorin der Naturwissenschaften}
-%\bornin{Bonn}
-%\firstsupervisor{Prof. C. Bischof, Ph.D.}
-%\secondsupervisor{Univ.-Prof. Dr. A. Supervisor}
-%\onlinesentence{}
+\secondsupervisor{PD Dr. Dr. A. Modabber, MBA \\ Department for Oral and Maxillofacial Surgery, University Hospital RWTH Aachen}
+\tutor{Andrea Bönsch, Behrus Puladi}
 
 \addtolength{\oddsidemargin}{+.2in}
 \addtolength{\evensidemargin}{-.2in}
+
 \usepackage{enumitem}
 \setlist[itemize]{noitemsep}
+
 \begin{document} 
 
-% generates the title page - use the proper one for your thesis
 %\maketitle
 %\makecoverMaster % this is the thesis cover (a shorter version of the title page)
 %\maketitleMaster % this is the thesis title page
-%\maketitlePhD
-%\maketitlePhDfinal
 
 % generates the statement (Erkl�rung) page for master thesis and Diplomarbeit
 %\makestatement
@@ -52,25 +43,33 @@
 \chapter{Related Work}
 
 A key part of this thesis is to advance the area of visualisation of medical imaging.
-Even though techniques exist, operations are still planned on two-dimensional images of three-dimensional surgical sites.
-Since 3D imaging is still an unconventional area, there does not exist much research in the oral and maxillofacial surgery. 
-In \ref{sec::RelatedWork1}, we will take a look at efforts made in the area of three-dimensional treatment planning in orthognathic surgery.
-Differences and possible advantages and disadvantages towards the conventional techniques will be thoroughly discussed.
-%Furthermore, we will take a look at an approach to virtual reality sugery simulation in \ref{sec::RelatedWork2} to discuss requirements needed to achieve a good approval rate of the simulation for surgeons.
-%Even though the goals of this work and this thesises differ, it gives great insight in the challenges involved
-%in creating an immersive and realistic virtual reality simulation of surgeries.
+Even though techniques exist, operations are still planned on two-dimensional images for three-dimensional surgical sites.
+In 2009, Swennen et al. discuss several improvements for three-dimensional treatment planning over conventional methods \cite{swennen2009three}.
+Cost reduction and better patient outcome were achieved with three-dimenstional treatment planning, even though the planning was still conducted on conventional computers with 2D screens.
+Especially the diagnosis, treatment planning and treatment communication were improved.
+Additionally, experts all over the world can be consulted since treatment plans can be send via electronic mail.
+As VR technology advances and entry costs are reduced, VR is considered more and more for a wide spectrum of applications.
+In surgery, the main focus of research is on surgical training with pre modeled patient anatomy and pathology.
+By using state-of-the-art medical imaging and virtual reality technology and head mounted displays, this thesis aims to advance medical visualisation and surgery planning for patient specific procedures.
+In \ref{sec::RelatedWork1}, we will take a look at efforts made in creating a low cost surgical simulation to train novice surgeons in Zambia.
+The simulator aims to create pre trained novices for cervical cancer surgery. 
+Cervical cancer is one of the world's leading causes of death \cite{RN52}.
+By developing low-cost systems and using commercially available technologies, costs can be reduced significantly over traditional training.
+This is crucial for resource-challenged countries, where the main benefit of low cost VR surgery simulations is predicted.
+In \ref{sec::RelatedWork2}, the OMFS specific training tool "VR Surgery" will be presented.
+VR Surgery was developed as a visualisation aid for senior surgeons and as a practice tool for novices.   
 
-\section{\label{sec::RelatedWork1}Three-Dimensional Treatment Planning of Orthognathic Surgery}
+\section{\label{sec::RelatedWork1}Creating a low-cost virtual reality surgical simulation to increase surgical oncology capacity and capability}
 \input{sections/related_work1.tex}
 
-%\section{\label{sec::RelatedWork2}Virtual reality orthopedic surgery simulator}
-%\input{sections/related_work2.tex}
+\section{\label{sec::RelatedWork2}VR Surgery: Interactive Virtual Reality Application for Training Oral and Maxillofacial Surgeons using Oculus Rift and Leap Motion}
+\input{sections/related_work2.tex}
 
 \chapter{Scope of the Thesis}
 
 This chapter outlines the requirements of this thesis based on the challenges mentioned in Chapter 1.
 It will also outline a broad monthly schedule of the thesis at the end.
-As this thesis is a cooperation between two endeveours we will also clarify in which way those applications need to communicate and how we are planning to achieve this.
+As this thesis is part of a greater workflow, we will also clarify in which way the software components need to communicate and how it will be implemented.
 
 \section{\label{sec::Features}Features of the Virtual Reality Application}
 \input{sections/features.tex}
@@ -78,7 +77,8 @@ As this thesis is a cooperation between two endeveours we will also clarify in w
 \section{Schedule}
 \input{sections/schedule.tex}
 
-\bibliography{ms_thesis} 
-\bibliographystyle{ieeetr}
+\bibliography{ms_thesis,ms_endnote} 
+\bibliographystyle{apalike}
+%\bibliographystyle{ieeetr}
 
 \end{document} 

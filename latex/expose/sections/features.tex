@@ -1,7 +1,7 @@
 As this thesis is a completely new project we will need to build an architecture from the ground up.
 Since the main focus of this thesis is visualisation and planning, we aim to provide a realistic feeling experience without being unnecessarily complex.
 This means that while our main goal is surgery simulation, we do not focus on realistic physical behaviour of tissue.
-The following data will be kindly provided by the OMFS in UHA:
+The following anonymous, randomly selected data will be provided by the OMFS in UHA:
 \begin{itemize}
     \item Imaging acquisition
     \begin{itemize}
@@ -69,22 +69,14 @@ Furthermore, following key components will be designed and developed for this th
         \end{itemize}
 \end{itemize}
 
-\begin{figure}[ht!]
-    \centering
-    \includegraphics[width=\linewidth]{images/project_plan.png}
-    \caption{\label{fig::ProjectPlan} A simplistic view of the architecture.}
-\end{figure}
-
 The first step in realizing these requirements is to develop a software architecture with an interface to the augmented reality application in mind.
 Since this is a bi-directional data exchange which does not need to be real time, one obvious approach would be to use a simple object notation language such as JSON.
+A humanly readable format will be used so that operation plans can even be constructed without the need of an HMD.
 Different options will be explored and decided upon in the beginning phase of the thesis.
-However, it is import that we do not have to rely on each other to develop an interface.
-To accomplish this, we will agree upon a simple interface before starting the projects.
-Hence, we will be able to develop the applications completely independant of each other, even though the applications are linked.
 
 After deciding on a software architecture, the next step is to create a virtual operating room and first surgical instruments.
 The operation room will be designed after real operation rooms inside of the UHA.
-A photogrammetry approach will be evaluated in the hope to give the most realistic experience as possible for surgeons.
+A photogrammetry approach will be evaluated in the hope to give the most realistic experience as possible for OMF surgeons.
 Virtual objects will be combined with a scan of the real world to give an interactive and immersive experience.
 After the operating room, the focus will be on developing a traversing mechanism which allows for free exploration of the operating room.
 Since operating rooms are not too large in general, it should be possible to traverse them in room-scale VR.
@@ -101,10 +93,9 @@ Each of the surgical instruments will have its own planning operations which can
 Since at this stage, the architecture and format will already be decided, there should not be too much to worry about when implementing this feature.
 
 There are currently no plans to hold a user study, however an expert review by working surgeons is planned to evaluate the usability and percieved realism of the tool.
-Additionally, a small questionnaire will be used after surgery to determine if the new tool is prefered over conventional methods.
+Additionally, a small questionnaire will be used after surgery to determine if the new tool is preferred over conventional methods.
 
 There are also possible optional features, such as an additional tool to view dicom data directly, which can be included in the scope of the thesis but will be decided upon during the development phase of the thesis and will be dependent on the progression of the core features of the tool.
-
 As of now, a basic prototype is already developed to showcase some of the planned functionality of the application.
 
 

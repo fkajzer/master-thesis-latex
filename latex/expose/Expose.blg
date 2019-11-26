@@ -1,46 +1,57 @@
 This is BibTeX, Version 0.99d (TeX Live 2019)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: Expose.aux
-The style file: ieeetr.bst
+The style file: apalike.bst
 Database file #1: ms_thesis.bib
-You've used 2 entries,
-            1876 wiz_defined-function locations,
-            495 strings with 3928 characters,
-and the built_in function-call counts, 776 in all, are:
-= -- 86
-> -- 19
-< -- 0
-+ -- 7
-- -- 5
-* -- 54
-:= -- 107
-add.period$ -- 3
-call.type$ -- 2
-change.case$ -- 2
-chr.to.int$ -- 0
-cite$ -- 2
-duplicate$ -- 38
-empty$ -- 67
-format.name$ -- 5
-if$ -- 192
-int.to.chr$ -- 0
-int.to.str$ -- 2
-missing$ -- 2
-newline$ -- 10
-num.names$ -- 2
-pop$ -- 1
+Database file #2: ms_endnote.bib
+Warning--to sort, need author or key in RN63
+Warning--to sort, need author or key in RN64
+Warning--empty author in RN63
+Warning--empty year in RN63
+Warning--empty journal in RN63
+Warning--empty author in RN64
+Warning--empty year in RN64
+Warning--empty journal in RN64
+Warning--empty publisher in RN6
+You've used 12 entries,
+            1935 wiz_defined-function locations,
+            563 strings with 6861 characters,
+and the built_in function-call counts, 6406 in all, are:
+= -- 556
+> -- 449
+< -- 4
++ -- 171
+- -- 168
+* -- 647
+:= -- 1126
+add.period$ -- 32
+call.type$ -- 12
+change.case$ -- 144
+chr.to.int$ -- 11
+cite$ -- 23
+duplicate$ -- 177
+empty$ -- 352
+format.name$ -- 180
+if$ -- 1202
+int.to.chr$ -- 2
+int.to.str$ -- 0
+missing$ -- 13
+newline$ -- 59
+num.names$ -- 30
+pop$ -- 139
 preamble$ -- 1
-purify$ -- 0
+purify$ -- 144
 quote$ -- 0
-skip$ -- 35
+skip$ -- 128
 stack$ -- 0
-substring$ -- 76
-swap$ -- 22
-text.length$ -- 0
+substring$ -- 357
+swap$ -- 20
+text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 0
-warning$ -- 0
-while$ -- 7
-width$ -- 3
-write$ -- 26
+type$ -- 70
+warning$ -- 9
+while$ -- 32
+width$ -- 0
+write$ -- 146
+(There were 9 warnings)
