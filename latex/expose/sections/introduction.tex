@@ -1,6 +1,6 @@
 This master thesis is in context of a cooperation between the Visual Computing Institute at RWTH Aachen University and the Department of Oral and Maxillofacial Surgery (OMFS) at University Hospital RWTH Aachen (UHA).
 The goal of this thesis is to simulate a virtual operating room for oral and maxillofacial surgeons in Virtual Reality (VR).
-Workflows and procedures will be strongly oriented by clinical practices of the oral and maxillofacial department in UHA.
+Workflows and procedures will be strongly oriented towards clinical practices of the oral and maxillofacial department in UHA.
 
 Through the well established field of medical imaging, surgeons can get a very detailed view of patient’s specific anatomy and pathology today. 
 It is an essential part of preparing for surgery.
@@ -30,55 +30,41 @@ The generated slices from medical imaging are viewed in the mentioned planes to 
 The problem with slices is that they are generally unsegmented and it is up to the viewer of the medical imaging to interpret them correctly.
 
 To prepare for medical procedures, a number of preparational options are at the surgeons disposal.
-We will discuss each of them based on how well it is suited for the individuality of patients, the realism and the cost (time and resources) associated with preparing for the operation.
+Each of those common practices will be discussed based on how well it is suited for the individuality of patients, the realism and the cost (time and resources) associated with preparing for the operation.
 
-\begin{itemize}
-    \item Simulation based on the surgeons imagination
-    \begin{itemize}
-        \item Depends on the experience and spatial imagination of the surgeon
-        \item Can be very patient specific
-        \item Low to medium realism
-        \item Cost based on experience and skill of surgeon
-    \end{itemize}
-    \item Simulation with 3D-printed models
-    \begin{itemize}
-        \item Very patient specific
-        \item High realism
-        \item Very costly
-    \end{itemize}
-    \item Simulation based on drawings (Papersimulation)
-    \begin{itemize}
-        \item Little patient specific
-        \item Low realism
-        \item Low cost
-    \end{itemize}
-    \item Operational textbooks / videos
-    \begin{itemize}
-        \item Not patient specific
-        \item Low to medium realism
-        \item Low cost
-    \end{itemize}
-\end{itemize}
+The most common preparation technique is the mental simulation in which the surgeon uses his imagination to get a mental image of the surgical site.
+This is solely dependant on the experience and spatial imagination of the surgeon. 
+Hence it can be very patient specific, which is the goal in such an excercise.
+The realism however is low to medium and the costs are also dependant on the expercience and skill of the surgeon himself.
 
-Each of theses techniques (except simulation based on 3D models, which is very costly) has major disadvantages.
+Another, yet very costly technique is a simulation on 3D-printed models.
+Since patient data is used here, it is an highly patient specific and highly realistic simulation.
+
+In papersimulations, surgeons draw out treatment plans.
+This is usually little patient specific and not realistic, however the costs are very low too.
+
+The last technique presented are operational textbooks and videos.
+They are not patient specific at all, but due to real operations being depicted the realism is generally low to medium.
+The cost is also almost zero since the hospital will generally own a number of textbooks and videos for training.
+
+Each of theses techniques has major disadvantages.
 They all cannot actively reflect the underlying specific anatomy and pathology of the patient and lack spatial perception.
 Also, the 3D medical imaging, which gets viewed on 2D computer screens, has to be translated back onto the patient via the surgeons imaginative power. 
 As discussed, there does not seem to be a trivial technique which all surgeons should use.
 Surgeons will often use a combination of mentioned techniques to get the best results.
 In the preparation stage, it is crucial that the operator gets a well defined mental image by 3D medical imaging data of the patient's anatomy and pathology.
 
-This thesis aims to improve medical imaging and pre-operational planning by using a modern approach with virtual reality HMDs.
+This thesis aims to improve medical imaging and pre-operational planning by using a modern approach with head-mounted displays.
 By using acquired 3D medical imaging in a virtual reality application, a very patient specific, highly realistic and only moderately costly technique with which surgeons can prepare for operations is pursued.
 
 This thesis aims to achieve the following advantages over conventional methods:
-
-\begin{itemize}
-    \item Familiarize with specific anatomy and pathalogy of the patient before operating
-    \item Simulation of important operation steps
-    \item Revise virtual operation as often as needed
-    \item Record and analyse users and others virtual operations
+\begin{compactenum}[label=(\alph*)]
+    \item Familiarize the operator with the patient specific anatomy and pathalogy before operating
+    \item The ability to simulate important operation steps
+    \item Allow revision of the virtual operation as often as needed
+    \item Recording and analysis of users and others virtual operations
     \item Test out procedures
-\end{itemize}
+\end{compactenum}
 
 Especially the imaging of voluminous objects is mentally demanding and this thesis hopes to eliminate this problem completely by providing realistic 3D medical imaging in virtual reality.
 This thesis is part of an applied virtual and augmented reality workflow for oral and maxillofacial surgery using head mounted displays (HMDs) as described in Figure \ref{fig::ProjectPlan}.
@@ -86,7 +72,7 @@ This thesis is part of an applied virtual and augmented reality workflow for ora
 \begin{figure}[ht!]
     \centering
     \includegraphics[width=\linewidth]{images/project_plan.png}
-    \caption{\label{fig::ProjectPlan} Software-based workflow with HMDs concept}
+    \caption{\label{fig::ProjectPlan} Complete VR and AR workflow for surgeons concept}
 \end{figure}
 
 The software will be developed with commercially available hard- and software.
@@ -95,16 +81,18 @@ As user input, the Valve Index controller will be used.
 The software will be developed in Unity (LTS 2018.4) using the SteamVR (2.0) interaction system in the C\# programming language.
 Since running virtual reality software is computationally expensive, a desktop pc with the following hardware is recommended for highest immersion:
 
-\begin{itemize}
+\begin{compactenum}[label=(\alph*)]
     \item Graphics Card: Nvidia GTX 1060 or equivalent
     \item CPU: Intel i5-4590 / AMD Ryzen5 1500X
     \item Memory (RAM): 8GB+
-\end{itemize}
+\end{compactenum}
 
-The main goal of this thesis is to create a pre-operative assistance tool in VR with HMDs for oral and maxillofacial surgery. 
-In addition, the results of the pre-operative planning might be used intra-operatively to provide assistance via Augmented Reality (AR) as described in the workflow in Figure \ref{fig::ProjectPlan}.
+The main goal of this thesis is to create a pre-operative assistance tool in VR with HMDs for oral and maxillofacial surgery as highlighted in Figure \ref{fig::ProjectPlan}. 
+In addition, the results of the pre-operative planning might be used intra-operatively to provide assistance via Augmented Reality (AR) as described in the workflow.
 To provide a useful preparational tool, it is critical to simulate individual operation steps.
 Planned steps will be storable in a format in which they can be loaded and viewed in both the virtual and augmented reality applications bi-directionally as described.
 By planning the operational steps in virtual reality, planned procedures can easily be shown to other staff involved.
 Naturally, it will be of uttermost importance that we have medical equipment and an appropriate virtual environment recreated remarkably close to reality.
 
+The remainder of this Exposé is structured as follows: Chapter 2 provides a brief overview of related endevours made in the medical field.
+Chapter 3 gives a scope of the thesis and a broad monthly schedule.
