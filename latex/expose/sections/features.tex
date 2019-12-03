@@ -69,6 +69,18 @@ Furthermore, following key components will be designed and developed for this th
         \end{compactenum}
 \end{compactenum}
 
+The software will be developed with commercially available hard- and software.
+The HMD in which this software will be developed is the HTC Vive.
+As user input, the Valve Index controller will be used.
+The software will be developed in Unity (LTS 2018.4) using the SteamVR (2.0) interaction system in the C\# programming language.
+Since running virtual reality software is computationally expensive, a desktop pc with the following hardware is recommended for highest immersion:
+
+\begin{compactenum}[label=(\alph*)]
+    \item Graphics Card: Nvidia GTX 1060 or equivalent
+    \item CPU: Intel i5-4590 / AMD Ryzen5 1500X
+    \item Memory (RAM): 8GB+
+\end{compactenum}
+
 The first step in realizing these requirements is to develop a software architecture with an interface to the augmented reality application in mind.
 Since this is a bi-directional data exchange which does not need to be real time, one obvious approach would be to use a simple object notation language such as JSON.
 A humanly readable format will be used so that operation plans can even be constructed without the need of an HMD.
