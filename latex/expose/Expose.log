@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.11.9)  5 DEC 2019 19:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.11.9)  5 DEC 2019 19:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -401,25 +401,25 @@ Package grfext Info: Graphics extension search list:
  (/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 37.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 38.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 37.
+(Font)              scaled to size 11.03998pt on input line 38.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 37.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 38.
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 11.03998pt on input line 37.
+(Font)              scaled to size 11.03998pt on input line 38.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <24.88> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 37.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 38.
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 22.88956pt on input line 37.
-LaTeX Font Info:    Try loading font information for U+msa on input line 37.
+(Font)              scaled to size 22.88956pt on input line 38.
+LaTeX Font Info:    Try loading font information for U+msa on input line 38.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 37.
+LaTeX Font Info:    Try loading font information for U+msb on input line 38.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
@@ -435,25 +435,20 @@ Non-PDF special ignored!
 
 ]
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 15.89755pt on input line 37.
+(Font)              scaled to size 15.89755pt on input line 38.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 37.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 38.
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 15.89755pt on input line 37.
- [3] [0
+(Font)              scaled to size 15.89755pt on input line 38.
 
-
-
-
-]
 Overfull \hbox (27.23201pt too wide) in paragraph at lines 38--38
  [] 
  []
 
-[1]
+[3]
 LaTeX Font Info:    Font shape `OT1/phv/m/sc' will be
 (Font)              scaled to size 11.03998pt on input line 38.
- [2] [0
+ [4] [0
 
 
 
@@ -476,7 +471,7 @@ LaTeX Font Info:    Font shape `OT1/phv/b/sc' will be
 \tf@toc=\write4
 \openout4 = `Expose.toc'.
 
-<rwth_vci_bild_schwarz_grau_cmyk.pdf, id=34, 267.4562pt x 68.28632pt>
+<rwth_vci_bild_schwarz_grau_cmyk.pdf, id=28, 267.4562pt x 68.28632pt>
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
 Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 46.
@@ -494,7 +489,7 @@ File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 24.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
  [3] [4]
-<images/project_plan.png, id=65, 2369.85374pt x 1147.28625pt>
+<images/project_plan.png, id=58, 2369.85374pt x 1147.28625pt>
 File: images/project_plan.png Graphic file (type png)
 <use images/project_plan.png>
 Package pdftex.def Info: images/project_plan.png  used on input line 74.
@@ -505,28 +500,26 @@ Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
  [5 </Users/fkajzer/Projects/master-thesis/latex/expose/images/project_plan.png>]) [6]
 chapter 2.
-
-LaTeX Warning: Reference `sec::RelatedWork2' on page 7 undefined on input line 62.
-
 (/Users/fkajzer/Projects/master-thesis/latex/expose/sections/related_work1.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
-Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 4.
+Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 5.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
  [7
 
 
-] [8]
+]
+Underfull \vbox (badness 6380) has occurred while \output is active []
+
+ [8]
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
-Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 64.
+Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 69.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
  [9] [10]) (/Users/fkajzer/Projects/master-thesis/latex/expose/sections/related_work2.tex
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
-Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 16.
+Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 19.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
  [11]) [12]
 chapter 3.
@@ -559,26 +552,22 @@ Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line
  [19] [20])
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
-Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 90.
+Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 87.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
- [21] (/Users/fkajzer/Projects/master-thesis/latex/expose/Expose.aux)
-
-LaTeX Warning: There were undefined references.
-
- ) 
+ [21] (/Users/fkajzer/Projects/master-thesis/latex/expose/Expose.aux) ) 
 Here is how much of TeX's memory you used:
- 7108 strings out of 492616
- 119753 string characters out of 6129481
+ 7107 strings out of 492616
+ 119734 string characters out of 6129481
  301309 words of memory out of 5000000
- 10875 multiletter control sequences out of 15000+600000
+ 10874 multiletter control sequences out of 15000+600000
  27833 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  51i,16n,68p,9137b,658s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on /Users/fkajzer/Projects/master-thesis/latex/expose/Expose.pdf (30 pages, 338505 bytes).
+Output written on /Users/fkajzer/Projects/master-thesis/latex/expose/Expose.pdf (28 pages, 337400 bytes).
 PDF statistics:
- 145 PDF objects out of 1000 (max. 8388607)
- 98 compressed objects within 1 object stream
+ 139 PDF objects out of 1000 (max. 8388607)
+ 94 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
