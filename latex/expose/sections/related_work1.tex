@@ -1,4 +1,112 @@
 In this section, a number of endevours for surgical simulations in virtual reality will be presented.
-This section gives a broad overview of how successful VR-based simulations already are for surgeons
-and it also discusses lessons learned from previous research.
+This section gives a broad overview of previous VR-based simulations for surgeons in training.
+At the end there is discussion about lessons learned from this research.
 
+Parham et. al present a novel approach for a low cost surgical simulation to train novice surgeons for cervical cancer surgery \cite{RN52}.
+The simulator aims to create pre-trained novices in resource-challenged countries. 
+Cervical cancer is one of the world's leading causes of death \cite{RN52}.
+
+By developing a low cost simulation, using commercially available VR software and the Oculus Rift HMD, they have succesfully 
+helped surgeons to prepare for radical abdominal hysterectomy surgery procedures.
+A near identical representation of an operating theatre using 1:1 scale was used for immersion.
+3D replica of human female pelvic anatomy and pathalogy including organs, veins, peritoneum and connective tissue was created.
+A huge focus while developing was to simulate reality as accurately as possible. 
+Immersing trainees in the simulator is crucial so that they can focus on learning and practise without distractions.
+Putting them in a realistic operating scenario helps reducing anxiety and selfconsciousness before first time operations \cite{RN52}.
+
+Parham et. al recognize a need for clinical testing to establish VR efficacy, since there is a lack of research for VRs clinical utility \cite{RN59}. 
+However, VR was already considered over 10 years ago as an important addition to surgical training, with a prediction for even more relevance in the future \cite{RN60}.
+These low cost VR applications could be especially considered for resource-challenged countries where there is a lack of skilled workforce, mainly because of cost.
+
+This simulator creates pre-trained novices by providing new ways to acquire the psycho-motor skills, sensory acuity and cognitive planning abilities needed for sugery.
+Virtual reality based training is already proven to reduce the time to acquire surgical proficiency \cite{RN61,RN62}. 
+In randomized control studies, VR trained trainees performing laparoscopic cholecystectomy, made fewer errors and were faster \cite{RN63,RN64}.
+VR trained trainees required only half the time to reach the skill level of intermediately skilled surgeons compared to standard training.
+Hence, it is proven that skills acquired in simulations can successfully be translated to the operting theatre (OT) \cite{RN63,RN64}.
+
+Parham et. al focus on high-quality visuals for immersion.
+All assets are represented in 1:1 scale and the correct visual reproduction of organs, tools and hand positions is ensured through thorough analysis of real world counterparts.
+Object materials are physics-based and organic materials approximated by an physics engine.
+The lighting emerging from medical equipment is based on their specifications.
+Lastly, the software would be developed with future expansion into other medical fields in mind \cite{RN52}.
+
+The virtual OT consists of the open surgical area including organs of the patient, a tray for surgical instruments and a monitor displaying simulated patient vitals and procedure instructions.
+It was modeled after a real world OT located inside the University Teaching Hospital in Lusaka, Zambia.
+The assets were modeled after recieving reference photos and videos of locations and instruments and researching the female anatomy.
+It was argued that even though 3D scans of real human organs exists, they are too inefficient to run in real time VR \cite{RN52}.
+
+In the virtual reality simulation, the trainee stands in the virtual OT with an operating table, tray of surgical instruments and the surgery awaiting patient with cervical cancer.
+The procedure is closely modeled after an actual surgical procedure, meaning the surgical site is exposed while the rest of the patient is covered.
+Instructions are given via a monitor above the operating table and audio feedback is given to guide the trainee through the simulation.
+The simulation lasts roughly 20 minutes and provides feedback on the trainees accuracy on various postions of the procedure and an overall score.
+To compare traditional surgical training versus VR, the trainees are assessed by expert surgeon-mentors \cite{RN52}.
+
+It is mentioned how commercial VR will advance significantly in the future, allowing for an even better adoption of VR simulations in surgery.
+Surgical training enhanced with augmented and virtual reality will have wide applications according to Parham et. al.
+However, such technology has to be carefully build and clinically tested.
+VR and AR has the potential to help train the workforce and to ensure higher quality standards \cite{RN52}.
+
+Another example for virtual reality training tools is the regional anaesthesia simulator (RASim) \cite{RN70}.
+RASim focuses on physical accuracy using soft-tissue simulation and a haptic device to improve realism of interactions.
+It was developed out of the lack of training opportunities. Even though mannequins exist for training, they are too limited 
+as they do not reflect the diversity of different patients and they wear from repeated use \cite{RN70}.
+
+RASim allows for relevant tissue to be viewed.
+Tissue is segmented into skin, fat, muscle, blood vessels and bones.
+The simulation consists of two steps: First, the user performs a palpation using an extended index finger to sense the right puncture site for the procedure on the patients skin.
+Secondly, the user can switch the interaction mode to control a virtual needle.
+The needle can be moved freely until the patient's tissue is penetrated.
+When penetrating, only the depth of the needle can be varied.
+The user can trigger a virtual aspiration at any time to check whether the needle tip penetrated any blood vessel.
+If the needle tip is in emission range of any virtual nerve cord, according muscular motor responses are displayed in real-time.
+An interesting feature of RASim is the event logger, which remembers any given interaction step and thus allows to replay the whole procedure.
+This allows for further assesment by users themselves, but even moreso allows trainees to view the log of an experienced surgeon for learning.
+
+A user study compromised of ten residents and consultants with experience between one and twenty years has been conducted \cite{RN72}.
+The overall sentiment towards RASim was positive. Realism of the anatomy and identification of landmarks were highly rated. 
+The majority of participants agreed that training with the simulator will be helpful to gain more confidence and increase the rate of successful nerve blocks.
+However, the majority of participants stressed that the haptic feedback has to be as sophisticated as possible.
+
+A closely related work is the bilateral sagittal split osteotomy simulator (BSSOSim) \cite{RN69}.
+BSSO is a major surgical procedure in maxillofacial surgery where training opportunities are rare and can be harmful for patients.
+Similar to RASim, this simulator compromises of realistic haptic feedback and tissue simulation.
+The simulator focuses on drilling and breaking, which are a subset of the operation steps in BSSO.
+
+The main goal of the BSSOSim it the training of necessary motor abilities for a successful outcome of the operation.
+To achieve the required realism to train motor abilities, a haptic input/output device with 6 degrees of freedom is utilized.
+This allows users to get a feel for the exerted force needed in the operation.
+
+NeuroSimVR is another training tool utilizing haptic devices \cite{RN71}.
+This simulator allows novice surgeons to learn and practice a spinal pedicle screw insertion (PSI).
+Mostafa et. al recognize that most similar simulators perceive limited adoption by some medical experts.
+In contrast to related works, NeuroSimVR aims to optimize user interaction and user experience.
+The goal is to support medical experts with a training and learning tool that better satisfies their needs and expectations.
+
+Mostafa et. al highlight that users, particularly novices, need an considerable amount of training before they can use and operate many of the existing simulatiors.
+Hence, NeuroSimVR has unique educational features and a simplified interface for ease of use.
+A key problem with NeuroSimVR as noted by numerous participants of the user study conducted \cite{RN71}, was that the simulation lacked realistic haptic feedback. 
+Based on the feedback of their user study, Mostafa et. al concluded a number of key components which should be implemented in future works.
+
+First, a flexible and simplified interaction is very important.
+Users especially liked the real-time x-ray visualization of different segmented tissue.
+Post simulation performance measures were also highly rated, although irrelevant for this thesis.
+Mostafa et. al strongly suggested simplifying the design of interactions when building surgical simulation as an important step towards providing more individualized independent learning.
+The ability to adjust the visualization of each anatomy part should be supported.
+This includes giving the user the option to hide or show various tissues as well varying their opacity.
+All participants of the conducted study stressed that performance measures beyond a simple numerical score provided by the simulation are important.
+Integrating feedback in a timely manner can be useful especially whenever something goes wrong.
+In NeuroSimVR this was realized by visual blinking if mistakes were made.
+
+The goal of this thesis is to apply virtual reality in oral and maxillofacial surgery treatment planning.
+Haptic devices are a challenging aspect of most VR training simulators.
+Especially for training motor skills, haptic devices are a necessity.
+However, the percieved realism of such devices is still not accurate enough for most applications.
+Since the goal of this thesis is not an accurate physical representation of surgery, no haptic devices will be utilized.
+In contrast to the presented work, this thesis aims to provide a useful tool not only for learning, but also for planning patient specific surgery.
+Because of technology advancing rapidly, VR and AR become more and more affordable options.
+Mentioned limitations for patient specific 3D models are not an issue anymore.
+By using patient anatomy and pathology specific models, surgeons can profit from the mentioned benefits of VR simulation not only as a learning tool.
+Moreover, the goal is to give trained surgeons a useful tool which adds to the arsenal of existing planning techniques.
+However, trainees can also benefit immensely by studying and reproducing planned procedures of experts.
+Another aspect of VR is the ability to communicate on a global level. 
+In fields where expects are rare, planned procedures by such experts could be viewed and studied to get greater insight.

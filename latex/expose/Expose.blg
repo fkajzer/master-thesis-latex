@@ -4,44 +4,46 @@ The top-level auxiliary file: Expose.aux
 The style file: apalike.bst
 Database file #1: ms_thesis.bib
 Database file #2: ms_endnote.bib
-You've used 10 entries,
+Warning--empty publisher in RN6
+You've used 16 entries,
             1935 wiz_defined-function locations,
-            555 strings with 6191 characters,
-and the built_in function-call counts, 4979 in all, are:
-= -- 450
-> -- 314
-< -- 2
-+ -- 116
-- -- 114
-* -- 493
-:= -- 894
-add.period$ -- 31
-call.type$ -- 10
-change.case$ -- 107
-chr.to.int$ -- 10
-cite$ -- 10
-duplicate$ -- 140
-empty$ -- 290
-format.name$ -- 126
-if$ -- 933
+            598 strings with 8398 characters,
+and the built_in function-call counts, 9079 in all, are:
+= -- 797
+> -- 672
+< -- 5
++ -- 254
+- -- 250
+* -- 908
+:= -- 1626
+add.period$ -- 48
+call.type$ -- 16
+change.case$ -- 206
+chr.to.int$ -- 16
+cite$ -- 17
+duplicate$ -- 240
+empty$ -- 463
+format.name$ -- 268
+if$ -- 1695
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 10
-newline$ -- 54
-num.names$ -- 30
-pop$ -- 84
+missing$ -- 16
+newline$ -- 83
+num.names$ -- 48
+pop$ -- 181
 preamble$ -- 1
-purify$ -- 107
+purify$ -- 205
 quote$ -- 0
-skip$ -- 103
+skip$ -- 184
 stack$ -- 0
-substring$ -- 313
-swap$ -- 10
-text.length$ -- 0
+substring$ -- 486
+swap$ -- 34
+text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 60
-warning$ -- 0
-while$ -- 32
+type$ -- 94
+warning$ -- 1
+while$ -- 51
 width$ -- 0
-write$ -- 134
+write$ -- 210
+(There was 1 warning)
