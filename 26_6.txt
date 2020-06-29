@@ -1,0 +1,13 @@
+Scalierung ist seltsam:
+    patient ok -> Raum ok -> Instrumente ok -> Tische etc zu groß
+
+Piezo:
+    MillerCutter with qubics -- instead of spheres
+
+Steps with numeric indicators
+
+Train - Plan mode -> 2 Materials
+
+Explodeview -> Randomized on 2D Circle -> lookAt player
+
+Biegung -> metallplatten -> when B is pressed -> activate Torque mode and torque with other hand

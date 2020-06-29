@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.11.9)  5 DEC 2019 19:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.11.9)  18 MAY 2020 16:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -335,7 +335,29 @@ Package: enumitem 2019/02/04 v3.8 Customized lists
 \c@compactenumiii=\count120
 \c@compactenumiv=\count121
 \enitdp@compactenum=\count122
- (/Users/fkajzer/Projects/master-thesis/latex/expose/Expose.aux)
+ (/Users/fkajzer/Projects/master-thesis/latex/expose/Expose.aux
+
+LaTeX Warning: Label `sec::Features' multiply defined.
+
+
+LaTeX Warning: Label `sec::Features' multiply defined.
+
+
+LaTeX Warning: Label `sec::Features' multiply defined.
+
+
+LaTeX Warning: Label `sec::Features' multiply defined.
+
+
+LaTeX Warning: Label `sec::Features' multiply defined.
+
+
+LaTeX Warning: Label `sec::Features' multiply defined.
+
+
+LaTeX Warning: Label `sec::Features' multiply defined.
+
+)
 \openout1 = `Expose.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
@@ -523,51 +545,79 @@ Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
  [11]) [12]
 chapter 3.
-(/Users/fkajzer/Projects/master-thesis/latex/expose/sections/features.tex
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
-Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 16.
+Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 77.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
- [13
+[13
 
 
-] [14]
-File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
-<use rwth_vci_bild_schwarz_grau_cmyk.pdf>
-Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 104.
-(pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
- [15]) (/Users/fkajzer/Projects/master-thesis/latex/expose/sections/schedule.tex) (/Users/fkajzer/Projects/master-thesis/latex/expose/Expose.bbl [16]
-File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
-<use rwth_vci_bild_schwarz_grau_cmyk.pdf>
-Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 1.
-(pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
- [17] [18
+] [14
 
 
 ]
+chapter 4.
+(/Users/fkajzer/Projects/master-thesis/latex/expose/sections/implementation.tex (/Users/fkajzer/Projects/master-thesis/latex/expose/sections/features.tex
+File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
+<use rwth_vci_bild_schwarz_grau_cmyk.pdf>
+Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 25.
+(pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
+ [15] [16]
+File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
+<use rwth_vci_bild_schwarz_grau_cmyk.pdf>
+Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 109.
+(pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
+ [17])) [18]
+chapter 5.
+(/Users/fkajzer/Projects/master-thesis/latex/expose/sections/evaluation.tex)
+File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
+<use rwth_vci_bild_schwarz_grau_cmyk.pdf>
+Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 83.
+(pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
+ [19
+
+
+] [20
+
+
+]
+chapter 6.
+(/Users/fkajzer/Projects/master-thesis/latex/expose/sections/discussion.tex) (/Users/fkajzer/Projects/master-thesis/latex/expose/sections/schedule.tex
+File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
+<use rwth_vci_bild_schwarz_grau_cmyk.pdf>
+Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 13.
+(pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
+ [21]) (/Users/fkajzer/Projects/master-thesis/latex/expose/Expose.bbl [22]
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
 Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 54.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
- [19] [20])
+ [23
+
+
+] [24])
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
-Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 87.
+Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 93.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
- [21] (/Users/fkajzer/Projects/master-thesis/latex/expose/Expose.aux) ) 
+ [25] (/Users/fkajzer/Projects/master-thesis/latex/expose/Expose.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 7107 strings out of 492616
- 119734 string characters out of 6129481
- 301309 words of memory out of 5000000
- 10874 multiletter control sequences out of 15000+600000
+ 7119 strings out of 492616
+ 120314 string characters out of 6129481
+ 301373 words of memory out of 5000000
+ 10877 multiletter control sequences out of 15000+600000
  27833 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 51i,16n,68p,9137b,658s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 51i,16n,68p,9137b,648s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on /Users/fkajzer/Projects/master-thesis/latex/expose/Expose.pdf (28 pages, 337400 bytes).
+Output written on /Users/fkajzer/Projects/master-thesis/latex/expose/Expose.pdf (32 pages, 341022 bytes).
 PDF statistics:
- 139 PDF objects out of 1000 (max. 8388607)
- 94 compressed objects within 1 object stream
+ 153 PDF objects out of 1000 (max. 8388607)
+ 103 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
