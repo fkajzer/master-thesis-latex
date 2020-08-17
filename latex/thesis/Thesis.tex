@@ -1,0 +1,99 @@
+%\documentclass[german, twoside, parskip]{VRThesis} % dies ist eine deutsche Abschlussarbeit
+\documentclass[twoside, parskip]{VRThesis} % this is an english bachelor/master thesis
+
+% replace this by the title of the thesis
+\title{Pre-operative Planning in Virtual Reality with Head Mounted Displays for Oral and Maxillofacial Surgery}
+% replace this by the authors name
+\author{Filip Kajzer}
+% replace this by the date of issue (Abgabedatum), for PhD thesis date of the exam
+\date{\today}                 
+
+% options for master thesis and Diplomarbeit
+% Matrikelnummer, student ID
+\studentid{380 428}
+\fieldofstudy{Informatik}
+%\fieldofstudy{Software Systems Engineering}
+\firstsupervisor{Prof. Dr. Torsten W. Kuhlen \\ Visual Computing Institute, RWTH Aachen University}
+%\firstsupervisor{Prof. C. Bischof, Ph.D. \\ Institute for Scientific Computing}
+\secondsupervisor{Priv.-Doz. Dr. med. Dr. med. dent. Ali Modabber, MBA \\ Department for Oral and Maxillofacial Surgery, University Hospital RWTH Aachen}
+\tutor{Andrea Bönsch, Behrus Puladi}
+
+\addtolength{\oddsidemargin}{+.2in}
+\addtolength{\evensidemargin}{-.2in}
+
+% use compactenum to save space
+\usepackage{enumitem}
+\newlist{compactenum}{enumerate}{4}
+\setlist[compactenum,1]{nolistsep}
+% avoid orphans and widows
+\clubpenalty = 10000
+\widowpenalty = 10000
+%\displaywidowpenalty = 10000
+
+\begin{document}
+
+\maketitle
+%\makecoverMaster % this is the thesis cover (a shorter version of the title page)
+\maketitleMaster % this is the thesis title page
+
+% generates the statement (Erkl�rung) page for master thesis and Diplomarbeit
+\makestatement
+
+% generates the table of contents (Inhaltsverzeichnis)
+\tableofcontents
+
+\chapter{\label{chap::Introduction}Introduction}
+\input{sections/1_introduction/main.tex}
+
+\chapter{\label{chap::RelatedWork}Related Work}
+\input{sections/2_related_work/main.tex}
+\section{\label{sec::MedicalImaging}Medical Imaging}
+\input{sections/2_related_work/medical_imaging/main.tex}
+\section{\label{sec::VirtualRealityInMedicine}Virtual Reality in Medicine}
+\input{sections/2_related_work/virtual_reality_in_medicine/main.tex}
+\section{\label{sec::SurgicalSimulations}Surgical Simulations}
+\input{sections/2_related_work/surgical_simulations/main.tex}
+\section{\label{sec::RelatedWorkDiscussion}Discussion - Limitations}
+\input{sections/2_related_work/discussion/main.tex}
+
+
+\chapter{\label{chap::Approach}Approach}
+\input{sections/3_approach/main.tex}
+\section{\label{sec::RequirementAnalysis}Requirement Analysis}
+\input{sections/3_approach/requirement_analysis/main.tex}
+\section{\label{sec::Concept}Concept}
+\input{sections/3_approach/concept/main.tex}
+
+\chapter{\label{chap::Implementation}Implementation}
+\input{sections/4_implementation/main.tex}
+\section{\label{sec::Workflow}Workflow}
+\input{sections/4_implementation/workflow/main.tex}
+\section{\label{sec::InteractionFlow}Interaction Flow}
+\input{sections/4_implementation/interaction_flow/main.tex}
+\section{\label{sec::UserInterface}User Interface}
+\input{sections/4_implementation/user_interface/main.tex}
+\section{\label{sec::Architecture}Architecture}
+\input{sections/4_implementation/architecture/main.tex}
+\section{\label{sec::SteamVR}SteamVR}
+\input{sections/4_implementation/steam_vr/main.tex}
+\section{\label{sec::Features}Features}
+\input{sections/4_implementation/features/main.tex}
+
+\chapter{\label{chap::Evaluation}Evaluation}
+\input{sections/5_evaluation/main.tex}
+\section{\label{sec::Methology}System Usability Study}
+\input{sections/5_evaluation/methology/main.tex}
+\section{\label{sec::Results}Results}
+\input{sections/5_evaluation/results/main.tex}
+
+\chapter{\label{chap::Discussion}Discussion}
+\input{sections/6_discussion/main.tex}
+
+\chapter{\label{chap::Conclusion}Conclusion}
+\input{sections/7_conclusion/main.tex}
+
+\bibliography{ms_thesis,ms_endnote}
+\bibliographystyle{apalike}
+%\bibliographystyle{ieeetr}
+
+\end{document} 

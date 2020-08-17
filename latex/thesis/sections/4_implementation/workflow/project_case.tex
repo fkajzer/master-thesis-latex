@@ -1,0 +1,20 @@
+The project case is at the core of the workflow since it acts as the interface between the independantly developed AR- and VR-software.
+The specifics about the JSON-notation have already been agreed and decided upon in the conceptualization phase of the project, since it is critical for both of the applications to smoothly itneract. 
+
+The case info contains patient specific information which is important for the procedure as depicted in the listing above.
+These informations, aswell as the location of the patients 3d representation has to be manually registered by the user.
+Information about the steps will be automatically generated while perfoming procedures inside of the application, however the user can then later add additional information as he sees fit.
+
+The thought process behind this decision is that only medical experts themselves can know about the fine details while performing certain procedures.
+Thus it is simply necessary to manually edit them with expert knowledge.
+The automatically gernated information about the steps contains only information about which instrument was used at which step of the procedure.
+
+When a project case is saved from within the application, a copy of the current patient with all steps which were performed is made withing the root folder of the patient model.
+This way, the patients model is never lost and we can always start the procedure from scratch if desired.
+Also, the timestamp of the updated field inside of the case info will be set.
+
+When trying out the different apporaches as depicted in Setion \ref{sec::ConceptProjectCase}, we found that using this kind of approach is best suited for extensibility reasons.
+By simply adding the planned procedures as additional 3D-Data to the patient, we ensure extensibility and robustness of the software.
+New instruments and thus procedures can easily be added into the software without touching the project cases and everything will continue working as expected.
+In comparison, if we used an approach where procedures have to be defined from within the project case, project cases would have to be updated every time we want to add new instruments to the application.
+The tradeoff however, is that we can not adjust the procedures "on the fly" via text, but procedures have to be adjusted from within a 3D-modeling software or directly in the VR-application.

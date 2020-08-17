@@ -1,0 +1,35 @@
+This VR-application is in the context of a AR/VR-based surgical workflow as depicted in Figure \ref{fig::ProjectPlan}.
+OMFS-Surgeons can plan procedures with familiar surgical instruments on realistic representations of patients.
+Workflows can be imported and exported via a file in JSON-notation.
+The system uses a mixture of natural hand gestures like grabbing objects with voice commands for navigation.
+The patient can be freely scaled, rotated and moved for visualization purposes.
+Patients can be resetted to the default position on the operating desk at any time.
+
+\begin{enumerate}
+    \item Acquisition of medical imaging (CT, DCT, MRT\ldots)
+    \item Segmentation of volumetric data (DICOM) into 3D model data (STL, OBJ\ldots)
+    \item Definition of project case in JSON-notation
+    \item Import of project case
+    \item Planning procedures in the context of project case
+    \item Optional: Simulate procedure for learning and training purposes
+    \item Save project case for use in AR or share with other surgeons
+\end{enumerate}
+
+The workflow of the software is as depicted in the enumeration above.
+Import the note is that the first two steps of the workflow are kindly provided by the Oral and Maxillofacial Department of the UHA.
+Step one and two of the workflow are especially critical, as medical imaging techniques have their own advantages and disadvantages.
+Users perfoming the medical imaging acquisition have make expert decisions about which techniques to use to highlight the patient specific tissue.
+Also, while segmenting the medical imaging in step two, the decision about which tissue has which color and which tissue will be transparant has to be made.
+Specific features of the software are dependant on decision made in these two steps.
+
+\input{sections/4_implementation/workflow/project_case.tex}
+
+After setting up the project case, it can be loaded up at runtime inside of the VR-application.
+Users can then view, add and edit existing procedures or create new ones.
+If users wish to run through the planned procedure step by step, they can either navigate using the voice user interface or by enabling 'train mode' in which the user will be guided step by step through the procedure.
+Here, users will be visually guided by the outlines of a surgical instrument to know where a procedure has to be performed.
+Additionally, users will be guided via text inside of the application.
+The text which is shown will be automatically generated with information about the current surgical instrument when performing a new procedure.
+However, users are also free to edit the textual guidance manually via the JSON file in any way they see fit.
+To confirm if the current procedure is carried out in the desired manner, voice feedback will notify the user if procedures are carried out correctly or if errors are being made.
+The user can decide to save the current procedure for later use at any time of the process.

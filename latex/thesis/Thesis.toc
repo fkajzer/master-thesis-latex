@@ -1,0 +1,50 @@
+\contentsline {chapter}{\numberline {1}Introduction}{3}% 
+\contentsline {chapter}{\numberline {2}Related Work}{7}% 
+\contentsline {section}{\numberline {2.1}Medical Imaging}{7}% 
+\contentsline {subsection}{\numberline {2.1.1}Acquisition}{8}% 
+\contentsline {subsection}{\numberline {2.1.2}Display}{8}% 
+\contentsline {section}{\numberline {2.2}Virtual Reality in Medicine}{8}% 
+\contentsline {subsection}{\numberline {2.2.1}Training / Learning}{8}% 
+\contentsline {subsection}{\numberline {2.2.2}Planning}{8}% 
+\contentsline {subsection}{\numberline {2.2.3}Visualization}{8}% 
+\contentsline {section}{\numberline {2.3}Surgical Simulations}{8}% 
+\contentsline {subsection}{\numberline {2.3.1}General Applications}{8}% 
+\contentsline {subsection}{\numberline {2.3.2}Oral and Maxillofacial Application}{12}% 
+\contentsline {section}{\numberline {2.4}Discussion - Limitations}{13}% 
+\contentsline {chapter}{\numberline {3}Approach}{15}% 
+\contentsline {section}{\numberline {3.1}Requirement Analysis}{18}% 
+\contentsline {subsection}{\numberline {3.1.1}Non-functional Requirements}{18}% 
+\contentsline {subsection}{\numberline {3.1.2}Functional Requirements}{18}% 
+\contentsline {section}{\numberline {3.2}Concept}{18}% 
+\contentsline {subsection}{\numberline {3.2.1}Available Tools}{18}% 
+\contentsline {subsection}{\numberline {3.2.2}Medical Imaging Acquisition}{18}% 
+\contentsline {subsection}{\numberline {3.2.3}User Interface}{18}% 
+\contentsline {subsection}{\numberline {3.2.4}Features}{18}% 
+\contentsline {subsubsection}{\numberline {3.2.4.1}Project Case}{19}% 
+\contentsline {subsubsection}{\numberline {3.2.4.2}Procedures}{19}% 
+\contentsline {subsubsection}{\numberline {3.2.4.3}Training}{19}% 
+\contentsline {subsubsection}{\numberline {3.2.4.4}Visualization}{19}% 
+\contentsline {chapter}{\numberline {4}Implementation}{21}% 
+\contentsline {section}{\numberline {4.1}Workflow}{21}% 
+\contentsline {section}{\numberline {4.2}Interaction Flow}{23}% 
+\contentsline {section}{\numberline {4.3}User Interface}{23}% 
+\contentsline {subsection}{\numberline {4.3.1}Graphical User Interface}{24}% 
+\contentsline {subsection}{\numberline {4.3.2}Voice User Interface}{24}% 
+\contentsline {section}{\numberline {4.4}Architecture}{24}% 
+\contentsline {section}{\numberline {4.5}SteamVR}{24}% 
+\contentsline {section}{\numberline {4.6}Features}{24}% 
+\contentsline {subsection}{\numberline {4.6.1}Procedures}{24}% 
+\contentsline {subsection}{\numberline {4.6.2}Training}{24}% 
+\contentsline {subsection}{\numberline {4.6.3}Visualization}{24}% 
+\contentsline {chapter}{\numberline {5}Evaluation}{25}% 
+\contentsline {section}{\numberline {5.1}System Usability Study}{25}% 
+\contentsline {subsection}{\numberline {5.1.1}Preliminaries}{25}% 
+\contentsline {subsection}{\numberline {5.1.2}Participants}{25}% 
+\contentsline {subsection}{\numberline {5.1.3}Scenarios}{25}% 
+\contentsline {subsection}{\numberline {5.1.4}Procedure and Data Collection}{25}% 
+\contentsline {section}{\numberline {5.2}Results}{25}% 
+\contentsline {subsection}{\numberline {5.2.1}Quantative Resuluts}{26}% 
+\contentsline {subsection}{\numberline {5.2.2}Qualitative Results}{26}% 
+\contentsline {subsection}{\numberline {5.2.3}Think-aloud-protocol}{26}% 
+\contentsline {chapter}{\numberline {6}Discussion}{27}% 
+\contentsline {chapter}{\numberline {7}Conclusion}{29}% 
