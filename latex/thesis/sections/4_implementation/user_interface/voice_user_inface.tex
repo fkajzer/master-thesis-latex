@@ -3,16 +3,16 @@
     \begin{tabular}{ | l | p{4cm} | p{8cm} |}
     \hline
     Command & Action & Comment \\ \hline
-    Start & Show first step of procedure & This command also does disables the 'show all' command. \\ \hline
-    Show all & Show all steps enumerated chronologicly & Gets shut duwn via 'start' command. \newline
+    "Start" & Show first step of procedure & This command also disables the "Show all" command. \\ \hline
+    "Show all" & Show all steps enumerated chronologicly & Is disabled via "Start" command. \newline
     Disables the use of 'step next' or 'step back'. \\ \hline
-    Step next & Show next step & \\ \hline
-    Step back & Show last step & \\ \hline
-    Undo & Undo current step & Last undid step gets cached and can be redone via 'redo' command. \\ \hline
-    Redo & Redo last undid step & Only one step can be redone. \\ \hline
-    Train start & Start train mode & Start at step 1 and navigate steps by following instructions and performing procedures in the correct manner.
-    It also disables every other command except 'Train stop' \\ \hline
-    Train stop & Stop train mode & \\ \hline
+    "Step next" & Show next step of the procedure & \\ \hline
+    "Step back" & Show previous step of the procedure & \\ \hline
+    "Undo" & Reverts current step & Last undid step gets cached and can be redone via "Redo" command. \\ \hline
+    "Redo" & Redo last reverted step & Only the last reverted step can be redone. \\ \hline
+    "Train start" & Start train mode & Start at step 1 and navigate steps by following instructions and performing procedures in the correct manner.
+    It also disables every other command except "Train stop" \\ \hline
+    "Train stop" & Stop train mode & \\ \hline
     \end{tabular}
 \end{center}
 

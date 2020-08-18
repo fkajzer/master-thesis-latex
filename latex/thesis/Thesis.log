@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.11.9)  18 AUG 2020 17:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.11.9)  18 AUG 2020 21:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -343,9 +343,6 @@ LaTeX Warning: Label `fig::FeatureMetalPlate' multiply defined.
 LaTeX Warning: Label `fig::FeatureDrilling' multiply defined.
 
 
-LaTeX Warning: Label `fig::ProjectPlan' multiply defined.
-
-
 LaTeX Warning: Label `fig::UIPatient' multiply defined.
 
 )
@@ -502,17 +499,15 @@ Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line
  [3
 
 
-]) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/1_introduction/goal.tex [4]
-<images/project_plan.png, id=57, 2369.85374pt x 1147.28625pt>
-File: images/project_plan.png Graphic file (type png)
-<use images/project_plan.png>
-Package pdftex.def Info: images/project_plan.png  used on input line 18.
-(pdftex.def)             Requested size: 448.13095pt x 216.93628pt.
+]) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/1_introduction/goal.tex [4]))
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
-Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 28.
+Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 61.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
- [5 </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/project_plan.png>])) [6]
+ [5] [6
+
+
+]
 chapter 2.
 (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/2_related_work/main.tex) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/2_related_work/medical_imaging/main.tex
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <14.4> not available
@@ -526,10 +521,7 @@ File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
 Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 3.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
- [7
-
-
-] (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/2_related_work/virtual_reality_in_medicine/training_learning.tex) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/2_related_work/virtual_reality_in_medicine/planning.tex) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/2_related_work/virtual_reality_in_medicine/visualization.tex)) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/2_related_work/surgical_simulations/main.tex (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/2_related_work/surgical_simulations/general.tex [8]
+ [7] (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/2_related_work/virtual_reality_in_medicine/training_learning.tex) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/2_related_work/virtual_reality_in_medicine/planning.tex) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/2_related_work/virtual_reality_in_medicine/visualization.tex)) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/2_related_work/surgical_simulations/main.tex (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/2_related_work/surgical_simulations/general.tex [8]
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
 Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 44.
@@ -560,7 +552,7 @@ File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 117.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
  [17]) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/3_approach/requirement_analysis/main.tex (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/3_approach/requirement_analysis/non_functional.tex) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/3_approach/requirement_analysis/functional.tex)) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/3_approach/concept/main.tex (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/3_approach/concept/available_hardware.tex) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/3_approach/concept/available_software.tex) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/3_approach/concept/medical_imaging.tex) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/3_approach/concept/user_interface.tex) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/3_approach/concept/features/main.tex
-Underfull \vbox (badness 5847) has occurred while \output is active []
+Underfull \vbox (badness 1215) has occurred while \output is active []
 
  [18] (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/3_approach/concept/features/project_case.tex) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/3_approach/concept/features/procedures.tex) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/3_approach/concept/features/training.tex) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/3_approach/concept/features/visualization.tex)))
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
@@ -573,127 +565,141 @@ Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line
 ]
 chapter 4.
 (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/main.tex
-Overfull \hbox (11.54205pt too wide) in paragraph at lines 23--26
-[]\OT1/cmr/m/n/12 Architecture Kapi-tel 4 Soft-ware mit Ob-jek-t-di-a-gram-men darstellen und textlich beschreiben
+Overfull \hbox (128.48468pt too wide) in paragraph at lines 6--12
+\OT1/cmr/m/n/12 with the re-cent Valve In-dex Con-troller (Ref-erenz later: $\OML/cmm/m/it/12 https \OT1/cmr/m/n/12 : \OML/cmm/m/it/12 ==www:valvesoftware:com=en=index=controllers$\OT1/cmr/m/n/12 )
  []
 
-) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/features/main.tex (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/features/visualization/main.tex
-<images/implementation/features/visualization/segments_1.png, id=112, 615.0478pt x 388.45125pt>
-File: images/implementation/features/visualization/segments_1.png Graphic file (type png)
-<use images/implementation/features/visualization/segments_1.png>
-Package pdftex.def Info: images/implementation/features/visualization/segments_1.png  used on input line 7.
-(pdftex.def)             Requested size: 212.86151pt x 134.43665pt.
-<images/implementation/features/visualization/segments_2.png, id=113, 481.04718pt x 316.93407pt>
-File: images/implementation/features/visualization/segments_2.png Graphic file (type png)
-<use images/implementation/features/visualization/segments_2.png>
-Package pdftex.def Info: images/implementation/features/visualization/segments_2.png  used on input line 11.
-(pdftex.def)             Requested size: 212.86151pt x 140.24452pt.
+
+Overfull \hbox (115.17822pt too wide) in paragraph at lines 6--12
+\OT1/cmr/m/n/12 ble with SteamVR will work with this sys-tem. OpenVR (Ref-erenz: https://github.com/ValveSoftware/openvr),
+ []
+
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
-Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 15.
+Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 21.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
- [21]
-<images/implementation/features/visualization/ruler.png, id=117, 683.55376pt x 421.575pt>
+[21]) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/features/main.tex (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/features/visualization/main.tex
+<images/implementation/features/visualization/segments_1.png, id=113, 615.0478pt x 388.45125pt>
+File: images/implementation/features/visualization/segments_1.png Graphic file (type png)
+<use images/implementation/features/visualization/segments_1.png>
+Package pdftex.def Info: images/implementation/features/visualization/segments_1.png  used on input line 12.
+(pdftex.def)             Requested size: 212.86151pt x 134.43665pt.
+<images/implementation/features/visualization/segments_2.png, id=114, 481.04718pt x 316.93407pt>
+File: images/implementation/features/visualization/segments_2.png Graphic file (type png)
+<use images/implementation/features/visualization/segments_2.png>
+Package pdftex.def Info: images/implementation/features/visualization/segments_2.png  used on input line 16.
+(pdftex.def)             Requested size: 205.0184pt x 135.07481pt.
+
+Underfull \vbox (badness 3668) has occurred while \output is active []
+
+ [22]
+<images/implementation/features/visualization/ruler.png, id=118, 683.55376pt x 421.575pt>
 File: images/implementation/features/visualization/ruler.png Graphic file (type png)
 <use images/implementation/features/visualization/ruler.png>
-Package pdftex.def Info: images/implementation/features/visualization/ruler.png  used on input line 21.
+Package pdftex.def Info: images/implementation/features/visualization/ruler.png  used on input line 26.
 (pdftex.def)             Requested size: 448.13095pt x 276.38773pt.
  (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/features/visualization/explodeview.tex)) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/features/procedures/main.tex (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/features/procedures/drilling.tex
-<images/implementation/features/procedures/drilling.png, id=118, 387.69844pt x 381.67593pt>
+<images/implementation/features/procedures/drilling.png, id=119, 387.69844pt x 381.67593pt>
 File: images/implementation/features/procedures/drilling.png Graphic file (type png)
 <use images/implementation/features/procedures/drilling.png>
 Package pdftex.def Info: images/implementation/features/procedures/drilling.png  used on input line 3.
 (pdftex.def)             Requested size: 448.13095pt x 441.17776pt.
- [22 </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/features/visualization/segments_1.png> </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/features/visualization/segments_2.png> </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/features/visualization/ruler.png>]) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/features/procedures/chisel.tex
-<images/implementation/features/procedures/chisel.png, id=122, 435.87843pt x 408.02437pt>
+) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/features/procedures/chisel.tex
+<images/implementation/features/procedures/chisel.png, id=120, 435.87843pt x 408.02437pt>
 File: images/implementation/features/procedures/chisel.png Graphic file (type png)
 <use images/implementation/features/procedures/chisel.png>
 Package pdftex.def Info: images/implementation/features/procedures/chisel.png  used on input line 3.
 (pdftex.def)             Requested size: 448.13095pt x 419.49156pt.
 ) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/features/procedures/bonesaw.tex
-<images/implementation/features/procedures/bonesaw.png, id=123, 612.78937pt x 424.58624pt>
+<images/implementation/features/procedures/bonesaw.png, id=121, 612.78937pt x 424.58624pt>
 File: images/implementation/features/procedures/bonesaw.png Graphic file (type png)
 <use images/implementation/features/procedures/bonesaw.png>
 Package pdftex.def Info: images/implementation/features/procedures/bonesaw.png  used on input line 3.
 (pdftex.def)             Requested size: 448.13095pt x 310.49606pt.
 ) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/features/procedures/piezo.tex) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/features/procedures/metal_plate.tex
-<images/implementation/features/procedures/metal_plates_1.png, id=124, 612.78937pt x 279.29344pt>
+<images/implementation/features/procedures/metal_plates_1.png, id=122, 612.78937pt x 279.29344pt>
 File: images/implementation/features/procedures/metal_plates_1.png Graphic file (type png)
 <use images/implementation/features/procedures/metal_plates_1.png>
 Package pdftex.def Info: images/implementation/features/procedures/metal_plates_1.png  used on input line 3.
 (pdftex.def)             Requested size: 448.13095pt x 204.24475pt.
-<images/implementation/features/procedures/metal_plates_2.png, id=125, 517.935pt x 408.02437pt>
+<images/implementation/features/procedures/metal_plates_2.png, id=123, 517.935pt x 408.02437pt>
 File: images/implementation/features/procedures/metal_plates_2.png Graphic file (type png)
 <use images/implementation/features/procedures/metal_plates_2.png>
 Package pdftex.def Info: images/implementation/features/procedures/metal_plates_2.png  used on input line 11.
 (pdftex.def)             Requested size: 212.86151pt x 167.68953pt.
-<images/implementation/features/procedures/metal_plates_3.png, id=126, 545.78906pt x 350.81062pt>
+<images/implementation/features/procedures/metal_plates_3.png, id=124, 545.78906pt x 350.81062pt>
 File: images/implementation/features/procedures/metal_plates_3.png Graphic file (type png)
 <use images/implementation/features/procedures/metal_plates_3.png>
 Package pdftex.def Info: images/implementation/features/procedures/metal_plates_3.png  used on input line 15.
 (pdftex.def)             Requested size: 212.86151pt x 136.81558pt.
 ) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/features/procedures/marking.tex
-<images/implementation/features/procedures/marker.png, id=127, 629.35126pt x 429.85594pt>
+<images/implementation/features/procedures/marker.png, id=125, 629.35126pt x 429.85594pt>
 File: images/implementation/features/procedures/marker.png Graphic file (type png)
 <use images/implementation/features/procedures/marker.png>
 Package pdftex.def Info: images/implementation/features/procedures/marker.png  used on input line 3.
 (pdftex.def)             Requested size: 448.13095pt x 306.07877pt.
 )) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/features/training/main.tex (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/features/training/flow.tex) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/features/training/feedback.tex))) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/workflow/main.tex
+<images/project_plan.png, id=126, 2369.85374pt x 1147.28625pt>
 File: images/project_plan.png Graphic file (type png)
 <use images/project_plan.png>
 Package pdftex.def Info: images/project_plan.png  used on input line 3.
 (pdftex.def)             Requested size: 448.13095pt x 216.93628pt.
-
-Underfull \vbox (badness 2409) has occurred while \output is active []
-
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
-Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 5.
+Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 15.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
- [23 </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/features/procedures/drilling.png>]
+ [23 </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/features/visualization/segments_1.png> </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/features/visualization/segments_2.png>]
+<images/implementation/workflow.png, id=132, 644.1666pt x 306.9066pt>
+File: images/implementation/workflow.png Graphic file (type png)
+<use images/implementation/workflow.png>
+Package pdftex.def Info: images/implementation/workflow.png  used on input line 29.
+(pdftex.def)             Requested size: 448.13095pt x 213.50784pt.
+ [24 </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/features/visualization/ruler.png>] (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/workflow/project_case.tex
+File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
+<use rwth_vci_bild_schwarz_grau_cmyk.pdf>
+Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 4.
+(pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
+ [25 </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/features/procedures/drilling.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [24 </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/features/procedures/chisel.png>]
+ [26 </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/features/procedures/chisel.png>]
+File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
+<use rwth_vci_bild_schwarz_grau_cmyk.pdf>
+Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 12.
+(pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
+ [27 </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/features/procedures/bonesaw.png> </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/features/procedures/metal_plates_1.png>])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [28 </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/features/procedures/metal_plates_2.png> </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/features/procedures/metal_plates_3.png> </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/features/procedures/marker.png>])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
-Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 18.
+Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 86.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
- [25 </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/features/procedures/bonesaw.png> </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/features/procedures/metal_plates_1.png>]
-Underfull \vbox (badness 3690) has occurred while \output is active []
-
- [26 </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/features/procedures/metal_plates_2.png> </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/features/procedures/metal_plates_3.png> </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/features/procedures/marker.png>] (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/workflow/project_case.tex
-File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
-<use rwth_vci_bild_schwarz_grau_cmyk.pdf>
-Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 11.
-(pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
- [27])) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/interaction_flow/main.tex
-<images/implementation/interaction_flow.png, id=144, 370.38374pt x 623.32875pt>
+ [29 </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/project_plan.png> </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/workflow.png>] (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/interaction_flow/main.tex
+<images/implementation/interaction_flow.png, id=154, 370.38374pt x 623.32875pt>
 File: images/implementation/interaction_flow.png Graphic file (type png)
 <use images/implementation/interaction_flow.png>
 Package pdftex.def Info: images/implementation/interaction_flow.png  used on input line 3.
 (pdftex.def)             Requested size: 225.84457pt x 380.08731pt.
-) [28]
-Underfull \vbox (badness 6575) has occurred while \output is active []
-
-File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
-<use rwth_vci_bild_schwarz_grau_cmyk.pdf>
-Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 88.
-(pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
- [29 </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/interaction_flow.png>] (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/user_interface/main.tex (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/user_interface/graphical_user_interface.tex
-<images/implementation/user_interface/project_cases.png, id=152, 439.6425pt x 383.18156pt>
+) [30] (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/user_interface/main.tex (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/user_interface/graphical_user_interface.tex
+<images/implementation/user_interface/project_cases.png, id=158, 439.6425pt x 383.18156pt>
 File: images/implementation/user_interface/project_cases.png Graphic file (type png)
 <use images/implementation/user_interface/project_cases.png>
 Package pdftex.def Info: images/implementation/user_interface/project_cases.png  used on input line 4.
 (pdftex.def)             Requested size: 225.84457pt x 196.84079pt.
- [30 </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/user_interface/project_cases.png>]
-<images/implementation/user_interface/patient.png, id=156, 540.51938pt x 402.00188pt>
+File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
+<use rwth_vci_bild_schwarz_grau_cmyk.pdf>
+Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 16.
+(pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
+ [31 </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/interaction_flow.png>]
+<images/implementation/user_interface/patient.png, id=164, 540.51938pt x 402.00188pt>
 File: images/implementation/user_interface/patient.png Graphic file (type png)
 <use images/implementation/user_interface/patient.png>
 Package pdftex.def Info: images/implementation/user_interface/patient.png  used on input line 19.
 (pdftex.def)             Requested size: 225.84457pt x 167.9686pt.
-<images/implementation/user_interface/segments.png, id=157, 450.18187pt x 389.20406pt>
+<images/implementation/user_interface/segments.png, id=165, 450.18187pt x 389.20406pt>
 File: images/implementation/user_interface/segments.png Graphic file (type png)
 <use images/implementation/user_interface/segments.png>
 Package pdftex.def Info: images/implementation/user_interface/segments.png  used on input line 25.
@@ -704,33 +710,41 @@ Underfull \hbox (badness 1694) in paragraph at lines 7--7
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 12--12
+[]|\OT1/cmr/m/n/12 Redo last re-verted
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [32 </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/user_interface/project_cases.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
 Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 17.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
- [31 </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/user_interface/patient.png> </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/user_interface/segments.png>])) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/architecture/main.tex) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/steam_vr/main.tex) [32]
+ [33 </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/user_interface/patient.png> </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/user_interface/segments.png>])) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/architecture/main.tex) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/steam_vr/main.tex) [34]
 chapter 5.
 (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/5_evaluation/main.tex) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/5_evaluation/methology/main.tex (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/5_evaluation/methology/preliminaries.tex) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/5_evaluation/methology/participants.tex) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/5_evaluation/methology/scenarios.tex) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/5_evaluation/methology/excecution.tex)) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/5_evaluation/results/main.tex (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/5_evaluation/results/quantative.tex) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/5_evaluation/results/qualitative.tex) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/5_evaluation/results/think_aloud.tex))
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
 Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 102.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
- [33
+ [35
 
 
-] [34]
+] [36]
 chapter 6.
 (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/6_discussion/main.tex)
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
 Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 105.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
- [35
+ [37
 
 
-] [36
+] [38
 
 
 ]
@@ -740,7 +754,7 @@ File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
 Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 1.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
- [37] [38
+ [39] [40
 
 
 ]
@@ -748,29 +762,29 @@ File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
 Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 43.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
- [39] [40])
+ [41] [42])
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
 Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 112.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
- [41] (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/Thesis.aux)
+ [43] (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/Thesis.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 7514 strings out of 492616
- 144670 string characters out of 6129481
- 301800 words of memory out of 5000000
- 11061 multiletter control sequences out of 15000+600000
+ 7520 strings out of 492616
+ 144866 string characters out of 6129481
+ 301813 words of memory out of 5000000
+ 11066 multiletter control sequences out of 15000+600000
  30074 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 51i,15n,68p,9141b,648s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/Thesis.pdf (47 pages, 4176583 bytes).
+ 51i,16n,68p,9141b,648s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
+Output written on /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/Thesis.pdf (49 pages, 4236452 bytes).
 PDF statistics:
- 225 PDF objects out of 1000 (max. 8388607)
- 143 compressed objects within 2 object streams
+ 242 PDF objects out of 1000 (max. 8388607)
+ 154 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
 

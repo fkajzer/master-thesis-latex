@@ -4,6 +4,8 @@
     \caption{\label{fig::ProjectPlan} Complete VR and AR workflow for surgeons concept}
 \end{figure}
 
+"im rahmen eines größeren research projects in der MKG und VR Group"
+
 This VR-application is in the context of a AR/VR-based surgical workflow as depicted in Figure \ref{fig::ProjectPlan}.
 OMFS-Surgeons can plan procedures with familiar surgical instruments on realistic representations of patients.
 Workflows can be imported and exported via a file in JSON-notation.
@@ -22,10 +24,15 @@ Patients can be resetted to the default position on the operating desk at any ti
     \item Save project case for use in AR or share with other surgeons
 \end{enumerate}
 
-The workflow of the software is as depicted in the enumeration above.
-Important to note is that the first two steps of the workflow are not part of this thesis, as they are kindly provided by the Oral and Maxillofacial Department of the UHA.
+\begin{figure}[ht!]
+    \centering
+    \includegraphics[width=\linewidth]{images/implementation/workflow.png}
+    \caption{\label{fig::ImplementationWorkflow}Step by Step workflow of processing project cases in VR}
+\end{figure}
+
+The workflow of the software is depicted in Figure \ref{fig::ImplementationWorkflow}.
+Important to note is that the first two steps of the workflow are not part of this thesis, as they are provided in the scope of a previous research project by the department of oral and maxillofacial surgery in the university hospital of the RWTH Aachen and the VR Group of RWTH Aachen University.
 Step one and two of the workflow are especially critical, as medical imaging techniques have their own advantages and disadvantages.
-Users performing the medical imaging acquisition have make expert decisions about which techniques to use to highlight the patient specific tissue.
 Also, while segmenting the medical imaging in step two, the decision about which tissue has which color and which tissue will be transparant is made.
 Specific features of the software are dependant on decisions made in these two steps.
 

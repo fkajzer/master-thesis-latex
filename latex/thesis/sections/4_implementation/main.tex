@@ -1,26 +1,58 @@
 After the thorough requirement analysis in Section \ref{sec::RequirementAnalysis} on which a concept for the software was derived in \ref{sec::Concept}, 
-we can now discuss the implementation of the system components.
-We will start with the work- and interaction flow of the system.
-Afterwards, we will shortly discuss architectural components as well as utilities provided by SteamVR.
+the discussion will now focus the implementation of the system components, starting with with the work- and interaction flow of the system.
 Later, available commands and the concrete implementation details of surgical procedures and visualization tools will be discussed.
+Lastly, architectural components as well as utilities provided by SteamVR will be shortly described.
 
-1.) Functionality
-FEATURES
-Visualization
-Procedures
-Training
-1.1) What can this software do? (Features -> siehe Chapter Approach)
-1.2) How was this implemented? (Technisch)
+As this thesis aims to offer an open-source framework for VR surgery, the most obvious choice for hardware was used.
+A combination of commercially available HMDs and open source software is used to develop an easily accessible framework.
+For this thesis, the VR HMD HTC Vive (Referenz later: $https://en.wikipedia.org/wiki/HTC_Vive$) together with the recent Valve Index Controller (Referenz later: $https://www.valvesoftware.com/en/index/controllers$) were used.
+However, any commercially available headset and controller which is compatible with SteamVR will work with this system.
+OpenVR (Referenz: https://github.com/ValveSoftware/openvr), the from Steam developed open-source Framework for VR development abstracts the HMD and specifics of controllers for the end user.
+This way, even though we used a specific HMD and controller configuration for this thesis, any HMD and controller will work.
 
-2.) Workflow
+The VR software was developed using Unity3D, which is easy to learn and broadly accepted by the community (Referenz aus dem internet).
+Inside of Unity, the OpenVR Toolkit provided by Steam and the included Teleportation system was used.
+Additionally, SteamVRs interaction toolkit allows for natural hand interaction.
+A realistic, and in the case of the Valve Index Controller real-time finger tracked representation of the users hands is projected into the VR.
+It follows, that a natural interaction system where moving your hands to interact with the environment has been implemented.
+Users interact with surgical instruments and the environment via their virtual hands.
+A bare minimum of buttons was used to perform the procedures.
+Solely the Graphical User Interface (GUI) and the execution of procedures is performed by pressing their respective button.
+
+The virtual operating room has been designed with a simplistic photogrammatry approach.
+A real operation room from UHA has been captured using a 360 degree camera, the samsung gear 360, and converted into a 3D model via Walkabout Worlds (Referenz später: https://www.walkaboutworlds.com/).
+For reference, the operating room 10 from UHA Aachen has been caputured and modeled after in VR.
+The operating room was emptied out as much as possible and filled with 3D object from open assets in Unity.
+The surgical instruments were scanned via medical imaging acquisition and postprocessed in Blender3D before importing them into Unity3D.
+User navigate through the software via a combination of natural gestures, Graphical- and Voice-User-Interface as will be discussed extensively in the following Section \ref{sec::UserInterface}.
+
+2.) Userinterface / Voiceinterface
+    2.1.) Gesture control?
+    2.2.) Graphical
+    2.3.) Voice
+        3) Dass die Software über Menüs gesteuert wird
+        Alle Menüs menüs besprechen
+        4) Dass die Software über befehle gesteuert werden kann
+        Alle Befehle die es gibt
+4.) Features
+5.) Interaction 
+6.) Workflow
+
+
 JSON UML Foto
-3.) User Interface
-3.1) Graphical
-JEDES menü 1 FOTO
-3.1) Voice
-Tabelle mit allen Befehlen + beschreibung was wie wo
-
 Architecture Kapitel 4
 Software mit Objektdiagrammen darstellen und textlich beschreiben
  SteamVR -> Architecture
+
+ bei der einleitung anfangen und erklären das es ein problem gibt
+
+ related work, irgendwelche leute haben irgendwas gelöst
+
+ dann warum man die master arbeit macht
+
+ in implementation
+    approach
+        welche tools?
+
+
 

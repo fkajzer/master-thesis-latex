@@ -201,10 +201,6 @@ INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/helvetic/phvr8r.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/helvetic/phvr8r.tfm
 INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/1_introduction/goal.tex
 INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/1_introduction/goal.tex
-INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/project_plan.png
-INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/project_plan.png
-INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/project_plan.png
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/rwth_vci_bild_schwarz_grau_cmyk.pdf
 INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/rwth_vci_bild_schwarz_grau_cmyk.pdf
 INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/2_related_work/main.tex
@@ -278,6 +274,8 @@ INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/rwth_vci_bild_schwa
 INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/rwth_vci_bild_schwarz_grau_cmyk.pdf
 INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/main.tex
 INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/main.tex
+INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/rwth_vci_bild_schwarz_grau_cmyk.pdf
+INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/rwth_vci_bild_schwarz_grau_cmyk.pdf
 INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/features/main.tex
 INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/features/main.tex
 INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/features/visualization/main.tex
@@ -288,8 +286,7 @@ INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementati
 INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/features/visualization/segments_2.png
 INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/features/visualization/segments_2.png
 INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/features/visualization/segments_2.png
-INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/rwth_vci_bild_schwarz_grau_cmyk.pdf
-INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/rwth_vci_bild_schwarz_grau_cmyk.pdf
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/features/visualization/ruler.png
 INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/features/visualization/ruler.png
 INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/features/visualization/ruler.png
@@ -340,12 +337,18 @@ INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implemen
 INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/workflow/main.tex
 INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/project_plan.png
 INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/project_plan.png
+INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/project_plan.png
 INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/rwth_vci_bild_schwarz_grau_cmyk.pdf
 INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/rwth_vci_bild_schwarz_grau_cmyk.pdf
-INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/rwth_vci_bild_schwarz_grau_cmyk.pdf
-INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/rwth_vci_bild_schwarz_grau_cmyk.pdf
+INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/workflow.png
+INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/workflow.png
+INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/workflow.png
 INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/workflow/project_case.tex
 INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/workflow/project_case.tex
+INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/rwth_vci_bild_schwarz_grau_cmyk.pdf
+INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/rwth_vci_bild_schwarz_grau_cmyk.pdf
+INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/rwth_vci_bild_schwarz_grau_cmyk.pdf
+INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/rwth_vci_bild_schwarz_grau_cmyk.pdf
 INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/rwth_vci_bild_schwarz_grau_cmyk.pdf
 INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/rwth_vci_bild_schwarz_grau_cmyk.pdf
 INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/interaction_flow/main.tex
@@ -353,8 +356,6 @@ INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implemen
 INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/interaction_flow.png
 INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/interaction_flow.png
 INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/interaction_flow.png
-INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/rwth_vci_bild_schwarz_grau_cmyk.pdf
-INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/rwth_vci_bild_schwarz_grau_cmyk.pdf
 INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/user_interface/main.tex
 INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/user_interface/main.tex
 INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/user_interface/graphical_user_interface.tex
@@ -362,6 +363,8 @@ INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implemen
 INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/user_interface/project_cases.png
 INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/user_interface/project_cases.png
 INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/user_interface/project_cases.png
+INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/rwth_vci_bild_schwarz_grau_cmyk.pdf
+INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/rwth_vci_bild_schwarz_grau_cmyk.pdf
 INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/user_interface/patient.png
 INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/user_interface/patient.png
 INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/user_interface/patient.png
@@ -419,6 +422,8 @@ INPUT /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/Thesis.aux
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb
