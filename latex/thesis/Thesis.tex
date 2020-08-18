@@ -30,6 +30,13 @@
 \widowpenalty = 10000
 %\displaywidowpenalty = 10000
 
+%Generate the environment for the abstract:
+\newcommand\summaryname{Abstract}
+\newenvironment{Abstract}%
+    {\small\begin{center}%
+    \bfseries{\summaryname} \end{center}}
+\maketitle
+
 \begin{document}
 
 \maketitle
@@ -39,10 +46,16 @@
 % generates the statement (Erkl�rung) page for master thesis and Diplomarbeit
 \makestatement
 
+% Insert bastract
+\begin{Abstract}
+    \input{sections/abstract.tex}
+\end{Abstract}
+
 % generates the table of contents (Inhaltsverzeichnis)
 \tableofcontents
 
 \chapter{\label{chap::Introduction}Introduction}
+TODO: Jeden Absatz zitieren
 \input{sections/1_introduction/main.tex}
 
 \chapter{\label{chap::RelatedWork}Related Work}
@@ -66,6 +79,8 @@
 
 \chapter{\label{chap::Implementation}Implementation}
 \input{sections/4_implementation/main.tex}
+\section{\label{sec::Features}Features}
+\input{sections/4_implementation/features/main.tex}
 \section{\label{sec::Workflow}Workflow}
 \input{sections/4_implementation/workflow/main.tex}
 \section{\label{sec::InteractionFlow}Interaction Flow}
@@ -76,8 +91,6 @@
 \input{sections/4_implementation/architecture/main.tex}
 \section{\label{sec::SteamVR}SteamVR}
 \input{sections/4_implementation/steam_vr/main.tex}
-\section{\label{sec::Features}Features}
-\input{sections/4_implementation/features/main.tex}
 
 \chapter{\label{chap::Evaluation}Evaluation}
 \input{sections/5_evaluation/main.tex}
@@ -93,7 +106,7 @@
 \input{sections/7_conclusion/main.tex}
 
 \bibliography{ms_thesis,ms_endnote}
-\bibliographystyle{apalike}
-%\bibliographystyle{ieeetr}
+%\bibliographystyle{apalike}
+\bibliographystyle{ieeetr}
 
 \end{document} 

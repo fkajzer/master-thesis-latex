@@ -1,116 +1,102 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{10}
 
-\bibitem[Banks et~al., 2007]{RN63}
-Banks, E.~H., Chudnoff, S., Karmin, I., Wang, C., and Pardanani, S. (2007).
-\newblock Does a surgical simulator improve resident operative performance of
-  laparoscopic tubal ligation?
-\newblock {\em American journal of obstetrics and gynecology}, 197(5):541--e1.
+\bibitem{RN65}
+L.~Testaverde, A.~Perrone, L.~Caporali, A.~Ermini, L.~Izzo, I.~D'Angeli,
+  L.~Impara, D.~Mazza, P.~Izzo, and M.~Marini, ``Ct and mr findings in synovial
+  chondromatosis of the temporo-mandibular joint: our experience and review of
+  literature,'' {\em Eur J Radiol}, vol.~78, no.~3, pp.~414--8, 2011.
 
-\bibitem[Camp, 2018]{RN59}
-Camp, C.~L. (2018).
-\newblock Editorial commentary: "virtual reality" simulation in orthopaedic
-  surgery: Realistically helpful, or virtually useless?
-\newblock {\em Arthroscopy}, 34(5):1678--1679.
-
-\bibitem[Gallagher et~al., 2005]{RN60}
-Gallagher, A.~G., Ritter, E.~M., Champion, H., Higgins, G., Fried, M.~P.,
-  Moses, G., Smith, C.~D., and Satava, R.~M. (2005).
-\newblock Virtual reality simulation for the operating room: proficiency-based
-  training as a paradigm shift in surgical skills training.
-\newblock {\em Ann Surg}, 241(2):364--72.
-
-\bibitem[Grantcharov et~al., 2004]{RN62}
-Grantcharov, T.~P., Kristiansen, V.~B., Bendix, J., Bardram, L., Rosenberg, J.,
-  and Funch-Jensen, P. (2004).
-\newblock Randomized clinical trial of virtual reality simulation for
-  laparoscopic skills training.
-\newblock {\em Br J Surg}, 91(2):146--50.
-
-\bibitem[Knott et~al., 2010]{RN69}
-Knott, T., Ullrich, S., Grottke, O., Fries, T.-P., Gerressen, M., Deserno,
-  T.~M., Rossaint, R., and Kuhlen, T.~W. (2010).
-\newblock Medical training simulators for bilateral sagittal split osteotomy
-  and regional aneasthesia in virtual environments.
-\newblock {\em CURAC}, pages 137--140.
-
-\bibitem[Larsen et~al., 2009]{RN61}
-Larsen, C.~R., Soerensen, J.~L., Grantcharov, T.~P., Dalsgaard, T.,
-  Schouenborg, L., Ottosen, C., Schroeder, T.~V., and Ottesen, B.~S. (2009).
-\newblock Effect of virtual reality training on laparoscopic surgery:
-  randomised controlled trial.
-\newblock {\em BMJ}, 338:b1802.
-
-\bibitem[Meara et~al., 2015]{RN68}
-Meara, J.~G., Leather, A. J.~M., Hagander, L., Alkire, B.~C., Alonso, N., Ameh,
-  E.~A., Bickler, S.~W., Conteh, L., Dare, A.~J., Davies, J., Mérisier, E.~D.,
-  El-Halabi, S., Farmer, P.~E., Gawande, A., Gillies, R., Greenberg, S. L.~M.,
-  Grimes, C.~E., Gruen, R.~L., Ismail, E.~A., Kamara, T.~B., Lavy, C., Lundeg,
-  G., Mkandawire, N.~C., Raykar, N.~P., Riesel, J.~N., Rodas, E., Rose, J.,
-  Roy, N., Shrime, M.~G., Sullivan, R., Verguet, S., Watters, D., Weiser,
-  T.~G., Wilson, I.~H., Yamey, G., and Yip, W. (2015).
-\newblock Global surgery 2030: evidence and solutions for achieving health,
-  welfare, and economic development.
-\newblock {\em The Lancet}, 386(9993):569--624.
-
-\bibitem[Mostafa et~al., 2017]{RN71}
-Mostafa, A.~E., Ryu, W. H.~A., Chan, S., Takashima, K., Kopp, G., Costa~Sousa,
-  M., and Sharlin, E. (2017).
-\newblock Designing neurosimvr: a stereoscopic virtual reality spine surgery
-  simulator.
-\newblock Report, Science.
-
-\bibitem[Parham et~al., 2019]{RN52}
-Parham, G., Bing, E.~G., Cuevas, A., Fisher, B., Skinner, J., Mwanahamuntu, M.,
-  and Sullivan, R. (2019).
-\newblock Creating a low-cost virtual reality surgical simulation to increase
-  surgical oncology capacity and capability.
-\newblock {\em Ecancermedicalscience}, 13:910.
-
-\bibitem[Pulijala et~al., 2017]{RN6}
-Pulijala, Y., Ma, M., and Ayoub, A. (2017).
-\newblock {\em VR Surgery: Interactive Virtual Reality Application for Training
-  Oral and Maxillofacial Surgeons using Oculus Rift and Leap Motion}, book
-  section Chapter 8, pages 187--202.
-
-\bibitem[Seymour et~al., 2002]{RN64}
-Seymour, N.~E., Gallagher, A.~G., Roman, S.~A., O’brien, M.~K., Bansal,
-  V.~K., Andersen, D.~K., and Satava, R.~M. (2002).
-\newblock Virtual reality training improves operating room performance: results
-  of a randomized, double-blinded study.
-\newblock {\em Annals of surgery}, 236(4):458.
-
-\bibitem[Swennen et~al., 2009]{swennen2009three}
-Swennen, G.~R., Mollemans, W., and Schutyser, F. (2009).
-\newblock Three-dimensional treatment planning of orthognathic surgery in the
-  era of virtual imaging.
-\newblock {\em Journal of oral and maxillofacial surgery}, 67(10):2080--2092.
-
-\bibitem[Testaverde et~al., 2011]{RN65}
-Testaverde, L., Perrone, A., Caporali, L., Ermini, A., Izzo, L., D'Angeli, I.,
-  Impara, L., Mazza, D., Izzo, P., and Marini, M. (2011).
-\newblock Ct and mr findings in synovial chondromatosis of the
-  temporo-mandibular joint: our experience and review of literature.
-\newblock {\em Eur J Radiol}, 78(3):414--8.
-
-\bibitem[Ullrich et~al., 2009]{RN72}
-Ullrich, S., Grottke, O., Fried, E., Frommen, T., Liao, W., Rossaint, R.,
-  Kuhlen, T., and Deserno, T.~M. (2009).
-\newblock An intersubject variable regional anesthesia simulator with a virtual
-  patient architecture.
-\newblock {\em Int J Comput Assist Radiol Surg}, 4(6):561--70.
-
-\bibitem[Ullrich et~al., 2010]{RN70}
-Ullrich, S., Grottke, O., Rossaint, R., Staat, M., Deserno, T.~M., and Kuhlen,
-  T. (2010).
-\newblock Virtual needle simulation with haptics for regional anaesthesia.
-\newblock {\em Proceedings of the IEEE Virtual Reality Workshop on Medical
-  Virtual Envirnoments}, 2.
-
-\bibitem[White and Pharoah, 2008]{WHITE2008689}
-White, S.~C. and Pharoah, M.~J. (2008).
-\newblock The evolution and application of dental maxillofacial imaging
-  modalities.
-\newblock {\em Dental Clinics of North America}, 52(4):689 -- 705.
+\bibitem{WHITE2008689}
+S.~C. White and M.~J. Pharoah, ``The evolution and application of dental
+  maxillofacial imaging modalities,'' {\em Dental Clinics of North America},
+  vol.~52, no.~4, pp.~689 -- 705, 2008.
 \newblock Contemporary Dental and Maxillofacial Imaging.
+
+\bibitem{swennen2009three}
+G.~R. Swennen, W.~Mollemans, and F.~Schutyser, ``Three-dimensional treatment
+  planning of orthognathic surgery in the era of virtual imaging,'' {\em
+  Journal of oral and maxillofacial surgery}, vol.~67, no.~10, pp.~2080--2092,
+  2009.
+
+\bibitem{RN52}
+G.~Parham, E.~G. Bing, A.~Cuevas, B.~Fisher, J.~Skinner, M.~Mwanahamuntu, and
+  R.~Sullivan, ``Creating a low-cost virtual reality surgical simulation to
+  increase surgical oncology capacity and capability,'' {\em
+  Ecancermedicalscience}, vol.~13, p.~910, 2019.
+
+\bibitem{RN59}
+C.~L. Camp, ``Editorial commentary: "virtual reality" simulation in orthopaedic
+  surgery: Realistically helpful, or virtually useless?,'' {\em Arthroscopy},
+  vol.~34, no.~5, pp.~1678--1679, 2018.
+
+\bibitem{RN60}
+A.~G. Gallagher, E.~M. Ritter, H.~Champion, G.~Higgins, M.~P. Fried, G.~Moses,
+  C.~D. Smith, and R.~M. Satava, ``Virtual reality simulation for the operating
+  room: proficiency-based training as a paradigm shift in surgical skills
+  training,'' {\em Ann Surg}, vol.~241, no.~2, pp.~364--72, 2005.
+
+\bibitem{RN61}
+C.~R. Larsen, J.~L. Soerensen, T.~P. Grantcharov, T.~Dalsgaard, L.~Schouenborg,
+  C.~Ottosen, T.~V. Schroeder, and B.~S. Ottesen, ``Effect of virtual reality
+  training on laparoscopic surgery: randomised controlled trial,'' {\em BMJ},
+  vol.~338, p.~b1802, 2009.
+
+\bibitem{RN62}
+T.~P. Grantcharov, V.~B. Kristiansen, J.~Bendix, L.~Bardram, J.~Rosenberg, and
+  P.~Funch-Jensen, ``Randomized clinical trial of virtual reality simulation
+  for laparoscopic skills training,'' {\em Br J Surg}, vol.~91, no.~2,
+  pp.~146--50, 2004.
+
+\bibitem{RN63}
+E.~H. Banks, S.~Chudnoff, I.~Karmin, C.~Wang, and S.~Pardanani, ``Does a
+  surgical simulator improve resident operative performance of laparoscopic
+  tubal ligation?,'' {\em American journal of obstetrics and gynecology},
+  vol.~197, no.~5, pp.~541--e1, 2007.
+
+\bibitem{RN64}
+N.~E. Seymour, A.~G. Gallagher, S.~A. Roman, M.~K. O’brien, V.~K. Bansal,
+  D.~K. Andersen, and R.~M. Satava, ``Virtual reality training improves
+  operating room performance: results of a randomized, double-blinded study,''
+  {\em Annals of surgery}, vol.~236, no.~4, p.~458, 2002.
+
+\bibitem{RN70}
+S.~Ullrich, O.~Grottke, R.~Rossaint, M.~Staat, T.~M. Deserno, and T.~Kuhlen,
+  ``Virtual needle simulation with haptics for regional anaesthesia,'' {\em
+  Proceedings of the IEEE Virtual Reality Workshop on Medical Virtual
+  Envirnoments}, vol.~2, 2010.
+
+\bibitem{RN72}
+S.~Ullrich, O.~Grottke, E.~Fried, T.~Frommen, W.~Liao, R.~Rossaint, T.~Kuhlen,
+  and T.~M. Deserno, ``An intersubject variable regional anesthesia simulator
+  with a virtual patient architecture,'' {\em Int J Comput Assist Radiol Surg},
+  vol.~4, no.~6, pp.~561--70, 2009.
+
+\bibitem{RN69}
+T.~Knott, S.~Ullrich, O.~Grottke, T.-P. Fries, M.~Gerressen, T.~M. Deserno,
+  R.~Rossaint, and T.~W. Kuhlen, ``Medical training simulators for bilateral
+  sagittal split osteotomy and regional aneasthesia in virtual environments.,''
+  {\em CURAC}, pp.~137--140, 2010.
+
+\bibitem{RN71}
+A.~E. Mostafa, W.~H.~A. Ryu, S.~Chan, K.~Takashima, G.~Kopp, M.~Costa~Sousa,
+  and E.~Sharlin, ``Designing neurosimvr: a stereoscopic virtual reality spine
+  surgery simulator,'' report, Science, 2017.
+
+\bibitem{RN6}
+Y.~Pulijala, M.~Ma, and A.~Ayoub, {\em VR Surgery: Interactive Virtual Reality
+  Application for Training Oral and Maxillofacial Surgeons using Oculus Rift
+  and Leap Motion}, book section Chapter 8, pp.~187--202.
+\newblock 2017.
+
+\bibitem{RN68}
+J.~G. Meara, A.~J.~M. Leather, L.~Hagander, B.~C. Alkire, N.~Alonso, E.~A.
+  Ameh, S.~W. Bickler, L.~Conteh, A.~J. Dare, J.~Davies, E.~D. Mérisier,
+  S.~El-Halabi, P.~E. Farmer, A.~Gawande, R.~Gillies, S.~L.~M. Greenberg, C.~E.
+  Grimes, R.~L. Gruen, E.~A. Ismail, T.~B. Kamara, C.~Lavy, G.~Lundeg, N.~C.
+  Mkandawire, N.~P. Raykar, J.~N. Riesel, E.~Rodas, J.~Rose, N.~Roy, M.~G.
+  Shrime, R.~Sullivan, S.~Verguet, D.~Watters, T.~G. Weiser, I.~H. Wilson,
+  G.~Yamey, and W.~Yip, ``Global surgery 2030: evidence and solutions for
+  achieving health, welfare, and economic development,'' {\em The Lancet},
+  vol.~386, no.~9993, pp.~569--624, 2015.
 
 \end{thebibliography}
