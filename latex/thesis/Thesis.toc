@@ -26,25 +26,25 @@
 \contentsline {subsubsection}{\numberline {3.2.4.4}Visualization}{19}% 
 \contentsline {chapter}{\numberline {4}Implementation}{21}% 
 \contentsline {section}{\numberline {4.1}Features}{21}% 
-\contentsline {subsection}{\numberline {4.1.1}Procedures}{22}% 
-\contentsline {subsection}{\numberline {4.1.2}Training}{22}% 
-\contentsline {subsection}{\numberline {4.1.3}Visualization}{23}% 
-\contentsline {section}{\numberline {4.2}Workflow}{23}% 
-\contentsline {section}{\numberline {4.3}Interaction Flow}{29}% 
-\contentsline {section}{\numberline {4.4}User Interface}{31}% 
-\contentsline {subsection}{\numberline {4.4.1}Graphical User Interface}{31}% 
-\contentsline {subsection}{\numberline {4.4.2}Voice User Interface}{33}% 
-\contentsline {section}{\numberline {4.5}Architecture}{33}% 
-\contentsline {section}{\numberline {4.6}SteamVR}{33}% 
-\contentsline {chapter}{\numberline {5}Evaluation}{35}% 
-\contentsline {section}{\numberline {5.1}System Usability Study}{35}% 
-\contentsline {subsection}{\numberline {5.1.1}Preliminaries}{35}% 
-\contentsline {subsection}{\numberline {5.1.2}Participants}{35}% 
-\contentsline {subsection}{\numberline {5.1.3}Scenarios}{35}% 
-\contentsline {subsection}{\numberline {5.1.4}Procedure and Data Collection}{35}% 
-\contentsline {section}{\numberline {5.2}Results}{35}% 
-\contentsline {subsection}{\numberline {5.2.1}Quantative Resuluts}{36}% 
-\contentsline {subsection}{\numberline {5.2.2}Qualitative Results}{36}% 
-\contentsline {subsection}{\numberline {5.2.3}Think-aloud-protocol}{36}% 
-\contentsline {chapter}{\numberline {6}Discussion}{37}% 
-\contentsline {chapter}{\numberline {7}Conclusion}{39}% 
+\contentsline {subsection}{\numberline {4.1.1}Visualization}{22}% 
+\contentsline {subsection}{\numberline {4.1.2}Procedures}{23}% 
+\contentsline {subsection}{\numberline {4.1.3}Training}{23}% 
+\contentsline {section}{\numberline {4.2}Workflow}{24}% 
+\contentsline {section}{\numberline {4.3}Interaction Flow}{28}% 
+\contentsline {section}{\numberline {4.4}User Interface}{30}% 
+\contentsline {subsection}{\numberline {4.4.1}Graphical User Interface}{30}% 
+\contentsline {subsection}{\numberline {4.4.2}Voice User Interface}{32}% 
+\contentsline {section}{\numberline {4.5}Architecture}{32}% 
+\contentsline {section}{\numberline {4.6}SteamVR}{32}% 
+\contentsline {chapter}{\numberline {5}Evaluation}{33}% 
+\contentsline {section}{\numberline {5.1}System Usability Study}{33}% 
+\contentsline {subsection}{\numberline {5.1.1}Preliminaries}{33}% 
+\contentsline {subsection}{\numberline {5.1.2}Participants}{33}% 
+\contentsline {subsection}{\numberline {5.1.3}Scenarios}{33}% 
+\contentsline {subsection}{\numberline {5.1.4}Procedure and Data Collection}{33}% 
+\contentsline {section}{\numberline {5.2}Results}{33}% 
+\contentsline {subsection}{\numberline {5.2.1}Quantative Resuluts}{34}% 
+\contentsline {subsection}{\numberline {5.2.2}Qualitative Results}{34}% 
+\contentsline {subsection}{\numberline {5.2.3}Think-aloud-protocol}{34}% 
+\contentsline {chapter}{\numberline {6}Discussion}{35}% 
+\contentsline {chapter}{\numberline {7}Conclusion}{37}% 
