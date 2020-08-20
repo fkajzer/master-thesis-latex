@@ -20,6 +20,19 @@ Additionally, by selecting specific shaders, the user can decide whether segment
 
 In Figure \ref{fig::Segmentation}, the process of activating and deactivating specific segments is described.
 Users can also decide to adjust the transparency of segments as desired.
+Additionally, the whole virtual patient can be scaled and up and down via their respective button.
+Also, the user can reset the scale, position and rotation of the patients 3D model at any time to their defaults.
+
+\begin{figure}[ht!]
+  \centering
+  \includegraphics[width=\linewidth]{images/implementation/features/visualization/project_copy.png}
+  \caption{\label{fig::ProjectCopy} Project a Copy of the Initial Patient for Comparison}
+\end{figure}
+
+Additionally, the user can at any time spawn a copy of the default patient, without any procedure steps, for comparison (Figure \ref{fig::ProjectCopy}).
+
+The main model of the patient can also be exploded as depicted in Figure \ref{fig::Segmentation}.
+Here, segments are exploded in a circular to allow for a closer look at each individual segment of the patient.
 
 \begin{figure}[ht!]
     \centering
@@ -27,4 +40,5 @@ Users can also decide to adjust the transparency of segments as desired.
     \caption{\label{fig::FeatureRuler} Ruler for Checking distances}
 \end{figure}
 
-\input{sections/4_implementation/features/visualization/explodeview.tex}
+In the virtual operating room, a ruler can be used to measure distances, but more importantly relative distances in the patients morphology.
+The ruler can simply be picked up via a grab gesture and used in the same way a surgeon uses it in the medical field.

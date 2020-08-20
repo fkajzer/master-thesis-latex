@@ -1,7 +1,13 @@
 The project case is at the core of the workflow since it acts as the interface between the AR- and VR-components of the workflow.
-The specifics about the JSON-notation have already been agreed and decided upon in the conceptualization phase of the project, since it is critical for a smooth interaction between AR and VR. 
 
-The case info contains patient specific information which may be important for the procedure as depicted in the listing above.
+\begin{figure}[ht!]
+    \centering
+    \includegraphics[width=\linewidth]{images/implementation/project_case.png}
+    \caption{\label{fig::ImplementationProjectCase}Structure of a Project Case}
+\end{figure}
+
+The specifics about the JSON-notation have already been agreed and decided upon in the conceptualization phase of the project, since it is critical for a smooth interaction between AR and VR (Figure \ref{fig::ImplementationProjectCase}). 
+The case info contains patient specific information which may be important for the procedure.
 These informations, aswell as the location of the patients 3D data on the hard drive has to be manually input by the user.
 Information about the steps will be automatically generated while perfoming procedures inside of the application, however the user can then later add additional information as he sees fit.
 The automatically generated information about the steps only contains information about which instrument was used at which step of the procedure.

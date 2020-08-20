@@ -1,3 +1,18 @@
+To perform procedures, a project case has to be loaded first.
+Each procedure will add a step to the project case.
+For each procedure, there is an 'indicate' action when the user touches the trigger button, as well as an 'perform' action when the user presses the button.
+This way, the user can touch the trigger button when he is about to perform a procedure and has visual feedback of when and where the procedure will start (i.e. tip of the surgical instrument).
+Each time a procedure is performed, the user gets voice feedback that a step has been added.
+The user can also navigate the steps by using voice commands, so that navigation thorugh the steps of the whole procedure can be done while holding surgical instruments.
+At this point, six procedures are implemented in the system.
+However, as described in Section \ref{sec::Architecture}, the system is extensible in the regard that new instruments can be implemented.
+Currently, the implemented instruments are based on the workflow of OMF surgeons of the UHA: Users can perform drilling, hammer and chisel, bonesaw and milling operations.
+Additionally, users can place markings and osteosynthesis plates on the virtual patient.
+For some of the surgical instruments implemented, the user representation of the hand will be shown, for other not.
+When a surgical instrument has this feature implemented, it is guaranteed that the instrument will always be grabbed and positioned as planned.
+When this feature is missing, the user will not see his virtual hands on the surgical instrument, but can chose to hold it however he wants.
+The decision, on which was decided if a surgical instrument should have this feature implemented, was made by a trial and error approach in which was investigated whether this feature was helpful or frustrating.
+
 \input{sections/4_implementation/features/procedures/drilling.tex}
 \input{sections/4_implementation/features/procedures/chisel.tex}
 \input{sections/4_implementation/features/procedures/bonesaw.tex}

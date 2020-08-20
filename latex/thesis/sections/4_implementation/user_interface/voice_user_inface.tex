@@ -16,4 +16,18 @@
     \end{tabular}
 \end{center}
 
-Table \ref{table::VoiceCommands} shows all Voice Commands.
+The voice commands have been implemented in the context of users having surgical instruments in their hands \ref{table::VoiceCommands}.
+While performing procedures, the user can most importantly directly undo current actions.
+This way, a natural flow of working on the procedures is guaranteed.
+The voice user interface is strongly adapted to the AR and VR workflow, meaning the registrated commands and their functions are the same, even though the implementation might differ.
+For the VR part, undo, redo and train start and train stop is unique since they are not part of the workflow but rather special to the VR application.
+With the start command, the procedure is started in planning mode and the first procedure is shown.
+This is only relevant if a previously edited case is being loaded, since new cases will not have any procedure steps in the project case.
+By saying show all, an enumerated overview over all steps will be shown. This overview is by saying start once again to resume planning the procedure.
+By using the step next and step back commands, users can navigate through the procedure and trace the chronological procedure sequence.
+At any point of the planned procedure, users can use the undo command to remove the currently shown step from the procedure.
+Additonally, the last undid step will be saved if a user decides that the deletion of the step was an error.
+Undid steps can be redone via the "redo" command.
+Important to note is that only the last undid step can be redone at the moment.
+Via Train start, train mode as described in detail in Section \ref{sec::ImplementationTraining} will start.
+Train mode is disabled either by finishing the whole procedure in train mode, or by revoking the "train stop" command to end it prematurely.

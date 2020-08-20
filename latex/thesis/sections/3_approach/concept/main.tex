@@ -1,11 +1,57 @@
-foo bar
+The first step in realizing these requirements is to develop a software architecture with an interface to the AR application in mind.
+Since this is a bi-directional data exchange which does not need to be real time, one obvious approach would be to use a simple object notation language such as JSON.
+A humanly readable format will be used so that operation plans can even be constructed without the need of an HMD.
+Different options will be explored and decided upon in the beginning phase of the thesis.
+
+After deciding on a software architecture, the next step is to create a virtual operating room and first surgical instruments.
+The operation room will be designed after real operation rooms inside of the UHA.
+A photogrammetry approach will be evaluated in the hope to give the most realistic experience as possible for OMF surgeons.
+Virtual objects will be combined with a scan of the real world to give an interactive and immersive experience.
+After the operating room, the focus will be on developing a traversing mechanism which allows for free exploration of the operating room.
+Since operating rooms are not too large in general, it should be possible to traverse them in room-scale VR.
+However, a teleport function will be added for convenience.
+The surgical instruments will either be created in a 3D modelling software or exported in a similar way to how we obtain the segmented patient models from medical imaging.
+The full functionality of the instruments will be developed in a later stage, since we will first work on the more important planning tools.
+
+The planning tools will be the most critical part of the thesis, since they have to behave as expected.
+There will be a mix of planning tools which are represented by virtual surgical instruments and basic features which will be mostly visualisation assistance.
+At this stage, it will be crucial that the user inteface (UI) is as intuitive as possible and does not distract in any way.
+Improving the UI however will be a continious effort throughout the thesis, and will hopefully become as intuitive and assisting as possible.
+
+Each of the surgical instruments will have its own planning operations which can be recorded and saved.
+Since at this stage, the architecture and format will already be decided, there should not be too much to worry about when implementing this feature.
+
+After the implementation section, an expert review by working surgeons will be presented to evaluate the usability and percieved realism of the tool.
+Additionally, a small questionnaire and think-aloud-protocol of the participants will be used after surgery to determine if the new tool is preferred over conventional methods.
+
 
 \subsection{\label{sec::ApproachAvailableTools}Available Tools}
-\input{sections/3_approach/concept/available_hardware.tex}
-\input{sections/3_approach/concept/available_software.tex}
+
+Hier könnte zb stehen, was es für tools gibt.
+Unreal VS Unity, SteamVR vs Oculus etc.
+Headsets vergleichen, controller vergleichen.
+Alles vorstellen, vergleichen, abwägen.
+%\input{sections/3_approach/concept/available_hardware.tex}
+%\input{sections/3_approach/concept/available_software.tex}
 \subsection{\label{sec::ApproachAcquisition}Medical Imaging Acquisition}
-\input{sections/3_approach/concept/medical_imaging.tex}
+Ein bisschen geschwafel über den process der imaging acquisition.
+Bis zu dem step in blender ist alles im rahmen des forschungsprojektes der UHA.
+Trotzdem würde ich hier gerne ein bisschen darauf eingehen, wie genau die USE CASES
+dieser thesis entstanden sind. hierfür bräuchte ich aber deine Hilfe.
+Zusätzlich würde ich hier Blender kurz vorstellen, und welche tools wir davon benutzt haben.
+Darauf eingehen, worauf man beim improt in Unity achten muss.
+%\input{sections/3_approach/concept/medical_imaging.tex}
 \subsection{\label{sec::ApproachUserInterface}User Interface}
-\input{sections/3_approach/concept/user_interface.tex}
+Verschiedene approaches vergleichen.
+Warum ist das 3-Component UI gewählt worden.
+Warum nicht einfach GUI?
+Warum nicht einfach nur buttons?
+Warum Voice?
+Warum natural gestures?
+Wodurch werden diese einzelnen componenets überhaupt ermöglicht?
+
+%\input{sections/3_approach/concept/user_interface.tex}
 \subsection{\label{sec::ApproachFeatures}Features}
-\input{sections/3_approach/concept/features/main.tex}
+Hmm, hier macht es vllt doch keinen sinn. Features wurden in Requirements angesprochen,
+die umsetzung kommt in Implementation. was meinst du?
+%\input{sections/3_approach/concept/features/main.tex}

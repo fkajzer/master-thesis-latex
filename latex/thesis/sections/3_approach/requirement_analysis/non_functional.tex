@@ -1,0 +1,35 @@
+Non-functional requirements do not deal with specific functionality of a system, but rather cover other non-technical details such as quality requirements of performance and reliability, or even usability.
+They can also record requirements concerning execution and delivery of a software project.
+\newline
+In the case of a surgical simulation, naturally users which have experience with real surgery have the feel like they are in a surgical environment.
+This means that it is required to simulate the looks of the operating theatre as well as the surgical instruments in the familiar environment.
+Additionally, since VR does not have a widespread use in the clinical environment as of now, the system has to be as easy to use as possible, so that fraction when getting into VR is as low as possible.
+For many users, it will be the first time trying VR.
+It follows, that comfort and nausea have to be reduced as much as possible, and that user interactions with the virtual world will have to be as simple as possbile.
+Since a combination of voice, natural hand gestures and pressing of buttons via GUI is being used, we have to make sure that the connection between intention and effect is as understandable as possible at all times.
+As this project is with the background of developing a research- based, open source framework, it might happen that another researcher will want to extend the application in the future.
+For this reason, a deliver an understandable and well-documented software project is to be delivered, so that future work can be started from the get go.
+With all this in mind, the non-functional requirements are as follows.
+
+
+\begin{compactenum}[label=(\alph*)]
+    \item \textbf{(1) Assistance} The application should a tool for planning and training surgical procedures first and foremost.
+    The application has to support the user with useful tools for visualization and planning purposes.
+    \item \textbf{(2) Interaction system} Interaction with the system is should be easily accessible for VR novices.
+    Most users will not be computer experts, so the combination of natural gestures, GUI and VUI has to be easily understandable.
+    \item \textbf{(3) Understandibility} Since the process of training and planning can be complex, users have to be given feedback when performing procedures.
+    The user should know at all times when something concerning the procedure has happened, so that errors can be reduced.
+    \item \textbf{(4) Robustness} Errors while perfoming a procedure should not crash the system.
+    Since planning can be a time consuming process, progress shall not be lost, even when wrong input is given.
+    \item \textbf{(5) Usability} The application has to be usable in a way to not obstruct the goal of the user.
+    Any negatively outstanding irregularities, even minor issues, might have a negative effect on the acceptance of the system.
+    This especially concerns users of different backgrounds, such as novice versus expert users.
+    \item \textbf{(6) Responsiveness} The latency time of the application has to be as low as possible to improve VR sickness.
+    Long loading times or sturring can be detrementing to the user experience.
+    \item \textbf{(7) Maintainability} The project’s code base should be kept maintainable.
+    This can be guaranteed with documentation for more complex parts of the code.
+    Used libraries should be up to date and supported.
+    \item \textbf{(8) Extensibility} Maintainability and extensibility go hand in hand.
+    It should be easy to add new modules, such as operting rooms and sugrical instruments, in possible future work.
+    \item \textbf{(11) Platform} Participants should not be obstructed in any way by the application’s platform.
+\end{compactenum}
