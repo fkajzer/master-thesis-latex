@@ -16,7 +16,7 @@
 \firstsupervisor{Prof. Dr. Torsten W. Kuhlen \\ Visual Computing Institute, RWTH Aachen University}
 %\firstsupervisor{Prof. C. Bischof, Ph.D. \\ Institute for Scientific Computing}
 \secondsupervisor{Priv.-Doz. Dr. med. Dr. med. dent. Ali Modabber, MBA \\ Department for Oral and Maxillofacial Surgery, University Hospital RWTH Aachen}
-\tutor{Andrea Bönsch, Behrus Puladi}
+\tutor{Andrea Bönsch and Behrus Puladi}
 
 \addtolength{\oddsidemargin}{+.2in}
 \addtolength{\evensidemargin}{-.2in}
@@ -31,11 +31,13 @@
 %\displaywidowpenalty = 10000
 
 %Generate the environment for the abstract:
-\newcommand\summaryname{Abstract}
 \newenvironment{Abstract}%
     {\small\begin{center}%
-    \bfseries{\summaryname} \end{center}}
-\maketitle
+\bfseries{Abstract}\end{center}}
+
+\newenvironment{Preface}%
+    {\small\begin{center}%
+    \bfseries{Preface} \end{center}}
 
 \begin{document}
 
@@ -46,29 +48,25 @@
 % generates the statement (Erkl�rung) page for master thesis and Diplomarbeit
 \makestatement
 
-% Insert bastract
+% Insert abstract
 \begin{Abstract}
     \input{sections/abstract.tex}
 \end{Abstract}
+
+% Insert preface
+\begin{Preface}
+    This master thesis is in context of a cooperation between the Visual Computing Institute at RWTH Aachen University and the Department of Oral and Maxillofacial Surgery (OMFS) at University Hospital RWTH Aachen (UHA).
+    The goal of this thesis is to simulate a virtual operating room for oral and maxillofacial surgeons in Virtual Reality (VR).
+    Workflows and procedures will be strongly oriented towards clinical practices of the oral and maxillofacial department in UHA.
+\end{Preface}
 
 % generates the table of contents (Inhaltsverzeichnis)
 \tableofcontents
 
 \chapter{\label{chap::Introduction}Introduction}
-TODO: Jeden Absatz zitieren
 \input{sections/1_introduction/main.tex}
-
-\chapter{\label{chap::RelatedWork}Related Work}
+\section{\label{sec::RelatedWork}Related Work}
 \input{sections/2_related_work/main.tex}
-\section{\label{sec::MedicalImaging}Medical Imaging}
-\input{sections/2_related_work/medical_imaging/main.tex}
-\section{\label{sec::VirtualRealityInMedicine}Virtual Reality in Medicine}
-\input{sections/2_related_work/virtual_reality_in_medicine/main.tex}
-\section{\label{sec::SurgicalSimulations}Surgical Simulations}
-\input{sections/2_related_work/surgical_simulations/main.tex}
-\section{\label{sec::RelatedWorkDiscussion}Discussion - Limitations}
-\input{sections/2_related_work/discussion/main.tex}
-
 
 \chapter{\label{chap::Approach}Approach}
 \input{sections/3_approach/main.tex}

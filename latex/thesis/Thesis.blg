@@ -4,46 +4,48 @@ The top-level auxiliary file: Thesis.aux
 The style file: ieeetr.bst
 Database file #1: ms_thesis.bib
 Database file #2: ms_endnote.bib
+Warning--empty author and editor in DICOMStandard
+Warning--empty year in DICOMStandard
 Warning--empty publisher in RN6
-You've used 16 entries,
+You've used 23 entries,
             1876 wiz_defined-function locations,
-            603 strings with 8195 characters,
-and the built_in function-call counts, 5905 in all, are:
-= -- 505
-> -- 406
+            643 strings with 9411 characters,
+and the built_in function-call counts, 7880 in all, are:
+= -- 705
+> -- 481
 < -- 1
-+ -- 141
-- -- 125
-* -- 502
-:= -- 908
-add.period$ -- 18
-call.type$ -- 16
-change.case$ -- 17
++ -- 169
+- -- 146
+* -- 646
+:= -- 1179
+add.period$ -- 27
+call.type$ -- 23
+change.case$ -- 22
 chr.to.int$ -- 0
-cite$ -- 17
-duplicate$ -- 259
-empty$ -- 435
-format.name$ -- 125
-if$ -- 1382
+cite$ -- 26
+duplicate$ -- 359
+empty$ -- 620
+format.name$ -- 146
+if$ -- 1870
 int.to.chr$ -- 0
-int.to.str$ -- 16
-missing$ -- 16
-newline$ -- 53
-num.names$ -- 16
-pop$ -- 31
+int.to.str$ -- 23
+missing$ -- 24
+newline$ -- 76
+num.names$ -- 22
+pop$ -- 50
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 201
+skip$ -- 270
 stack$ -- 0
-substring$ -- 348
-swap$ -- 132
+substring$ -- 487
+swap$ -- 175
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 1
-while$ -- 44
-width$ -- 18
-write$ -- 170
-(There was 1 warning)
+warning$ -- 3
+while$ -- 63
+width$ -- 25
+write$ -- 240
+(There were 3 warnings)

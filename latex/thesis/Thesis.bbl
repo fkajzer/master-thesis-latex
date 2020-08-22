@@ -12,11 +12,39 @@ S.~C. White and M.~J. Pharoah, ``The evolution and application of dental
   vol.~52, no.~4, pp.~689 -- 705, 2008.
 \newblock Contemporary Dental and Maxillofacial Imaging.
 
-\bibitem{swennen2009three}
-G.~R. Swennen, W.~Mollemans, and F.~Schutyser, ``Three-dimensional treatment
-  planning of orthognathic surgery in the era of virtual imaging,'' {\em
-  Journal of oral and maxillofacial surgery}, vol.~67, no.~10, pp.~2080--2092,
-  2009.
+\bibitem{DICOMStandard}
+{\em Digital Imaging and Communications in Medicine (DICOM) Standard}.
+\newblock National Electrical Manufacturers Association, Rosslyn, VA, USA.
+
+\bibitem{burdea2003virtual}
+G.~C. Burdea and P.~Coiffet, {\em Virtual reality technology}.
+\newblock John Wiley \& Sons, 2003.
+
+\bibitem{486713}
+J.~M. {Rosen}, H.~{Soltanian}, R.~J. {Redett}, and D.~R. {Laub}, ``Evolution of
+  virtual reality [medicine],'' {\em IEEE Engineering in Medicine and Biology
+  Magazine}, vol.~15, no.~2, pp.~16--22, 1996.
+
+\bibitem{mann1965evaluation}
+R.~W. Mann, ``The evaluation and simulation of mobility aids for the blind,''
+  {\em American Foundation Blind research Bulletin}, no.~11, pp.~93--98, 1965.
+
+\bibitem{HASSFELD20012}
+S.~Hassfeld and J.~Mühling, ``Computer assisted oral and maxillofacial surgery
+  – a review and an assessment of technology,'' {\em International Journal of
+  Oral and Maxillofacial Surgery}, vol.~30, no.~1, pp.~2 -- 13, 2001.
+
+\bibitem{schendel2009three}
+S.~A. Schendel and R.~Jacobson, ``Three-dimensional imaging and computer
+  simulation for office-based surgery,'' {\em Journal of oral and maxillofacial
+  surgery}, vol.~67, no.~10, pp.~2107--2114, 2009.
+
+\bibitem{testaverde2011ct}
+L.~Testaverde, A.~Perrone, L.~Caporali, A.~Ermini, L.~Izzo, I.~D’Angeli,
+  L.~Impara, D.~Mazza, P.~Izzo, and M.~Marini, ``Ct and mr findings in synovial
+  chondromatosis of the temporo-mandibular joint: our experience and review of
+  literature,'' {\em European journal of radiology}, vol.~78, no.~3,
+  pp.~414--418, 2011.
 
 \bibitem{RN52}
 G.~Parham, E.~G. Bing, A.~Cuevas, B.~Fisher, J.~Skinner, M.~Mwanahamuntu, and
@@ -98,5 +126,11 @@ J.~G. Meara, A.~J.~M. Leather, L.~Hagander, B.~C. Alkire, N.~Alonso, E.~A.
   G.~Yamey, and W.~Yip, ``Global surgery 2030: evidence and solutions for
   achieving health, welfare, and economic development,'' {\em The Lancet},
   vol.~386, no.~9993, pp.~569--624, 2015.
+
+\bibitem{swennen2009three}
+G.~R. Swennen, W.~Mollemans, and F.~Schutyser, ``Three-dimensional treatment
+  planning of orthognathic surgery in the era of virtual imaging,'' {\em
+  Journal of oral and maxillofacial surgery}, vol.~67, no.~10, pp.~2080--2092,
+  2009.
 
 \end{thebibliography}
