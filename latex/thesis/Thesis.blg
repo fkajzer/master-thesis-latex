@@ -1,51 +1,68 @@
 This is BibTeX, Version 0.99d (TeX Live 2019)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: Thesis.aux
-The style file: ieeetr.bst
+The style file: apalike.bst
 Database file #1: ms_thesis.bib
 Database file #2: ms_endnote.bib
+Database file #3: ms_thesis_citavi_refs.bib
+Warning--to sort, need author, editor, or key in DICOMStandard
+Warning--to sort, need author or key in OculusRift
+Warning--to sort, need author or key in Vive
+Warning--to sort, need author, editor, or key in .2017
+Warning--to sort, need author or key in LeapMotion
+Warning--to sort, need author or key in ValveIndex
+Warning--to sort, need author or key in OpenVR
 Warning--empty author and editor in DICOMStandard
 Warning--empty year in DICOMStandard
+Warning--empty year in Vive
+Warning--empty year in LeapMotion
+Warning--empty year in OculusRift
+Warning--empty year in OpenVR
+Warning--empty year in ValveIndex
+Warning--empty author and editor in .2017
+Warning--empty publisher in .2017
+Warning--there's a number but no volume in mann1965evaluation
 Warning--empty publisher in RN6
-You've used 23 entries,
-            1876 wiz_defined-function locations,
-            643 strings with 9411 characters,
-and the built_in function-call counts, 7880 in all, are:
-= -- 705
-> -- 481
-< -- 1
-+ -- 169
-- -- 146
-* -- 646
-:= -- 1179
-add.period$ -- 27
-call.type$ -- 23
-change.case$ -- 22
-chr.to.int$ -- 0
-cite$ -- 26
-duplicate$ -- 359
-empty$ -- 620
-format.name$ -- 146
-if$ -- 1870
-int.to.chr$ -- 0
-int.to.str$ -- 23
-missing$ -- 24
-newline$ -- 76
-num.names$ -- 22
-pop$ -- 50
+Warning--empty booktitle in VenkataS.Arikatla.2018
+You've used 38 entries,
+            1935 wiz_defined-function locations,
+            725 strings with 12101 characters,
+and the built_in function-call counts, 17343 in all, are:
+= -- 1624
+> -- 943
+< -- 16
++ -- 359
+- -- 340
+* -- 1608
+:= -- 2974
+add.period$ -- 115
+call.type$ -- 38
+change.case$ -- 356
+chr.to.int$ -- 35
+cite$ -- 64
+duplicate$ -- 580
+empty$ -- 1099
+format.name$ -- 385
+if$ -- 3354
+int.to.chr$ -- 4
+int.to.str$ -- 0
+missing$ -- 35
+newline$ -- 191
+num.names$ -- 95
+pop$ -- 333
 preamble$ -- 1
-purify$ -- 0
+purify$ -- 359
 quote$ -- 0
-skip$ -- 270
+skip$ -- 417
 stack$ -- 0
-substring$ -- 487
-swap$ -- 175
-text.length$ -- 1
+substring$ -- 1103
+swap$ -- 80
+text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 0
-warning$ -- 3
-while$ -- 63
-width$ -- 25
-write$ -- 240
-(There were 3 warnings)
+type$ -- 220
+warning$ -- 19
+while$ -- 110
+width$ -- 0
+write$ -- 480
+(There were 19 warnings)

@@ -1,136 +1,245 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{}
 
-\bibitem{RN65}
-L.~Testaverde, A.~Perrone, L.~Caporali, A.~Ermini, L.~Izzo, I.~D'Angeli,
-  L.~Impara, D.~Mazza, P.~Izzo, and M.~Marini, ``Ct and mr findings in synovial
-  chondromatosis of the temporo-mandibular joint: our experience and review of
-  literature,'' {\em Eur J Radiol}, vol.~78, no.~3, pp.~414--8, 2011.
-
-\bibitem{WHITE2008689}
-S.~C. White and M.~J. Pharoah, ``The evolution and application of dental
-  maxillofacial imaging modalities,'' {\em Dental Clinics of North America},
-  vol.~52, no.~4, pp.~689 -- 705, 2008.
-\newblock Contemporary Dental and Maxillofacial Imaging.
-
-\bibitem{DICOMStandard}
+\bibitem[DIC, ]{DICOMStandard}
 {\em Digital Imaging and Communications in Medicine (DICOM) Standard}.
 \newblock National Electrical Manufacturers Association, Rosslyn, VA, USA.
 
-\bibitem{burdea2003virtual}
-G.~C. Burdea and P.~Coiffet, {\em Virtual reality technology}.
-\newblock John Wiley \& Sons, 2003.
+\bibitem[Viv, ]{Vive}
+Htc vive.
+\newblock \url{https://www.vive.com/us/}.
+\newblock Accessed: 2020-08-21.
 
-\bibitem{486713}
-J.~M. {Rosen}, H.~{Soltanian}, R.~J. {Redett}, and D.~R. {Laub}, ``Evolution of
-  virtual reality [medicine],'' {\em IEEE Engineering in Medicine and Biology
-  Magazine}, vol.~15, no.~2, pp.~16--22, 1996.
+\bibitem[Lea, ]{LeapMotion}
+Leap motion.
+\newblock \url{https://www.ultraleap.com/product/leap-motion-controller/}.
+\newblock Accessed: 2020-08-21.
 
-\bibitem{mann1965evaluation}
-R.~W. Mann, ``The evaluation and simulation of mobility aids for the blind,''
-  {\em American Foundation Blind research Bulletin}, no.~11, pp.~93--98, 1965.
+\bibitem[Ocu, ]{OculusRift}
+Open vr.
+\newblock \url{https://www.oculus.com/rift/#oui-csl-rift-games=mages-tale}.
+\newblock Accessed: 2020-08-21.
 
-\bibitem{HASSFELD20012}
-S.~Hassfeld and J.~Mühling, ``Computer assisted oral and maxillofacial surgery
-  – a review and an assessment of technology,'' {\em International Journal of
-  Oral and Maxillofacial Surgery}, vol.~30, no.~1, pp.~2 -- 13, 2001.
+\bibitem[Ope, ]{OpenVR}
+Open vr.
+\newblock \url{https://github.com/ValveSoftware/openvr}.
+\newblock Accessed: 2020-08-21.
 
-\bibitem{schendel2009three}
-S.~A. Schendel and R.~Jacobson, ``Three-dimensional imaging and computer
-  simulation for office-based surgery,'' {\em Journal of oral and maxillofacial
-  surgery}, vol.~67, no.~10, pp.~2107--2114, 2009.
+\bibitem[Val, ]{ValveIndex}
+Valve index controller.
+\newblock \url{https://www.valvesoftware.com/en/index/controllers}.
+\newblock Accessed: 2020-08-21.
 
-\bibitem{testaverde2011ct}
-L.~Testaverde, A.~Perrone, L.~Caporali, A.~Ermini, L.~Izzo, I.~D’Angeli,
-  L.~Impara, D.~Mazza, P.~Izzo, and M.~Marini, ``Ct and mr findings in synovial
-  chondromatosis of the temporo-mandibular joint: our experience and review of
-  literature,'' {\em European journal of radiology}, vol.~78, no.~3,
-  pp.~414--418, 2011.
+\bibitem[.20, 2017]{.2017}
+ (2017).
+\newblock {\em Virtual Reality and 3D Printing for Craniopagus Surgery}.
 
-\bibitem{RN52}
-G.~Parham, E.~G. Bing, A.~Cuevas, B.~Fisher, J.~Skinner, M.~Mwanahamuntu, and
-  R.~Sullivan, ``Creating a low-cost virtual reality surgical simulation to
-  increase surgical oncology capacity and capability,'' {\em
-  Ecancermedicalscience}, vol.~13, p.~910, 2019.
+\bibitem[Ayoub and Pulijala, 2019]{Ayoub.2019}
+Ayoub, A. and Pulijala, Y. (2019).
+\newblock The application of virtual reality and augmented reality in oral {\&}
+  maxillofacial surgery.
+\newblock {\em BMC Oral Health}, 19(1):238.
 
-\bibitem{RN59}
-C.~L. Camp, ``Editorial commentary: "virtual reality" simulation in orthopaedic
-  surgery: Realistically helpful, or virtually useless?,'' {\em Arthroscopy},
-  vol.~34, no.~5, pp.~1678--1679, 2018.
+\bibitem[Banks et~al., 2007]{RN63}
+Banks, E.~H., Chudnoff, S., Karmin, I., Wang, C., and Pardanani, S. (2007).
+\newblock Does a surgical simulator improve resident operative performance of
+  laparoscopic tubal ligation?
+\newblock {\em American journal of obstetrics and gynecology}, 197(5):541--e1.
 
-\bibitem{RN60}
-A.~G. Gallagher, E.~M. Ritter, H.~Champion, G.~Higgins, M.~P. Fried, G.~Moses,
-  C.~D. Smith, and R.~M. Satava, ``Virtual reality simulation for the operating
-  room: proficiency-based training as a paradigm shift in surgical skills
-  training,'' {\em Ann Surg}, vol.~241, no.~2, pp.~364--72, 2005.
+\bibitem[Barber et~al., 2020]{Barber.2020}
+Barber, S.~R., Jain, S., Mooney, M.~A., Almefty, K.~K., Lawton, M.~T., Son,
+  Y.-J., and Stevens, S.~M. (2020).
+\newblock Combining stereoscopic video and virtual reality simulation to
+  maximize education in lateral skull base surgery.
+\newblock {\em Otolaryngology--head and neck surgery : official journal of
+  American Academy of Otolaryngology-Head and Neck Surgery}, 162(6):922--925.
 
-\bibitem{RN61}
-C.~R. Larsen, J.~L. Soerensen, T.~P. Grantcharov, T.~Dalsgaard, L.~Schouenborg,
-  C.~Ottosen, T.~V. Schroeder, and B.~S. Ottesen, ``Effect of virtual reality
-  training on laparoscopic surgery: randomised controlled trial,'' {\em BMJ},
-  vol.~338, p.~b1802, 2009.
+\bibitem[Barber et~al., 2018]{Barber.2018}
+Barber, S.~R., Jain, S., Son, Y.-J., and Chang, E.~H. (2018).
+\newblock Virtual functional endoscopic sinus surgery simulation with
+  3d-printed models for mixed-reality nasal endoscopy.
+\newblock {\em Otolaryngology--head and neck surgery : official journal of
+  American Academy of Otolaryngology-Head and Neck Surgery}, 159(5):933--937.
 
-\bibitem{RN62}
-T.~P. Grantcharov, V.~B. Kristiansen, J.~Bendix, L.~Bardram, J.~Rosenberg, and
-  P.~Funch-Jensen, ``Randomized clinical trial of virtual reality simulation
-  for laparoscopic skills training,'' {\em Br J Surg}, vol.~91, no.~2,
-  pp.~146--50, 2004.
+\bibitem[Berni and Borgianni, 2020]{Berni.2020}
+Berni, A. and Borgianni, Y. (2020).
+\newblock Applications of virtual reality in engineering and product design:
+  Why, what, how, when and where.
+\newblock {\em Electronics}, 9(7):1064.
 
-\bibitem{RN63}
-E.~H. Banks, S.~Chudnoff, I.~Karmin, C.~Wang, and S.~Pardanani, ``Does a
-  surgical simulator improve resident operative performance of laparoscopic
-  tubal ligation?,'' {\em American journal of obstetrics and gynecology},
-  vol.~197, no.~5, pp.~541--e1, 2007.
+\bibitem[Burdea and Coiffet, 2003]{burdea2003virtual}
+Burdea, G.~C. and Coiffet, P. (2003).
+\newblock {\em Virtual reality technology}.
+\newblock John Wiley \& Sons.
 
-\bibitem{RN64}
-N.~E. Seymour, A.~G. Gallagher, S.~A. Roman, M.~K. O’brien, V.~K. Bansal,
-  D.~K. Andersen, and R.~M. Satava, ``Virtual reality training improves
-  operating room performance: results of a randomized, double-blinded study,''
-  {\em Annals of surgery}, vol.~236, no.~4, p.~458, 2002.
+\bibitem[Camp, 2018]{RN59}
+Camp, C.~L. (2018).
+\newblock Editorial commentary: "virtual reality" simulation in orthopaedic
+  surgery: Realistically helpful, or virtually useless?
+\newblock {\em Arthroscopy}, 34(5):1678--1679.
 
-\bibitem{RN70}
-S.~Ullrich, O.~Grottke, R.~Rossaint, M.~Staat, T.~M. Deserno, and T.~Kuhlen,
-  ``Virtual needle simulation with haptics for regional anaesthesia,'' {\em
-  Proceedings of the IEEE Virtual Reality Workshop on Medical Virtual
-  Envirnoments}, vol.~2, 2010.
+\bibitem[Gallagher et~al., 2005]{RN60}
+Gallagher, A.~G., Ritter, E.~M., Champion, H., Higgins, G., Fried, M.~P.,
+  Moses, G., Smith, C.~D., and Satava, R.~M. (2005).
+\newblock Virtual reality simulation for the operating room: proficiency-based
+  training as a paradigm shift in surgical skills training.
+\newblock {\em Ann Surg}, 241(2):364--72.
 
-\bibitem{RN72}
-S.~Ullrich, O.~Grottke, E.~Fried, T.~Frommen, W.~Liao, R.~Rossaint, T.~Kuhlen,
-  and T.~M. Deserno, ``An intersubject variable regional anesthesia simulator
-  with a virtual patient architecture,'' {\em Int J Comput Assist Radiol Surg},
-  vol.~4, no.~6, pp.~561--70, 2009.
+\bibitem[Grantcharov et~al., 2004]{RN62}
+Grantcharov, T.~P., Kristiansen, V.~B., Bendix, J., Bardram, L., Rosenberg, J.,
+  and Funch-Jensen, P. (2004).
+\newblock Randomized clinical trial of virtual reality simulation for
+  laparoscopic skills training.
+\newblock {\em Br J Surg}, 91(2):146--50.
 
-\bibitem{RN69}
-T.~Knott, S.~Ullrich, O.~Grottke, T.-P. Fries, M.~Gerressen, T.~M. Deserno,
-  R.~Rossaint, and T.~W. Kuhlen, ``Medical training simulators for bilateral
-  sagittal split osteotomy and regional aneasthesia in virtual environments.,''
-  {\em CURAC}, pp.~137--140, 2010.
+\bibitem[Hassfeld and Mühling, 2001]{HASSFELD20012}
+Hassfeld, S. and Mühling, J. (2001).
+\newblock Computer assisted oral and maxillofacial surgery – a review and an
+  assessment of technology.
+\newblock {\em International Journal of Oral and Maxillofacial Surgery},
+  30(1):2 -- 13.
 
-\bibitem{RN71}
-A.~E. Mostafa, W.~H.~A. Ryu, S.~Chan, K.~Takashima, G.~Kopp, M.~Costa~Sousa,
-  and E.~Sharlin, ``Designing neurosimvr: a stereoscopic virtual reality spine
-  surgery simulator,'' report, Science, 2017.
+\bibitem[Larsen et~al., 2009]{RN61}
+Larsen, C.~R., Soerensen, J.~L., Grantcharov, T.~P., Dalsgaard, T.,
+  Schouenborg, L., Ottosen, C., Schroeder, T.~V., and Ottesen, B.~S. (2009).
+\newblock Effect of virtual reality training on laparoscopic surgery:
+  randomised controlled trial.
+\newblock {\em BMJ}, 338:b1802.
 
-\bibitem{RN6}
-Y.~Pulijala, M.~Ma, and A.~Ayoub, {\em VR Surgery: Interactive Virtual Reality
-  Application for Training Oral and Maxillofacial Surgeons using Oculus Rift
-  and Leap Motion}, book section Chapter 8, pp.~187--202.
-\newblock 2017.
+\bibitem[Mann, 1965]{mann1965evaluation}
+Mann, R.~W. (1965).
+\newblock The evaluation and simulation of mobility aids for the blind.
+\newblock {\em American Foundation Blind research Bulletin}, (11):93--98.
 
-\bibitem{RN68}
-J.~G. Meara, A.~J.~M. Leather, L.~Hagander, B.~C. Alkire, N.~Alonso, E.~A.
-  Ameh, S.~W. Bickler, L.~Conteh, A.~J. Dare, J.~Davies, E.~D. Mérisier,
-  S.~El-Halabi, P.~E. Farmer, A.~Gawande, R.~Gillies, S.~L.~M. Greenberg, C.~E.
-  Grimes, R.~L. Gruen, E.~A. Ismail, T.~B. Kamara, C.~Lavy, G.~Lundeg, N.~C.
-  Mkandawire, N.~P. Raykar, J.~N. Riesel, E.~Rodas, J.~Rose, N.~Roy, M.~G.
-  Shrime, R.~Sullivan, S.~Verguet, D.~Watters, T.~G. Weiser, I.~H. Wilson,
-  G.~Yamey, and W.~Yip, ``Global surgery 2030: evidence and solutions for
-  achieving health, welfare, and economic development,'' {\em The Lancet},
-  vol.~386, no.~9993, pp.~569--624, 2015.
+\bibitem[McGaghie et~al., 2011]{mcgaghie2011does}
+McGaghie, W.~C., Issenberg, S.~B., Cohen, M. E.~R., Barsuk, J.~H., and Wayne,
+  D.~B. (2011).
+\newblock Does simulation-based medical education with deliberate practice
+  yield better results than traditional clinical education? a meta-analytic
+  comparative review of the evidence.
+\newblock {\em Academic medicine: journal of the Association of American
+  Medical Colleges}, 86(6):706.
 
-\bibitem{swennen2009three}
-G.~R. Swennen, W.~Mollemans, and F.~Schutyser, ``Three-dimensional treatment
-  planning of orthognathic surgery in the era of virtual imaging,'' {\em
-  Journal of oral and maxillofacial surgery}, vol.~67, no.~10, pp.~2080--2092,
-  2009.
+\bibitem[Meara et~al., 2015]{RN68}
+Meara, J.~G., Leather, A. J.~M., Hagander, L., Alkire, B.~C., Alonso, N., Ameh,
+  E.~A., Bickler, S.~W., Conteh, L., Dare, A.~J., Davies, J., Mérisier, E.~D.,
+  El-Halabi, S., Farmer, P.~E., Gawande, A., Gillies, R., Greenberg, S. L.~M.,
+  Grimes, C.~E., Gruen, R.~L., Ismail, E.~A., Kamara, T.~B., Lavy, C., Lundeg,
+  G., Mkandawire, N.~C., Raykar, N.~P., Riesel, J.~N., Rodas, E., Rose, J.,
+  Roy, N., Shrime, M.~G., Sullivan, R., Verguet, S., Watters, D., Weiser,
+  T.~G., Wilson, I.~H., Yamey, G., and Yip, W. (2015).
+\newblock Global surgery 2030: evidence and solutions for achieving health,
+  welfare, and economic development.
+\newblock {\em The Lancet}, 386(9993):569--624.
+
+\bibitem[Milgram and Kishino, 1994a]{milgram1994taxonomy}
+Milgram, P. and Kishino, F. (1994a).
+\newblock A taxonomy of mixed reality visual displays.
+\newblock {\em IEICE TRANSACTIONS on Information and Systems},
+  77(12):1321--1329.
+
+\bibitem[Milgram and Kishino, 1994b]{Milgram.1994}
+Milgram, P. and Kishino, F. (1994b).
+\newblock A taxonomy of mixed reality visual displays.
+\newblock {\em IEICE TRANSACTIONS on Information and Systems},
+  77(12):1321--1329.
+
+\bibitem[Parham et~al., 2019a]{Parham.2019}
+Parham, G., Bing, E.~G., Cuevas, A., Fisher, B., Skinner, J., Mwanahamuntu, M.,
+  and Sullivan, R. (2019a).
+\newblock Creating a low-cost virtual reality surgical simulation to increase
+  surgical oncology capacity and capability.
+\newblock {\em Ecancermedicalscience}, 13:910.
+
+\bibitem[Parham et~al., 2019b]{RN52}
+Parham, G., Bing, E.~G., Cuevas, A., Fisher, B., Skinner, J., Mwanahamuntu, M.,
+  and Sullivan, R. (2019b).
+\newblock Creating a low-cost virtual reality surgical simulation to increase
+  surgical oncology capacity and capability.
+\newblock {\em Ecancermedicalscience}, 13:910.
+
+\bibitem[Pulijala et~al., 2017a]{Pulijala.2017}
+Pulijala, Y., Ma, M., and Ayoub, A. (2017a).
+\newblock Vr surgery: Interactive virtual reality application for training oral
+  and maxillofacial surgeons using oculus rift and leap motion.
+\newblock In Ma, M. and Oikonomou, A., editors, {\em Serious Games and
+  Edutainment Applications}, pages 187--202. {Springer International
+  Publishing}, Cham.
+
+\bibitem[Pulijala et~al., 2017b]{RN6}
+Pulijala, Y., Ma, M., and Ayoub, A. (2017b).
+\newblock {\em VR Surgery: Interactive Virtual Reality Application for Training
+  Oral and Maxillofacial Surgeons using Oculus Rift and Leap Motion}, book
+  section Chapter 8, pages 187--202.
+
+\bibitem[Richardson et~al., 2015]{richardson2015cost}
+Richardson, C., Bernard, S., and Dinh, V.~A. (2015).
+\newblock A cost-effective, gelatin-based phantom model for learning
+  ultrasound-guided fine-needle aspiration procedures of the head and neck.
+\newblock {\em Journal of Ultrasound in Medicine}, 34(8):1479--1484.
+
+\bibitem[{Rosen} et~al., 1996]{486713}
+{Rosen}, J.~M., {Soltanian}, H., {Redett}, R.~J., and {Laub}, D.~R. (1996).
+\newblock Evolution of virtual reality [medicine].
+\newblock {\em IEEE Engineering in Medicine and Biology Magazine},
+  15(2):16--22.
+
+\bibitem[Sampogna et~al., 2017]{Sampogna.2017}
+Sampogna, G., Pugliese, R., Elli, M., Vanzulli, A., and Forgione, A. (2017).
+\newblock Routine clinical application of virtual reality in abdominal surgery.
+\newblock {\em Minimally invasive therapy {\&} allied technologies : MITAT :
+  official journal of the Society for Minimally Invasive Therapy},
+  26(3):135--143.
+
+\bibitem[Schuetz et~al., 2008]{schuetz2008three}
+Schuetz, M., Gockel, I., Beardi, J., Hakman, P., Dunschede, F., Moenk, S.,
+  Heinrichs, W., and Junginger, T. (2008).
+\newblock Three different types of surgeon-specific stress reactions identified
+  by laparoscopic simulation in a virtual scenario.
+\newblock {\em Surgical endoscopy}, 22(5):1263--1267.
+
+\bibitem[Seymour et~al., 2002]{RN64}
+Seymour, N.~E., Gallagher, A.~G., Roman, S.~A., O’brien, M.~K., Bansal,
+  V.~K., Andersen, D.~K., and Satava, R.~M. (2002).
+\newblock Virtual reality training improves operating room performance: results
+  of a randomized, double-blinded study.
+\newblock {\em Annals of surgery}, 236(4):458.
+
+\bibitem[Sutherland, 1968]{sutherland1968head}
+Sutherland, I.~E. (1968).
+\newblock A head-mounted three dimensional display.
+\newblock In {\em Proceedings of the December 9-11, 1968, fall joint computer
+  conference, part I}, pages 757--764.
+
+\bibitem[Swennen et~al., 2009]{swennen2009three}
+Swennen, G.~R., Mollemans, W., and Schutyser, F. (2009).
+\newblock Three-dimensional treatment planning of orthognathic surgery in the
+  era of virtual imaging.
+\newblock {\em Journal of oral and maxillofacial surgery}, 67(10):2080--2092.
+
+\bibitem[Testaverde et~al., 2011]{RN65}
+Testaverde, L., Perrone, A., Caporali, L., Ermini, A., Izzo, L., D'Angeli, I.,
+  Impara, L., Mazza, D., Izzo, P., and Marini, M. (2011).
+\newblock Ct and mr findings in synovial chondromatosis of the
+  temporo-mandibular joint: our experience and review of literature.
+\newblock {\em Eur J Radiol}, 78(3):414--8.
+
+\bibitem[{Venkata S. Arikatla} et~al., 2018]{VenkataS.Arikatla.2018}
+{Venkata S. Arikatla}, {Mohit Tyagi}, {Andinet Enquobahrie}, {Tung Nguyen},
+  {George H. Blakey}, {Ray White}, and {Beatriz Paniagua} (2018).
+\newblock High fidelity virtual reality orthognathic surgery simulator.
+\newblock page 1057612. {International Society for Optics and Photonics}.
+
+\bibitem[Wang et~al., 2010]{wang2010new}
+Wang, S., Mao, Z., Zeng, C., Gong, H., Li, S., and Chen, B. (2010).
+\newblock A new method of virtual reality based on unity3d.
+\newblock In {\em 2010 18th international conference on Geoinformatics}, pages
+  1--5. IEEE.
+
+\bibitem[White and Pharoah, 2008]{WHITE2008689}
+White, S.~C. and Pharoah, M.~J. (2008).
+\newblock The evolution and application of dental maxillofacial imaging
+  modalities.
+\newblock {\em Dental Clinics of North America}, 52(4):689 -- 705.
+\newblock Contemporary Dental and Maxillofacial Imaging.
 
 \end{thebibliography}

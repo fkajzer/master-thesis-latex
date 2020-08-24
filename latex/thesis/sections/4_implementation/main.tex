@@ -6,9 +6,9 @@ Lastly, architectural components as well as utilities provided by SteamVR will b
 %Architecture
 As this thesis aims to offer an open-source framework for VR surgery, the most obvious choice for hardware was used.
 A combination of commercially available HMDs and open source software is used to develop an easily accessible framework.
-For this thesis, the VR HMD HTC Vive (Referenz later: $https://en.wikipedia.org/wiki/HTC_Vive$) together with the recent Valve Index Controller (Referenz later: $https://www.valvesoftware.com/en/index/controllers$) were used.
+For this thesis, the VR HMD HTC Vive \cite{Vive} together with the recent Valve Index Controller \cite{ValveIndex} were used.
 However, any commercially available headset and controller which is compatible with SteamVR will work with this system.
-OpenVR (Referenz: https://github.com/ValveSoftware/openvr), the from Steam developed open-source Framework for VR development abstracts the HMD and specifics of controllers for the end user.
+OpenVR \cite{OpenVR}, the from Steam developed open-source Framework for VR development abstracts the HMD and specifics of controllers for the end user.
 This way, even though we used a specific HMD and controller configuration for this thesis, any HMD and controller will work.
 
 Since running virtual reality software is computationally expensive, a desktop pc with the following hardware is recommended for highest immersion:
@@ -31,9 +31,9 @@ Solely the Graphical User Interface (GUI) and the execution of procedures is per
 
 \section{\label{sec::Architecture}Architecture}
 
-\begin{figure}[ht!]
+\begin{figure}[ht]
     \centering
-    \includegraphics[width=\linewidth]{images/implementation/architecture.png}
+    \includegraphics[width=375px]{images/implementation/architecture.png}
     \caption{\label{fig::ImplementationArchitecture}High-level Overview of the Applications Architecture}
 \end{figure}
 
@@ -58,7 +58,7 @@ The surgical instruments were scanned via medical imaging acquisition and postpr
 After these critical steps for performance and immersion (especially for the OMF surgeons of UHA) have been completed, instruments and materials are ready to be imported into Unity3D.
 User navigate through the software via a combination of natural gestures, Graphical- and Voice-User-Interface as will be discussed extensively in the following Section \ref{sec::UserInterface}.
 
-\begin{figure}
+\begin{figure}[ht]
     \centering
     \begin{minipage}{.5\textwidth}
       \centering

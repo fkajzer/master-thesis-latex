@@ -1,6 +1,8 @@
 %\documentclass[german, twoside, parskip]{VRThesis} % dies ist eine deutsche Abschlussarbeit
 \documentclass[twoside, parskip]{VRThesis} % this is an english bachelor/master thesis
 
+\usepackage{url}
+
 % replace this by the title of the thesis
 \title{Pre-operative Planning in Virtual Reality with Head Mounted Displays for Oral and Maxillofacial Surgery}
 % replace this by the authors name
@@ -67,10 +69,12 @@
 \input{sections/1_introduction/main.tex}
 \section{\label{sec::RelatedWork}Related Work}
 \input{sections/2_related_work/main.tex}
+\section{\label{sec::Scope}Scope of the Thesis}
+\input{sections/1_introduction/goal.tex}
 
 \chapter{\label{chap::Approach}Approach}
 \input{sections/3_approach/main.tex}
-\section{\label{sec::RequirementAnalysis}Requirement Analysis (Scope of the thesis?)}
+\section{\label{sec::RequirementAnalysis}Requirement Analysis}
 \input{sections/3_approach/requirement_analysis/main.tex}
 \section{\label{sec::Concept}Concept}
 \input{sections/3_approach/concept/main.tex}
@@ -99,8 +103,8 @@
 \chapter{\label{chap::Conclusion}Conclusion}
 \input{sections/7_conclusion/main.tex}
 
-\bibliography{ms_thesis,ms_endnote}
-%\bibliographystyle{apalike}
-\bibliographystyle{ieeetr}
+\bibliography{ms_thesis,ms_endnote,ms_thesis_citavi_refs}
+\bibliographystyle{apalike}
+%\bibliographystyle{ieeetr}
 
-\end{document} 
+\end{document}
