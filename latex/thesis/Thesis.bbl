@@ -2582,6 +2582,19 @@
       \field{pages}{1\bibrangedash 5}
       \range{pages}{5}
     \endentry
+    \entry{WavefrontOBJ}{misc}{}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2020-08-21}
+      \field{title}{Wavefront OBJ File Format}
+      \verb{urlraw}
+      \verb \url{http://www.dirsig.org/docs/new/obj.html}
+      \endverb
+      \verb{url}
+      \verb %5Curl%7Bhttp://www.dirsig.org/docs/new/obj.html%7D
+      \endverb
+    \endentry
     \entry{WHITE2008689}{article}{}
       \name{author}{2}{}{%
         {{hash=4651a2652dc7790688f09f51c31ca08e}{%

@@ -16,6 +16,9 @@ The user has to strike a balance between system performance and resolution of th
 
 After finishing this crucial preprocessing step, the file location of the model must be registered in the project case.
 Importing models into the VR application is realized through loading a project case via the GUI (Figure \ref{fig::LoadingProjectCase}).
+For this application, the data format Wavefront OBJ (OBJ) for 3D geometric data was chosen \cite{WavefrontOBJ}.
+OBJ was chosen because of the relatively easy serialization of the 3D data via text as well as its open-source nature. 
+Loading of the project case depends on the resolution of the imported model, since the import happens at run-time and is realized through a custom OBJ importer. 
 
 \begin{figure}[ht]
   \centering
@@ -27,7 +30,7 @@ Importing models into the VR application is realized through loading a project c
     \centering
     \includegraphics[width=0.915\linewidth]{images/implementation/features/visualization/segments_2.png}
   \end{minipage}
-  \caption{\label{fig::Segmentation}Visualization - Segmentation}
+  \caption{\label{fig::Segmentation}Segment submenu of the GUI. Segments are toggled on and off by pressing the button with the virtual hand.}
 \end{figure}
 
 In Figure \ref{fig::Segmentation}, the process of activating and deactivating specific segments is described.
@@ -43,13 +46,16 @@ The slider is used by holding a finger on it and dragging it to the desired tran
 \begin{figure}[ht]
   \centering
   \includegraphics[width=200px]{images/todo.png}
-  \caption{\label{fig::PatientVisualization} Project a Copy of the Initial Patient for Comparison}
+  \caption{\label{fig::PatientVisualization}Patient submenu of the GUI. Users can scale patients and reset the scale and position to the default. Additional options such as projecting a copy of the patient model or an explode view can be toggled on and off here. The current procedure can also be saved here.}
 \end{figure}
 
-In the Patient submenu of the GUI, additional, non specific visualization tools are located.
+In the Patient submenu of the GUI, additional, visualization tools which are not patient specific are located.
 Here, the whole virtual patient can be scaled and up and down via their respective button (Figure \ref{fig::PatientVisualization}).
 Since procedure steps are subcomponents of the virtual patient, done procedures are also scaled correctly and relative spatial relationships can be investigated. 
 At any time, users can reset the scale, position and rotation of the patients 3D model at any time to their defaults.
+The currently planned procedure can also be saved at any point here by pressing the button at the bottom \ref{req::F6}.
+Saving the current procedure will persist the current patient model to the users hard disk without overwriting the initial model.
+Serialization of the model is realized through a custom runtime OBJ exporter, which basically writes the models representation, including materials, to a text file.
 
 \begin{figure}[ht]
   \centering
@@ -57,7 +63,7 @@ At any time, users can reset the scale, position and rotation of the patients 3D
   \caption{\label{fig::ProjectCopy} Projected copy of the unmodified patient model. Users can interact with the copy by grabbing it.}
 \end{figure}
 
-Additionally, the user can at any time spawn a copy of the default patient, without any procedure steps, for comparison as depicted in Figure \ref{fig::ProjectCopy}.
+Additionally, by pressing the respective button, the user can at any time project a copy of the default patient in front of himself, without any procedure steps, for comparison as depicted in Figure \ref{fig::ProjectCopy}.
 In comparison to the heavily modified patient model to the right, the initial patient model is used to visualize the patient specific anatomy and pathalogy without any friction (Requirement \ref{req::F3.2}).
 The projected copy is a literal copy of the loaded patients model which is created simultaneously when loading a project case.
 Users can also interact with the projected copy, meaning they can scale and rotate it by grabbing it.
@@ -80,4 +86,4 @@ Each segment in the explode view is interactible in such a way that they can be 
 \end{figure}
 
 In the virtual operating room, a ruler can be used to measure distances, but more importantly relative distances in the patients morphology.
-The ruler can simply be picked up via a grab gesture and used in the same way a surgeon uses it in the medical field.
+The ruler can simply be picked up via a grab gesture and used in the same way a surgeon uses it.

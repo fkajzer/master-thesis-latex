@@ -6,9 +6,11 @@ This way, users can customize the GUIs location as they like without disturbing 
 It also allows for better interaction with the virtual hands (Requirements \ref{req::N2}, \ref{req::N5}).
 Another press of the button will hide the GUI.
 \\ The GUI consists of the Restart, Case, Patient and Segment submenu.
-To interact with the GUI, users will have to use their virtual hands and simulate a real button press by virutally "pressing" their fingers on the GUI.
-A slight haptic feedback in the form of the controller vibrating and visual feedback signals the user that a button has been pressed.
-By pressing the Restart button, the user will head back to the OT selection as described in Section \ref{sec::VitualOperatingRoom}.
+To interact with the GUI, users use their virtual hands and simulate a real button press by virutally "pressing" their fingers on the GUI.
+The GUI acts as a wall collides with the virtual hands, meaning the hands will not pass through the GUI.
+This collision detection has been set up in such a way that the GUI can only collide with the virtual hands.
+A slight haptic feedback in the form of the controller vibrating and visual feedback, i.e. toggling elements on and off, signals the user that a button has been pressed.
+By pressing the Restart button, the user will be teleported back to the OT selection as described in Section \ref{sec::VitualOperatingRoom}.
 \\ The first graphical interface which the user will see when pressing the button is the Case submenu (Figure \ref{fig::UIProjectCase}).
 \begin{figure}[ht]
     \centering
@@ -19,6 +21,7 @@ By pressing the Restart button, the user will head back to the OT selection as d
 This submenu shows all available project cases to the user.
 The buttons for loading a case are created dynamically and depend on the number of project case JSON files found in the specified folder.
 By pressing the button with the representation of the users hand in the virtual operating room, the project case will be loaded and the patient model and case information written down in the project case will be display from within the virtual operting room.
+The default position when a patient is loaded is hovering over the operating table in the OT.
 On the left side of the GUI, the individual submenus can be selected.
 Visualization tools can be selected via clicking on the Patient submenu, as depicted in Figure \ref{fig::UIPatient}.
 Here, tools which are the same for any project case can be used for visualization purposes.
