@@ -1,9 +1,19 @@
+Even though techniques exist, operations are still planned on two-dimensional images for three-dimensional surgical sites \cite{Steinbacher.2015}.
+With the emergence of new HMD such as the Oculus Rift S last year, HMDs become more and more affordable.
+Based on this trend, this thesis will be developed with consumer HMDs and will be compatible with all currently available HMD to utilize the immersive power of stereoscopic imaging.
+Additionally, open-source software will be utilized to make the developed software as easily accessible as possible. 
+\\ Although having major utility for the surgical application, haptic feedback devices and tissue simulation, as described in \ref{chap::RelatedWork}, are specific to the procedure and costly.
+Additionally, some users have difficulties adjusting to the input devices, since they have a learning curve.
+Therefore, in this thesis, which aims to be broadly and easily accessible, realistic physical behaviour of tissue is not considered.
+The focus will be on providing visualization, planning and training tools for surgeons.
+\\ The developed software will be evaluated by surgical trainees for the preparation of a release version of the developed software.
+With the help of VR, this thesis is aiming to investigate whether stress and action times of surgeons can be improved by planning and training in a safe and risk-free environment.
 
+As HMDs become cheaper, they are more widely used and more often applied for surgical purposes.
 This thesis aims to improve medical imaging and pre-operational planning by using a modern approach with head-mounted displays.
-By using acquired 3D medical imaging in a virtual reality application, a very patient specific, highly realistic and only moderately costly technique with which surgeons can prepare for operations is pursued.
-\newline
+By using acquired 3D medical imaging in a VR application, a very patient specific, highly realistic and only moderately costly technique with which surgeons can prepare and train for operations is pursued.
 
-The following advantages over conventional methods are being considered:
+The following advantages of VR surgery simulations over conventional methods for planning and training purposes are being considered:
 \begin{compactenum}[label=(\alph*)]
     \item Familiarize the operator with the patient specific anatomy and pathalogy before operating
     \item The ability to simulate important operation steps
@@ -12,26 +22,23 @@ The following advantages over conventional methods are being considered:
     \item Test out procedures
 \end{compactenum}
 
-Thorugh implementation of these logical steps in preparing for surgery, this thesis aims to improve the rate on which training has to be done 'live' on patients.
-By providing the VR environment to visualize and train on virtual patients, the hope is to improve the time which has to be spent on training on real patients in the surgical environment.
-\newline
-A key part of this thesis is to advance the area of visualisation of medical imaging.
-Even though techniques exist, operations are still planned on two-dimensional images for three-dimensional surgical sites.
-With the emergence of new HMD such as the Oculus Rift S last year, HMDs become more and more affordable.
-Based on this trend, this thesis will be developed with consumer VR HMDs and will be compatible with currently available HMD to utilize the immersive power of stereoscopic imaging.
-Input device for interactions in VR will be the Valve Index Controller \cite{ValveIndex}, however all consumer input devices will be compatible with minimal adjustments to the software.
-As development environment, Unity3D will be utilized, as it is the predominantly used in the in Section \ref{sec::RelatedWork} described works.
+In this thesis however, the focus is not on realistic simulation of a surgical procedure and tissue involved.
+Here, abstract simulation of surgical procedures is planned.
+The aim of this thesis is to familiarize surgeons with the patient specific anatomy and pathology.
+By providing an immersive VR environment, surgeons should get the feel of the surgical environment.
+Surgical procedures will be abstracted in such a way that a huge number of procedures can be simulated.
+This way, this thesis could provide a platform for any kind of surgical procedure in the future. 
+Surgeons could both prepare for patient specific surgical interventions as well as train the process of specific surgical procedures on generic patient models.  
+However, to get the correct motor skills necessary for procedures, training has to be done on live patients as mentioned before or even sophisticated, procedure specific surgical simulations with haptic feedback.
 
-For OMF surgeons, especially the imaging of voluminous objects is mentally demanding and this thesis hopes to eliminate this problem completely by providing realistic 3D medical imaging in virtual reality.
-This thesis is part of an applied virtual and augmented reality workflow for oral and maxillofacial surgery using head mounted displays (HMDs) as described in Figure \ref{fig::ProjectPlan}.
+Through providing mentioned aspects of a VR simulation, the hope is to improve the rate on which training has to be done 'live' on patients through familiarizing trainees with surgical procedures and processes involved beforehand.
+Additionally, a sophisticated visualization, planning and training tool is aspired.
+\\ In an VR environment, procedures can be planned, edited and saved as users see fit.
+Through VRs stereoscopic nature, spatial relationships in the patients pathology and anatomy can be more accurately represented.
+Additionally, procedures can be planned collaboratively and improved incrementally, although this advantage is not exclusive to VR.
 
-The main goal of this thesis is to create a pre-operative assistance tool in VR with HMDs for oral and maxillofacial surgery.
-This means that while the main goal is surgery simulation, the focus is not on realistic physical behaviour of tissue.
-In the context of the research project by the department of oral and maxillofacial surgery in the university hospital of the RWTH Aachen and the VR Group of RWTH Aachen University, the results of the pre-operative planning might be used intra-operatively to provide assistance via Augmented Reality (AR) as described in the workflow (Figure \ref{fig::ProjectPlan}).
-To provide a useful preparational tool, it is critical to simulate individual operation steps.
-To achieve this, visualization and planning tools for OMFS with HMDs will be provided.
-In an immersive virtual operating theatre, users will be able to plan and train surgical procedures.
-Planned steps will be storable in a format in which they can be loaded and viewed in both the virtual and augmented reality applications bi-directionally as described (Figure \ref{fig::ProjectPlan}).
-By planning the operational steps in virtual reality, planned procedures can easily be shown to other staff involved.
-Naturally, it will be of uttermost importance that we have medical equipment and an appropriate virtual environment recreated remarkably close to reality.
-With the help of VR, this thesis is aiming to investigate whether stress and action times of surgeons can be improved by planning and training in a safe and risk-free environment.
+For OMF surgeons, especially the imaging of volumetric objects is mentally demanding. 
+By the use of VR technology, the area of visualization of medical imaging has already been proven to be advanced, as shown in the following Section.
+This thesis aims to aid trainees by providing realistic 3D medical imaging in virtual reality.
+By playing through the somewhat abstract procedures which can be planned beforehand, trainees have the opportunity to remember the correct processes of specific procedures.
+They can visualize themselves, the patient and surgical instruments inside of a virtual OT and go through procedures step by step as often as needed.

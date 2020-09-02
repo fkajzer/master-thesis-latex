@@ -1,28 +1,41 @@
-The first graphical interface which the user will see when pressing the button is depicted in Figure \ref{fig::UIProjectCase}
+To invoke the GUI, a designated button has to be pressed.
+The default for this, although remappable, is the B button which many controllers have.
+When pressing the button once, they GUI will be attached to the backside of the users left hand.
+By pressing the button once again, the GUI will be fixed in the current position.
+This way, users can customize the GUIs location as they like without disturbing the workflow.
+It also allows for better interaction with the virtual hands (Requirements \ref{req::N2}, \ref{req::N5}).
+Another press of the button will hide the GUI.
+\\ The GUI consists of the Restart, Case, Patient and Segment submenu.
+To interact with the GUI, users will have to use their virtual hands and simulate a real button press by virutally "pressing" their fingers on the GUI.
+A slight haptic feedback in the form of the controller vibrating and visual feedback signals the user that a button has been pressed.
+By pressing the Restart button, the user will head back to the OT selection as described in Section \ref{sec::VitualOperatingRoom}.
+\\ The first graphical interface which the user will see when pressing the button is the Case submenu (Figure \ref{fig::UIProjectCase}).
 \begin{figure}[ht]
     \centering
     \includegraphics[width=200px]{images/implementation/user_interface/project_cases.png}
     \caption{\label{fig::UIProjectCase}User Interface for the Selection of Project Cases}
 \end{figure}
+
+This submenu shows all available project cases to the user.
 The buttons for loading a case are created dynamically and depend on the number of project case JSON files found in the specified folder.
-As will be explained later, the evaluation consists of five distinct scenarios in which distinct procedures have to be performed via the available tools.
-By pressing the button by selecting it with the representation of the users hand in the virtual operating room, the project case will be loaded and the patient and information written down in the project case will be display from within the virtual operting room.
-On the left side, different submenus can be selected.
-Visualization tools can be selected via clicking on 'patient', as depicted in Figure \ref{fig::UIPatient}.
+By pressing the button with the representation of the users hand in the virtual operating room, the project case will be loaded and the patient model and case information written down in the project case will be display from within the virtual operting room.
+On the left side of the GUI, the individual submenus can be selected.
+Visualization tools can be selected via clicking on the Patient submenu, as depicted in Figure \ref{fig::UIPatient}.
 Here, tools which are the same for any project case can be used for visualization purposes.
-Users have the option to scale the patient, look at the unprocessed patient for comparison and the ability to explode the 3D-Model to help with visualization.
+Users have the option to scale the patient, look at the unprocessed patient for comparison and the ability to explode the 3D model to help with visualization.
 Project cases can also be saved from this menu (Figure \ref{fig::UIPatient}).
 
-\begin{figure}[h]
+\begin{figure}[ht]
     \centering
     \begin{minipage}{.5\textwidth}
       \centering
       \includegraphics[width=0.95\linewidth]{images/implementation/user_interface/patient.png}
-      \caption{\label{fig::UIPatient}User Interface for Patient Visualization Tools}
+      \caption{\label{fig::UIPatient}User Interface for Patient Visualization Tools. Different visualization options can be simultaneously switched on.
+      Users can also saved planned procedures.}
     \end{minipage}%
     \begin{minipage}{.5\textwidth}
       \centering
       \includegraphics[width=0.95\linewidth]{images/implementation/user_interface/segments.png}
-      \caption{\label{fig::UIPatientSegments}User Interface for Patient specific Segments}
+      \caption{\label{fig::UIPatientSegments}User Interface for Patient specific Segments. Individual segments can be toggled on and of. If a segments material is transparent, the transparency can be set.}
     \end{minipage}
   \end{figure}

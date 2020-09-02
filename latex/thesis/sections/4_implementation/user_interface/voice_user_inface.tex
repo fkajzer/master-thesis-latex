@@ -1,24 +1,34 @@
-\begin{center}
-    \label{table::VoiceCommands}
-    \begin{tabular}{ | l | p{4cm} | p{8cm} |}
-    \hline
-    Command & Action & Comment \\ \hline
-    "Start" & Show first step of procedure & This command also disables the "Show all" command. \\ \hline
-    "Show all" & Show all steps enumerated chronologicly & Is disabled via "Start" command. \newline
-    Disables the use of 'step next' or 'step back'. \\ \hline
-    "Step next" & Show next step of the procedure & \\ \hline
-    "Step back" & Show previous step of the procedure & \\ \hline
-    "Undo" & Reverts current step & Last undid step gets cached and can be redone via "Redo" command. \\ \hline
-    "Redo" & Redo last reverted step & Only the last reverted step can be redone. \\ \hline
-    "Train start" & Start train mode & Start at step 1 and navigate steps by following instructions and performing procedures in the correct manner.
-    It also disables every other command except "Train stop" \\ \hline
-    "Train stop" & Stop train mode & \\ \hline
-    \end{tabular}
-\end{center}
+\begin{table}[ht]
+    \begin{center}
+        \begin{tabular}{ | l | p{4cm} | p{8cm} |}
+        \hline
+        Command & Action & Comment \\ \hline
+        "Start" & Show first step of procedure & This command also disables the "Show all" command. \\ \hline
+        "Show all" & Show all steps enumerated chronologicly & Is disabled via "Start" command. \\
+        Disables the use of 'step next' or 'step back'. \\ \hline
+        "Step next" & Show next step of the procedure & \\ \hline
+        "Step back" & Show previous step of the procedure & \\ \hline
+        "Undo" & Reverts current step & Last undid step gets cached and can be redone via "Redo" command. \\ \hline
+        "Redo" & Redo last reverted step & Only the last reverted step can be redone. \\ \hline
+        "Train start" & Start train mode & Start at step 1 and navigate steps by following instructions and performing procedures in the correct manner.
+        It also disables every other command except "Train stop" \\ \hline
+        "Train stop" & Stop train mode & \\ \hline
+        \end{tabular}
+    \end{center}
+    \caption{\label{table::VoiceCommands}A table containing all voice commands. The command, respective action and information about the context in which they are used is given.}
+\end{table}
 
-The voice commands have been implemented in the context of users having surgical instruments in their hands \ref{table::VoiceCommands}.
-While performing procedures, the user can most importantly directly undo current actions.
-This way, a natural flow of working on the procedures is guaranteed.
+The voice commands have been implemented in the context of users having surgical instruments in their hands (Table \ref{table::VoiceCommands}).
+Unity3Ds \textit{KeywordRecognizer} component for recognizing voice has been utilized for the VUI.
+If specified keywords are recognized, functions are invoked through the KeywordRecognizer.
+Users will get auditory feedback if keywords are recognized, mostly in the form of repeating the recognized keyword.
+Although useful, certain drawbacks of the KeywordRecognizer can not be avoided.
+First, the VUI will only work if a keyword is correctly recognized using the underlying technology.
+Also, keywords consisting of one to two words worked best, while more words had a negative effect on recognition.
+Additionally, loud environments had a detrementing effect on recognizing keywords.
+However, if spoken clearly in a quiet environment, the keyword recognizer worked well.
+\\ To reduce the friction which errors in the procedure create, the user can directly undo the last performed procedure step via VUI (Requirements \ref{req::N4}, \ref{req::N5}, \ref{req::F6})
+This way, a natural flow of working on project cases is guaranteed.
 The voice user interface is strongly adapted to the AR and VR workflow, meaning the registrated commands and their functions are the same, even though the implementation might differ.
 For the VR part, undo, redo and train start and train stop is unique since they are not part of the workflow but rather special to the VR application.
 With the start command, the procedure is started in planning mode and the first procedure is shown.
@@ -29,5 +39,6 @@ At any point of the planned procedure, users can use the undo command to remove 
 Additonally, the last undid step will be saved if a user decides that the deletion of the step was an error.
 Undid steps can be redone via the "redo" command.
 Important to note is that only the last undid step can be redone at the moment.
-Via Train start, train mode as described in detail in Section \ref{sec::ImplementationTraining} will start.
+Via "train start", train mode as described in detail in Section \ref{sec::ImplementationTraining} will start.
+While in train mode, users will get auditory feedback in the form of "next step" if a procedure step has been performed correctly, and "error" if some aspect of the procedure has been performed incorrectly.
 Train mode is disabled either by finishing the whole procedure in train mode, or by revoking the "train stop" command to end it prematurely.

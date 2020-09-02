@@ -1,0 +1,51 @@
+\documentclass[12pt,twoside,a4paper]{article}
+\usepackage[utf8]{inputenc}
+
+\usepackage{array}
+\usepackage{amssymb}
+ 
+\usepackage{tabularx}
+\newcounter{rowcntr}
+\newcolumntype{L}[1]{>{\raggedright\let\\\\\arraybackslash\hspace{0pt}}p{#1}}
+\newcolumntype{C}[1]{>{\centering\let\\\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\let\\\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{N}[1]{>{\stepcounter{rowcntr}\therowcntr.}R{#1}}
+
+\newcommand{\ssqtable}{%
+  \begin{tabular}[t]{|*{7}{c|}}%
+    \hline
+    None & Slight & Moderate & Severe \tabularnewline
+    \hline
+  \end{tabular}
+}
+
+
+\pagestyle{plain}
+
+\begin{document}
+\begin{table}[]
+    \centering
+    \caption{Simulator Sickness Questionnaire (SSQ)}
+    
+
+    Circle how much each symptom below is affecting you \textbf{right now}.
+    \begin{tabular}{N{1cm}L{0.6\textwidth}C{0.3\textwidth}}
+    &General Discomfort                                                                        & \ssqtable \tabularnewline
+    &Fatigue                                                                        & \ssqtable \tabularnewline
+    &Headache                                                                        & \ssqtable \tabularnewline
+    &Eye strain                                                                        & \ssqtable \tabularnewline
+    &Difficulty focusing                                                                        & \ssqtable \tabularnewline
+    &Increased salivation                                                                        & \ssqtable \tabularnewline
+    &Sweating                                                                        & \ssqtable \tabularnewline
+    &Nausea                                                                        & \ssqtable \tabularnewline
+    &Difficulty concentrating                                                                        & \ssqtable \tabularnewline
+    &"Fullness of the head"                                                                        & \ssqtable \tabularnewline
+    &Blurred vision                                                                        & \ssqtable \tabularnewline
+    &Dizzy (eyes open)                                                                        & \ssqtable \tabularnewline
+    &Dizzy (eyes closed)                                                                        & \ssqtable \tabularnewline
+    &Vertigo (Giddiness)                                                                        & \ssqtable \tabularnewline
+    &Stomach awareness                                                                        & \ssqtable \tabularnewline
+    &Burping                                                                        & \ssqtable \tabularnewline
+    \end{tabular}
+\end{table}
+\end{document}

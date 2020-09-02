@@ -1,68 +1,23 @@
-This is BibTeX, Version 0.99d (TeX Live 2019)
-Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
-The top-level auxiliary file: Thesis.aux
-The style file: apalike.bst
-Database file #1: ms_thesis.bib
-Database file #2: ms_endnote.bib
-Database file #3: ms_thesis_citavi_refs.bib
-Warning--to sort, need author, editor, or key in DICOMStandard
-Warning--to sort, need author or key in OculusRift
-Warning--to sort, need author or key in Vive
-Warning--to sort, need author, editor, or key in .2017
-Warning--to sort, need author or key in LeapMotion
-Warning--to sort, need author or key in ValveIndex
-Warning--to sort, need author or key in OpenVR
-Warning--empty author and editor in DICOMStandard
-Warning--empty year in DICOMStandard
-Warning--empty year in Vive
-Warning--empty year in LeapMotion
-Warning--empty year in OculusRift
-Warning--empty year in OpenVR
-Warning--empty year in ValveIndex
-Warning--empty author and editor in .2017
-Warning--empty publisher in .2017
-Warning--there's a number but no volume in mann1965evaluation
-Warning--empty publisher in RN6
-Warning--empty booktitle in VenkataS.Arikatla.2018
-You've used 38 entries,
-            1935 wiz_defined-function locations,
-            725 strings with 12101 characters,
-and the built_in function-call counts, 17343 in all, are:
-= -- 1624
-> -- 943
-< -- 16
-+ -- 359
-- -- 340
-* -- 1608
-:= -- 2974
-add.period$ -- 115
-call.type$ -- 38
-change.case$ -- 356
-chr.to.int$ -- 35
-cite$ -- 64
-duplicate$ -- 580
-empty$ -- 1099
-format.name$ -- 385
-if$ -- 3354
-int.to.chr$ -- 4
-int.to.str$ -- 0
-missing$ -- 35
-newline$ -- 191
-num.names$ -- 95
-pop$ -- 333
-preamble$ -- 1
-purify$ -- 359
-quote$ -- 0
-skip$ -- 417
-stack$ -- 0
-substring$ -- 1103
-swap$ -- 80
-text.length$ -- 6
-text.prefix$ -- 0
-top$ -- 0
-type$ -- 220
-warning$ -- 19
-while$ -- 110
-width$ -- 0
-write$ -- 480
-(There were 19 warnings)
+[0] Config.pm:304> INFO - This is Biber 2.12
+[0] Config.pm:307> INFO - Logfile is 'Thesis.blg'
+[46] biber-darwin:315> INFO - === Wed Sep  2, 2020, 16:37:56
+[73] Biber.pm:371> INFO - Reading 'Thesis.bcf'
+[208] Biber.pm:889> INFO - Found 56 citekeys in bib section 0
+[223] Biber.pm:4093> INFO - Processing section 0
+[237] Biber.pm:4254> INFO - Looking for bibtex format file 'ms_endnote.bib' for section 0
+[239] bibtex.pm:1523> INFO - LaTeX decoding ...
+[290] bibtex.pm:1340> INFO - Found BibTeX data source 'ms_endnote.bib'
+[538] Biber.pm:4254> INFO - Looking for bibtex format file 'ms_thesis_citavi_refs.bib' for section 0
+[555] bibtex.pm:1523> INFO - LaTeX decoding ...
+[869] bibtex.pm:1340> INFO - Found BibTeX data source 'ms_thesis_citavi_refs.bib'
+[1070] Biber.pm:4254> INFO - Looking for bibtex format file 'ms_thesis.bib' for section 0
+[1073] bibtex.pm:1523> INFO - LaTeX decoding ...
+[1118] bibtex.pm:1340> INFO - Found BibTeX data source 'ms_thesis.bib'
+[1147] Utils.pm:193> WARN - month field '8~28' in entry 'heilig1962sensorama' is not an integer - this will probably not sort properly.
+[1363] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1363] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1363] Biber.pm:3921> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[1363] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[1463] bbl.pm:636> INFO - Writing 'Thesis.bbl' with encoding 'UTF-8'
+[1500] bbl.pm:739> INFO - Output to Thesis.bbl
+[1500] Biber.pm:110> INFO - WARNINGS: 1

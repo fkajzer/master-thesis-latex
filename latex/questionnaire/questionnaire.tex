@@ -1,0 +1,182 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+
+\usepackage{array}
+\usepackage{amssymb}
+\usepackage{float}
+\restylefloat{table}
+
+\usepackage{tabularx}
+\newcolumntype{L}[1]{>{\raggedright\let\\\\\arraybackslash\hspace{0pt}}p{#1}}
+\newcolumntype{C}[1]{>{\centering\let\\\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\let\\\\\arraybackslash\hspace{0pt}}m{#1}}
+
+
+\newcommand{\scaletable}{%
+  \begin{tabular}[t]{|*{7}{c|}}%
+    \hline
+    1 & 2 & 3 & 4 & 5 & 6 & 7 \tabularnewline
+    \hline
+  \end{tabular}
+}
+
+\newcommand{\ssqtable}{%
+  \begin{tabular}[t]{|*{7}{c|}}%
+    \hline
+    None & Slight & Moderate & Severe \tabularnewline
+    \hline
+  \end{tabular}
+}
+
+\pagestyle{empty}
+
+\begin{document}
+
+\newcounter{rowcntr}
+\newcolumntype{N}[1]{>{\stepcounter{rowcntr}}R{#1}}
+
+1 - Strongly disagree | 2 - Disagree | 3 - Slightly disagree | 4 - Neither agree nor disagree | 5 - Slightly Agree | 6 - Agree | 7 - Strongly agree
+
+
+\begin{table}[H]
+  \centering
+  System Usability Scale, Code:
+  \label{System Usability Scale}
+  \begin{tabular}{N{1cm}L{0.6\textwidth}C{0.3\textwidth}}
+  \multicolumn{1}{l}{}  & &     \footnotesize \bfseries\parbox{0.17\textwidth}{Strongly\\ disagree}\parbox{0.17\textwidth}{\raggedleft Strongly agree} \tabularnewline
+  &I think that I would like to use this system frequently.                                   & \scaletable \tabularnewline
+  &I found the system unnecessarily complex.                                                  & \scaletable \tabularnewline
+  &I thought the system was easy to use.                                                      & \scaletable \tabularnewline
+  &I think that I would need the support of a technical person to be able to use this system. & \scaletable \tabularnewline
+  &I found the various functions in this system were well integrated.                         & \scaletable \tabularnewline
+  &I thought there was too much inconsistency in this system.                                 & \scaletable \tabularnewline
+  &I would imagine that most people would learn to use this system very quickly.              & \scaletable \tabularnewline
+  &I found the system very cumbersome to use.                                                 & \scaletable \tabularnewline
+  &I felt very confident using the system.                                                    & \scaletable \tabularnewline
+  &I needed to learn a lot of things before I could get going with this system.               & \scaletable \tabularnewline
+  &The tasks exhausted me physically.               & \scaletable \tabularnewline
+  &It was fun to solve the tasks.               & \scaletable \tabularnewline
+
+  \end{tabular}
+\end{table}
+
+\newpage
+
+\begin{table}[H]
+  \centering
+  Simulator Sickness Questionnaire - Before, Code:
+  \label{Simulator Sickness Questionnaire - Before}
+  \\ Circle how much each symptom below is affecting you \textbf{right now}.
+  \begin{tabular}{N{1cm}L{0.4\textwidth}C{0.3\textwidth}}
+  &General Discomfort                                                                        & \ssqtable \tabularnewline
+  &Fatigue                                                                        & \ssqtable \tabularnewline
+  &Headache                                                                        & \ssqtable \tabularnewline
+  &Eye strain                                                                        & \ssqtable \tabularnewline
+  &Difficulty focusing                                                                        & \ssqtable \tabularnewline
+  &Increased salivation                                                                        & \ssqtable \tabularnewline
+  &Sweating                                                                        & \ssqtable \tabularnewline
+  &Nausea                                                                        & \ssqtable \tabularnewline
+  &Difficulty concentrating                                                                        & \ssqtable \tabularnewline
+  &"Fullness of the head"                                                                        & \ssqtable \tabularnewline
+  &Blurred vision                                                                        & \ssqtable \tabularnewline
+  &Dizzy (eyes open)                                                                        & \ssqtable \tabularnewline
+  &Dizzy (eyes closed)                                                                        & \ssqtable \tabularnewline
+  &Vertigo (Giddiness)                                                                        & \ssqtable \tabularnewline
+  &Stomach awareness                                                                        & \ssqtable \tabularnewline
+  &Burping                                                                        & \ssqtable \tabularnewline
+  \end{tabular}
+\end{table}
+
+\newpage
+
+\begin{table}[H]
+  \centering
+  Simulator Sickness Questionnaire - After, Code:
+  \label{Simulator Sickness Questionnaire - After}
+  \\ Circle how much each symptom below is affecting you \textbf{right now}.
+  \begin{tabular}{N{1cm}L{0.4\textwidth}C{0.3\textwidth}}
+  &General Discomfort                                                                        & \ssqtable \tabularnewline
+  &Fatigue                                                                        & \ssqtable \tabularnewline
+  &Headache                                                                        & \ssqtable \tabularnewline
+  &Eye strain                                                                        & \ssqtable \tabularnewline
+  &Difficulty focusing                                                                        & \ssqtable \tabularnewline
+  &Increased salivation                                                                        & \ssqtable \tabularnewline
+  &Sweating                                                                        & \ssqtable \tabularnewline
+  &Nausea                                                                        & \ssqtable \tabularnewline
+  &Difficulty concentrating                                                                        & \ssqtable \tabularnewline
+  &"Fullness of the head"                                                                        & \ssqtable \tabularnewline
+  &Blurred vision                                                                        & \ssqtable \tabularnewline
+  &Dizzy (eyes open)                                                                        & \ssqtable \tabularnewline
+  &Dizzy (eyes closed)                                                                        & \ssqtable \tabularnewline
+  &Vertigo (Giddiness)                                                                        & \ssqtable \tabularnewline
+  &Stomach awareness                                                                        & \ssqtable \tabularnewline
+  &Burping                                                                        & \ssqtable \tabularnewline
+  \end{tabular}
+\end{table}
+
+\newpage
+
+\begin{table}[H]
+    \centering
+    Application, Code:
+    \label{Application}
+    \begin{tabular}{N{1cm}L{0.6\textwidth}C{0.3\textwidth}}
+    \multicolumn{1}{l}{}  & &     \footnotesize \bfseries\parbox{0.17\textwidth}{Strongly\\ disagree}\parbox{0.17\textwidth}{\raggedleft Strongly agree} \tabularnewline
+    &I found the anatomical representation of the models helpful.                                 & \scaletable \tabularnewline
+    &I had a sense of being there in the virtual operating room.                                  & \scaletable \tabularnewline
+    &I felt the representation of my hands natural.                                               & \scaletable \tabularnewline
+    &I found the simulation of procedures plausible.                                              & \scaletable \tabularnewline
+    &I thought the voice control was useful.                                                      & \scaletable \tabularnewline
+    &I thought the voice feedback was useful.                                                     & \scaletable \tabularnewline
+    &I found the graphical user interface was clearly laid out.                                   & \scaletable \tabularnewline
+    &I found the visualization options (enable/disable, transparency) for segments useful.        & \scaletable \tabularnewline
+    &I found the explode function for the segments useful.                                        & \scaletable \tabularnewline
+    &I found the simulated procedures (drilling, chisel, etc.) functions useful in a VR scenario. & \scaletable \tabularnewline
+    &I found the osteosynthesis plates and their functions (twisting, bending) useful in a VR scenario. & \scaletable \tabularnewline
+    &I found the undo/redo-function useful.                                                       & \scaletable \tabularnewline
+    &I found the layout of the operating rooms made sense.                                        & \scaletable \tabularnewline
+    &I preferred the floating models over models lying on the operation table.                    & \scaletable \tabularnewline
+    \end{tabular}
+\end{table}
+
+\newpage
+
+\begin{table}[H]
+      \centering
+      Application - 2, Code:
+      \label{Application}
+      \begin{tabular}{N{1cm}L{0.6\textwidth}C{0.3\textwidth}}
+      \multicolumn{1}{l}{}  & &     \footnotesize \bfseries\parbox{0.17\textwidth}{Strongly\\ disagree}\parbox{0.17\textwidth}{\raggedleft Strongly agree} \tabularnewline
+      &I think that visualization in VR has an advantage over traditional methods.               & \scaletable \tabularnewline
+      &I think the underlying technology is going to be used widely in surgery in future.        & \scaletable \tabularnewline
+      &I wish to use the technology in near future.                                              & \scaletable \tabularnewline
+      &I would recommend colleagues to try VR-OMFS.                                              & \scaletable \tabularnewline
+      &I found VR-OMFS useful as an option for planning surgery.                                 & \scaletable \tabularnewline
+      &I found VR-OMFS useful as a tool for training (e.g. for students, new surgeons).         & \scaletable \tabularnewline
+     \end{tabular}
+  \end{table}
+
+\noindent\fbox{%
+  \parbox[t][90px][t]{\textwidth}{%
+    Did you feel that some features were missing?
+    
+    What features would you have wanted to see?
+  }%
+}
+
+\noindent\fbox{%
+  \parbox[t][100px][t]{\textwidth}{%
+    Did you think that some features were confusing?
+
+    Do you think about another design / layout choice which would have been more helpful?
+  }%
+}
+
+\noindent\fbox{%
+  \parbox[t][80px][t]{\textwidth}{%
+    What did you like most about the application?
+  }%
+}
+\end{document}
+
+

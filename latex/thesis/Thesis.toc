@@ -1,35 +1,77 @@
-\contentsline {chapter}{\numberline {1}Introduction}{3}% 
-\contentsline {section}{\numberline {1.1}Related Work}{6}% 
-\contentsline {section}{\numberline {1.2}Scope of the Thesis}{10}% 
-\contentsline {chapter}{\numberline {2}Approach}{13}% 
-\contentsline {section}{\numberline {2.1}Requirement Analysis}{13}% 
-\contentsline {subsection}{\numberline {2.1.1}Non-functional Requirements}{13}% 
-\contentsline {subsection}{\numberline {2.1.2}Functional Requirements}{15}% 
-\contentsline {section}{\numberline {2.2}Concept}{16}% 
-\contentsline {subsection}{\numberline {2.2.1}Available Tools}{17}% 
-\contentsline {subsection}{\numberline {2.2.2}Medical Imaging Acquisition}{17}% 
-\contentsline {subsection}{\numberline {2.2.3}User Interface}{17}% 
-\contentsline {chapter}{\numberline {3}Implementation}{19}% 
-\contentsline {section}{\numberline {3.1}Architecture}{20}% 
-\contentsline {section}{\numberline {3.2}Virtual Operating Room}{21}% 
-\contentsline {section}{\numberline {3.3}Features}{21}% 
-\contentsline {subsection}{\numberline {3.3.1}Visualization}{22}% 
-\contentsline {subsection}{\numberline {3.3.2}Procedures}{23}% 
-\contentsline {subsection}{\numberline {3.3.3}Training}{28}% 
-\contentsline {section}{\numberline {3.4}Workflow}{30}% 
-\contentsline {section}{\numberline {3.5}Interaction Flow}{32}% 
-\contentsline {section}{\numberline {3.6}User Interface}{34}% 
-\contentsline {subsection}{\numberline {3.6.1}Graphical User Interface}{34}% 
-\contentsline {subsection}{\numberline {3.6.2}Voice User Interface}{35}% 
-\contentsline {chapter}{\numberline {4}Evaluation}{37}% 
-\contentsline {section}{\numberline {4.1}System Usability Study}{37}% 
-\contentsline {subsection}{\numberline {4.1.1}Preliminaries}{37}% 
-\contentsline {subsection}{\numberline {4.1.2}Participants}{37}% 
-\contentsline {subsection}{\numberline {4.1.3}Scenarios}{37}% 
-\contentsline {subsection}{\numberline {4.1.4}Procedure and Data Collection}{37}% 
-\contentsline {section}{\numberline {4.2}Results}{37}% 
-\contentsline {subsection}{\numberline {4.2.1}Quantative Resuluts}{38}% 
-\contentsline {subsection}{\numberline {4.2.2}Qualitative Results}{38}% 
-\contentsline {subsection}{\numberline {4.2.3}Think-aloud-protocol}{38}% 
-\contentsline {chapter}{\numberline {5}Discussion}{39}% 
-\contentsline {chapter}{\numberline {6}Conclusion}{43}% 
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Introduction}{5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Related Work}{11}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Common Display Devices}{11}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Common Interaction Devices}{12}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Common Frameworks and Tools}{12}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.4}VR Requirements}{13}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.5}Surgical Applications}{13}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.5.1}VR-based Applications}{13}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.5.2}Others}{16}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Approach}{19}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Requirement Analysis}{19}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.1}Non-functional Requirements}{20}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.2}Functional Requirements}{21}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Concept}{22}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Implementation}{25}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Architecture}{25}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}Virtual Operating Room}{27}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}User Interface}{29}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.1}Graphical User Interface}{29}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.2}Voice User Interface}{30}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.4}Features}{32}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.1}Visualization}{32}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.2}Procedures}{35}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.3}Training}{39}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.5}Workflow}{42}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.6}Interaction Flow}{44}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Evaluation}{47}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}System Usability Study}{47}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.1}Preliminaries}{47}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.2}Participants}{47}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.3}Scenarios}{47}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.4}Procedure and Data Collection}{47}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.2}Results}{47}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.1}Quantative Resuluts}{48}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.2}Qualitative Results}{48}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.3}Think-aloud-protocol}{48}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}Discussion}{49}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {7}Conclusion}{53}% 

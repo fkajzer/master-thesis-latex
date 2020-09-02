@@ -2,6 +2,10 @@
 \documentclass[twoside, parskip]{VRThesis} % this is an english bachelor/master thesis
 
 \usepackage{url}
+\usepackage[style=numeric,maxbibnames=99]{biblatex}
+\addbibresource{ms_endnote.bib}
+\addbibresource{ms_thesis_citavi_refs.bib}
+\addbibresource{ms_thesis.bib}
 
 % replace this by the title of the thesis
 \title{Pre-operative Planning in Virtual Reality with Head Mounted Displays for Oral and Maxillofacial Surgery}
@@ -50,15 +54,12 @@
 % generates the statement (Erkl�rung) page for master thesis and Diplomarbeit
 \makestatement
 
-% Insert abstract
 \begin{Abstract}
     \input{sections/abstract.tex}
 \end{Abstract}
-
-% Insert preface
 \begin{Preface}
-    This master thesis is in context of a cooperation between the Visual Computing Institute at RWTH Aachen University and the Department of Oral and Maxillofacial Surgery (OMFS) at University Hospital RWTH Aachen (UHA).
-    The goal of this thesis is to simulate a virtual operating room for oral and maxillofacial surgeons in Virtual Reality (VR).
+    This master thesis is in context of a cooperation between the Virtual Reality and Immersive Visualization group at RWTH Aachen University and the Department of Oral and Maxillofacial Surgery at University Hospital RWTH Aachen (UHA).
+    The goal of this thesis is to simulate a virtual operating room for oral and maxillofacial surgeons in Virtual Reality.
     Workflows and procedures will be strongly oriented towards clinical practices of the oral and maxillofacial department in UHA.
 \end{Preface}
 
@@ -67,35 +68,18 @@
 
 \chapter{\label{chap::Introduction}Introduction}
 \input{sections/1_introduction/main.tex}
-\section{\label{sec::RelatedWork}Related Work}
+
+\chapter{\label{chap::RelatedWork}Related Work}
 \input{sections/2_related_work/main.tex}
-\section{\label{sec::Scope}Scope of the Thesis}
-\input{sections/1_introduction/goal.tex}
 
 \chapter{\label{chap::Approach}Approach}
 \input{sections/3_approach/main.tex}
-\section{\label{sec::RequirementAnalysis}Requirement Analysis}
-\input{sections/3_approach/requirement_analysis/main.tex}
-\section{\label{sec::Concept}Concept}
-\input{sections/3_approach/concept/main.tex}
 
 \chapter{\label{chap::Implementation}Implementation}
 \input{sections/4_implementation/main.tex}
-\section{\label{sec::Features}Features}
-\input{sections/4_implementation/features/main.tex}
-\section{\label{sec::Workflow}Workflow}
-\input{sections/4_implementation/workflow/main.tex}
-\section{\label{sec::InteractionFlow}Interaction Flow}
-\input{sections/4_implementation/interaction_flow/main.tex}
-\section{\label{sec::UserInterface}User Interface}
-\input{sections/4_implementation/user_interface/main.tex}
 
 \chapter{\label{chap::Evaluation}Evaluation}
 \input{sections/5_evaluation/main.tex}
-\section{\label{sec::Methology}System Usability Study}
-\input{sections/5_evaluation/methology/main.tex}
-\section{\label{sec::Results}Results}
-\input{sections/5_evaluation/results/main.tex}
 
 \chapter{\label{chap::Discussion}Discussion}
 \input{sections/6_discussion/main.tex}
@@ -103,8 +87,5 @@
 \chapter{\label{chap::Conclusion}Conclusion}
 \input{sections/7_conclusion/main.tex}
 
-\bibliography{ms_thesis,ms_endnote,ms_thesis_citavi_refs}
-\bibliographystyle{apalike}
-%\bibliographystyle{ieeetr}
-
+\printbibliography
 \end{document}

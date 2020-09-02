@@ -1,245 +1,2630 @@
-\begin{thebibliography}{}
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
 
-\bibitem[DIC, ]{DICOMStandard}
-{\em Digital Imaging and Communications in Medicine (DICOM) Standard}.
-\newblock National Electrical Manufacturers Association, Rosslyn, VA, USA.
 
-\bibitem[Viv, ]{Vive}
-Htc vive.
-\newblock \url{https://www.vive.com/us/}.
-\newblock Accessed: 2020-08-21.
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{Ayoub.2019}{article}{}
+      \name{author}{2}{}{%
+        {{hash=65f110b853a356d395b877ed332c8dd3}{%
+           family={Ayoub},
+           familyi={A\bibinitperiod},
+           given={Ashraf},
+           giveni={A\bibinitperiod}}}%
+        {{hash=6a55758049d565511a05316608c24457}{%
+           family={Pulijala},
+           familyi={P\bibinitperiod},
+           given={Yeshwanth},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{4968eb02febf517557ba5262a0afb6e4}
+      \strng{fullhash}{4968eb02febf517557ba5262a0afb6e4}
+      \strng{bibnamehash}{4968eb02febf517557ba5262a0afb6e4}
+      \strng{authorbibnamehash}{4968eb02febf517557ba5262a0afb6e4}
+      \strng{authornamehash}{4968eb02febf517557ba5262a0afb6e4}
+      \strng{authorfullhash}{4968eb02febf517557ba5262a0afb6e4}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{BACKGROUND Virtual reality is the science of creating a virtual environment for the assessment of various anatomical regions of the body for the diagnosis, planning and surgical training. Augmented reality is the superimposition of a 3D real environment specific to individual patient onto the surgical filed using semi-transparent glasses to augment the virtual scene.. The aim of this study is to provide an over view of the literature on the application of virtual and augmented reality in oral {\&} maxillofacial surgery. METHODS We reviewed the literature and the existing database using Ovid MEDLINE search, Cochran Library and PubMed. All the studies in the English literature in the last 10 years, from 2009 to 2019 were included. RESULTS We identified 101 articles related the broad application of virtual reality in oral {\&} maxillofacial surgery. These included the following: Eight systematic reviews, 4 expert reviews, 9 case reports, 5 retrospective surveys, 2 historical perspectives, 13 manuscripts on virtual education and training, 5 on haptic technology, 4 on augmented reality, 10 on image fusion, 41 articles on the prediction planning for orthognathic surgery and maxillofacial reconstruction. Dental implantology and orthognathic surgery are the most frequent applications of virtual reality and augmented reality. Virtual planning improved the accuracy of inserting dental implants using either a statistic guidance or dynamic navigation. In orthognathic surgery, prediction planning and intraoperative navigation are the main applications of virtual reality. Virtual reality has been utilised to improve the delivery of education and the quality of training in oral {\&} maxillofacial surgery by creating a virtual environment of the surgical procedure. Haptic feedback provided an additional immersive reality to improve manual dexterity and improve clinical training. CONCLUSION Virtual and augmented reality have contributed to the planning of maxillofacial procedures and surgery training. Few articles highlighted the importance of this technology in improving the quality of patients' care. There are limited prospective randomized studies comparing the impact of virtual reality with the standard methods in delivering oral surgery education. BACKGROUND Virtual reality is the science of creating a virtual environment for the assessment of various anatomical regions of the body for the diagnosis, planning and surgical training. Augmented reality is the superimposition of a 3D real environment specific to individual patient onto the surgical filed using semi-transparent glasses to augment the virtual scene.. The aim of this study is to provide an over view of the literature on the application of virtual and augmented reality in oral {\&} maxillofacial surgery. METHODS We reviewed the literature and the existing database using Ovid MEDLINE search, Cochran Library and PubMed. All the studies in the English literature in the last 10 years, from 2009 to 2019 were included. RESULTS We identified 101 articles related the broad application of virtual reality in oral {\&} maxillofacial surgery. These included the following: Eight systematic reviews, 4 expert reviews, 9 case reports, 5 retrospective surveys, 2 historical perspectives, 13 manuscripts on virtual education and training, 5 on haptic technology, 4 on augmented reality, 10 on image fusion, 41 articles on the prediction planning for orthognathic surgery and maxillofacial reconstruction. Dental implantology and orthognathic surgery are the most frequent applications of virtual reality and augmented reality. Virtual planning improved the accuracy of inserting dental implants using either a statistic guidance or dynamic navigation. In orthognathic surgery, prediction planning and intraoperative navigation are the main applications of virtual reality. Virtual reality has been utilised to improve the delivery of education and the quality of training in oral {\&} maxillofacial surgery by creating a virtual environment of the surgical procedure. Haptic feedback provided an additional immersive reality to improve manual dexterity and improve clinical training. CONCLUSION Virtual and augmented reality have contributed to the planning of maxillofacial procedures and surgery training. Few articles highlighted the importance of this technology in improving the quality of patients' care. There are limited prospective randomized studies comparing the impact of virtual reality with the standard methods in delivering oral surgery education. // BACKGROUND Virtual reality is the science of creating a virtual environment for the assessment of various anatomical regions of the body for the diagnosis, planning and surgical training. Augmented reality is the superimposition of a 3D real environment specific to individual patient onto the surgical filed using semi-transparent glasses to augment the virtual scene.. The aim of this study is to provide an over view of the literature on the application of virtual and augmented reality in oral {\&} maxillofacial surgery. METHODS We reviewed the literature and the existing database using Ovid MEDLINE search, Cochran Library and PubMed. All the studies in the English literature in the last 10 years, from 2009 to 2019 were included. RESULTS We identified 101 articles related the broad application of virtual reality in oral {\&} maxillofacial surgery. These included the following: Eight systematic reviews, 4 expert reviews, 9 case reports, 5 retrospective surveys, 2 historical perspectives, 13 manuscripts on virtual education and training, 5 on haptic technology, 4 on augmented reality, 10 on image fusion, 41 articles on the prediction planning for orthognathic surgery and maxillofacial reconstruction. Dental implantology and orthognathic surgery are the most frequent applications of virtual reality and augmented reality. Virtual planning improved the accuracy of inserting dental implants using either a statistic guidance or dynamic navigation. In orthognathic surgery, prediction planning and intraoperative navigation are the main applications of virtual reality. Virtual reality has been utilised to improve the delivery of education and the quality of training in oral {\&} maxillofacial surgery by creating a virtual environment of the surgical procedure. Haptic feedback provided an additional immersive reality to improve manual dexterity and improve clinical training. CONCLUSION Virtual and augmented reality have contributed to the planning of maxillofacial procedures and surgery training. Few articles highlighted the importance of this technology in improving the quality of patients' care. There are limited prospective randomized studies comparing the impact of virtual reality with the standard methods in delivering oral surgery education.}
+      \field{issn}{1472-6831}
+      \field{journaltitle}{BMC Oral Health}
+      \field{number}{1}
+      \field{title}{The application of virtual reality and augmented reality in Oral {\&} Maxillofacial Surgery}
+      \field{volume}{19}
+      \field{year}{2019}
+      \field{pages}{238}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s12903-019-0937-8
+      \endverb
+      \verb{file}
+      \verb 06b9739b-863d-4071-a79e-75c85ab69aee:C\:\\Users\\Filip Kajzer\\AppData\\Local\\Swiss Academic Software\\Citavi 6\\ProjectCache\\e8uxlld2monc8vwugtmmvoj48jc04ip5gg03ezrnex3\\Citavi Attachments\\06b9739b-863d-4071-a79e-75c85ab69aee.pdf:pdf
+      \endverb
+    \endentry
+    \entry{RN63}{article}{}
+      \name{author}{5}{}{%
+        {{hash=71fcd9d85dd685289616d6c5a03b1ce4}{%
+           family={Banks},
+           familyi={B\bibinitperiod},
+           given={Erika\bibnamedelima H},
+           giveni={E\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=3ae4b9dff045d1cd6b16c6e83ee05884}{%
+           family={Chudnoff},
+           familyi={C\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b1e2ec38d6a289e8f82672baf0e85729}{%
+           family={Karmin},
+           familyi={K\bibinitperiod},
+           given={Ira},
+           giveni={I\bibinitperiod}}}%
+        {{hash=b64fdadc9e34e556eda54522ef70e50a}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Cuiling},
+           giveni={C\bibinitperiod}}}%
+        {{hash=aac0c1381567a81eda2cc1aa8832e2a8}{%
+           family={Pardanani},
+           familyi={P\bibinitperiod},
+           given={Setul},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{7a02c3996975d8d5b7161d419e68fa4a}
+      \strng{fullhash}{99324cdcb0dd19a61f9a83f4bb9e8aa9}
+      \strng{bibnamehash}{99324cdcb0dd19a61f9a83f4bb9e8aa9}
+      \strng{authorbibnamehash}{99324cdcb0dd19a61f9a83f4bb9e8aa9}
+      \strng{authornamehash}{7a02c3996975d8d5b7161d419e68fa4a}
+      \strng{authorfullhash}{99324cdcb0dd19a61f9a83f4bb9e8aa9}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American journal of obstetrics and gynecology}
+      \field{number}{5}
+      \field{title}{Does a surgical simulator improve resident operative performance of laparoscopic tubal ligation?}
+      \field{type}{Journal Article}
+      \field{volume}{197}
+      \field{year}{2007}
+      \field{pages}{541\bibrangedash e1}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1016/j.ajog.2007.07.028
+      \endverb
+    \endentry
+    \entry{Barber.2020}{article}{}
+      \name{author}{7}{}{%
+        {{hash=f7685064b232eda91718a35b92f08162}{%
+           family={Barber},
+           familyi={B\bibinitperiod},
+           given={Samuel\bibnamedelima R.},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=7232a25490dbeb9c887eb8b3b09f3edb}{%
+           family={Jain},
+           familyi={J\bibinitperiod},
+           given={Saurabh},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c4162375b4beed35e8f200dbee02f396}{%
+           family={Mooney},
+           familyi={M\bibinitperiod},
+           given={Michael\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=8c153daef6ab81c3a79a737fa10f5dac}{%
+           family={Almefty},
+           familyi={A\bibinitperiod},
+           given={Kaith\bibnamedelima K.},
+           giveni={K\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=c5b7af0c6b44774ebf8e1f07bb470d99}{%
+           family={Lawton},
+           familyi={L\bibinitperiod},
+           given={Michael\bibnamedelima T.},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=991709df0688666f2d0f501e7805ff92}{%
+           family={Son},
+           familyi={S\bibinitperiod},
+           given={Young-Jun},
+           giveni={Y\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=8c3669566495f0feb7a262d19d5ef81d}{%
+           family={Stevens},
+           familyi={S\bibinitperiod},
+           given={Shawn\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{b5ee9c2c2bf6f2fc28235538e64ec4c2}
+      \strng{fullhash}{25e3a9be2f05b20e268bb445a9fca365}
+      \strng{bibnamehash}{25e3a9be2f05b20e268bb445a9fca365}
+      \strng{authorbibnamehash}{25e3a9be2f05b20e268bb445a9fca365}
+      \strng{authornamehash}{b5ee9c2c2bf6f2fc28235538e64ec4c2}
+      \strng{authorfullhash}{25e3a9be2f05b20e268bb445a9fca365}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Mastery of lateral skull base (LSB) surgery requires thorough knowledge of complex, 3-dimensional (3D) microanatomy and techniques. While supervised operation under binocular microscopy remains the training gold standard, concerns over operative time and patient safety often limit novice surgeons' stereoscopic exposure. Furthermore, most alternative educational resources cannot meet this need. Here we present proof of concept for a tool that combines 3D-operative video with an interactive, stereotactic teaching environment. Stereoscopic video was recorded with a microscope during translabyrinthine approaches for vestibular schwannoma. Digital imaging and communications in medicine (DICOM) temporal bone computed tomography images were segmented using 3D-Slicer. Files were rendered using a game engine software built for desktop virtual reality. The resulting simulation was an interactive immersion combining a 3D operative perspective from the lead surgeon's chair with virtual reality temporal bone models capable of hands-on manipulation, label toggling, and transparency modification. This novel tool may alter LSB training paradigms. Mastery of lateral skull base (LSB) surgery requires thorough knowledge of complex, 3-dimensional (3D) microanatomy and techniques. While supervised operation under binocular microscopy remains the training gold standard, concerns over operative time and patient safety often limit novice surgeons' stereoscopic exposure. Furthermore, most alternative educational resources cannot meet this need. Here we present proof of concept for a tool that combines 3D-operative video with an interactive, stereotactic teaching environment. Stereoscopic video was recorded with a microscope during translabyrinthine approaches for vestibular schwannoma. Digital imaging and communications in medicine (DICOM) temporal bone computed tomography images were segmented using 3D-Slicer. Files were rendered using a game engine software built for desktop virtual reality. The resulting simulation was an interactive immersion combining a 3D operative perspective from the lead surgeon's chair with virtual reality temporal bone models capable of hands-on manipulation, label toggling, and transparency modification. This novel tool may alter LSB training paradigms. // Mastery of lateral skull base (LSB) surgery requires thorough knowledge of complex, 3-dimensional (3D) microanatomy and techniques. While supervised operation under binocular microscopy remains the training gold standard, concerns over operative time and patient safety often limit novice surgeons' stereoscopic exposure. Furthermore, most alternative educational resources cannot meet this need. Here we present proof of concept for a tool that combines 3D-operative video with an interactive, stereotactic teaching environment. Stereoscopic video was recorded with a microscope during translabyrinthine approaches for vestibular schwannoma. Digital imaging and communications in medicine (DICOM) temporal bone computed tomography images were segmented using 3D-Slicer. Files were rendered using a game engine software built for desktop virtual reality. The resulting simulation was an interactive immersion combining a 3D operative perspective from the lead surgeon's chair with virtual reality temporal bone models capable of hands-on manipulation, label toggling, and transparency modification. This novel tool may alter LSB training paradigms.}
+      \field{issn}{0194-5998}
+      \field{journaltitle}{Otolaryngology--head and neck surgery : official journal of American Academy of Otolaryngology-Head and Neck Surgery}
+      \field{number}{6}
+      \field{title}{Combining Stereoscopic Video and Virtual Reality Simulation to Maximize Education in Lateral Skull Base Surgery}
+      \field{volume}{162}
+      \field{year}{2020}
+      \field{pages}{922\bibrangedash 925}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1177/0194599820907866
+      \endverb
+      \verb{file}
+      \verb 027be853-9766-45f8-ace9-880270e1ce5e:C\:\\Users\\Filip Kajzer\\AppData\\Local\\Swiss Academic Software\\Citavi 6\\ProjectCache\\e8uxlld2monc8vwugtmmvoj48jc04ip5gg03ezrnex3\\Citavi Attachments\\027be853-9766-45f8-ace9-880270e1ce5e.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Barber.2018}{article}{}
+      \name{author}{4}{}{%
+        {{hash=f7685064b232eda91718a35b92f08162}{%
+           family={Barber},
+           familyi={B\bibinitperiod},
+           given={Samuel\bibnamedelima R.},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=7232a25490dbeb9c887eb8b3b09f3edb}{%
+           family={Jain},
+           familyi={J\bibinitperiod},
+           given={Saurabh},
+           giveni={S\bibinitperiod}}}%
+        {{hash=991709df0688666f2d0f501e7805ff92}{%
+           family={Son},
+           familyi={S\bibinitperiod},
+           given={Young-Jun},
+           giveni={Y\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=316196718fe0183dcf8e47808401257d}{%
+           family={Chang},
+           familyi={C\bibinitperiod},
+           given={Eugene\bibnamedelima H.},
+           giveni={E\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{b5ee9c2c2bf6f2fc28235538e64ec4c2}
+      \strng{fullhash}{29cbce231e1b1ffca85782ee0ed2241c}
+      \strng{bibnamehash}{29cbce231e1b1ffca85782ee0ed2241c}
+      \strng{authorbibnamehash}{29cbce231e1b1ffca85782ee0ed2241c}
+      \strng{authornamehash}{b5ee9c2c2bf6f2fc28235538e64ec4c2}
+      \strng{authorfullhash}{29cbce231e1b1ffca85782ee0ed2241c}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The surgeon's knowledge of a patient's individual anatomy is critical in skull base surgery. Trainees and experienced surgeons can benefit from surgical simulation; however, current models are expensive and impractical for widespread use. In this study, we report a next-generation mixed-reality surgical simulator. We segmented critical anatomic structures for 3-dimensional (3D) models to develop a modular teaching tool. We then developed a navigation tracking system utilizing a 3D-printed endoscope as a trackable virtual-reality (VR) controller and validated the accuracy on VR and 3D-printed skull models within 1 cm. We combined VR and augmented-reality visual cues with our 3D physical model to simulate sinus endoscopy and highlight segmented structures in real time. This report provides evidence that a mixed-reality simulator combining VR and 3D-printed models is feasible and may prove useful as an educational tool that is low cost and customizable. The surgeon's knowledge of a patient's individual anatomy is critical in skull base surgery. Trainees and experienced surgeons can benefit from surgical simulation; however, current models are expensive and impractical for widespread use. In this study, we report a next-generation mixed-reality surgical simulator. We segmented critical anatomic structures for 3-dimensional (3D) models to develop a modular teaching tool. We then developed a navigation tracking system utilizing a 3D-printed endoscope as a trackable virtual-reality (VR) controller and validated the accuracy on VR and 3D-printed skull models within 1 cm. We combined VR and augmented-reality visual cues with our 3D physical model to simulate sinus endoscopy and highlight segmented structures in real time. This report provides evidence that a mixed-reality simulator combining VR and 3D-printed models is feasible and may prove useful as an educational tool that is low cost and customizable. // The surgeon's knowledge of a patient's individual anatomy is critical in skull base surgery. Trainees and experienced surgeons can benefit from surgical simulation; however, current models are expensive and impractical for widespread use. In this study, we report a next-generation mixed-reality surgical simulator. We segmented critical anatomic structures for 3-dimensional (3D) models to develop a modular teaching tool. We then developed a navigation tracking system utilizing a 3D-printed endoscope as a trackable virtual-reality (VR) controller and validated the accuracy on VR and 3D-printed skull models within 1 cm. We combined VR and augmented-reality visual cues with our 3D physical model to simulate sinus endoscopy and highlight segmented structures in real time. This report provides evidence that a mixed-reality simulator combining VR and 3D-printed models is feasible and may prove useful as an educational tool that is low cost and customizable.}
+      \field{issn}{0194-5998}
+      \field{journaltitle}{Otolaryngology--head and neck surgery : official journal of American Academy of Otolaryngology-Head and Neck Surgery}
+      \field{number}{5}
+      \field{title}{Virtual Functional Endoscopic Sinus Surgery Simulation with 3D-Printed Models for Mixed-Reality Nasal Endoscopy}
+      \field{volume}{159}
+      \field{year}{2018}
+      \field{pages}{933\bibrangedash 937}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1177/0194599818797586
+      \endverb
+      \verb{file}
+      \verb 4946e5ac-068c-48df-af5e-5e1fe74209c5:C\:\\Users\\Filip Kajzer\\AppData\\Local\\Swiss Academic Software\\Citavi 6\\ProjectCache\\e8uxlld2monc8vwugtmmvoj48jc04ip5gg03ezrnex3\\Citavi Attachments\\4946e5ac-068c-48df-af5e-5e1fe74209c5.pdf:pdf
+      \endverb
+    \endentry
+    \entry{bartneck2015robot}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=915cdb538b6f54be1e2555eb214cffb2}{%
+           family={Bartneck},
+           familyi={B\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod}}}%
+        {{hash=e984876a7038a2488e1d1ddd11b7f882}{%
+           family={Soucy},
+           familyi={S\bibinitperiod},
+           given={Marius},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a73069433b2e3560929edb2dddce87c8}{%
+           family={Fleuret},
+           familyi={F\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=8f77a870d8718ff109e438610fbcb189}{%
+           family={Sandoval},
+           familyi={S\bibinitperiod},
+           given={Eduardo\bibnamedelima B},
+           giveni={E\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{15ff32e9a563369971750b8008589ffb}
+      \strng{fullhash}{ea26060c880f1c16bfb4b1b8c8ac1edd}
+      \strng{bibnamehash}{ea26060c880f1c16bfb4b1b8c8ac1edd}
+      \strng{authorbibnamehash}{ea26060c880f1c16bfb4b1b8c8ac1edd}
+      \strng{authornamehash}{15ff32e9a563369971750b8008589ffb}
+      \strng{authorfullhash}{ea26060c880f1c16bfb4b1b8c8ac1edd}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2015 24th IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN)}
+      \field{title}{The robot engine—Making the unity 3D game engine work for HRI}
+      \field{year}{2015}
+      \field{pages}{431\bibrangedash 437}
+      \range{pages}{7}
+    \endentry
+    \entry{Berni.2020}{article}{}
+      \name{author}{2}{}{%
+        {{hash=a085c4c22697e5920781f72aaa26e8d2}{%
+           family={Berni},
+           familyi={B\bibinitperiod},
+           given={Aurora},
+           giveni={A\bibinitperiod}}}%
+        {{hash=993282abd4da2e5084933a99709c3138}{%
+           family={Borgianni},
+           familyi={B\bibinitperiod},
+           given={Yuri},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{38cf26d9529cee04f119a53accbe796e}
+      \strng{fullhash}{38cf26d9529cee04f119a53accbe796e}
+      \strng{bibnamehash}{38cf26d9529cee04f119a53accbe796e}
+      \strng{authorbibnamehash}{38cf26d9529cee04f119a53accbe796e}
+      \strng{authornamehash}{38cf26d9529cee04f119a53accbe796e}
+      \strng{authorfullhash}{38cf26d9529cee04f119a53accbe796e}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Electronics}
+      \field{number}{7}
+      \field{title}{Applications of Virtual Reality in Engineering and Product Design: Why, What, How, When and Where}
+      \field{volume}{9}
+      \field{year}{2020}
+      \field{pages}{1064}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/electronics9071064
+      \endverb
+      \verb{file}
+      \verb 3e75a15d-5552-49a9-9b00-07cef6d1e979:C\:\\Users\\Filip Kajzer\\AppData\\Local\\Swiss Academic Software\\Citavi 6\\ProjectCache\\e8uxlld2monc8vwugtmmvoj48jc04ip5gg03ezrnex3\\Citavi Attachments\\3e75a15d-5552-49a9-9b00-07cef6d1e979.pdf:pdf
+      \endverb
+    \endentry
+    \entry{brewster1984interactive}{article}{}
+      \name{author}{4}{}{%
+        {{hash=81b555ec5681d8280d4cd3366f6ba5c4}{%
+           family={Brewster},
+           familyi={B\bibinitperiod},
+           given={Linda\bibnamedelima J},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=58f5a31d16298b4536509af4798be509}{%
+           family={Trivedi},
+           familyi={T\bibinitperiod},
+           given={Sushma\bibnamedelima S},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=a908242ac3ea863c76b68b9b2eda4687}{%
+           family={Tuy},
+           familyi={T\bibinitperiod},
+           given={Heang\bibnamedelima K},
+           giveni={H\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=35915abae1fc075e7821859efd6a59a7}{%
+           family={Udupa},
+           familyi={U\bibinitperiod},
+           given={Jayaram\bibnamedelima K},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{8c7ab44835e09b827aa79e80097f8d19}
+      \strng{fullhash}{6621be3a2c551c27c5eea5af5f708f5e}
+      \strng{bibnamehash}{6621be3a2c551c27c5eea5af5f708f5e}
+      \strng{authorbibnamehash}{6621be3a2c551c27c5eea5af5f708f5e}
+      \strng{authornamehash}{8c7ab44835e09b827aa79e80097f8d19}
+      \strng{authorfullhash}{6621be3a2c551c27c5eea5af5f708f5e}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Computer Graphics and Applications}
+      \field{number}{3}
+      \field{title}{Interactive surgical planning}
+      \field{volume}{4}
+      \field{year}{1984}
+      \field{pages}{31\bibrangedash 40}
+      \range{pages}{10}
+    \endentry
+    \entry{burdea2003virtual}{book}{}
+      \name{author}{2}{}{%
+        {{hash=d32f1bfd8d50d807d9f80f323e1246cf}{%
+           family={Burdea},
+           familyi={B\bibinitperiod},
+           given={Grigore\bibnamedelima C},
+           giveni={G\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=5a5c9213175b7eb40edac4fc98328b76}{%
+           family={Coiffet},
+           familyi={C\bibinitperiod},
+           given={Philippe},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons}%
+      }
+      \strng{namehash}{b2f95f905b83b8820cefd18872518c0e}
+      \strng{fullhash}{b2f95f905b83b8820cefd18872518c0e}
+      \strng{bibnamehash}{b2f95f905b83b8820cefd18872518c0e}
+      \strng{authorbibnamehash}{b2f95f905b83b8820cefd18872518c0e}
+      \strng{authornamehash}{b2f95f905b83b8820cefd18872518c0e}
+      \strng{authorfullhash}{b2f95f905b83b8820cefd18872518c0e}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Virtual reality technology}
+      \field{year}{2003}
+    \endentry
+    \entry{RN59}{article}{}
+      \name{author}{1}{}{%
+        {{hash=cd85334fd8db73aec2e21864837c8252}{%
+           family={Camp},
+           familyi={C\bibinitperiod},
+           given={C.\bibnamedelimi L.},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{cd85334fd8db73aec2e21864837c8252}
+      \strng{fullhash}{cd85334fd8db73aec2e21864837c8252}
+      \strng{bibnamehash}{cd85334fd8db73aec2e21864837c8252}
+      \strng{authorbibnamehash}{cd85334fd8db73aec2e21864837c8252}
+      \strng{authornamehash}{cd85334fd8db73aec2e21864837c8252}
+      \strng{authorfullhash}{cd85334fd8db73aec2e21864837c8252}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1526-3231 (Electronic) 0749-8063 (Linking)}
+      \field{journaltitle}{Arthroscopy}
+      \field{number}{5}
+      \field{title}{Editorial Commentary: "Virtual Reality" Simulation in Orthopaedic Surgery: Realistically Helpful, or Virtually Useless?}
+      \field{type}{Journal Article}
+      \field{volume}{34}
+      \field{year}{2018}
+      \field{pages}{1678\bibrangedash 1679}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1016/j.arthro.2018.02.042
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pubmed/29729767
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pubmed/29729767
+      \endverb
+    \endentry
+    \entry{DICOMStandard}{book}{}
+      \list{publisher}{1}{%
+        {National Electrical Manufacturers Association, Rosslyn, VA, USA}%
+      }
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labeltitlesource}{title}
+      \field{title}{Digital Imaging and Communications in Medicine (DICOM) Standard}
+      \verb{urlraw}
+      \verb \url{http://www.dicomstandard.org/}
+      \endverb
+      \verb{url}
+      \verb %5Curl%7Bhttp://www.dicomstandard.org/%7D
+      \endverb
+    \endentry
+    \entry{Ellis.2005}{book}{}
+      \name{author}{2}{}{%
+        {{hash=bfd2ec265972bddb7ee884185538aa60}{%
+           family={Ellis},
+           familyi={E\bibinitperiod},
+           given={Edward},
+           giveni={E\bibinitperiod}}}%
+        {{hash=7be81fa822cd0a8eb3c3b761924f0770}{%
+           family={Zide},
+           familyi={Z\bibinitperiod},
+           given={Michael\bibnamedelima F.},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{location}{2}{%
+        {Philadelphia, Pa.}%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Lippincott Williams {\&} Wilkins}%
+      }
+      \strng{namehash}{6e76f7d9ba2436f23b2a47f1ad936b80}
+      \strng{fullhash}{6e76f7d9ba2436f23b2a47f1ad936b80}
+      \strng{bibnamehash}{6e76f7d9ba2436f23b2a47f1ad936b80}
+      \strng{authorbibnamehash}{6e76f7d9ba2436f23b2a47f1ad936b80}
+      \strng{authornamehash}{6e76f7d9ba2436f23b2a47f1ad936b80}
+      \strng{authorfullhash}{6e76f7d9ba2436f23b2a47f1ad936b80}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2nd ed.}
+      \field{isbn}{9780781754996}
+      \field{title}{Surgical approaches to the facial skeleton}
+      \field{year}{2005}
+      \verb{file}
+      \verb http://www.loc.gov/catdir/toc/ecip0518/2005025296.html
+      \endverb
+      \verb{urlraw}
+      \verb http://www.loc.gov/catdir/enhancements/fy0712/2005025296-d.html
+      \endverb
+      \verb{url}
+      \verb http://www.loc.gov/catdir/enhancements/fy0712/2005025296-d.html
+      \endverb
+    \endentry
+    \entry{Fonseca.2018}{book}{}
+      \name{author}{1}{}{%
+        {{hash=b20f1994d7968dfa93f36dad07248e7a}{%
+           family={Fonseca},
+           familyi={F\bibinitperiod},
+           given={Raymond\bibnamedelima J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {St. Louis, Missouri}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{b20f1994d7968dfa93f36dad07248e7a}
+      \strng{fullhash}{b20f1994d7968dfa93f36dad07248e7a}
+      \strng{bibnamehash}{b20f1994d7968dfa93f36dad07248e7a}
+      \strng{authorbibnamehash}{b20f1994d7968dfa93f36dad07248e7a}
+      \strng{authornamehash}{b20f1994d7968dfa93f36dad07248e7a}
+      \strng{authorfullhash}{b20f1994d7968dfa93f36dad07248e7a}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{Third edition}
+      \field{isbn}{9780323414999}
+      \field{title}{Oral and maxillofacial surgery}
+      \field{year}{2018}
+    \endentry
+    \entry{RN60}{article}{}
+      \name{author}{8}{}{%
+        {{hash=374b3690e1759bf1a9fe6ecf8a7fcc99}{%
+           family={Gallagher},
+           familyi={G\bibinitperiod},
+           given={A.\bibnamedelimi G.},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=23b261a33d1a8b4a30ab98c1d3679a88}{%
+           family={Ritter},
+           familyi={R\bibinitperiod},
+           given={E.\bibnamedelimi M.},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=653199df65acb458341c185b04c048cf}{%
+           family={Champion},
+           familyi={C\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=68377a8427cdc8427ee1714f6f475df2}{%
+           family={Higgins},
+           familyi={H\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=4b56320f9cd1e5e0954ea56c76990bb6}{%
+           family={Fried},
+           familyi={F\bibinitperiod},
+           given={M.\bibnamedelimi P.},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=d13e5e2ddddef0fbda9f9362759137cf}{%
+           family={Moses},
+           familyi={M\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=665e098d46a10975e2b18691d9bd1c0b}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={C.\bibnamedelimi D.},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=e73bfacd548a6909ae468e5932ef7dae}{%
+           family={Satava},
+           familyi={S\bibinitperiod},
+           given={R.\bibnamedelimi M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{09f3d38b797097c09a8147ef08525e13}
+      \strng{fullhash}{3f3c8fa7087e63838cd6bacbb9683eca}
+      \strng{bibnamehash}{3f3c8fa7087e63838cd6bacbb9683eca}
+      \strng{authorbibnamehash}{3f3c8fa7087e63838cd6bacbb9683eca}
+      \strng{authornamehash}{09f3d38b797097c09a8147ef08525e13}
+      \strng{authorfullhash}{3f3c8fa7087e63838cd6bacbb9683eca}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0003-4932 (Print) 0003-4932 (Linking)}
+      \field{journaltitle}{Ann Surg}
+      \field{number}{2}
+      \field{title}{Virtual reality simulation for the operating room: proficiency-based training as a paradigm shift in surgical skills training}
+      \field{type}{Journal Article}
+      \field{volume}{241}
+      \field{year}{2005}
+      \field{pages}{364\bibrangedash 72}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1097/01.sla.0000151982.85062.80
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pubmed/15650649
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pubmed/15650649
+      \endverb
+    \endentry
+    \entry{gomez2019techniques}{article}{}
+      \name{author}{7}{}{%
+        {{hash=ef4ee7f81dd54bc84840fe74e360cd83}{%
+           family={Gomez},
+           familyi={G\bibinitperiod},
+           given={Ernest\bibnamedelima D},
+           giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=962b45775df6c2688d9b2efd8abb6ad3}{%
+           family={Thaler},
+           familyi={T\bibinitperiod},
+           given={Erica\bibnamedelima R},
+           giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=8f688fab16417c228e80e9ffe161eab0}{%
+           family={O’Malley},
+           familyi={O\bibinitperiod},
+           given={Bert\bibnamedelima W},
+           giveni={B\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=3246721cd6aabe0b26a1c87a330ef058}{%
+           family={Rassekh},
+           familyi={R\bibinitperiod},
+           given={Christopher\bibnamedelima H},
+           giveni={C\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=dab6ae04ab4dbe65676ae44b586a20bd}{%
+           family={Weinstein},
+           familyi={W\bibinitperiod},
+           given={Gregory\bibnamedelima S},
+           giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=8b6a3e60991ad74f96cc9b37cf788c18}{%
+           family={Newman},
+           familyi={N\bibinitperiod},
+           given={Jason\bibnamedelima G},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=6073c8086b26782cb549e0790ad840b8}{%
+           family={Brody},
+           familyi={B\bibinitperiod},
+           given={Robert\bibnamedelima M},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{cf0f44c708b990c12a45e4b76bc78228}
+      \strng{fullhash}{aa3c474c2b5760b2da24929a445cfb23}
+      \strng{bibnamehash}{aa3c474c2b5760b2da24929a445cfb23}
+      \strng{authorbibnamehash}{aa3c474c2b5760b2da24929a445cfb23}
+      \strng{authornamehash}{cf0f44c708b990c12a45e4b76bc78228}
+      \strng{authorfullhash}{aa3c474c2b5760b2da24929a445cfb23}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Robotic Surgery}
+      \field{number}{4}
+      \field{title}{Techniques for developing and viewing stereoscopic three-dimensional teaching videos for transoral robotic surgery (TORS)}
+      \field{volume}{13}
+      \field{year}{2019}
+      \field{pages}{581\bibrangedash 584}
+      \range{pages}{4}
+    \endentry
+    \entry{RN62}{article}{}
+      \name{author}{6}{}{%
+        {{hash=5ee887148de72c1f92cc0fb4e9956c3c}{%
+           family={Grantcharov},
+           familyi={G\bibinitperiod},
+           given={T.\bibnamedelimi P.},
+           giveni={T\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=3d7e06cbd8eeff6ab0f97295a940a39d}{%
+           family={Kristiansen},
+           familyi={K\bibinitperiod},
+           given={V.\bibnamedelimi B.},
+           giveni={V\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=06fe2779ee6d54e3ea34d8f0d281f6f2}{%
+           family={Bendix},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f6bb7b44345fdd4789832c956f16265a}{%
+           family={Bardram},
+           familyi={B\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=54a9b22f20af354dc27ac5eabf6bc719}{%
+           family={Rosenberg},
+           familyi={R\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=eae7e2cf3f6a8f8be3ae059f5102ca3b}{%
+           family={Funch-Jensen},
+           familyi={F\bibinithyphendelim J\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{8c7cd95d581ea28c6a6f83d830a16018}
+      \strng{fullhash}{feb3cfa11f60f33b10c702653f65e0b0}
+      \strng{bibnamehash}{feb3cfa11f60f33b10c702653f65e0b0}
+      \strng{authorbibnamehash}{feb3cfa11f60f33b10c702653f65e0b0}
+      \strng{authornamehash}{8c7cd95d581ea28c6a6f83d830a16018}
+      \strng{authorfullhash}{feb3cfa11f60f33b10c702653f65e0b0}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0007-1323 (Print) 0007-1323 (Linking)}
+      \field{journaltitle}{Br J Surg}
+      \field{number}{2}
+      \field{title}{Randomized clinical trial of virtual reality simulation for laparoscopic skills training}
+      \field{type}{Journal Article}
+      \field{volume}{91}
+      \field{year}{2004}
+      \field{pages}{146\bibrangedash 50}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1002/bjs.4407
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pubmed/14760660
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pubmed/14760660
+      \endverb
+    \endentry
+    \entry{Handels.2009}{book}{}
+      \name{author}{1}{}{%
+        {{hash=90df404e4b5c3d2e93a145a048f7f966}{%
+           family={Handels},
+           familyi={H\bibinitperiod},
+           given={Heinz},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Vieweg+Teubner}%
+      }
+      \strng{namehash}{90df404e4b5c3d2e93a145a048f7f966}
+      \strng{fullhash}{90df404e4b5c3d2e93a145a048f7f966}
+      \strng{bibnamehash}{90df404e4b5c3d2e93a145a048f7f966}
+      \strng{authorbibnamehash}{90df404e4b5c3d2e93a145a048f7f966}
+      \strng{authornamehash}{90df404e4b5c3d2e93a145a048f7f966}
+      \strng{authorfullhash}{90df404e4b5c3d2e93a145a048f7f966}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2., {ü}berarb. und erw. Aufl.}
+      \field{isbn}{3835100777}
+      \field{series}{Vieweg+Teubner Studium}
+      \field{title}{Medizinische Bildverarbeitung: Bildanalyse, Mustererkennung und Visualisierung f{ü}r die computergest{ü}tzte {ä}rztliche Diagnostik und Therapie}
+      \field{year}{2009}
+      \verb{file}
+      \verb 43b391ba-391b-4684-86ef-c4690f59f02c:C\:\\Users\\Filip Kajzer\\AppData\\Local\\Swiss Academic Software\\Citavi 6\\ProjectCache\\e8uxlld2monc8vwugtmmvoj48jc04ip5gg03ezrnex3\\Citavi Attachments\\43b391ba-391b-4684-86ef-c4690f59f02c.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://deposit.d-nb.de/cgi-bin/dokserv?id=2998141&prov=M&dok_var=1&dok_ext=htm
+      \endverb
+      \verb{url}
+      \verb http://deposit.d-nb.de/cgi-bin/dokserv?id=2998141&prov=M&dok_var=1&dok_ext=htm
+      \endverb
+      \keyw{Bildgebendes Verfahren;Bildverarbeitung;Computergrafik;Computerunterst{ü}tztes Verfahren;Data structures (Computer science);Diagnostic Imaging / methods;Diagnostic Imaging-methods;Engineering;Engineering mathematics;Image Processing,Computer Assisted;Image Processing,Computer-Assisted;Maschinelles Sehen;Medizin;Medizinische Informatik;Medizintechnik;Radiologie;Visualisierung}
+    \endentry
+    \entry{HASSFELD20012}{article}{}
+      \name{author}{2}{}{%
+        {{hash=177ab647c598288ddb081218e8b5fb16}{%
+           family={Hassfeld},
+           familyi={H\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ca01da79d6d7d0bf0f51739bd5fdfac6}{%
+           family={Mühling},
+           familyi={M\bibinitperiod},
+           given={Joachim},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{25213974d3fa3f8c50a52b1069f35b58}
+      \strng{fullhash}{25213974d3fa3f8c50a52b1069f35b58}
+      \strng{bibnamehash}{25213974d3fa3f8c50a52b1069f35b58}
+      \strng{authorbibnamehash}{25213974d3fa3f8c50a52b1069f35b58}
+      \strng{authornamehash}{25213974d3fa3f8c50a52b1069f35b58}
+      \strng{authorfullhash}{25213974d3fa3f8c50a52b1069f35b58}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0901-5027}
+      \field{journaltitle}{International Journal of Oral and Maxillofacial Surgery}
+      \field{number}{1}
+      \field{title}{Computer assisted oral and maxillofacial surgery – a review and an assessment of technology}
+      \field{volume}{30}
+      \field{year}{2001}
+      \field{pages}{2\bibrangedash 13}
+      \range{pages}{12}
+      \verb{doi}
+      \verb https://doi.org/10.1054/ijom.2000.0024
+      \endverb
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/S0901502700900249
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0901502700900249
+      \endverb
+    \endentry
+    \entry{heilig1962sensorama}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b94991131f8ebcd9bb1d8cfed88aba52}{%
+           family={Heilig},
+           familyi={H\bibinitperiod},
+           given={Morton\bibnamedelima L},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Google Patents}%
+      }
+      \strng{namehash}{b94991131f8ebcd9bb1d8cfed88aba52}
+      \strng{fullhash}{b94991131f8ebcd9bb1d8cfed88aba52}
+      \strng{bibnamehash}{b94991131f8ebcd9bb1d8cfed88aba52}
+      \strng{authorbibnamehash}{b94991131f8ebcd9bb1d8cfed88aba52}
+      \strng{authornamehash}{b94991131f8ebcd9bb1d8cfed88aba52}
+      \strng{authorfullhash}{b94991131f8ebcd9bb1d8cfed88aba52}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{8~28}
+      \field{note}{US Patent 3,050,870}
+      \field{title}{Sensorama simulator}
+      \field{year}{1962}
+    \endentry
+    \entry{Vive}{misc}{}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2020-08-21}
+      \field{title}{HTC Vive}
+      \verb{urlraw}
+      \verb \url{https://www.vive.com/us/}
+      \endverb
+      \verb{url}
+      \verb %5Curl%7Bhttps://www.vive.com/us/%7D
+      \endverb
+    \endentry
+    \entry{RN69}{article}{}
+      \name{author}{8}{}{%
+        {{hash=db91942d7021cae7d4803e13c4c4fe08}{%
+           family={Knott},
+           familyi={K\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=f0eef0e3dc5cf232456ab1f5460e2ef4}{%
+           family={Ullrich},
+           familyi={U\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ac792fb257f68adea69cf832fa605aeb}{%
+           family={Grottke},
+           familyi={G\bibinitperiod},
+           given={Oliver},
+           giveni={O\bibinitperiod}}}%
+        {{hash=93110e7b239840a30207fa4021e4b0c6}{%
+           family={Fries},
+           familyi={F\bibinitperiod},
+           given={Thomas-Peter},
+           giveni={T\bibinithyphendelim P\bibinitperiod}}}%
+        {{hash=38d3f8d7a7ee4b8acff48251bc3b4902}{%
+           family={Gerressen},
+           familyi={G\bibinitperiod},
+           given={Marcus},
+           giveni={M\bibinitperiod}}}%
+        {{hash=35a9650c8a7a54a9e4bf1f10719b7d9d}{%
+           family={Deserno},
+           familyi={D\bibinitperiod},
+           given={Thomas\bibnamedelima Martin},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=874f198b714ce5fdf401ca8c8d78122e}{%
+           family={Rossaint},
+           familyi={R\bibinitperiod},
+           given={Rolf},
+           giveni={R\bibinitperiod}}}%
+        {{hash=8d80f52374760ae1f25c5a8ee80b0f56}{%
+           family={Kuhlen},
+           familyi={K\bibinitperiod},
+           given={Torsten\bibnamedelima W},
+           giveni={T\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{29641a8260052509ea5bff5b8db4e94e}
+      \strng{fullhash}{45870159e2e8eb4a58dda26f84b1f267}
+      \strng{bibnamehash}{45870159e2e8eb4a58dda26f84b1f267}
+      \strng{authorbibnamehash}{45870159e2e8eb4a58dda26f84b1f267}
+      \strng{authornamehash}{29641a8260052509ea5bff5b8db4e94e}
+      \strng{authorfullhash}{45870159e2e8eb4a58dda26f84b1f267}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{CURAC}
+      \field{title}{Medical training simulators for bilateral sagittal split osteotomy and regional aneasthesia in virtual environments.}
+      \field{type}{Journal Article}
+      \field{year}{2010}
+      \field{pages}{137\bibrangedash 140}
+      \range{pages}{4}
+    \endentry
+    \entry{RN61}{article}{}
+      \name{author}{8}{}{%
+        {{hash=43df7a9ff8e6a96ccd7303a4ae1f3cad}{%
+           family={Larsen},
+           familyi={L\bibinitperiod},
+           given={C.\bibnamedelimi R.},
+           giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=348dc4c270065980b999a64803d10dfe}{%
+           family={Soerensen},
+           familyi={S\bibinitperiod},
+           given={J.\bibnamedelimi L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=5ee887148de72c1f92cc0fb4e9956c3c}{%
+           family={Grantcharov},
+           familyi={G\bibinitperiod},
+           given={T.\bibnamedelimi P.},
+           giveni={T\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=50abc7cd23d1d7e15422eb958e070156}{%
+           family={Dalsgaard},
+           familyi={D\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=0d7c5e5da31e812aa12109b6ac446141}{%
+           family={Schouenborg},
+           familyi={S\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=027506887e45a80d6bbf6e702d2bd960}{%
+           family={Ottosen},
+           familyi={O\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=f4e54b6662920d3552cbc3db20331c88}{%
+           family={Schroeder},
+           familyi={S\bibinitperiod},
+           given={T.\bibnamedelimi V.},
+           giveni={T\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=9ec89da6fff2252a66cc5189df7f6e95}{%
+           family={Ottesen},
+           familyi={O\bibinitperiod},
+           given={B.\bibnamedelimi S.},
+           giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{7560f47db4329caa468190006f6ef8b1}
+      \strng{fullhash}{2ba71132ba77bb136a125a09a34c8739}
+      \strng{bibnamehash}{2ba71132ba77bb136a125a09a34c8739}
+      \strng{authorbibnamehash}{2ba71132ba77bb136a125a09a34c8739}
+      \strng{authornamehash}{7560f47db4329caa468190006f6ef8b1}
+      \strng{authorfullhash}{2ba71132ba77bb136a125a09a34c8739}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1756-1833 (Electronic) 0959-8138 (Linking)}
+      \field{journaltitle}{BMJ}
+      \field{title}{Effect of virtual reality training on laparoscopic surgery: randomised controlled trial}
+      \field{type}{Journal Article}
+      \field{volume}{338}
+      \field{year}{2009}
+      \field{pages}{b1802}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1136/bmj.b1802
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pubmed/19443914
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pubmed/19443914
+      \endverb
+    \endentry
+    \entry{LeapMotion}{misc}{}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2020-08-21}
+      \field{title}{Leap Motion}
+      \verb{urlraw}
+      \verb \url{https://www.ultraleap.com/product/leap-motion-controller/}
+      \endverb
+      \verb{url}
+      \verb %5Curl%7Bhttps://www.ultraleap.com/product/leap-motion-controller/%7D
+      \endverb
+    \endentry
+    \entry{mann1965evaluation}{article}{}
+      \name{author}{1}{}{%
+        {{hash=d34b8932a421b9e95f811914b286bfc8}{%
+           family={Mann},
+           familyi={M\bibinitperiod},
+           given={Robert\bibnamedelima W},
+           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{d34b8932a421b9e95f811914b286bfc8}
+      \strng{fullhash}{d34b8932a421b9e95f811914b286bfc8}
+      \strng{bibnamehash}{d34b8932a421b9e95f811914b286bfc8}
+      \strng{authorbibnamehash}{d34b8932a421b9e95f811914b286bfc8}
+      \strng{authornamehash}{d34b8932a421b9e95f811914b286bfc8}
+      \strng{authorfullhash}{d34b8932a421b9e95f811914b286bfc8}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Foundation Blind research Bulletin}
+      \field{number}{11}
+      \field{title}{The evaluation and simulation of mobility aids for the blind}
+      \field{year}{1965}
+      \field{pages}{93\bibrangedash 98}
+      \range{pages}{6}
+    \endentry
+    \entry{mcgaghie2011does}{article}{}
+      \name{author}{5}{}{%
+        {{hash=6b58f002456c14fd12a56a0b54adcf5d}{%
+           family={McGaghie},
+           familyi={M\bibinitperiod},
+           given={William\bibnamedelima C},
+           giveni={W\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=40b0891335d958badfd0bf8598f2ddad}{%
+           family={Issenberg},
+           familyi={I\bibinitperiod},
+           given={S\bibnamedelima Barry},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=fb9ef545ad1d8415b593959b600a2a41}{%
+           family={Cohen},
+           familyi={C\bibinitperiod},
+           given={Ms\bibnamedelima Elaine\bibnamedelima R},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=41aadbae7abd286b90ae8f46fc7a74b7}{%
+           family={Barsuk},
+           familyi={B\bibinitperiod},
+           given={Jeffrey\bibnamedelima H},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=4dab567d9a40afe4cc3e278c62aff100}{%
+           family={Wayne},
+           familyi={W\bibinitperiod},
+           given={Diane\bibnamedelima B},
+           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {NIH Public Access}%
+      }
+      \strng{namehash}{cc791fa31b250f1efa68b424efc8bbbd}
+      \strng{fullhash}{ea0ac43e67f69182e66a8c76f358ca57}
+      \strng{bibnamehash}{ea0ac43e67f69182e66a8c76f358ca57}
+      \strng{authorbibnamehash}{ea0ac43e67f69182e66a8c76f358ca57}
+      \strng{authornamehash}{cc791fa31b250f1efa68b424efc8bbbd}
+      \strng{authorfullhash}{ea0ac43e67f69182e66a8c76f358ca57}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Academic medicine: journal of the Association of American Medical Colleges}
+      \field{number}{6}
+      \field{title}{Does simulation-based medical education with deliberate practice yield better results than traditional clinical education? A meta-analytic comparative review of the evidence}
+      \field{volume}{86}
+      \field{year}{2011}
+      \field{pages}{706}
+      \range{pages}{1}
+    \endentry
+    \entry{RN68}{article}{}
+      \name{author}{36}{}{%
+        {{hash=1525813a2ee200cff93663f882ee2516}{%
+           family={Meara},
+           familyi={M\bibinitperiod},
+           given={John\bibnamedelima G.},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=b4181215b1428ff970d053eac59c43ec}{%
+           family={Leather},
+           familyi={L\bibinitperiod},
+           given={Andrew\bibnamedelimb J.\bibnamedelimi M.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=8196a7c3e3136414be8cb35d163b1fb6}{%
+           family={Hagander},
+           familyi={H\bibinitperiod},
+           given={Lars},
+           giveni={L\bibinitperiod}}}%
+        {{hash=cfae9c7e2311d2aa0007064925cc4f6d}{%
+           family={Alkire},
+           familyi={A\bibinitperiod},
+           given={Blake\bibnamedelima C.},
+           giveni={B\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=6b0af5dbaefde4a13615a27c16ec8932}{%
+           family={Alonso},
+           familyi={A\bibinitperiod},
+           given={Nivaldo},
+           giveni={N\bibinitperiod}}}%
+        {{hash=7e792c70b8aea43a493eae92c5662127}{%
+           family={Ameh},
+           familyi={A\bibinitperiod},
+           given={Emmanuel\bibnamedelima A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=f07800438eee3e9bbf09fd91c67b759b}{%
+           family={Bickler},
+           familyi={B\bibinitperiod},
+           given={Stephen\bibnamedelima W.},
+           giveni={S\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=85d7570fff805c61afbfaeca662480c9}{%
+           family={Conteh},
+           familyi={C\bibinitperiod},
+           given={Lesong},
+           giveni={L\bibinitperiod}}}%
+        {{hash=51ee8feb1cdb93b379eee060ad3fac22}{%
+           family={Dare},
+           familyi={D\bibinitperiod},
+           given={Anna\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=0603e2b9c3783e91c9a76232eaab085f}{%
+           family={Davies},
+           familyi={D\bibinitperiod},
+           given={Justine},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b0b1215c2e37b7fe0ef4164fbe947d35}{%
+           family={Mérisier},
+           familyi={M\bibinitperiod},
+           given={Eunice\bibnamedelima Dérivois},
+           giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=ad183c094f256a3a05fff464023f9faa}{%
+           family={El-Halabi},
+           familyi={E\bibinithyphendelim H\bibinitperiod},
+           given={Shenaaz},
+           giveni={S\bibinitperiod}}}%
+        {{hash=078ef597945c2f2f3e74e5a879a8cc11}{%
+           family={Farmer},
+           familyi={F\bibinitperiod},
+           given={Paul\bibnamedelima E.},
+           giveni={P\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=c4d5f534cb658a4cc2312351e8572541}{%
+           family={Gawande},
+           familyi={G\bibinitperiod},
+           given={Atul},
+           giveni={A\bibinitperiod}}}%
+        {{hash=6c1b9f15646d3c5fc1c26971c8159550}{%
+           family={Gillies},
+           familyi={G\bibinitperiod},
+           given={Rowan},
+           giveni={R\bibinitperiod}}}%
+        {{hash=ac911f1fd3203781b3451b8bc78d48df}{%
+           family={Greenberg},
+           familyi={G\bibinitperiod},
+           given={Sarah\bibnamedelimb L.\bibnamedelimi M.},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=20dedcbab9f1a44c116825b3259e2749}{%
+           family={Grimes},
+           familyi={G\bibinitperiod},
+           given={Caris\bibnamedelima E.},
+           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=78721ec28486bcddf9b3d611e3e438f3}{%
+           family={Gruen},
+           familyi={G\bibinitperiod},
+           given={Russell\bibnamedelima L.},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=b1745e964aad3f4ec825c03b73a34206}{%
+           family={Ismail},
+           familyi={I\bibinitperiod},
+           given={Edna\bibnamedelima Adan},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=ee0b3145cce172e70bc574e7ec28d569}{%
+           family={Kamara},
+           familyi={K\bibinitperiod},
+           given={Thaim\bibnamedelima Buya},
+           giveni={T\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=61de7a6d54a6fcfe21c31d81c07525a5}{%
+           family={Lavy},
+           familyi={L\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+        {{hash=31f727b68ad6fece6f948f05cba0d179}{%
+           family={Lundeg},
+           familyi={L\bibinitperiod},
+           given={Ganbold},
+           giveni={G\bibinitperiod}}}%
+        {{hash=206d16e7273c1dac824e59b45715bad5}{%
+           family={Mkandawire},
+           familyi={M\bibinitperiod},
+           given={Nyengo\bibnamedelima C.},
+           giveni={N\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=eded376fb1322b731c94ee03e3741e90}{%
+           family={Raykar},
+           familyi={R\bibinitperiod},
+           given={Nakul\bibnamedelima P.},
+           giveni={N\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=8e834b61f5c242c364db2902669d96de}{%
+           family={Riesel},
+           familyi={R\bibinitperiod},
+           given={Johanna\bibnamedelima N.},
+           giveni={J\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=d02b9fdada837a6a56e97a481b7b5d7c}{%
+           family={Rodas},
+           familyi={R\bibinitperiod},
+           given={Edgar},
+           giveni={E\bibinitperiod}}}%
+        {{hash=d34acc0f7f70c248b20aa34bf0264b96}{%
+           family={Rose},
+           familyi={R\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=890b1431ed256af8b0d24350d10e4774}{%
+           family={Roy},
+           familyi={R\bibinitperiod},
+           given={Nobhojit},
+           giveni={N\bibinitperiod}}}%
+        {{hash=e6bd9f59a03ebaf9eae943f927e37525}{%
+           family={Shrime},
+           familyi={S\bibinitperiod},
+           given={Mark\bibnamedelima G.},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=d4cc438446165b59aeff3f20f2d97f8a}{%
+           family={Sullivan},
+           familyi={S\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+        {{hash=fd5754b4ebae7ce3a7263b1e2b0d4a5d}{%
+           family={Verguet},
+           familyi={V\bibinitperiod},
+           given={Stéphane},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0d4436f0a8bfaa9776a1e099930e8763}{%
+           family={Watters},
+           familyi={W\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=b7a1a1ca7a6c51e36693b57ba406942e}{%
+           family={Weiser},
+           familyi={W\bibinitperiod},
+           given={Thomas\bibnamedelima G.},
+           giveni={T\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=8f2a9d8c9e7d035a17e8ca6963f9aca6}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={Iain\bibnamedelima H.},
+           giveni={I\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=631604adadcbd449445c32679c45223e}{%
+           family={Yamey},
+           familyi={Y\bibinitperiod},
+           given={Gavin},
+           giveni={G\bibinitperiod}}}%
+        {{hash=87b673acbe6ef16483e696e00c6e8760}{%
+           family={Yip},
+           familyi={Y\bibinitperiod},
+           given={Winnie},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{f0cb4ca18c3f33dca05e38c649ce7693}
+      \strng{fullhash}{59a052f1f7ca67407f3b8ae298e8c2f2}
+      \strng{bibnamehash}{59a052f1f7ca67407f3b8ae298e8c2f2}
+      \strng{authorbibnamehash}{59a052f1f7ca67407f3b8ae298e8c2f2}
+      \strng{authornamehash}{f0cb4ca18c3f33dca05e38c649ce7693}
+      \strng{authorfullhash}{59a052f1f7ca67407f3b8ae298e8c2f2}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{01406736}
+      \field{journaltitle}{The Lancet}
+      \field{number}{9993}
+      \field{title}{Global Surgery 2030: evidence and solutions for achieving health, welfare, and economic development}
+      \field{type}{Journal Article}
+      \field{volume}{386}
+      \field{year}{2015}
+      \field{pages}{569\bibrangedash 624}
+      \range{pages}{56}
+      \verb{doi}
+      \verb 10.1016/s0140-6736(15)60160-x
+      \endverb
+    \endentry
+    \entry{milgram1994taxonomy}{article}{}
+      \name{author}{2}{}{%
+        {{hash=d57f1b339e2089ac1411a8c32cef1cb7}{%
+           family={Milgram},
+           familyi={M\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=510bc74af0101eb8fa9ec3ddf4db5b2c}{%
+           family={Kishino},
+           familyi={K\bibinitperiod},
+           given={Fumio},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {The Institute of Electronics, Information}%
+        {Communication Engineers}%
+      }
+      \strng{namehash}{647ca6082ff6db4a282769334a54c7d3}
+      \strng{fullhash}{647ca6082ff6db4a282769334a54c7d3}
+      \strng{bibnamehash}{647ca6082ff6db4a282769334a54c7d3}
+      \strng{authorbibnamehash}{647ca6082ff6db4a282769334a54c7d3}
+      \strng{authornamehash}{647ca6082ff6db4a282769334a54c7d3}
+      \strng{authorfullhash}{647ca6082ff6db4a282769334a54c7d3}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEICE TRANSACTIONS on Information and Systems}
+      \field{number}{12}
+      \field{title}{A taxonomy of mixed reality visual displays}
+      \field{volume}{77}
+      \field{year}{1994}
+      \field{pages}{1321\bibrangedash 1329}
+      \range{pages}{9}
+    \endentry
+    \entry{RN71}{report}{}
+      \name{author}{7}{}{%
+        {{hash=35fdcc1ebd1e00fe3d7e6f9d18ae6b69}{%
+           family={Mostafa},
+           familyi={M\bibinitperiod},
+           given={Ahmed\bibnamedelima E},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=480712562e665e79c6577931b50be650}{%
+           family={Ryu},
+           familyi={R\bibinitperiod},
+           given={Won\bibnamedelimb Hyung\bibnamedelima A},
+           giveni={W\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=f504413eb7702254c507adf08ce296e8}{%
+           family={Chan},
+           familyi={C\bibinitperiod},
+           given={Sonny},
+           giveni={S\bibinitperiod}}}%
+        {{hash=4e2fde29e61e36b99695e937560e4fc2}{%
+           family={Takashima},
+           familyi={T\bibinitperiod},
+           given={Kazuki},
+           giveni={K\bibinitperiod}}}%
+        {{hash=873eeb7360fc909ab4882981453a950c}{%
+           family={Kopp},
+           familyi={K\bibinitperiod},
+           given={Gail},
+           giveni={G\bibinitperiod}}}%
+        {{hash=3f3fafe40ad3c81554ec7d43663dc42d}{%
+           family={Costa\bibnamedelima Sousa},
+           familyi={C\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Mario},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c9199991c3a6bef4ad64bff91d5db6ee}{%
+           family={Sharlin},
+           familyi={S\bibinitperiod},
+           given={Ehud},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Science}%
+      }
+      \strng{namehash}{72708ab1ed23568f640f2fb42fb84021}
+      \strng{fullhash}{8817343dbf729e2aaea7e81884ddf311}
+      \strng{bibnamehash}{8817343dbf729e2aaea7e81884ddf311}
+      \strng{authorbibnamehash}{8817343dbf729e2aaea7e81884ddf311}
+      \strng{authornamehash}{72708ab1ed23568f640f2fb42fb84021}
+      \strng{authorfullhash}{8817343dbf729e2aaea7e81884ddf311}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Designing NeuroSimVR: a stereoscopic virtual reality spine surgery simulator}
+      \field{type}{Report}
+      \field{year}{2017}
+    \endentry
+    \entry{OculusRift}{misc}{}
+      \field{sortinit}{O}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2020-08-21}
+      \field{title}{Open VR}
+      \verb{urlraw}
+      \verb \url{https://www.oculus.com/rift/#oui-csl-rift-games=mages-tale}
+      \endverb
+      \verb{url}
+      \verb %5Curl%7Bhttps://www.oculus.com/rift/#oui-csl-rift-games=mages-tale%7D
+      \endverb
+    \endentry
+    \entry{OpenVR}{misc}{}
+      \field{sortinit}{O}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2020-08-21}
+      \field{title}{Open VR}
+      \verb{urlraw}
+      \verb \url{https://github.com/ValveSoftware/openvr}
+      \endverb
+      \verb{url}
+      \verb %5Curl%7Bhttps://github.com/ValveSoftware/openvr%7D
+      \endverb
+    \endentry
+    \entry{RN52}{article}{}
+      \name{author}{7}{}{%
+        {{hash=694029fcf81471c4b0525ab553f5166f}{%
+           family={Parham},
+           familyi={P\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=f0dec0de91aa4cb85cd46a690f689c75}{%
+           family={Bing},
+           familyi={B\bibinitperiod},
+           given={E.\bibnamedelimi G.},
+           giveni={E\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=948eae46668538359779db5792b58487}{%
+           family={Cuevas},
+           familyi={C\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ea53a0a0b34d6fafb071f1c7c2cfcd4b}{%
+           family={Fisher},
+           familyi={F\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=31146021e65e70e3eef0c78964d2c26c}{%
+           family={Skinner},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=ad5589b4f19a3ff4a9ccd44766957a3e}{%
+           family={Mwanahamuntu},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a0ae8c88040ad278adc197091ae0102a}{%
+           family={Sullivan},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{53fdf820707f3dfc371fdb56a871793e}
+      \strng{fullhash}{a97fdf4e55b5a32c520b46f94825d39f}
+      \strng{bibnamehash}{a97fdf4e55b5a32c520b46f94825d39f}
+      \strng{authorbibnamehash}{a97fdf4e55b5a32c520b46f94825d39f}
+      \strng{authornamehash}{53fdf820707f3dfc371fdb56a871793e}
+      \strng{authorfullhash}{a97fdf4e55b5a32c520b46f94825d39f}
+      \field{extraname}{1}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1754-6605 (Print) 1754-6605 (Linking)}
+      \field{journaltitle}{Ecancermedicalscience}
+      \field{title}{Creating a low-cost virtual reality surgical simulation to increase surgical oncology capacity and capability}
+      \field{type}{Journal Article}
+      \field{volume}{13}
+      \field{year}{2019}
+      \field{pages}{910}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3332/ecancer.2019.910
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pubmed/31123493
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pubmed/31123493
+      \endverb
+    \endentry
+    \entry{Parham.2019}{article}{}
+      \name{author}{7}{}{%
+        {{hash=e2ce19f490cf5a6c8edaf11b900c29e9}{%
+           family={Parham},
+           familyi={P\bibinitperiod},
+           given={Groesbeck},
+           giveni={G\bibinitperiod}}}%
+        {{hash=731f7e5ae65d11ca58179dfd9a2b3fe2}{%
+           family={Bing},
+           familyi={B\bibinitperiod},
+           given={Eric\bibnamedelima G.},
+           giveni={E\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=893982ad10ec566611177f2b9c3d416e}{%
+           family={Cuevas},
+           familyi={C\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c396d55ab3d0312b1752440e64e68752}{%
+           family={Fisher},
+           familyi={F\bibinitperiod},
+           given={Boris},
+           giveni={B\bibinitperiod}}}%
+        {{hash=c51f99a85c13b22ca8c33c104864bea9}{%
+           family={Skinner},
+           familyi={S\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=338cc81ba67b57f0a9d58977e1afb3c9}{%
+           family={Mwanahamuntu},
+           familyi={M\bibinitperiod},
+           given={Mulindi},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d4cc438446165b59aeff3f20f2d97f8a}{%
+           family={Sullivan},
+           familyi={S\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{346dc5b57114e3c3a0abaef67fd7357e}
+      \strng{fullhash}{914c4a438f68cd214dd6a7c9f2199e97}
+      \strng{bibnamehash}{914c4a438f68cd214dd6a7c9f2199e97}
+      \strng{authorbibnamehash}{914c4a438f68cd214dd6a7c9f2199e97}
+      \strng{authornamehash}{346dc5b57114e3c3a0abaef67fd7357e}
+      \strng{authorfullhash}{914c4a438f68cd214dd6a7c9f2199e97}
+      \field{extraname}{2}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Worldwide, more than 80{\%} of people with cancer will require surgery during their disease course, but less than 25{\%} have access to safe, affordable and timely surgery. Among the barriers to increasing surgical capacity are the time and costs required to train novices. Virtual reality (VR) surgical simulations can reduce the time required for novices to reach surgical proficiency, though their costs may exceed USD {\$}100,000. The goal of this study was to determine if a low-cost system, using commercially available technology designed for in-home computer gaming, could be used to create a realistic VR surgical oncology simulation. Standard commercially available VR software and Oculus Rift hardware have been used to provide high-quality visuals and believable surgeon hand interactions. Near identical VR reproduction of an operating room using 1:1 scale matching of real-world elements, including equipment, instruments, supplies and sounds, maintaining frame rate greater than 60 fps to maintain visual fidelity has been created. Internal anatomy was designed as VR replica of human female pelvic anatomy, including organs, veins and other vessels, peritoneum and connective tissue. Internal anatomy was designed to run at 120 fps and to allow for a realistic abdominal radical hysterectomy simulation. Surgical hands were modelled to scale for those with large and small hands. Multiple hand positions were simulated using Oculus touch hardware. Reconstructing the virtual environment to simulate reality as accurately as possible was done to immerse users in the simulator so that they focus on learning and practise without distractions. Training modules were co-designed by experts in learning sciences, human behaviour, VR and gynaecologic oncology. We have successfully created a low-cost VR simulation to help prepare novice surgeons to perform a radical abdominal hysterectomy surgery procedure. The simulation can be used with commercially available computer gaming hardware that currently costs less than USD {\$}1,500. Low-cost VR simulation has the potential to reduce the time and cost to train surgeons to perform surgical oncology procedures, as well as both improve and audit quality. If effective in real-world clinical trials, such simulations have relevance to multiple surgical procedures and applicability in both resource-limited and high-income settings.}
+      \field{issn}{1754-6605}
+      \field{journaltitle}{Ecancermedicalscience}
+      \field{title}{Creating a low-cost virtual reality surgical simulation to increase surgical oncology capacity and capability}
+      \field{volume}{13}
+      \field{year}{2019}
+      \field{pages}{910}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3332/ecancer.2019.910
+      \endverb
+      \verb{file}
+      \verb 07c482fc-389f-4066-b729-1bf77ce8eea2:C\:\\Users\\Filip Kajzer\\AppData\\Local\\Swiss Academic Software\\Citavi 6\\ProjectCache\\e8uxlld2monc8vwugtmmvoj48jc04ip5gg03ezrnex3\\Citavi Attachments\\07c482fc-389f-4066-b729-1bf77ce8eea2.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Pulijala.2018b}{article}{}
+      \name{author}{5}{}{%
+        {{hash=ecde6eb0cda729321be1884060c14f41}{%
+           family={Pulijala},
+           familyi={P\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=6fe8e7b20b8c2976e5f7ed821cb6c116}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9b8c183b5050d0daab0b1c7c4e414ed0}{%
+           family={Pears},
+           familyi={P\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c9c7494f57f783d9d862ca280560fa98}{%
+           family={Peebles},
+           familyi={P\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=93648f0592803cdd9c3a08fed413184f}{%
+           family={Ayoub},
+           familyi={A\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{f3f6111bac0f18ddef1a63c0b0e3dbe9}
+      \strng{fullhash}{bb099b11937b92f0a607c354c3b636d2}
+      \strng{bibnamehash}{bb099b11937b92f0a607c354c3b636d2}
+      \strng{authorbibnamehash}{bb099b11937b92f0a607c354c3b636d2}
+      \strng{authornamehash}{f3f6111bac0f18ddef1a63c0b0e3dbe9}
+      \strng{authorfullhash}{bb099b11937b92f0a607c354c3b636d2}
+      \field{extraname}{1}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Virtual reality (VR) surgery using Oculus Rift and Leap Motion devices is a multi-sensory, holistic surgical training experience. A multimedia combination including 360° videos, three-dimensional interaction, and stereoscopic videos in VR has been developed to enable trainees to experience a realistic surgery environment. The innovation allows trainees to interact with the individual components of the maxillofacial anatomy and apply surgical instruments while watching close-up stereoscopic three-dimensional videos of the surgery. In this study, a novel training tool for Le Fort I osteotomy based on immersive virtual reality (iVR) was developed and validated. Seven consultant oral and maxillofacial surgeons evaluated the application for face and content validity. Using a structured assessment process, the surgeons commented on the content of the developed training tool, its realism and usability, and the applicability of VR surgery for orthognathic surgical training. The results confirmed the clinical applicability of VR for delivering training in orthognathic surgery. Modifications were suggested to improve the user experience and interactions with the surgical instruments. This training tool is ready for testing with surgical trainees.}
+      \field{journaltitle}{International journal of oral and maxillofacial surgery}
+      \field{number}{9}
+      \field{title}{An innovative virtual reality training tool for orthognathic surgery}
+      \field{volume}{47}
+      \field{year}{2018}
+      \field{pages}{1199\bibrangedash 1205}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/j.ijom.2018.01.005
+      \endverb
+      \verb{file}
+      \verb 8a7d1e80-a071-4df3-b53d-d0c942ecf708:C\:\\Users\\Filip Kajzer\\AppData\\Local\\Swiss Academic Software\\Citavi 6\\ProjectCache\\e8uxlld2monc8vwugtmmvoj48jc04ip5gg03ezrnex3\\Citavi Attachments\\8a7d1e80-a071-4df3-b53d-d0c942ecf708.pdf:pdf
+      \endverb
+      \keyw{Clinical Competence;Humans;Multimedia;Orthognathic Surgery/education;Osteotomy,Le Fort;Virtual Reality}
+    \endentry
+    \entry{Pulijala.2017}{incollection}{}
+      \name{author}{3}{}{%
+        {{hash=6a55758049d565511a05316608c24457}{%
+           family={Pulijala},
+           familyi={P\bibinitperiod},
+           given={Yeshwanth},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=5074ac15d6390460336c4017723b7191}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Minhua},
+           giveni={M\bibinitperiod}}}%
+        {{hash=65f110b853a356d395b877ed332c8dd3}{%
+           family={Ayoub},
+           familyi={A\bibinitperiod},
+           given={Ashraf},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=5074ac15d6390460336c4017723b7191}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Minhua},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2d945c761fbf6ac91f02596338d64901}{%
+           family={Oikonomou},
+           familyi={O\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{a38aee4158eab011dd8b0b446e5a2527}
+      \strng{fullhash}{a38aee4158eab011dd8b0b446e5a2527}
+      \strng{bibnamehash}{a38aee4158eab011dd8b0b446e5a2527}
+      \strng{authorbibnamehash}{a38aee4158eab011dd8b0b446e5a2527}
+      \strng{authornamehash}{a38aee4158eab011dd8b0b446e5a2527}
+      \strng{authorfullhash}{a38aee4158eab011dd8b0b446e5a2527}
+      \strng{editorbibnamehash}{27138c74d6b957cd16a91339e52444d5}
+      \strng{editornamehash}{27138c74d6b957cd16a91339e52444d5}
+      \strng{editorfullhash}{27138c74d6b957cd16a91339e52444d5}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Serious Games and Edutainment Applications}
+      \field{isbn}{978-3-319-51643-1}
+      \field{title}{VR Surgery: Interactive Virtual Reality Application for Training Oral and Maxillofacial Surgeons using Oculus Rift and Leap Motion}
+      \field{year}{2017}
+      \field{pages}{187\bibrangedash 202}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1007/978-3-319-51645-5{\textunderscore }8
+      \endverb
+      \verb{file}
+      \verb be12ca83-2bee-4458-9f19-9c29699b29c9:C\:\\Users\\Filip Kajzer\\AppData\\Local\\Swiss Academic Software\\Citavi 6\\ProjectCache\\e8uxlld2monc8vwugtmmvoj48jc04ip5gg03ezrnex3\\Citavi Attachments\\be12ca83-2bee-4458-9f19-9c29699b29c9.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Pulijala.2018}{article}{}
+      \name{author}{5}{}{%
+        {{hash=6a55758049d565511a05316608c24457}{%
+           family={Pulijala},
+           familyi={P\bibinitperiod},
+           given={Yeshwanth},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=5074ac15d6390460336c4017723b7191}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Minhua},
+           giveni={M\bibinitperiod}}}%
+        {{hash=49811ca67502bcdb6f7ed1a5cf014409}{%
+           family={Pears},
+           familyi={P\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+        {{hash=762c46259dab1c3afe7d29fb03e1e2f3}{%
+           family={Peebles},
+           familyi={P\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=65f110b853a356d395b877ed332c8dd3}{%
+           family={Ayoub},
+           familyi={A\bibinitperiod},
+           given={Ashraf},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{4ec1c1985345afed01815bcdc68a4503}
+      \strng{fullhash}{ea6544d77814fbbec7bb11249b1f3743}
+      \strng{bibnamehash}{ea6544d77814fbbec7bb11249b1f3743}
+      \strng{authorbibnamehash}{ea6544d77814fbbec7bb11249b1f3743}
+      \strng{authornamehash}{4ec1c1985345afed01815bcdc68a4503}
+      \strng{authorfullhash}{ea6544d77814fbbec7bb11249b1f3743}
+      \field{extraname}{2}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{PURPOSE Surgical training methods are evolving with the technological advancements, including the application of virtual reality (VR) and augmented reality. However, 28 to 40{\%} of novice residents are not confident in performing a major surgical procedure. VR surgery, an immersive VR (iVR) experience, was developed using Oculus Rift and Leap Motion devices (Leap Motion, Inc, San Francisco, CA) to address this challenge. Our iVR is a multisensory, holistic surgical training application that demonstrates a maxillofacial surgical technique, the Le Fort I osteotomy. The main objective of the present study was to evaluate the effect of using VR surgery on the self-confidence and knowledge of surgical residents. MATERIALS AND METHODS A multisite, single-blind, parallel, randomized controlled trial (RCT) was performed. The participants were novice surgical residents with limited experience in performing the Le Fort I osteotomy. The primary outcome measures were the self-assessment scores of trainee confidence using a Likert scale and an objective assessment of the cognitive skills. Ninety-five residents from 7 dental schools were included in the RCT. The participants were randomly divided into a study group of 51 residents and a control group of 44. Participants in the study group used the VR surgery application on an Oculus Rift with Leap Motion device. The control group participants used similar content in a standard PowerPoint presentation on a laptop. Repeated measures multivariate analysis of variance was applied to the data to assess the overall effect of the intervention on the confidence of the residents. RESULTS The study group participants showed significantly greater perceived self-confidence levels compared with those in the control group (P~=~.034; \textgreek{a}~=~0.05). Novices in the first year of their training showed the greatest improvement in their confidence compared with those in their second and third year. CONCLUSIONS iVR experiences improve the knowledge and self-confidence of the surgical residents.}
+      \field{journaltitle}{Journal of oral and maxillofacial surgery : official journal of the American Association of Oral and Maxillofacial Surgeons}
+      \field{number}{5}
+      \field{title}{Effectiveness of Immersive Virtual Reality in Surgical Training-A Randomized Control Trial}
+      \field{volume}{76}
+      \field{year}{2018}
+      \field{pages}{1065\bibrangedash 1072}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/j.joms.2017.10.002
+      \endverb
+      \verb{file}
+      \verb 1707245e-1cd0-4260-bee7-c47535f799f3:C\:\\Users\\Filip Kajzer\\AppData\\Local\\Swiss Academic Software\\Citavi 6\\ProjectCache\\e8uxlld2monc8vwugtmmvoj48jc04ip5gg03ezrnex3\\Citavi Attachments\\1707245e-1cd0-4260-bee7-c47535f799f3.pdf:pdf
+      \endverb
+      \keyw{Adult;Clinical Competence;Female;Humans;Internship and Residency/methods;Male;Osteotomy,Le Fort/education;Self Concept;Simulation Training/methods;Single-Blind Method;Surgery,Oral/education;United Kingdom;Virtual Reality}
+    \endentry
+    \entry{richardson2015cost}{article}{}
+      \name{author}{3}{}{%
+        {{hash=b1aa599f04334b2eaeb72fdb2cabdcf1}{%
+           family={Richardson},
+           familyi={R\bibinitperiod},
+           given={Clare},
+           giveni={C\bibinitperiod}}}%
+        {{hash=3d79b75d866359de073d2106c470abfc}{%
+           family={Bernard},
+           familyi={B\bibinitperiod},
+           given={Stewart},
+           giveni={S\bibinitperiod}}}%
+        {{hash=77adc03b4aee8bce0ef514376a10599f}{%
+           family={Dinh},
+           familyi={D\bibinitperiod},
+           given={Vi\bibnamedelima Am},
+           giveni={V\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{b1432ae2e057b317730f529e98737e72}
+      \strng{fullhash}{b1432ae2e057b317730f529e98737e72}
+      \strng{bibnamehash}{b1432ae2e057b317730f529e98737e72}
+      \strng{authorbibnamehash}{b1432ae2e057b317730f529e98737e72}
+      \strng{authornamehash}{b1432ae2e057b317730f529e98737e72}
+      \strng{authorfullhash}{b1432ae2e057b317730f529e98737e72}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Ultrasound in Medicine}
+      \field{number}{8}
+      \field{title}{A Cost-effective, Gelatin-Based Phantom Model for Learning Ultrasound-Guided Fine-Needle Aspiration Procedures of the Head and Neck}
+      \field{volume}{34}
+      \field{year}{2015}
+      \field{pages}{1479\bibrangedash 1484}
+      \range{pages}{6}
+    \endentry
+    \entry{486713}{article}{}
+      \name{author}{4}{}{%
+        {{hash=6b94a4b9369bfa7471dc6d71e962abc8}{%
+           family={{Rosen}},
+           familyi={R\bibinitperiod},
+           given={J.\bibnamedelimi M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=f2d096841e77a0f409c5ceb149e46161}{%
+           family={{Soltanian}},
+           familyi={S\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=e1930456e3ef5cc40b97013a80a5da8f}{%
+           family={{Redett}},
+           familyi={R\bibinitperiod},
+           given={R.\bibnamedelimi J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=bd81a8e8c79b805d7ca2ec0f56f766da}{%
+           family={{Laub}},
+           familyi={L\bibinitperiod},
+           given={D.\bibnamedelimi R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{558aece5e01368f8141ece87596712ce}
+      \strng{fullhash}{3671ff48d843f13d7c0054cd9b58251e}
+      \strng{bibnamehash}{3671ff48d843f13d7c0054cd9b58251e}
+      \strng{authorbibnamehash}{3671ff48d843f13d7c0054cd9b58251e}
+      \strng{authornamehash}{558aece5e01368f8141ece87596712ce}
+      \strng{authorfullhash}{3671ff48d843f13d7c0054cd9b58251e}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Engineering in Medicine and Biology Magazine}
+      \field{number}{2}
+      \field{title}{Evolution of virtual reality [Medicine]}
+      \field{volume}{15}
+      \field{year}{1996}
+      \field{pages}{16\bibrangedash 22}
+      \range{pages}{7}
+    \endentry
+    \entry{Sampogna.2017}{article}{}
+      \name{author}{5}{}{%
+        {{hash=a3e63cd0ea26f44d697e33a33106b4ed}{%
+           family={Sampogna},
+           familyi={S\bibinitperiod},
+           given={Gianluca},
+           giveni={G\bibinitperiod}}}%
+        {{hash=5fd3d67df90e636abe2c7ababecf1ed3}{%
+           family={Pugliese},
+           familyi={P\bibinitperiod},
+           given={Raffaele},
+           giveni={R\bibinitperiod}}}%
+        {{hash=638b6271e2b27f9edb01d94f477501e5}{%
+           family={Elli},
+           familyi={E\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e389b8118592e2d940b0104fe12227a6}{%
+           family={Vanzulli},
+           familyi={V\bibinitperiod},
+           given={Angelo},
+           giveni={A\bibinitperiod}}}%
+        {{hash=458bd4611b98147f08876930fcbba368}{%
+           family={Forgione},
+           familyi={F\bibinitperiod},
+           given={Antonello},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{79a53d8edd8f63e9a8e5876cea6db87a}
+      \strng{fullhash}{70883a15469f814f448e148e977c7f1e}
+      \strng{bibnamehash}{70883a15469f814f448e148e977c7f1e}
+      \strng{authorbibnamehash}{70883a15469f814f448e148e977c7f1e}
+      \strng{authornamehash}{79a53d8edd8f63e9a8e5876cea6db87a}
+      \strng{authorfullhash}{70883a15469f814f448e148e977c7f1e}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{BACKGROUND The advantages of 3D reconstruction, immersive virtual reality (VR) and 3D printing in abdominal surgery have been enunciated for many years, but still today their application in routine clinical practice is almost nil. We investigate their feasibility, user appreciation and clinical impact. MATERIAL AND METHODS Fifteen patients undergoing pancreatic, hepatic or renal surgery were studied realizing a 3D reconstruction of target anatomy. Then, an immersive VR environment was developed to import 3D models, and some details of the 3D scene were printed. All the phases of our workflow employed open-source software and low-cost hardware, easily implementable by other surgical services. A qualitative evaluation of the three approaches was performed by 20 surgeons, who filled in a specific questionnaire regarding a clinical case for each organ considered. RESULTS Preoperative surgical planning and intraoperative guidance was feasible for all patients included in the study. The vast majority of surgeons interviewed scored their quality and usefulness as very good. CONCLUSIONS Despite extra time, costs and efforts necessary to implement these systems, the benefits shown by the analysis of questionnaires recommend to invest more resources to train physicians to adopt these technologies routinely, even if further and larger studies are still mandatory.}
+      \field{journaltitle}{Minimally invasive therapy {\&} allied technologies : MITAT : official journal of the Society for Minimally Invasive Therapy}
+      \field{number}{3}
+      \field{title}{Routine clinical application of virtual reality in abdominal surgery}
+      \field{volume}{26}
+      \field{year}{2017}
+      \field{pages}{135\bibrangedash 143}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1080/13645706.2016.1275016
+      \endverb
+      \verb{file}
+      \verb 1f04fe86-6bd7-4aba-997d-23882c5ed3e4:C\:\\Users\\Filip Kajzer\\AppData\\Local\\Swiss Academic Software\\Citavi 6\\ProjectCache\\e8uxlld2monc8vwugtmmvoj48jc04ip5gg03ezrnex3\\Citavi Attachments\\1f04fe86-6bd7-4aba-997d-23882c5ed3e4.pdf:pdf
+      \endverb
+    \endentry
+    \entry{sararit2017vr}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=3a45a8dee7b0f1d1c4b5f2b9edd8df74}{%
+           family={Sararit},
+           familyi={S\bibinitperiod},
+           given={Nat},
+           giveni={N\bibinitperiod}}}%
+        {{hash=a826795cdad955fa0195b406d5286d1d}{%
+           family={Haddawy},
+           familyi={H\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=f20cf455b9a82d024718d6950ca7f8ab}{%
+           family={Suebnukarn},
+           familyi={S\bibinitperiod},
+           given={Siriwan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{72af70f5a6515688db8c8f1d2cd3434f}
+      \strng{fullhash}{72af70f5a6515688db8c8f1d2cd3434f}
+      \strng{bibnamehash}{72af70f5a6515688db8c8f1d2cd3434f}
+      \strng{authorbibnamehash}{72af70f5a6515688db8c8f1d2cd3434f}
+      \strng{authornamehash}{72af70f5a6515688db8c8f1d2cd3434f}
+      \strng{authorfullhash}{72af70f5a6515688db8c8f1d2cd3434f}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 22nd International Conference on Intelligent User Interfaces Companion}
+      \field{title}{A VR simulator for emergency management in endodontic surgery}
+      \field{year}{2017}
+      \field{pages}{117\bibrangedash 120}
+      \range{pages}{4}
+    \endentry
+    \entry{RN2}{article}{}
+      \name{author}{2}{}{%
+        {{hash=740de28b3cf207f8d940c9e062e9f65b}{%
+           family={Schendel},
+           familyi={S\bibinitperiod},
+           given={S.\bibnamedelimi A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=d33507e73ea195297f596b4cf0e1f6fc}{%
+           family={Jacobson},
+           familyi={J\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{dd2f0ebe0aa98bc03cad8f2fd485fdb8}
+      \strng{fullhash}{dd2f0ebe0aa98bc03cad8f2fd485fdb8}
+      \strng{bibnamehash}{dd2f0ebe0aa98bc03cad8f2fd485fdb8}
+      \strng{authorbibnamehash}{dd2f0ebe0aa98bc03cad8f2fd485fdb8}
+      \strng{authornamehash}{dd2f0ebe0aa98bc03cad8f2fd485fdb8}
+      \strng{authorfullhash}{dd2f0ebe0aa98bc03cad8f2fd485fdb8}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1531-5053 (Electronic) 0278-2391 (Linking)}
+      \field{journaltitle}{J Oral Maxillofac Surg}
+      \field{number}{10}
+      \field{title}{Three-dimensional imaging and computer simulation for office-based surgery}
+      \field{type}{Journal Article}
+      \field{volume}{67}
+      \field{year}{2009}
+      \field{pages}{2107\bibrangedash 14}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/j.joms.2009.04.111
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pubmed/19761904
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pubmed/19761904
+      \endverb
+    \endentry
+    \entry{schuetz2008three}{article}{}
+      \name{author}{8}{}{%
+        {{hash=13faa54cd3ccc268eb4ed1eade8d0306}{%
+           family={Schuetz},
+           familyi={S\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e783fdbdf2096af6c49881483f697518}{%
+           family={Gockel},
+           familyi={G\bibinitperiod},
+           given={I},
+           giveni={I\bibinitperiod}}}%
+        {{hash=3835ccd1df7c183c0ad8a386b8357ca4}{%
+           family={Beardi},
+           familyi={B\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=124f3392a12ac5406fb5ab89959222c3}{%
+           family={Hakman},
+           familyi={H\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod}}}%
+        {{hash=00c52aaa1a2a73d34a784795d910e3f9}{%
+           family={Dunschede},
+           familyi={D\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod}}}%
+        {{hash=09e2acd36e81d67544f3148c056fe2b4}{%
+           family={Moenk},
+           familyi={M\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c94b3f5b3e33ef919b0c201fa3ac68c0}{%
+           family={Heinrichs},
+           familyi={H\bibinitperiod},
+           given={W},
+           giveni={W\bibinitperiod}}}%
+        {{hash=8e9044de11946c1bc8e628836533f665}{%
+           family={Junginger},
+           familyi={J\bibinitperiod},
+           given={TH},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{f2e8064caf2f773b597b4df8e3f2b562}
+      \strng{fullhash}{18c66baddbf9d05f02979522170c2e8d}
+      \strng{bibnamehash}{18c66baddbf9d05f02979522170c2e8d}
+      \strng{authorbibnamehash}{18c66baddbf9d05f02979522170c2e8d}
+      \strng{authornamehash}{f2e8064caf2f773b597b4df8e3f2b562}
+      \strng{authorfullhash}{18c66baddbf9d05f02979522170c2e8d}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Surgical endoscopy}
+      \field{number}{5}
+      \field{title}{Three different types of surgeon-specific stress reactions identified by laparoscopic simulation in a virtual scenario}
+      \field{volume}{22}
+      \field{year}{2008}
+      \field{pages}{1263\bibrangedash 1267}
+      \range{pages}{5}
+    \endentry
+    \entry{RN64}{article}{}
+      \name{author}{7}{}{%
+        {{hash=2da4ce8e012ea94609b712f8efa62643}{%
+           family={Seymour},
+           familyi={S\bibinitperiod},
+           given={Neal\bibnamedelima E},
+           giveni={N\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=3a214825e7dfc68ce0df810d6eaec1de}{%
+           family={Gallagher},
+           familyi={G\bibinitperiod},
+           given={Anthony\bibnamedelima G},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=3cc1e2a36c3d3ffd579c9dd0b1a8f884}{%
+           family={Roman},
+           familyi={R\bibinitperiod},
+           given={Sanziana\bibnamedelima A},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=926f88f9699197ec4c9910812921baa4}{%
+           family={O’brien},
+           familyi={O\bibinitperiod},
+           given={Michael\bibnamedelima K},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=5e3cb14284f04ac8848589eba93c4318}{%
+           family={Bansal},
+           familyi={B\bibinitperiod},
+           given={Vipin\bibnamedelima K},
+           giveni={V\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=eb40e3ec233b9038ebfafd1e5c57fee1}{%
+           family={Andersen},
+           familyi={A\bibinitperiod},
+           given={Dana\bibnamedelima K},
+           giveni={D\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=f4c577da8fd05d71f640e7badbb01f6d}{%
+           family={Satava},
+           familyi={S\bibinitperiod},
+           given={Richard\bibnamedelima M},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{8630b9e655725bdac2a388934e0da1a4}
+      \strng{fullhash}{6c273c9b65291217feba539bb9f2a2b9}
+      \strng{bibnamehash}{6c273c9b65291217feba539bb9f2a2b9}
+      \strng{authorbibnamehash}{6c273c9b65291217feba539bb9f2a2b9}
+      \strng{authornamehash}{8630b9e655725bdac2a388934e0da1a4}
+      \strng{authorfullhash}{6c273c9b65291217feba539bb9f2a2b9}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annals of surgery}
+      \field{number}{4}
+      \field{title}{Virtual reality training improves operating room performance: results of a randomized, double-blinded study}
+      \field{type}{Journal Article}
+      \field{volume}{236}
+      \field{year}{2002}
+      \field{pages}{458}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1097/01.SLA.0000028969.51489.B4
+      \endverb
+    \endentry
+    \entry{Steinbacher.2015}{article}{}
+      \name{author}{1}{}{%
+        {{hash=aca6b19399b1b69be140dce3cd4f0d02}{%
+           family={Steinbacher},
+           familyi={S\bibinitperiod},
+           given={Derek\bibnamedelima M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{aca6b19399b1b69be140dce3cd4f0d02}
+      \strng{fullhash}{aca6b19399b1b69be140dce3cd4f0d02}
+      \strng{bibnamehash}{aca6b19399b1b69be140dce3cd4f0d02}
+      \strng{authorbibnamehash}{aca6b19399b1b69be140dce3cd4f0d02}
+      \strng{authornamehash}{aca6b19399b1b69be140dce3cd4f0d02}
+      \strng{authorfullhash}{aca6b19399b1b69be140dce3cd4f0d02}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{PURPOSE Three-dimensional (3D) analysis and planning are powerful tools in craniofacial and reconstructive surgery. The elements include 1) analysis, 2) planning, 3) virtual surgery, 4) 3D printouts of guides or implants, and 5) verification of actual to planned results. The purpose of this article is to review different applications of 3D planning in craniomaxillofacial surgery. MATERIALS AND METHODS Case examples involving 3D analysis and planning were reviewed. Common threads pertaining to all types of reconstruction are highlighted and contrasted with unique aspects specific to new applications in craniomaxillofacial surgery. RESULTS Six examples of 3D planning are described: 1) cranial reconstruction, 2) craniosynostosis, 3)~midface advancement, 4) mandibular distraction, 5) mandibular reconstruction, and 6) orthognathic surgery. CONCLUSIONS Planning in craniomaxillofacial surgery is useful and has applicability across different procedures and reconstructions. Three-dimensional planning and virtual surgery enhance efficiency, accuracy, creativity, and reproducibility in craniomaxillofacial surgery.}
+      \field{journaltitle}{Journal of oral and maxillofacial surgery : official journal of the American Association of Oral and Maxillofacial Surgeons}
+      \field{number}{12 Suppl}
+      \field{title}{Three-Dimensional Analysis and Surgical Planning in Craniomaxillofacial Surgery}
+      \field{volume}{73}
+      \field{year}{2015}
+      \field{pages}{S40\bibrangedash 56}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1016/j.joms.2015.04.038
+      \endverb
+      \verb{file}
+      \verb 437f18a1-738e-4a46-8043-757437d8dad2:C\:\\Users\\Filip Kajzer\\AppData\\Local\\Swiss Academic Software\\Citavi 6\\ProjectCache\\e8uxlld2monc8vwugtmmvoj48jc04ip5gg03ezrnex3\\Citavi Attachments\\437f18a1-738e-4a46-8043-757437d8dad2.pdf:pdf
+      \endverb
+      \keyw{Computer-Aided Design;Craniofacial Dysostosis/surgery;Craniosynostoses/surgery;Facial Asymmetry/surgery;Facial Bones/surgery;Female;Frontal Bone/surgery;Humans;Imaging,Three-Dimensional/methods;Male;Mandible/surgery;Mandibular Neoplasms/surgery;Mandibular Reconstruction/methods;Maxilla/surgery;Micrognathism/surgery;Orthognathic Surgical Procedures/methods;Osteogenesis,Distraction/methods;Osteotomy,Le Fort/methods;Patient Care Planning;Printing,Three-Dimensional;Prosthesis Design;Reconstructive Surgical Procedures/instrumentation/methods;Retrognathia/surgery;Skull/surgery;Surgery,Computer-Assisted/methods;Treatment Outcome;User-Computer Interface}
+    \endentry
+    \entry{sutherland1968head}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=51beb9e293895647184f862139b0feea}{%
+           family={Sutherland},
+           familyi={S\bibinitperiod},
+           given={Ivan\bibnamedelima E},
+           giveni={I\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{51beb9e293895647184f862139b0feea}
+      \strng{fullhash}{51beb9e293895647184f862139b0feea}
+      \strng{bibnamehash}{51beb9e293895647184f862139b0feea}
+      \strng{authorbibnamehash}{51beb9e293895647184f862139b0feea}
+      \strng{authornamehash}{51beb9e293895647184f862139b0feea}
+      \strng{authorfullhash}{51beb9e293895647184f862139b0feea}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the December 9-11, 1968, fall joint computer conference, part I}
+      \field{title}{A head-mounted three dimensional display}
+      \field{year}{1968}
+      \field{pages}{757\bibrangedash 764}
+      \range{pages}{8}
+    \endentry
+    \entry{swennen2009three}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a21c8d72b1ee24ae2ed9012a7da93ccc}{%
+           family={Swennen},
+           familyi={S\bibinitperiod},
+           given={Gwen\bibnamedelima RJ},
+           giveni={G\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=8712da5c0b92703ce180b01c56317f0f}{%
+           family={Mollemans},
+           familyi={M\bibinitperiod},
+           given={Wouter},
+           giveni={W\bibinitperiod}}}%
+        {{hash=00ab9d5f3a99f74a5b4ebaf07a3aa25a}{%
+           family={Schutyser},
+           familyi={S\bibinitperiod},
+           given={Filip},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{1df9d4e79c130d2aa239050eac9bb786}
+      \strng{fullhash}{1df9d4e79c130d2aa239050eac9bb786}
+      \strng{bibnamehash}{1df9d4e79c130d2aa239050eac9bb786}
+      \strng{authorbibnamehash}{1df9d4e79c130d2aa239050eac9bb786}
+      \strng{authornamehash}{1df9d4e79c130d2aa239050eac9bb786}
+      \strng{authorfullhash}{1df9d4e79c130d2aa239050eac9bb786}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of oral and maxillofacial surgery}
+      \field{number}{10}
+      \field{title}{Three-dimensional treatment planning of orthognathic surgery in the era of virtual imaging}
+      \field{volume}{67}
+      \field{year}{2009}
+      \field{pages}{2080\bibrangedash 2092}
+      \range{pages}{13}
+    \endentry
+    \entry{TejoOtero.2020}{article}{}
+      \name{author}{3}{}{%
+        {{hash=4200f885f186e0125ad7ee3860adf3fa}{%
+           family={Tejo-Otero},
+           familyi={T\bibinithyphendelim O\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5620526f21b518be91fa57e54d8d1839}{%
+           family={Buj-Corral},
+           familyi={B\bibinithyphendelim C\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+        {{hash=2d377cb7ecc591b1081bd051f7c90640}{%
+           family={Fenollosa-Art{é}s},
+           familyi={F\bibinithyphendelim A\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{9dc2a1dc60b94a0c2ef951952ff60cd3}
+      \strng{fullhash}{9dc2a1dc60b94a0c2ef951952ff60cd3}
+      \strng{bibnamehash}{9dc2a1dc60b94a0c2ef951952ff60cd3}
+      \strng{authorbibnamehash}{9dc2a1dc60b94a0c2ef951952ff60cd3}
+      \strng{authornamehash}{9dc2a1dc60b94a0c2ef951952ff60cd3}
+      \strng{authorfullhash}{9dc2a1dc60b94a0c2ef951952ff60cd3}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The aim of this paper is to review the recent evolution of additive manufacturing (AM) within the medical field of preoperative surgical planning. The discussion begins with an overview of the different techniques, pointing out their advantages and disadvantages as well as an in-depth comparison of different characteristics of the printed parts. Then, the state-of-the-art with respect to preoperative surgical planning is presented. On the one hand, different surgical planning prototypes manufactured by several AM technologies are described. On the other hand, materials used for mimicking different living tissues are explored by focusing on the material properties: elastic modulus, hardness, etc. As a result, doctors can practice before performing surgery and thereby reduce the time needed for the operation. The subject of patient education is also introduced. A thorough review of the process that is required to obtain 3D printed surgical planning prototypes, which is based on different stages, is then carried out. Finally, the ethical issues associated with 3D printing in medicine are discussed, along with its future perspectives. Overall, this is important for improving the outcome of the surgery, since doctors will be able to visualize the affected organs and even to practice surgery before performing it.}
+      \field{journaltitle}{Annals of biomedical engineering}
+      \field{number}{2}
+      \field{title}{3D Printing in Medicine for Preoperative Surgical Planning: A Review}
+      \field{volume}{48}
+      \field{year}{2020}
+      \field{pages}{536\bibrangedash 555}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1007/s10439-019-02411-0
+      \endverb
+      \verb{file}
+      \verb 3c783cdd-720f-433c-bc37-878324db2b60:C\:\\Users\\Filip Kajzer\\AppData\\Local\\Swiss Academic Software\\Citavi 6\\ProjectCache\\e8uxlld2monc8vwugtmmvoj48jc04ip5gg03ezrnex3\\Citavi Attachments\\3c783cdd-720f-433c-bc37-878324db2b60.pdf:pdf
+      \endverb
+      \keyw{3D printing;Additive manufacturing;Bioengineering;Biomaterials;Preoperative;Surgical planning}
+    \endentry
+    \entry{RN65}{article}{}
+      \name{author}{10}{}{%
+        {{hash=f90c33a1640cb3af01acdd25818cc3b8}{%
+           family={Testaverde},
+           familyi={T\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=47579d71423ac512405bc6543b0498ac}{%
+           family={Perrone},
+           familyi={P\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4c2908e781b29050ba74310e6dcce2f8}{%
+           family={Caporali},
+           familyi={C\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=23f47d9cd8759677820ddd76cac07325}{%
+           family={Ermini},
+           familyi={E\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c14d7095976ed493cab70f5bf1161ba7}{%
+           family={Izzo},
+           familyi={I\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=ae9d1fca3ec9b8edc119a1d5c4889b7a}{%
+           family={D'Angeli},
+           familyi={D\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+        {{hash=6a49c0c09d376af5b2df57817b784cb8}{%
+           family={Impara},
+           familyi={I\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=7c801dc0a34defc3d6e56bf10d1cd74c}{%
+           family={Mazza},
+           familyi={M\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=1c470fbd925b3a96f7fc82c3356c89e9}{%
+           family={Izzo},
+           familyi={I\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=fe2361a5710bc0289c401bb87ef7021d}{%
+           family={Marini},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{04ab093c39c6060b2297475f742a4c0c}
+      \strng{fullhash}{82f7c9448f12d4f0d64eb2bd66be57af}
+      \strng{bibnamehash}{82f7c9448f12d4f0d64eb2bd66be57af}
+      \strng{authorbibnamehash}{82f7c9448f12d4f0d64eb2bd66be57af}
+      \strng{authornamehash}{04ab093c39c6060b2297475f742a4c0c}
+      \strng{authorfullhash}{82f7c9448f12d4f0d64eb2bd66be57af}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1872-7727 (Electronic) 0720-048X (Linking)}
+      \field{journaltitle}{Eur J Radiol}
+      \field{number}{3}
+      \field{title}{CT and MR findings in synovial chondromatosis of the temporo-mandibular joint: our experience and review of literature}
+      \field{type}{Journal Article}
+      \field{volume}{78}
+      \field{year}{2011}
+      \field{pages}{414\bibrangedash 8}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1016/j.ejrad.2009.11.015
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pubmed/19969436
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pubmed/19969436
+      \endverb
+    \endentry
+    \entry{RN72}{article}{}
+      \name{author}{8}{}{%
+        {{hash=2f1bc9677994da5f35b312ead1467240}{%
+           family={Ullrich},
+           familyi={U\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=68a071546b3cbc6af20a20ba823d154e}{%
+           family={Grottke},
+           familyi={G\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+        {{hash=94020b1b13632c0ee1b72899148da51f}{%
+           family={Fried},
+           familyi={F\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=d7c02cbd4714825e8f9e4f76ccb67393}{%
+           family={Frommen},
+           familyi={F\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=c7e607f3a5484bc1c3c291baa8bd362b}{%
+           family={Liao},
+           familyi={L\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+        {{hash=ca6eaf98920bcecbf1b8e742ffcc47cb}{%
+           family={Rossaint},
+           familyi={R\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=bca9e3e8e9b360380a4b98fd2d4aff0a}{%
+           family={Kuhlen},
+           familyi={K\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=5751a43ecfb245166379c2150a682a6f}{%
+           family={Deserno},
+           familyi={D\bibinitperiod},
+           given={T.\bibnamedelimi M.},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{1af88c6994c48e4cfcaa9fe13e2c14ce}
+      \strng{fullhash}{ea39a6c64b561e7e7e698b8e7357a5ae}
+      \strng{bibnamehash}{ea39a6c64b561e7e7e698b8e7357a5ae}
+      \strng{authorbibnamehash}{ea39a6c64b561e7e7e698b8e7357a5ae}
+      \strng{authornamehash}{1af88c6994c48e4cfcaa9fe13e2c14ce}
+      \strng{authorfullhash}{ea39a6c64b561e7e7e698b8e7357a5ae}
+      \field{extraname}{1}
+      \field{sortinit}{U}
+      \field{sortinithash}{36a2444f5238e0dcf4bb59704df6624d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1861-6429 (Electronic) 1861-6410 (Linking)}
+      \field{journaltitle}{Int J Comput Assist Radiol Surg}
+      \field{number}{6}
+      \field{title}{An intersubject variable regional anesthesia simulator with a virtual patient architecture}
+      \field{type}{Journal Article}
+      \field{volume}{4}
+      \field{year}{2009}
+      \field{pages}{561\bibrangedash 70}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1007/s11548-009-0371-5
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pubmed/20033332
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pubmed/20033332
+      \endverb
+    \endentry
+    \entry{RN70}{article}{}
+      \name{author}{6}{}{%
+        {{hash=f0eef0e3dc5cf232456ab1f5460e2ef4}{%
+           family={Ullrich},
+           familyi={U\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ac792fb257f68adea69cf832fa605aeb}{%
+           family={Grottke},
+           familyi={G\bibinitperiod},
+           given={Oliver},
+           giveni={O\bibinitperiod}}}%
+        {{hash=874f198b714ce5fdf401ca8c8d78122e}{%
+           family={Rossaint},
+           familyi={R\bibinitperiod},
+           given={Rolf},
+           giveni={R\bibinitperiod}}}%
+        {{hash=9c453242835094f1dceef008e710a1d9}{%
+           family={Staat},
+           familyi={S\bibinitperiod},
+           given={Manfred},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7fb172dd93e39908b5c6d0208c78859d}{%
+           family={Deserno},
+           familyi={D\bibinitperiod},
+           given={Thomas\bibnamedelima M},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=4f6026df22354c41da5c6db070ed416a}{%
+           family={Kuhlen},
+           familyi={K\bibinitperiod},
+           given={Torsten},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{87d12ebd0318ea983c51c861ad886dbd}
+      \strng{fullhash}{2570fb8127e24cb28356b3d28a5216de}
+      \strng{bibnamehash}{2570fb8127e24cb28356b3d28a5216de}
+      \strng{authorbibnamehash}{2570fb8127e24cb28356b3d28a5216de}
+      \strng{authornamehash}{87d12ebd0318ea983c51c861ad886dbd}
+      \strng{authorfullhash}{2570fb8127e24cb28356b3d28a5216de}
+      \field{extraname}{2}
+      \field{sortinit}{U}
+      \field{sortinithash}{36a2444f5238e0dcf4bb59704df6624d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the IEEE Virtual Reality Workshop on Medical Virtual Envirnoments}
+      \field{title}{Virtual needle simulation with haptics for regional anaesthesia}
+      \field{type}{Journal Article}
+      \field{volume}{2}
+      \field{year}{2010}
+    \endentry
+    \entry{ValveIndex}{misc}{}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2020-08-21}
+      \field{title}{Valve Index Controller}
+      \verb{urlraw}
+      \verb \url{https://www.valvesoftware.com/en/index/controllers}
+      \endverb
+      \verb{url}
+      \verb %5Curl%7Bhttps://www.valvesoftware.com/en/index/controllers%7D
+      \endverb
+    \endentry
+    \entry{Vaughan.2016}{article}{}
+      \name{author}{4}{}{%
+        {{hash=9edec6f9fcccdd6e44fd9abdf9e16528}{%
+           family={Vaughan},
+           familyi={V\bibinitperiod},
+           given={Neil},
+           giveni={N\bibinitperiod}}}%
+        {{hash=5e391a60725bffc7fce5e7d2168a1fca}{%
+           family={Dubey},
+           familyi={D\bibinitperiod},
+           given={Venketesh\bibnamedelima N.},
+           giveni={V\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=eb70d517326fb2285304e2d9f5e3285b}{%
+           family={Wainwright},
+           familyi={W\bibinitperiod},
+           given={Thomas\bibnamedelima W.},
+           giveni={T\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=4638edcf2995403f491ea6ca33c274b1}{%
+           family={Middleton},
+           familyi={M\bibinitperiod},
+           given={Robert\bibnamedelima G.},
+           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{8c8a8142a897f14698b838038003d01b}
+      \strng{fullhash}{0b2f3c8546ab203bb51574cf8392f9c5}
+      \strng{bibnamehash}{0b2f3c8546ab203bb51574cf8392f9c5}
+      \strng{authorbibnamehash}{0b2f3c8546ab203bb51574cf8392f9c5}
+      \strng{authornamehash}{8c8a8142a897f14698b838038003d01b}
+      \strng{authorfullhash}{0b2f3c8546ab203bb51574cf8392f9c5}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This review presents current virtual reality based training simulators for hip, knee and other orthopaedic surgery, including elective and trauma surgical procedures. There have not been any reviews focussing on hip and knee orthopaedic simulators. A comparison of existing simulator features is provided to identify what is missing and what is required to improve upon current simulators. In total 11 hip replacements pre-operative planning tools were analysed, plus 9 hip trauma fracture training simulators. Additionally 9 knee arthroscopy simulators and 8 other orthopaedic simulators were included for comparison. The findings are that for orthopaedic surgery simulators in general, there is increasing use of patient-specific virtual models which reduce the learning curve. Modelling is also being used for patient-specific implant design and manufacture. Simulators are being increasingly validated for assessment as well as training. There are very few training simulators available for hip replacement, yet more advanced virtual reality is being used for other procedures such as hip trauma and drilling. Training simulators for hip replacement and orthopaedic surgery in general lag behind other surgical procedures for which virtual reality has become more common. Further developments are required to bring hip replacement training simulation up to date with other procedures. This suggests there is a gap in the market for a new high fidelity hip replacement and resurfacing training simulator.}
+      \field{issn}{1350-4533}
+      \field{journaltitle}{Medical Engineering {\&} Physics}
+      \field{number}{2}
+      \field{title}{A review of virtual reality based training simulators for orthopaedic surgery}
+      \field{volume}{38}
+      \field{year}{2016}
+      \field{pages}{59\bibrangedash 71}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1016/j.medengphy.2015.11.021
+      \endverb
+      \verb{file}
+      \verb 50cefe88-e2ce-457c-a54d-9954b5df373a:C\:\\Users\\Filip Kajzer\\AppData\\Local\\Swiss Academic Software\\Citavi 6\\ProjectCache\\e8uxlld2monc8vwugtmmvoj48jc04ip5gg03ezrnex3\\Citavi Attachments\\50cefe88-e2ce-457c-a54d-9954b5df373a.pdf:pdf
+      \endverb
+    \endentry
+    \entry{VenkataS.Arikatla.2018}{inproceedings}{}
+      \name{author}{7}{}{%
+        {{hash=6f356841ae4624caba025fad477565b8}{%
+           family={{Venkata S. Arikatla}},
+           familyi={V\bibinitperiod}}}%
+        {{hash=f8ab6ba3f5afde23fbc586800d098938}{%
+           family={{Mohit Tyagi}},
+           familyi={M\bibinitperiod}}}%
+        {{hash=79003da141145c3729527737cc3cc983}{%
+           family={{Andinet Enquobahrie}},
+           familyi={A\bibinitperiod}}}%
+        {{hash=f13e5723c32d013cdbe75b3547791bee}{%
+           family={{Tung Nguyen}},
+           familyi={T\bibinitperiod}}}%
+        {{hash=74721d2f8ef1077e63c8bfe82d4977ae}{%
+           family={{George H. Blakey}},
+           familyi={G\bibinitperiod}}}%
+        {{hash=eeb259ef29ab48ae7bfe331e2fff2dc4}{%
+           family={{Ray White}},
+           familyi={R\bibinitperiod}}}%
+        {{hash=8df290f8d56e90aaaf98936a262e19e9}{%
+           family={{Beatriz Paniagua}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {International Society for Optics and Photonics}%
+      }
+      \strng{namehash}{7d9dbdb948a0891a16793259fa14fdb5}
+      \strng{fullhash}{76963c176937fcefe08da712498e063a}
+      \strng{bibnamehash}{76963c176937fcefe08da712498e063a}
+      \strng{authorbibnamehash}{76963c176937fcefe08da712498e063a}
+      \strng{authornamehash}{7d9dbdb948a0891a16793259fa14fdb5}
+      \strng{authorfullhash}{76963c176937fcefe08da712498e063a}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{SPIE Digital Library Proceedings}
+      \field{title}{High fidelity virtual reality orthognathic surgery simulator}
+      \field{year}{2018}
+      \field{pages}{1057612}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1117/12.2293690
+      \endverb
+      \verb{file}
+      \verb 8d211918-9e16-475f-b745-9ead4947d158:C\:\\Users\\Filip Kajzer\\AppData\\Local\\Swiss Academic Software\\Citavi 6\\ProjectCache\\e8uxlld2monc8vwugtmmvoj48jc04ip5gg03ezrnex3\\Citavi Attachments\\8d211918-9e16-475f-b745-9ead4947d158.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10576/1057612/high-fidelity-virtual-reality-orthognathic-surgery-simulator/10.1117/12.2293690.short
+      \endverb
+      \verb{url}
+      \verb https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10576/1057612/high-fidelity-virtual-reality-orthognathic-surgery-simulator/10.1117/12.2293690.short
+      \endverb
+    \endentry
+    \entry{.2017}{book}{}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{labeltitlesource}{title}
+      \field{title}{Virtual Reality and 3D Printing for Craniopagus Surgery}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.18204/JISSiS.2017.4.1.009
+      \endverb
+      \verb{file}
+      \verb f5b142c4-f11a-4bf9-a9ec-0469494ac36b:C\:\\Users\\Filip Kajzer\\AppData\\Local\\Swiss Academic Software\\Citavi 6\\ProjectCache\\e8uxlld2monc8vwugtmmvoj48jc04ip5gg03ezrnex3\\Citavi Attachments\\f5b142c4-f11a-4bf9-a9ec-0469494ac36b.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.koreascience.or.kr/article/jako201721565869377.page
+      \endverb
+      \verb{url}
+      \verb https://www.koreascience.or.kr/article/jako201721565869377.page
+      \endverb
+    \endentry
+    \entry{Vos.2009}{article}{}
+      \name{author}{3}{}{%
+        {{hash=d84b3d964589887f1f43b2ff5cc255c3}{%
+           family={Vos},
+           familyi={V\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=5677d807b5bc36433110838f51bfedd8}{%
+           family={Casselman},
+           familyi={C\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8d889736ef7bb4229a72bb50f1d34013}{%
+           family={Swennen},
+           familyi={S\bibinitperiod},
+           given={G.\bibnamedelimi R.\bibnamedelimi J.},
+           giveni={G\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{575abd55c8f570039227c430d3a0f442}
+      \strng{fullhash}{575abd55c8f570039227c430d3a0f442}
+      \strng{bibnamehash}{575abd55c8f570039227c430d3a0f442}
+      \strng{authorbibnamehash}{575abd55c8f570039227c430d3a0f442}
+      \strng{authornamehash}{575abd55c8f570039227c430d3a0f442}
+      \strng{authorfullhash}{575abd55c8f570039227c430d3a0f442}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This study reviewed the literature on cone-beam computerized tomography (CBCT) imaging of the oral and maxillofacial (OMF) region. A PUBMED search (National Library of Medicine, NCBI; revised 1 December 2007) from 1998 to December 2007 was conducted. This search revealed 375 papers, which were screened in detail. 176 papers were clinically relevant and were analyzed in detail. CBCT is used in OMF surgery and orthodontics for numerous clinical applications, particularly for its low cost, easy accessibility and low radiation compared with multi-slice computerized tomography. The results of this systematic review show that there is a lack of evidence-based data on the radiation dose for CBCT imaging. Terminology and technical device properties and settings were not consistent in the literature. An attempt was made to provide a minimal set of CBCT device-related parameters for dedicated OMF scanners as a guideline for future studies.}
+      \field{journaltitle}{International journal of oral and maxillofacial surgery}
+      \field{number}{6}
+      \field{title}{Cone-beam computerized tomography (CBCT) imaging of the oral and maxillofacial region: a systematic review of the literature}
+      \field{volume}{38}
+      \field{year}{2009}
+      \field{pages}{609\bibrangedash 625}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1016/j.ijom.2009.02.028
+      \endverb
+      \verb{file}
+      \verb dc6eca39-9c63-451f-9ce3-87dc8a277273:C\:\\Users\\Filip Kajzer\\AppData\\Local\\Swiss Academic Software\\Citavi 6\\ProjectCache\\e8uxlld2monc8vwugtmmvoj48jc04ip5gg03ezrnex3\\Citavi Attachments\\dc6eca39-9c63-451f-9ce3-87dc8a277273.pdf:pdf
+      \endverb
+      \keyw{Cone-Beam Computed Tomography/instrumentation/methods;Guidelines as Topic;Humans;Radiation Dosage;Radiography,Dental/instrumentation/methods;Stomatognathic Diseases/diagnostic imaging;Stomatognathic System/diagnostic imaging;Terminology as Topic;Tomography Scanners,X-Ray Computed}
+    \endentry
+    \entry{WalkaboutWorlds}{misc}{}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2020-08-21}
+      \field{title}{Walkabout Worlds}
+      \verb{urlraw}
+      \verb \url{https://www.walkaboutworlds.com/}
+      \endverb
+      \verb{url}
+      \verb %5Curl%7Bhttps://www.walkaboutworlds.com/%7D
+      \endverb
+    \endentry
+    \entry{wang2010new}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=b62a6122a73a05f74ce5d8db3c6a30af}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Sa},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b90dd9dc756b1fc0b7128569d73b08ba}{%
+           family={Mao},
+           familyi={M\bibinitperiod},
+           given={Zhengli},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=4fe955da1d97d19190639364f80c056d}{%
+           family={Zeng},
+           familyi={Z\bibinitperiod},
+           given={Changhai},
+           giveni={C\bibinitperiod}}}%
+        {{hash=40c238bb75ef58c1861f9a4a2c5def73}{%
+           family={Gong},
+           familyi={G\bibinitperiod},
+           given={Huili},
+           giveni={H\bibinitperiod}}}%
+        {{hash=fbbfad9056187873ff8a669935e9ca42}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Shanshan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=889b29a1cb50785491039890dc9ccabe}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Beibei},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{a3474db1a78bbcc808b8a638361bb990}
+      \strng{fullhash}{13ae23b6bcf4db885d3d252d336c58fe}
+      \strng{bibnamehash}{13ae23b6bcf4db885d3d252d336c58fe}
+      \strng{authorbibnamehash}{13ae23b6bcf4db885d3d252d336c58fe}
+      \strng{authornamehash}{a3474db1a78bbcc808b8a638361bb990}
+      \strng{authorfullhash}{13ae23b6bcf4db885d3d252d336c58fe}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2010 18th international conference on Geoinformatics}
+      \field{title}{A new method of virtual reality based on Unity3D}
+      \field{year}{2010}
+      \field{pages}{1\bibrangedash 5}
+      \range{pages}{5}
+    \endentry
+    \entry{WHITE2008689}{article}{}
+      \name{author}{2}{}{%
+        {{hash=4651a2652dc7790688f09f51c31ca08e}{%
+           family={White},
+           familyi={W\bibinitperiod},
+           given={Stuart\bibnamedelima C.},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=8d481b7b9527530df046ba295eed3b6b}{%
+           family={Pharoah},
+           familyi={P\bibinitperiod},
+           given={Michael\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{5aaad5ff21a2d92853b7a64ced6ad54c}
+      \strng{fullhash}{5aaad5ff21a2d92853b7a64ced6ad54c}
+      \strng{bibnamehash}{5aaad5ff21a2d92853b7a64ced6ad54c}
+      \strng{authorbibnamehash}{5aaad5ff21a2d92853b7a64ced6ad54c}
+      \strng{authornamehash}{5aaad5ff21a2d92853b7a64ced6ad54c}
+      \strng{authorfullhash}{5aaad5ff21a2d92853b7a64ced6ad54c}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0011-8532}
+      \field{journaltitle}{Dental Clinics of North America}
+      \field{note}{Contemporary Dental and Maxillofacial Imaging}
+      \field{number}{4}
+      \field{title}{The Evolution and Application of Dental Maxillofacial Imaging Modalities}
+      \field{volume}{52}
+      \field{year}{2008}
+      \field{pages}{689\bibrangedash 705}
+      \range{pages}{17}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.cden.2008.05.006
+      \endverb
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/S0011853208000487
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0011853208000487
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
 
-\bibitem[Lea, ]{LeapMotion}
-Leap motion.
-\newblock \url{https://www.ultraleap.com/product/leap-motion-controller/}.
-\newblock Accessed: 2020-08-21.
-
-\bibitem[Ocu, ]{OculusRift}
-Open vr.
-\newblock \url{https://www.oculus.com/rift/#oui-csl-rift-games=mages-tale}.
-\newblock Accessed: 2020-08-21.
-
-\bibitem[Ope, ]{OpenVR}
-Open vr.
-\newblock \url{https://github.com/ValveSoftware/openvr}.
-\newblock Accessed: 2020-08-21.
-
-\bibitem[Val, ]{ValveIndex}
-Valve index controller.
-\newblock \url{https://www.valvesoftware.com/en/index/controllers}.
-\newblock Accessed: 2020-08-21.
-
-\bibitem[.20, 2017]{.2017}
- (2017).
-\newblock {\em Virtual Reality and 3D Printing for Craniopagus Surgery}.
-
-\bibitem[Ayoub and Pulijala, 2019]{Ayoub.2019}
-Ayoub, A. and Pulijala, Y. (2019).
-\newblock The application of virtual reality and augmented reality in oral {\&}
-  maxillofacial surgery.
-\newblock {\em BMC Oral Health}, 19(1):238.
-
-\bibitem[Banks et~al., 2007]{RN63}
-Banks, E.~H., Chudnoff, S., Karmin, I., Wang, C., and Pardanani, S. (2007).
-\newblock Does a surgical simulator improve resident operative performance of
-  laparoscopic tubal ligation?
-\newblock {\em American journal of obstetrics and gynecology}, 197(5):541--e1.
-
-\bibitem[Barber et~al., 2020]{Barber.2020}
-Barber, S.~R., Jain, S., Mooney, M.~A., Almefty, K.~K., Lawton, M.~T., Son,
-  Y.-J., and Stevens, S.~M. (2020).
-\newblock Combining stereoscopic video and virtual reality simulation to
-  maximize education in lateral skull base surgery.
-\newblock {\em Otolaryngology--head and neck surgery : official journal of
-  American Academy of Otolaryngology-Head and Neck Surgery}, 162(6):922--925.
-
-\bibitem[Barber et~al., 2018]{Barber.2018}
-Barber, S.~R., Jain, S., Son, Y.-J., and Chang, E.~H. (2018).
-\newblock Virtual functional endoscopic sinus surgery simulation with
-  3d-printed models for mixed-reality nasal endoscopy.
-\newblock {\em Otolaryngology--head and neck surgery : official journal of
-  American Academy of Otolaryngology-Head and Neck Surgery}, 159(5):933--937.
-
-\bibitem[Berni and Borgianni, 2020]{Berni.2020}
-Berni, A. and Borgianni, Y. (2020).
-\newblock Applications of virtual reality in engineering and product design:
-  Why, what, how, when and where.
-\newblock {\em Electronics}, 9(7):1064.
-
-\bibitem[Burdea and Coiffet, 2003]{burdea2003virtual}
-Burdea, G.~C. and Coiffet, P. (2003).
-\newblock {\em Virtual reality technology}.
-\newblock John Wiley \& Sons.
-
-\bibitem[Camp, 2018]{RN59}
-Camp, C.~L. (2018).
-\newblock Editorial commentary: "virtual reality" simulation in orthopaedic
-  surgery: Realistically helpful, or virtually useless?
-\newblock {\em Arthroscopy}, 34(5):1678--1679.
-
-\bibitem[Gallagher et~al., 2005]{RN60}
-Gallagher, A.~G., Ritter, E.~M., Champion, H., Higgins, G., Fried, M.~P.,
-  Moses, G., Smith, C.~D., and Satava, R.~M. (2005).
-\newblock Virtual reality simulation for the operating room: proficiency-based
-  training as a paradigm shift in surgical skills training.
-\newblock {\em Ann Surg}, 241(2):364--72.
-
-\bibitem[Grantcharov et~al., 2004]{RN62}
-Grantcharov, T.~P., Kristiansen, V.~B., Bendix, J., Bardram, L., Rosenberg, J.,
-  and Funch-Jensen, P. (2004).
-\newblock Randomized clinical trial of virtual reality simulation for
-  laparoscopic skills training.
-\newblock {\em Br J Surg}, 91(2):146--50.
-
-\bibitem[Hassfeld and Mühling, 2001]{HASSFELD20012}
-Hassfeld, S. and Mühling, J. (2001).
-\newblock Computer assisted oral and maxillofacial surgery – a review and an
-  assessment of technology.
-\newblock {\em International Journal of Oral and Maxillofacial Surgery},
-  30(1):2 -- 13.
-
-\bibitem[Larsen et~al., 2009]{RN61}
-Larsen, C.~R., Soerensen, J.~L., Grantcharov, T.~P., Dalsgaard, T.,
-  Schouenborg, L., Ottosen, C., Schroeder, T.~V., and Ottesen, B.~S. (2009).
-\newblock Effect of virtual reality training on laparoscopic surgery:
-  randomised controlled trial.
-\newblock {\em BMJ}, 338:b1802.
-
-\bibitem[Mann, 1965]{mann1965evaluation}
-Mann, R.~W. (1965).
-\newblock The evaluation and simulation of mobility aids for the blind.
-\newblock {\em American Foundation Blind research Bulletin}, (11):93--98.
-
-\bibitem[McGaghie et~al., 2011]{mcgaghie2011does}
-McGaghie, W.~C., Issenberg, S.~B., Cohen, M. E.~R., Barsuk, J.~H., and Wayne,
-  D.~B. (2011).
-\newblock Does simulation-based medical education with deliberate practice
-  yield better results than traditional clinical education? a meta-analytic
-  comparative review of the evidence.
-\newblock {\em Academic medicine: journal of the Association of American
-  Medical Colleges}, 86(6):706.
-
-\bibitem[Meara et~al., 2015]{RN68}
-Meara, J.~G., Leather, A. J.~M., Hagander, L., Alkire, B.~C., Alonso, N., Ameh,
-  E.~A., Bickler, S.~W., Conteh, L., Dare, A.~J., Davies, J., Mérisier, E.~D.,
-  El-Halabi, S., Farmer, P.~E., Gawande, A., Gillies, R., Greenberg, S. L.~M.,
-  Grimes, C.~E., Gruen, R.~L., Ismail, E.~A., Kamara, T.~B., Lavy, C., Lundeg,
-  G., Mkandawire, N.~C., Raykar, N.~P., Riesel, J.~N., Rodas, E., Rose, J.,
-  Roy, N., Shrime, M.~G., Sullivan, R., Verguet, S., Watters, D., Weiser,
-  T.~G., Wilson, I.~H., Yamey, G., and Yip, W. (2015).
-\newblock Global surgery 2030: evidence and solutions for achieving health,
-  welfare, and economic development.
-\newblock {\em The Lancet}, 386(9993):569--624.
-
-\bibitem[Milgram and Kishino, 1994a]{milgram1994taxonomy}
-Milgram, P. and Kishino, F. (1994a).
-\newblock A taxonomy of mixed reality visual displays.
-\newblock {\em IEICE TRANSACTIONS on Information and Systems},
-  77(12):1321--1329.
-
-\bibitem[Milgram and Kishino, 1994b]{Milgram.1994}
-Milgram, P. and Kishino, F. (1994b).
-\newblock A taxonomy of mixed reality visual displays.
-\newblock {\em IEICE TRANSACTIONS on Information and Systems},
-  77(12):1321--1329.
-
-\bibitem[Parham et~al., 2019a]{Parham.2019}
-Parham, G., Bing, E.~G., Cuevas, A., Fisher, B., Skinner, J., Mwanahamuntu, M.,
-  and Sullivan, R. (2019a).
-\newblock Creating a low-cost virtual reality surgical simulation to increase
-  surgical oncology capacity and capability.
-\newblock {\em Ecancermedicalscience}, 13:910.
-
-\bibitem[Parham et~al., 2019b]{RN52}
-Parham, G., Bing, E.~G., Cuevas, A., Fisher, B., Skinner, J., Mwanahamuntu, M.,
-  and Sullivan, R. (2019b).
-\newblock Creating a low-cost virtual reality surgical simulation to increase
-  surgical oncology capacity and capability.
-\newblock {\em Ecancermedicalscience}, 13:910.
-
-\bibitem[Pulijala et~al., 2017a]{Pulijala.2017}
-Pulijala, Y., Ma, M., and Ayoub, A. (2017a).
-\newblock Vr surgery: Interactive virtual reality application for training oral
-  and maxillofacial surgeons using oculus rift and leap motion.
-\newblock In Ma, M. and Oikonomou, A., editors, {\em Serious Games and
-  Edutainment Applications}, pages 187--202. {Springer International
-  Publishing}, Cham.
-
-\bibitem[Pulijala et~al., 2017b]{RN6}
-Pulijala, Y., Ma, M., and Ayoub, A. (2017b).
-\newblock {\em VR Surgery: Interactive Virtual Reality Application for Training
-  Oral and Maxillofacial Surgeons using Oculus Rift and Leap Motion}, book
-  section Chapter 8, pages 187--202.
-
-\bibitem[Richardson et~al., 2015]{richardson2015cost}
-Richardson, C., Bernard, S., and Dinh, V.~A. (2015).
-\newblock A cost-effective, gelatin-based phantom model for learning
-  ultrasound-guided fine-needle aspiration procedures of the head and neck.
-\newblock {\em Journal of Ultrasound in Medicine}, 34(8):1479--1484.
-
-\bibitem[{Rosen} et~al., 1996]{486713}
-{Rosen}, J.~M., {Soltanian}, H., {Redett}, R.~J., and {Laub}, D.~R. (1996).
-\newblock Evolution of virtual reality [medicine].
-\newblock {\em IEEE Engineering in Medicine and Biology Magazine},
-  15(2):16--22.
-
-\bibitem[Sampogna et~al., 2017]{Sampogna.2017}
-Sampogna, G., Pugliese, R., Elli, M., Vanzulli, A., and Forgione, A. (2017).
-\newblock Routine clinical application of virtual reality in abdominal surgery.
-\newblock {\em Minimally invasive therapy {\&} allied technologies : MITAT :
-  official journal of the Society for Minimally Invasive Therapy},
-  26(3):135--143.
-
-\bibitem[Schuetz et~al., 2008]{schuetz2008three}
-Schuetz, M., Gockel, I., Beardi, J., Hakman, P., Dunschede, F., Moenk, S.,
-  Heinrichs, W., and Junginger, T. (2008).
-\newblock Three different types of surgeon-specific stress reactions identified
-  by laparoscopic simulation in a virtual scenario.
-\newblock {\em Surgical endoscopy}, 22(5):1263--1267.
-
-\bibitem[Seymour et~al., 2002]{RN64}
-Seymour, N.~E., Gallagher, A.~G., Roman, S.~A., O’brien, M.~K., Bansal,
-  V.~K., Andersen, D.~K., and Satava, R.~M. (2002).
-\newblock Virtual reality training improves operating room performance: results
-  of a randomized, double-blinded study.
-\newblock {\em Annals of surgery}, 236(4):458.
-
-\bibitem[Sutherland, 1968]{sutherland1968head}
-Sutherland, I.~E. (1968).
-\newblock A head-mounted three dimensional display.
-\newblock In {\em Proceedings of the December 9-11, 1968, fall joint computer
-  conference, part I}, pages 757--764.
-
-\bibitem[Swennen et~al., 2009]{swennen2009three}
-Swennen, G.~R., Mollemans, W., and Schutyser, F. (2009).
-\newblock Three-dimensional treatment planning of orthognathic surgery in the
-  era of virtual imaging.
-\newblock {\em Journal of oral and maxillofacial surgery}, 67(10):2080--2092.
-
-\bibitem[Testaverde et~al., 2011]{RN65}
-Testaverde, L., Perrone, A., Caporali, L., Ermini, A., Izzo, L., D'Angeli, I.,
-  Impara, L., Mazza, D., Izzo, P., and Marini, M. (2011).
-\newblock Ct and mr findings in synovial chondromatosis of the
-  temporo-mandibular joint: our experience and review of literature.
-\newblock {\em Eur J Radiol}, 78(3):414--8.
-
-\bibitem[{Venkata S. Arikatla} et~al., 2018]{VenkataS.Arikatla.2018}
-{Venkata S. Arikatla}, {Mohit Tyagi}, {Andinet Enquobahrie}, {Tung Nguyen},
-  {George H. Blakey}, {Ray White}, and {Beatriz Paniagua} (2018).
-\newblock High fidelity virtual reality orthognathic surgery simulator.
-\newblock page 1057612. {International Society for Optics and Photonics}.
-
-\bibitem[Wang et~al., 2010]{wang2010new}
-Wang, S., Mao, Z., Zeng, C., Gong, H., Li, S., and Chen, B. (2010).
-\newblock A new method of virtual reality based on unity3d.
-\newblock In {\em 2010 18th international conference on Geoinformatics}, pages
-  1--5. IEEE.
-
-\bibitem[White and Pharoah, 2008]{WHITE2008689}
-White, S.~C. and Pharoah, M.~J. (2008).
-\newblock The evolution and application of dental maxillofacial imaging
-  modalities.
-\newblock {\em Dental Clinics of North America}, 52(4):689 -- 705.
-\newblock Contemporary Dental and Maxillofacial Imaging.
-
-\end{thebibliography}

@@ -1,10 +1,22 @@
-Visualization features are strongly dependant on the imaging acquisiton process as depicted in Section \ref{sec::Workflow}.
-In this step, the user performing the imaging acquistion decides on a number of critical visualization components.
-First, the user has to decide which tissues to segment and colors the segments to aid visualization.
-Second, the user has to decide on the resolution of the 3D-Models segments, meaning the numer of polygons which represent the model.
-As this can have a huge impact on performance, the user has to strike a balance between system performance and resolution of the model.
-The shader, which decides how the 3D-model will be rendered in the engine (i.e. Unity3D), is also decided here.
-Additionally, by selecting specific shaders, the user can decide whether segments are transparent or not.
+Visualization features are dependant on the imaging acquisiton process as depicted in Section \ref{sec::Workflow}.
+In this preprocessing step, the user performing the imaging acquistion decides on a two deciding visualization components.
+\\ First, the user needs to decide which patient specific tissues are relevant to the procedure, i.e. arteries, bone, skin, and segment them.
+Then, the material, which decides how the 3D model will be rendered in the engine (i.e., Unity3D), needs to be set.
+These segment specific materials can be given a color in such a way that visualization is improved, i.e. highlight specific critical tissue.
+By setting the alpha value of the materials lower than one, segments can be set to be transparent.
+\\ Second, the user has to decide on the resolution of the 3D models segments, meaning the numer of polygons which represent the model.
+This is especially important when factoring in the AR-VR-based workflow, in which the AR glasses capabilities limit the resolution of the model.
+The user has to strike a balance between system performance and resolution of the model, but the resolution of the model still has to be high enough so that patient data is displayed realisticly.
+
+\begin{figure}[ht]
+  \centering
+  \includegraphics[width=375px]{images/todo.png}
+  \caption{\label{fig::LoadingProjectCase}Process of loading a Project Case}
+\end{figure}
+
+After finishing this crucial preprocessing step, the file location of the model must be registered in the project case.
+Importing models into the VR application is realized through loading a project case via the GUI (Figure \ref{fig::LoadingProjectCase}).
+
 \begin{figure}[ht]
   \centering
   \begin{minipage}{.5\textwidth}
@@ -19,25 +31,52 @@ Additionally, by selecting specific shaders, the user can decide whether segment
 \end{figure}
 
 In Figure \ref{fig::Segmentation}, the process of activating and deactivating specific segments is described.
+Initially, all segments of the loaded patients model will be toggled on.
+This is indicated by the blue color and the orientation to the right of the UI element.
+Individual segments can be toggled on and off by pressing the virtual button as described in Section \ref{sec::GraphicalUserInterface}.
+The GUI will indicate whether a segment is toggled on and of as depicted in Figure \ref{fig::Segmentation}.
+Segments which are toggled off are indicated by the gray color and the orientation to the left of the UI element.
 Users can also decide to adjust the transparency of segments as desired.
-Additionally, the whole virtual patient can be scaled and up and down via their respective button.
-Also, the user can reset the scale, position and rotation of the patients 3D model at any time to their defaults.
+The transparency slider sets the alpha value of the segments material from between 0 to 1.
+The slider is used by holding a finger on it and dragging it to the desired transparency.
+
+\begin{figure}[ht]
+  \centering
+  \includegraphics[width=200px]{images/todo.png}
+  \caption{\label{fig::PatientVisualization} Project a Copy of the Initial Patient for Comparison}
+\end{figure}
+
+In the Patient submenu of the GUI, additional, non specific visualization tools are located.
+Here, the whole virtual patient can be scaled and up and down via their respective button (Figure \ref{fig::PatientVisualization}).
+Since procedure steps are subcomponents of the virtual patient, done procedures are also scaled correctly and relative spatial relationships can be investigated. 
+At any time, users can reset the scale, position and rotation of the patients 3D model at any time to their defaults.
 
 \begin{figure}[ht]
   \centering
   \includegraphics[width=200px]{images/implementation/features/visualization/project_copy.png}
-  \caption{\label{fig::ProjectCopy} Project a Copy of the Initial Patient for Comparison}
+  \caption{\label{fig::ProjectCopy} Projected copy of the unmodified patient model. Users can interact with the copy by grabbing it.}
 \end{figure}
 
-Additionally, the user can at any time spawn a copy of the default patient, without any procedure steps, for comparison (Figure \ref{fig::ProjectCopy}).
+Additionally, the user can at any time spawn a copy of the default patient, without any procedure steps, for comparison as depicted in Figure \ref{fig::ProjectCopy}.
+In comparison to the heavily modified patient model to the right, the initial patient model is used to visualize the patient specific anatomy and pathalogy without any friction (Requirement \ref{req::F3.2}).
+The projected copy is a literal copy of the loaded patients model which is created simultaneously when loading a project case.
+Users can also interact with the projected copy, meaning they can scale and rotate it by grabbing it.
 
-The main model of the patient can also be exploded as depicted in Figure \ref{fig::Segmentation}.
-Here, segments are exploded in a circular to allow for a closer look at each individual segment of the patient.
+\begin{figure}[ht]
+  \centering
+  \includegraphics[width=200px]{images/todo.png}
+  \caption{\label{fig::ExplodeView} Exploded view of the segments. Here, individual segments are interactable, meaning the rotation and location can be adjusted.}
+\end{figure}
+
+The main model of the patient can also be exploded as depicted in Figure \ref{fig::ExplodeView}.
+Segments are exploded in a way to allow for individual inspection.
+The explode view starts at a specified point in the operating room and each segment is then seperated by a specified distance.
+Each segment in the explode view is interactible in such a way that they can be rotated and translated by grabbing it (\ref{req::F3.3}).
 
 \begin{figure}[ht]
     \centering
     \includegraphics[width=200px]{images/implementation/features/visualization/ruler.png}
-    \caption{\label{fig::FeatureRuler} Ruler for Checking distances}
+    \caption{\label{fig::FeatureRuler} Ruler for checking relative distances. Spatial relationships between tissue are inspected here.}
 \end{figure}
 
 In the virtual operating room, a ruler can be used to measure distances, but more importantly relative distances in the patients morphology.

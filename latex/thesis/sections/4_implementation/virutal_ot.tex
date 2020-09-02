@@ -1,0 +1,43 @@
+The related works highlight that presence of users, as shown by Pulijala et al. can effectively decrease trainees anxiety and stress before real operations (\cite{Pulijala.2017}).
+To increase the presence of users inside of VR (\ref{req::F1}), a virtual operating room has been designed with photogrammetry.
+
+\begin{figure}[ht]
+    \centering
+    \begin{minipage}{.5\textwidth}
+      \centering
+      \includegraphics[width=0.95\linewidth]{images/implementation/operating_room_360.png}
+    \end{minipage}%
+    \begin{minipage}{.5\textwidth}
+      \centering
+      \includegraphics[width=0.95\linewidth]{images/implementation/walkabout_worlds.png}
+    \end{minipage}
+    \caption{\label{fig::360OperatingRoom}Left: Edited 360 Degree Photograph of OP 10 in UHA. Right: Result of conversion to 3D model via Walkabout Worlds}
+\end{figure}
+
+The virtual operating room has been modeled with a cost-effective, simplistic photogrammatry-esque approach, in which a real operation room from UHA has been captured using a 360 degree camera (Figure \ref{fig::360OperatingRoom}), the samsung gear 360, and converted into a 3D model via Walkabout Worlds (\cite{WalkaboutWorlds}).
+For reference, the operating room 10 from UHA Aachen has been caputured and modeled after in VR.
+Beforehand, the operating room was emptied out as much as possible and then after converting it to a 3D model filled with 3D object from open assets in Unity.
+This way, users can feel present inside of a real OT while being able to interact with any subsequently imported 3D models found in the surgical environment.
+Some details, such as the operting table dock in the middle of the room and computer equiments have been edited out with photo-editing software.
+Note, that any operating room can be modeled and added to the existing application (Requirement \ref{req::N8}).
+
+
+\begin{figure}[ht]
+  \centering
+  \begin{minipage}{.5\textwidth}
+    \centering
+    \includegraphics[width=0.95\linewidth]{images/todo.png}
+  \end{minipage}%
+  \begin{minipage}{.5\textwidth}
+    \centering
+    \includegraphics[width=0.95\linewidth]{images/todo.png}
+  \end{minipage}
+  \caption{\label{fig::SceneSelect} Left: Users chose which OT they want to work in by selecting the thumbnail of an OT with their virtual hands. Right: The final virtual OT for OMFS. The OT table with the patient is located in the middle. Next to it, a tray with surgical instruments.
+  Textual information about the procedure is floating next to the operating table.}
+\end{figure}
+
+Users can choose which OT they want to work in by selecting it in the OT select view (Figure \ref{fig::SceneSelect}).
+\\ Surgical instruments were scanned via medical imaging acquisition and postprocessed in Blender3D to reduce artifacts, which occur during the 3D scanning phase of the surgical instruments and materials.
+After these critical steps for immersion and presence (especially for the OMF surgeons of UHA) have been completed, instruments and materials are ready to be imported into Unity3D.
+User navigate through the software via the locomotion options (\ref{sec::Architecture}), and interct with the environment via a combination of natural gestures, GUI and VUI as will be discussed extensively in the following Section \ref{sec::UserInterface}.
+\\ In principle, users can create their own OT and surgical instruments specialized to their medical field, import them into Unity, and the underlying architecture (\ref{sec::Architecture}) will continue to work.
