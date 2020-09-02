@@ -1,26 +1,27 @@
-At this point, the aforementioned six procedures are implemented in the system.
-However, as described in Section \ref{sec::Architecture}, the system is extensible in the regard that new instruments can be implemented.
-Currently, the implemented instruments are based on the workflow of OMF surgeons of the UHA: Users can perform drilling, hammer and chisel, bonesaw and milling operations.
+At this point, six procedures are implemented in the system.
+However, as described in Section \ref{sec::Architecture}, the system is extensible in the regard that new instruments can be implemented seemlessly.
+Currently, the implemented instruments are based on the workflow of OMF surgeons of the UHA: Users can perform drilling, hammer and chisel, bonesaw and milling operations (R\ref{req::F3.6}).
 Additionally, users can place markings and osteosynthesis plates on the virtual patient.
 \\ To perform procedures, a project case has to be loaded first, as described in Section \ref{sec::GraphicalUserInterface}.
 In the sense of SteamVRs interaction system described in Section \ref{sec::Architecture}, for each procedure there is an 'indicate' action when the user touches the 'perform' button, as well as an 'perform' action when the user presses the button all the way.
-This way, users get a visual feedback when they are about to perform a procedure, as well as having visual indications of where the procedure will start (i.e. tip of the surgical instrument).
-After described each procedure individually, how the procedures come together to create the steps for a procedure will be shortly desctribed.
+This way, users get a visual feedback when they are about to perform a procedure, as well as having visual indications of where the procedure will start (i.e. tip of the surgical instrument) \ref{req::N3}.
 \\ Each procedure will add a step to the project case.
-In the sense of the VR-AR-based workflow described in Section \ref{sec::Workflow}, project cases can then be loaded into both parts of the workflow.
-The steps are added to the hierarchy of the patient's 3D model and are identified as a step by name.
-Through using this kind of approach, extensibility is guaranteed as each new instrument simply has to add some kind of geometry as a step to the project case (Requirements \ref{req::N8}, \ref{req::F3.7}).
-It follows that any kind of procedure can then be imported into the AR workflow, even without touching the application.
-\\ When a procedure is performed, users get voice feedback confirming that a step has been added to the project case.
-Users can also navigate the project cases steps by using the VUIs commands, so that navigation through the steps of the procedure can be done while holding surgical instruments (Requirements \ref{req::N1}, \ref{req::F3.7}).
-\\ For some of the surgical instruments, the user representation of the hand will be shown, for others not.
-When a surgical instrument has this feature implemented, it is guaranteed that the instrument will always be grabbed and positioned in the same position on the hand, meaning the handgrip will always be the same.
-However, in some cases, f.e. sawing with the bonesaw, this feature would prevent users from switching the handgrip of the surgical instrument. 
+Procedures consist of either a copy of the object concerning the current procedure, meaning the geometry of i.e. the drill bit, chisel, or osteosynthesis plate.
+In other cases, simple geometry to signal users where a procedure is to be done as is the case with the sawing, marker and milling procedure is created, as will be elaborated when describing procedure specifics later.
+The steps are added to the hierarchy of the patient's 3D model and are identified as a step by their name.
+\\ In the sense of the VR-AR-based workflow described in Section \ref{sec::Workflow}, project cases can then be saved in the VR part, and then loaded into both parts of the workflow (\ref{req::F6}).
+Through using this kind of approach, extensibility is guaranteed as each new instrument simply has to add some kind of geometry as a step to the project case (R\ref{req::N8},\ref{req::F3.7}).
+It follows that any kind of procedure can then be imported into the AR workflow, even without touching the application (R\ref{req::F6}).
+\\ When a procedure is performed, users get voice feedback in the form of "step next", confirming that a step has been added to the project case (R\ref{req::N3}).
+Users can also navigate the project cases steps by using the VUIs commands (Section \ref{sec::VoiceUserInterface}), so that navigation through the steps of the procedure can be done while holding surgical instruments (R\ref{req::N1},\ref{req::F3.7}).
+\\ For some of the surgical instruments, the user representation of the hand will be shown while holding the instrument, for others the hand is hidden.
+When a surgical instrument is placed into the virtual hand, the position of the surgical instrument is always fixed.
+This way, it is guaranteed that the instrument will always be positioned in the same way when it is grabbed, meaning the handgrip will always be the same.
+However, in some cases, f.e. sawing with the bonesaw, this feature would prevent users from switching the handgrip of the surgical instrument (Requirement \ref{req::N5}). 
 Therefore, for some instruments, this feature was removed.
-Users will not see their virtual hands on the surgical instrument, but can chose to hold it however they want.
-The virtual hands will be hidden while holding the instrument, however the instrument still represents the users hand position.
-This way, the handgrip of the instrument can be adapted as users see fit.
-The decision, on which was decided if hands should be hidden when grabbing an instrument, was made by a trial and error approach with the help of a physician's opinion on whether this features was useful.
+Users will not see their virtual hands on the surgical instrument, but therefore can chose to hold it in with grip they see fit.
+The virtual hands will be hidden while holding the instrument, however, the instrument still represents the users hand position.
+The decision, on which was decided if hands should be hidden when grabbing an instrument, was made by a trial and error approach with the help of a physician's opinion on whether this features was useful (R\ref{req::N5}).
 The procedure specific implementation will be thoroughly described in the following.
 
 \input{sections/4_implementation/features/procedures/drilling.tex}

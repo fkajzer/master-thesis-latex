@@ -1,23 +1,23 @@
-[2] Config.pm:304> INFO - This is Biber 2.12
-[3] Config.pm:307> INFO - Logfile is 'Thesis.blg'
-[156] biber-darwin:315> INFO - === Wed Sep  2, 2020, 19:02:52
-[215] Biber.pm:371> INFO - Reading 'Thesis.bcf'
+[0] Config.pm:304> INFO - This is Biber 2.12
+[0] Config.pm:307> INFO - Logfile is 'Thesis.blg'
+[47] biber-darwin:315> INFO - === Wed Sep  2, 2020, 21:47:45
+[74] Biber.pm:371> INFO - Reading 'Thesis.bcf'
 [451] Biber.pm:889> INFO - Found 57 citekeys in bib section 0
-[469] Biber.pm:4093> INFO - Processing section 0
-[488] Biber.pm:4254> INFO - Looking for bibtex format file 'ms_endnote.bib' for section 0
-[491] bibtex.pm:1523> INFO - LaTeX decoding ...
-[577] bibtex.pm:1340> INFO - Found BibTeX data source 'ms_endnote.bib'
-[1048] Biber.pm:4254> INFO - Looking for bibtex format file 'ms_thesis_citavi_refs.bib' for section 0
-[1067] bibtex.pm:1523> INFO - LaTeX decoding ...
-[1553] bibtex.pm:1340> INFO - Found BibTeX data source 'ms_thesis_citavi_refs.bib'
-[1785] Biber.pm:4254> INFO - Looking for bibtex format file 'ms_thesis.bib' for section 0
-[1787] bibtex.pm:1523> INFO - LaTeX decoding ...
-[1840] bibtex.pm:1340> INFO - Found BibTeX data source 'ms_thesis.bib'
-[1883] Utils.pm:193> WARN - month field '8~28' in entry 'heilig1962sensorama' is not an integer - this will probably not sort properly.
-[2148] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[2148] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[2149] Biber.pm:3921> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
-[2149] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
-[2233] bbl.pm:636> INFO - Writing 'Thesis.bbl' with encoding 'UTF-8'
-[2269] bbl.pm:739> INFO - Output to Thesis.bbl
-[2271] Biber.pm:110> INFO - WARNINGS: 1
+[486] Biber.pm:4093> INFO - Processing section 0
+[609] Biber.pm:4254> INFO - Looking for bibtex format file 'ms_endnote.bib' for section 0
+[612] bibtex.pm:1523> INFO - LaTeX decoding ...
+[919] bibtex.pm:1340> INFO - Found BibTeX data source 'ms_endnote.bib'
+[1159] Biber.pm:4254> INFO - Looking for bibtex format file 'ms_thesis_citavi_refs.bib' for section 0
+[1185] bibtex.pm:1523> INFO - LaTeX decoding ...
+[1500] bibtex.pm:1340> INFO - Found BibTeX data source 'ms_thesis_citavi_refs.bib'
+[1704] Biber.pm:4254> INFO - Looking for bibtex format file 'ms_thesis.bib' for section 0
+[1707] bibtex.pm:1523> INFO - LaTeX decoding ...
+[1764] bibtex.pm:1340> INFO - Found BibTeX data source 'ms_thesis.bib'
+[1799] Utils.pm:193> WARN - month field '8~28' in entry 'heilig1962sensorama' is not an integer - this will probably not sort properly.
+[2020] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2021] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2021] Biber.pm:3921> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[2021] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[2103] bbl.pm:636> INFO - Writing 'Thesis.bbl' with encoding 'UTF-8'
+[2138] bbl.pm:739> INFO - Output to Thesis.bbl
+[2138] Biber.pm:110> INFO - WARNINGS: 1

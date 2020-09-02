@@ -27,7 +27,9 @@ To perform the procedure, the drill handle must have a bit attached.
     \caption{\label{fig::FeatureDrilling}Drilling procedure. The pink object represents the last performed step, which was performed using the currently selected tool by pressing the respective button all the way.}
 \end{figure}
 
-By triggering the 'perform' action with the hand holding the drill, a copy of the current attachment is created. 
+By triggering the 'perform' action of the hand holding the drill, a copy of the current attachment is created and added to the project case. 
 This copy has a different material, i.e. a pink material, to indicate that it is part of the project case \ref{fig::FeatureDrilling}.
-Additionally, voice feedback is given as described in Section \ref{sec::VoiceUserInterface}.
-Additionally, textual information about the currently hold attachment will be stored in the project case, so that the exact procedure can be reproduced later.
+Additionally, textual information about the currently attached drill bit will be stored in the project case, so that the exact procedure can be reproduced later (R\ref{req::N3}, \ref{req::N5}).
+The drill bit will not be removed on performing a procedure, so that multiple drilling steps can be performed consecutively.
+When the drill is no longer needed, it can either be placed back on the instrument tray or the operating table for quick access.
+Note that any instrument, excluding the osteosynthesis plates described later, can be played anywhere in the OT.

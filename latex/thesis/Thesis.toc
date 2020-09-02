@@ -46,9 +46,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.4.2}Procedures}{35}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Drilling}{36}% 
+\contentsline {paragraph}{\nonumberline Drilling}{37}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Chiseling}{38}% 
+\contentsline {paragraph}{\nonumberline Chiseling}{37}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{\nonumberline Sawing}{38}% 
 \defcounter {refsection}{0}\relax 
@@ -62,7 +62,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4.5}Workflow}{43}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.6}Interaction Flow}{45}% 
+\contentsline {section}{\numberline {4.6}Interaction Flow}{46}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {5}Evaluation}{49}% 
 \defcounter {refsection}{0}\relax 
