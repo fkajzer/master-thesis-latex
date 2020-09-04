@@ -346,6 +346,33 @@
       \field{pages}{31\bibrangedash 40}
       \range{pages}{10}
     \endentry
+    \entry{brooke1996sus}{article}{}
+      \name{author}{1}{}{%
+        {{hash=813064283275c281401d7a7483420c67}{%
+           family={Brooke},
+           familyi={B\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {CRC press}%
+      }
+      \strng{namehash}{813064283275c281401d7a7483420c67}
+      \strng{fullhash}{813064283275c281401d7a7483420c67}
+      \strng{bibnamehash}{813064283275c281401d7a7483420c67}
+      \strng{authorbibnamehash}{813064283275c281401d7a7483420c67}
+      \strng{authornamehash}{813064283275c281401d7a7483420c67}
+      \strng{authorfullhash}{813064283275c281401d7a7483420c67}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Usability evaluation in industry}
+      \field{title}{SUS: a “quick and dirty'usability}
+      \field{year}{1996}
+      \field{pages}{189}
+      \range{pages}{1}
+    \endentry
     \entry{burdea2003virtual}{book}{}
       \name{author}{2}{}{%
         {{hash=d32f1bfd8d50d807d9f80f323e1246cf}{%
@@ -812,6 +839,50 @@
       \verb{url}
       \verb %5Curl%7Bhttps://www.vive.com/us/%7D
       \endverb
+    \endentry
+    \entry{kennedy1993simulator}{article}{}
+      \name{author}{4}{}{%
+        {{hash=5dcad4ef764078ecfb91f9057a6d7940}{%
+           family={Kennedy},
+           familyi={K\bibinitperiod},
+           given={Robert\bibnamedelima S},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=9ad5670a7bb98cf6574d797e16250b5b}{%
+           family={Lane},
+           familyi={L\bibinitperiod},
+           given={Norman\bibnamedelima E},
+           giveni={N\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=e4ce2e282ca0b122a7dab0f88fd2f3ef}{%
+           family={Berbaum},
+           familyi={B\bibinitperiod},
+           given={Kevin\bibnamedelima S},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=f1da689a1cbed527b54968ce72d78938}{%
+           family={Lilienthal},
+           familyi={L\bibinitperiod},
+           given={Michael\bibnamedelima G},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{62a1957921ecd18bed35eac13b4b7273}
+      \strng{fullhash}{8c8355f4b46f93b6d81b04b94b3ee313}
+      \strng{bibnamehash}{8c8355f4b46f93b6d81b04b94b3ee313}
+      \strng{authorbibnamehash}{8c8355f4b46f93b6d81b04b94b3ee313}
+      \strng{authornamehash}{62a1957921ecd18bed35eac13b4b7273}
+      \strng{authorfullhash}{8c8355f4b46f93b6d81b04b94b3ee313}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The international journal of aviation psychology}
+      \field{number}{3}
+      \field{title}{Simulator sickness questionnaire: An enhanced method for quantifying simulator sickness}
+      \field{volume}{3}
+      \field{year}{1993}
+      \field{pages}{203\bibrangedash 220}
+      \range{pages}{18}
     \endentry
     \entry{RN69}{article}{}
       \name{author}{8}{}{%

@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1598869442 "/Users/fkajzer/Projects/uni/master-thesis/latex/ssq/ssq.tex" "/Users/fkajzer/Projects/uni/master-thesis/latex/ssq/ssq.pdf" "ssq" 1598869443
+["pdflatex"] 1598869442 "/Users/fkajzer/Projects/uni/master-thesis/latex/ssq/ssq.tex" "/Users/fkajzer/Projects/uni/master-thesis/latex/ssq/ssq.pdf" "ssq" 1599146017
   "/Users/fkajzer/Projects/uni/master-thesis/latex/ssq/ssq.aux" 1598869443 146 0e118786b4d41d07cee03839d5b66da6 ""
-  "/Users/fkajzer/Projects/uni/master-thesis/latex/ssq/ssq.tex" 1598869441 2831 4eed0cec5a1b913ddbdba4b0f8a5df02 ""
+  "/Users/fkajzer/Projects/uni/master-thesis/latex/ssq/ssq.tex" 1599146017 2831 4eed0cec5a1b913ddbdba4b0f8a5df02 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -36,10 +36,10 @@
   "/usr/local/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt" 1573316839 4259636 2d06c5e8e00ac196c3c73e041bf89d38 ""
   "/usr/local/texlive/2019/texmf.cnf" 1557341546 577 d150fef99ac436ad1156e86b0892f6ef ""
   "ssq.aux" 1598869443 146 0e118786b4d41d07cee03839d5b66da6 "pdflatex"
-  "ssq.tex" 1598869441 2831 4eed0cec5a1b913ddbdba4b0f8a5df02 ""
+  "ssq.tex" 1599146017 2831 4eed0cec5a1b913ddbdba4b0f8a5df02 ""
   (generated)
-  "/Users/fkajzer/Projects/uni/master-thesis/latex/ssq/ssq.log"
   "ssq.log"
+  "/Users/fkajzer/Projects/uni/master-thesis/latex/ssq/ssq.log"
   "/Users/fkajzer/Projects/uni/master-thesis/latex/ssq/ssq.pdf"
-  "ssq.aux"
   "ssq.pdf"
+  "ssq.aux"

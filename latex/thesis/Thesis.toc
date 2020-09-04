@@ -70,20 +70,26 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.1.1}Preliminaries}{49}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.1.2}Participants}{49}% 
+\contentsline {subsection}{\numberline {5.1.2}Participants}{51}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.1.3}Scenarios}{49}% 
+\contentsline {subsection}{\numberline {5.1.3}Procedure and Data Collection}{51}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.1.4}Procedure and Data Collection}{49}% 
+\contentsline {paragraph}{\nonumberline \textbf {Procedure}}{51}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.2}Results}{49}% 
+\contentsline {paragraph}{\nonumberline \textbf {Feedback}}{52}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.2.1}Quantative Resuluts}{50}% 
+\contentsline {section}{\numberline {5.2}Results}{52}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.2.2}Qualitative Results}{50}% 
+\contentsline {subsection}{\numberline {5.2.1}Quantative Results}{52}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.2.3}Think-aloud-protocol}{50}% 
+\contentsline {paragraph}{\nonumberline SSQ}{52}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}Discussion}{51}% 
+\contentsline {subsection}{\numberline {5.2.2}Qualitative Results}{53}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}Conclusion}{55}% 
+\contentsline {paragraph}{\nonumberline SSQ}{53}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.3}Think-aloud-protocol}{53}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}Discussion}{55}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {7}Conclusion}{59}% 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.11.9)  2 SEP 2020 22:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.11.9)  4 SEP 2020 15:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1069,33 +1069,49 @@ Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
  [47 </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/project_case.png>] [48 </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/interaction_flow.png>]
 chapter 5.
-(/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/5_evaluation/main.tex (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/5_evaluation/methology/main.tex (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/5_evaluation/methology/preliminaries.tex) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/5_evaluation/methology/participants.tex) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/5_evaluation/methology/scenarios.tex) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/5_evaluation/methology/excecution.tex)) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/5_evaluation/results/main.tex (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/5_evaluation/results/quantative.tex) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/5_evaluation/results/qualitative.tex) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/5_evaluation/results/think_aloud.tex)))
+(/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/5_evaluation/main.tex (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/5_evaluation/methology/main.tex (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/5_evaluation/methology/preliminaries.tex
+
+LaTeX Warning: Reference `sec::Workflow)' on page 49 undefined on input line 3.
+
+File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
+<use rwth_vci_bild_schwarz_grau_cmyk.pdf>
+Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 11.
+(pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
+[49
+
+
+]) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/5_evaluation/methology/participants.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [50] (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/5_evaluation/methology/execution.tex
+File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
+<use rwth_vci_bild_schwarz_grau_cmyk.pdf>
+Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 34.
+(pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
+ [51])) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/5_evaluation/results/main.tex (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/5_evaluation/results/quantative.tex) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/5_evaluation/results/qualitative.tex [52]) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/5_evaluation/results/think_aloud.tex)))
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
 Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 84.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
- [49
+ [53] [54
 
 
-] [50]
+]
 chapter 6.
 (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/6_discussion/main.tex (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/2_related_work/subsections/discussion.tex
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
 Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 9.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
- [51
-
-
-]
+ [55]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [52]))
+ [56]))
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
 Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 87.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
- [53] [54
+ [57] [58
 
 
 ]
@@ -1105,7 +1121,7 @@ File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
 Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 90.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
- [55] [56
+ [59] [60
 
 
 ]
@@ -1117,7 +1133,7 @@ File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
 Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 90.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
- [57] [58]
+ [61] [62]
 Overfull \hbox (12.882pt too wide) in paragraph at lines 91--91
 []\OT1/cmr/m/it/12 Leap Mo-tion\OT1/cmr/m/n/12 . Ac-cessed: 2020-08-21. \OT1/cmr/m/sc/12 url\OT1/cmr/m/n/12 : $\OT1/pcr/m/n/12 %5Curl % 7Bhttps : / / www . ultraleap .
  []
@@ -1126,12 +1142,12 @@ File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
 Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 90.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
-[59] [60]
+[63] [64]
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
 Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 90.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
- [61]
+ [65]
 Overfull \hbox (15.39633pt too wide) in paragraph at lines 91--91
 \OT1/pcr/m/n/12 spiedigitallibrary . org / conference -[] proceedings -[] of -[] spie / 10576 /
  []
@@ -1141,12 +1157,12 @@ Overfull \hbox (9.69633pt too wide) in paragraph at lines 91--91
 \OT1/pcr/m/n/12 1057612 / high -[] fidelity -[] virtual -[] reality -[] orthognathic -[] surgery -[]
  []
 
-[62]
+[66]
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
 Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 91.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
- [63] (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/Thesis.aux)
+ [67] (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/Thesis.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -1156,17 +1172,17 @@ Package logreq Info: Writing requests to 'Thesis.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  14314 strings out of 492616
- 274835 string characters out of 6129481
- 790388 words of memory out of 5000000
- 17845 multiletter control sequences out of 15000+600000
+ 274766 string characters out of 6129481
+ 790513 words of memory out of 5000000
+ 17848 multiletter control sequences out of 15000+600000
  30589 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  48i,16n,68p,9141b,1428s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/Thesis.pdf (69 pages, 8230288 bytes).
+Output written on /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/Thesis.pdf (73 pages, 8239496 bytes).
 PDF statistics:
- 331 PDF objects out of 1000 (max. 8388607)
- 203 compressed objects within 3 object streams
+ 345 PDF objects out of 1000 (max. 8388607)
+ 213 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  146 words of extra memory for PDF output out of 10000 (max. 10000000)
 
