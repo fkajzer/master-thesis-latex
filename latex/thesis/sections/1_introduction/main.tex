@@ -1,14 +1,3 @@
-(\textbf{TODO @marko}: Guck mal, ob diese sachen umgesetzt sind: ...motivation of your topic is not in focus. All the (although correct) 
-information you give about the historyon VR, the details on CT/MRI/CBCT etc. is not required here to understand what you are working on.
-Instead, focus on your topic.
-1) Shorty describe what OMFS is, and how planing procedures is done right now.
-Furthermore, state which shortcomings occur in training and planning.
-2) Shorty describe which benefits VR has to overcome the aforementioned drawbacks of the classical procedure).
-3) State your thesis' objectives as well as your research question(s).
-State shortly what your contributions will be.
-4) Give a short paragraph introducing the structure of the next chapters.
-
-(\textbf{TODO @marko}: Findest du folgendes stimmt: Not relevant in the scope of your thesis as you simply use the volumetric data.)
 Through the well established field of medical imaging, surgeons can get a very detailed view of patient’s specific anatomy and pathology today. 
 It is an essential part of preparing for surgery \cite{Steinbacher.2015}.
 Most commonly used medical imaging modalities (not exlusive) are computed tomography (CT), cone-beam computed tomography (CBCT) and magnetic resonance imaging (MRI).
@@ -29,12 +18,13 @@ As discussed, there are a variety of ways to acquire medical imaging.
 However, the displaying methods of 3D medical imaging data is very limited for surgeons.
 After acquiring raw data via aformentioned modalities, volume images are generated in Digital Imaging and Communications in Medicine (DICOM) format \cite{DICOMStandard}.
 DICOM is the standard format for the storage of volumetric image data.
-Generally, data is reconstruced in three planes (axial, sagittal and coronal).
+Generally, data is reconstructed in three planes (axial, sagittal and coronal).
 Each plane is represented in "slices" of varying thickness, which are represented as volumetric voxels.
 The resulting voxels are then displayed as pixels on monitors.
 The voxels resolution is described in the \textit{SpacingBetweenImages} and \textit{SliceThickness} attributes of the slices in the DICOM standard \cite{DICOMStandard}.
 
-Oral and maxillofacial surgery (OMFS) is a very diverse surgical discipline. It has to handle a complex arrangement of bones, teeth, vessels, cartilage, nerves, muscles, skin and gland tissue.
+Oral and maxillofacial surgery (OMFS) is a very diverse surgical discipline.
+It has to handle an arrangement of bones, teeth, vessels, cartilage, nerves, muscles, skin and gland tissue.
 These structures can be deeply complex, even more so in the viscerocranium.
 Therefore, OMF surgeons rely on accurate 3D medical imaging to plan procedures \cite{Fonseca.2018}.
 Even though three-dimensional objects are being analysed and also generated, they are viewed in a two-dimensional format on conventional computer screens \cite{brewster1984interactive}.
@@ -47,17 +37,14 @@ The challenge with raw DICOM images is that they are generally unsegmented and i
 % Even though the term "Virtual Reality" was found in 1989 by Jaron Lanier, its first appearance goes back to as early as 1962 in form of the Sensorama, the first 
 % VR device which simulated a motorcycle ride through New York\cite{heilig1962sensorama}.
 % Since then, VR has hit many milestones which were important for the development and success of the technology \cite{burdea2003virtual}.
-The first VR head-mounted-device (HMD) was described in the scientific literature by Ivan Sutherland in 1968 \cite{sutherland1968head}.
-The major applications of VR in surgery can be divided into three areas:
-Virtual humans for training, the fusion of virtual humans with real humans for performing surgery, 
-and virtual telemedicine shared decision environments for training of multiple players \cite{486713}.
+The first VR head-mounted display (HMD) was described in the scientific literature by Ivan Sutherland in 1968 \cite{sutherland1968head}.
+Since then, they have become more and more relevant and increasingly popular in various fields of research.
 \\
 The first medical application of VR (without HMD) goes back to 1965, where R. Mann et al. evaluated the use of VR as a mobility aid for the blind 
 by creating a virtual environment in which to test an hypothetical auditory display device \cite{mann1965evaluation}.
 In general, VR in medicine can be split into generic models and patient specific models.
 Generic models are based on non-specific "average" data \cite{486713}.
-\\
-Patient specific models on the other hand are modeled after individual patients.
+Patient specific models on the other hand are created for each individual patients.
 Throughout the years, a number of such "virtual human" applications have been developed and had left positive impressions \cite{486713}.
 
 Data fusion is the term used to address the capability of a system to integrate data from different sources.
@@ -75,8 +62,8 @@ This can be achieved either by room-mounted displays or HMDs, however, consumer 
 
 \input{sections/1_introduction/goal.tex}
 
-The remainder of this thesis is structured as follows.
-\\ In Section \ref{chap::RelatedWork} related research in the field of VR applied to surgical workflows and existing surgical simulations will be presented.
+The remainder of this thesis is structured as follows. 
+In Section \ref{chap::RelatedWork} related research in the field of VR applied to surgical workflows and existing surgical simulations will be presented.
 Used hard- and software, as well as input devices (with and without haptic feedback) will be presented.
 A number of surgical simulations which utilized HMDs will be described in detail.
 Different visualization techniques and levels of presence will also be presented via the related work.
@@ -84,4 +71,4 @@ In Section \ref{chap::Approach}, the developed requirements from the aforementio
 together with a broad concept of the software.
 The specific implementation details will then be extensively described in Section \ref{chap::Implementation}.
 Section \ref{chap::Evaluation} covers the methology behind the conducted evaluation with the developed software, as well as presenting the results.
-\\ Lastly, a thorough discussion followed by a conclusion with prospects of future work will finish this thesis.
+Lastly, a thorough discussion followed by a conclusion with prospects of future work will finish this thesis.

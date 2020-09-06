@@ -1,10 +1,4 @@
-\begin{figure}[ht]
-    \centering
-    \includegraphics[width=\linewidth]{images/project_plan.png}
-    \caption{\label{fig::ProjectPlan} Complete VR and AR workflow for surgeons concept}
-\end{figure}
-
-This VR-application is in the context of a AR/VR-based surgical workflow as depicted in Figure \ref{fig::ProjectPlan}.
+This VR-application is in the context of a AR/VR-based surgical workflow as perviously described in Section \ref{chap::Approach}.
 OMF surgeons can plan procedures with familiar surgical instruments on realistic representations of patients.
 Workflows can be imported and exported via a file in JSON-notation.
 The system uses a mixture of natural hand gestures like grabbing objects with voice commands for navigation.
@@ -18,7 +12,7 @@ Patients can be resetted to the default position on the operating desk at any ti
 \end{figure}
 
 The workflow of the software is depicted in Figure \ref{fig::ImplementationWorkflow}.
-Important to note is that the first two steps of the workflow are not part of this thesis, as they are provided in the scope of a research project by the OMFS 
+Important to note is that the first two steps of the workflow are not part of this thesis, as they are provided in the scope of a different research project by the OMFS 
 department of UHA.
 While segmenting the medical imaging in step two, the decision about which tissue has which color and which tissue will be transparant is made.
 Specific features of the software are dependant on decisions made in these two steps.
@@ -27,7 +21,7 @@ Specific features of the software are dependant on decisions made in these two s
 
 After setting up the project case, it can be loaded up at runtime inside of the VR-application.
 Users can then view, add and edit existing procedures or create new ones.
-If users wish to run through the planned procedure step by step, they can either navigate through the procedure using the VUI or by enabling train mode, in which the user will 
+If users wish to run through the planned procedure step by step, they can either navigate through the procedure using the VUI or by enabling training mode, in which the user will 
 be guided step by step through the procedure.
 Here, users will be visually guided by the outlines of a surgical instrument to know where a procedure has to be performed.
 Additionally, users will be guided via text inside of the application.

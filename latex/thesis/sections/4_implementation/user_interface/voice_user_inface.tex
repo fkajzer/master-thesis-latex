@@ -25,7 +25,7 @@ Users will get auditory feedback if keywords are recognized, mostly in the form 
 Although useful, certain drawbacks of the KeywordRecognizer can not be avoided.
 First, the VUI will only work if a keyword is correctly recognized using the underlying technology.
 Also, keywords consisting of up to two words worked best, while more words had a negative effect on recognition.
-Additionally, loud environments had a detrementing effect on recognizing keywords.
+Additionally, loud environments had a detremential effect on recognizing keywords.
 However, if spoken clearly in a quiet environment, the keyword recognizer worked well.
 \\ To reduce the friction which errors in the procedure create, the user can directly undo the last performed procedure step via VUI (Requirements \ref{req::N4}, \ref{req::N5}, \ref{req::F6})
 This way, a natural flow of working on project cases is guaranteed.
@@ -36,10 +36,10 @@ This is only relevant, if a previously edited case is being loaded, since new ca
 By saying "show all", an enumerated overview over all steps will be shown. This overview is hidden by saying "start" once again to resume planning the procedure.
 By using the step next and step back commands, users can navigate through the procedure and trace the chronological procedure sequence.
 At any point of the planned procedure, users can use the undo command to remove the currently shown step from the procedure.
-Additonally, the last undid step will be saved if a user decides that the deletion of the step was an error.
-Undid steps can be redone via the redo command.
+Additonally, the last undone step will be saved if a user decides that the deletion of the step was an error.
+Undone steps can be redone via the redo command.
 Important to note is that only the last undid step can be redone at the moment.
-Via "train start", train mode as described in detail in Section \ref{sec::ImplementationTraining} will start.
-While in train mode, users will get auditory feedback in the form of "next step" if a procedure step has been performed correctly, and "error" if some aspect of the procedure has 
+Via "train start", training mode as described in detail in Section \ref{sec::ImplementationTraining} will start.
+While in training mode, users will get auditory feedback in the form of "next step" if a procedure step has been performed correctly, and "error" if some aspect of the procedure has 
 been performed incorrectly.
 Train mode is disabled either by finishing the whole procedure in train mode, or by revoking the train stop command to end it prematurely.

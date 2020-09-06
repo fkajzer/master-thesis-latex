@@ -1,11 +1,12 @@
-In the case of a surgical simulation, naturally users which have experience with real surgery have the feel like they are in a surgical environment.
+In the case of a surgical simulation, naturally users which have experience with real surgery have to feel like they are in a surgical environment.
 This means, that it is required to simulate the looks of the OT as well as the surgical instruments in the familiar environment.
 Additionally, since VR does not have a widespread use in the clinical environment as of now, the system has to be as easy to use as possible, so that fraction when getting into VR is as low as possible.
 It follows, that comfort should be increased as much as possible, while simultaneously avoiding nausea as much as possible.
 User interactions with the virtual environment should be as simple as possible, while also being as close to reality as possible, to be best adapted to the target demographic.
 Since a combination of voice, natural hand gestures and pressing of buttons via graphical user interface (GUI) is being used, the connection between intention and effect has to be as 
 understandable as possible at all times.
-As this thesis is with the background of developing a research-based, open-source framework, it might happen that third parties would want to extend the application in the future.
+
+As the purpose of this thesis is to develop a research-oriented, open-source framewok, it has to be considered that other parties would want to extend the application in the future.
 For this reason, an understandable software project is to be delivered, so that future work can be started from the get go.
 With all this in mind, the non-functional requirements are as follows.
 
@@ -15,21 +16,22 @@ With all this in mind, the non-functional requirements are as follows.
     By using patient specific data, the training can be used in a real case scenerio in preparation for surgery.
     On the other hand, generic data could be used for learning medical procedures in general.
     The application has to support the user in both aspects with useful tools for visualization and procedure execution purposes.
-    \item \label{req::N2}\textbf{Interaction system} Interaction with the system should be easily accessible for users.
+    \item \label{req::N2}\textbf{Accessibility} Interaction with the system should be easily accessible for users.
     Most users will not be computer experts, so the combination of natural gestures, GUI and voice user interface (VUI) has to be easily understandable.
     \item \label{req::N3}\textbf{Comprehensibility} Since the process of training and planning can be complex, users have to be given feedback when performing procedures.
     The user should know at all times when something concerning in the procedure has happened, so that errors can be reduced and also solved.
-    \item \label{req::N4}\textbf{Robustness} Errors while perfoming a procedure should not crash the system.
+    \item \label{req::N4}\textbf{Robustness} Errors while perfoming a procedure should be kept to a minimum and handled gracefully.
     Since planning can be a time consuming process, progress shall not be lost, even when wrong input is given.
     \item \label{req::N5}\textbf{Usability} The application has to be usable in a way to not obstruct the goal of the user.
     Any negatively outstanding irregularities, even minor issues, might have a negative effect on the acceptance of the system.
     This especially concerns users of different backgrounds, such as novice versus expert users.
-    \item \label{req::N6}\textbf{Responsiveness} The latency time of the application has to be as low as possible to reduce VR sickness.
-    Long loading times or stuttering can be detrementing to the user experience.
+    \item \label{req::N6}\textbf{Responsiveness} The latency time of the application has to be as low as possible to reduce VR induced motion sickness.
+    Long loading times or stuttering can be detrimental to the user experience.
     \item \label{req::N7}\textbf{Maintainability} The project’s code base should be kept maintainable.
     This can be guaranteed with documentation for more complex parts of the code.
     Used libraries should be up to date and supported.
     \item \label{req::N8}\textbf{Extensibility} Maintainability and extensibility go hand in hand.
     It should be easy to add new modules, such as operating rooms and surgical instruments, in possible future work.
-    \item \label{req::N9}\textbf{Platform} Participants should not be obstructed in any way by the application’s platform.
+    \item \label{req::N9}\textbf{Platform} Participants should not be obstructed in any way by the application's platform.
+    Used HMD and input devices should be up to the users preferrence.
 \end{compactenum}

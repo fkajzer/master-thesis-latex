@@ -22,7 +22,7 @@ SteamVR consists of an interaction system in which button presses are mapped to 
 By implementing features with actions instead of button presses in mind, controls are abstracted for any kind of input device.
 Mappings can then be customized to user needs, although defaults are available for every controller supported.
 \\ Additionally, the interaction system found in SteamVR will be utilized for this thesis, as it provides many functionalities to comply with requirement \ref{req::N2}.
-Mentioned requirements (\ref{req::F2}) for locomotion could also be implemented through SteamVR.
+Mentioned requirements for locomotion \ref{req::F2} could also be implemented through SteamVR.
 Users can navigate by simply walking inside of the tracking space.
 Full "walkability" can be realized by utilizing an OT sized tracking space.
 To complement natural walking in smaller spaces, teleportation is realized by pressing the teleportation button to visualize a teleport area and teleport destination.
@@ -30,7 +30,7 @@ When letting go of the button, the user will teleport to the destination.
 Obstructed or non available destinations are visualized through a red cross at the teleport destination.
 Turning of the users field of vision is realized via "Snap Turn", in which the users view rotates by 45 degrees to the left or right.
 Snap turn, in contrast to continuously rotating alternatives such as "Smooth Turn", has shown to work best to avoid nausea, especially for VR first timers. 
-\\ Additionally, SteamVRs interaction toolkit allows for natural hand interaction.
+\\ Additionally, SteamVR's interaction toolkit allows for natural hand interaction.
 By using SteamVR, virtual hands are projected into the VR.
 Important to note is that Steam, the platform on which SteamVR is running, has to be running in the background for this to work.
 Otherwise, the virtual hands will not appear inside the application.
@@ -53,7 +53,7 @@ Solely the Graphical User Interface (GUI) and the execution of procedures is per
 \end{figure}
 
 The broad overview of how individual system components interact with each other is depicted in Figure \ref{fig::ImplementationArchitecture}.
-The CaseController component is responsible for handling all project case related information.
+The \emph{CaseController} component is responsible for handling all project case related information.
 Via the GUI, users load a project case into the CaseController.
 Inside of the CaseController, users can choose to switch the currently active mode via the VUI.
 The mode will decide how steps, which are added by the user via the currently selected surgical instrument, are handled inside of the CaseController.
