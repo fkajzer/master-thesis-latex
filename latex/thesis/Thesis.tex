@@ -5,7 +5,9 @@
 \usepackage[style=numeric,maxbibnames=99]{biblatex}
 \usepackage[table,xcdraw]{xcolor}
 \usepackage{graphics}
-\usepackage{svg}
+\usepackage{pdfpages}
+\usepackage[toc,page]{appendix}
+
 \addbibresource{ms_endnote.bib}
 \addbibresource{ms_thesis_citavi_refs.bib}
 \addbibresource{ms_thesis.bib}
@@ -94,4 +96,9 @@
 \input{sections/7_conclusion/main.tex}
 
 \printbibliography
+
+\begin{appendices}
+    \input{sections/appendix.tex}
+\end{appendices}
+
 \end{document}

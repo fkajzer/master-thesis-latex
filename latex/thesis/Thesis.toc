@@ -1,93 +1,99 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {1}Introduction}{5}%
+\contentsline {chapter}{\numberline {1}Introduction}{5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {2}Related Work}{11}%
+\contentsline {chapter}{\numberline {2}Related Work}{11}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.1}Common Display Devices}{11}%
+\contentsline {section}{\numberline {2.1}Common Display Devices}{11}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2}Common Interaction Devices}{12}%
+\contentsline {section}{\numberline {2.2}Common Interaction Devices}{12}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}Common Frameworks and Tools}{13}%
+\contentsline {section}{\numberline {2.3}Common Frameworks and Tools}{13}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.4}Surgical Applications}{13}%
+\contentsline {section}{\numberline {2.4}Surgical Applications}{13}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.4.1}VR-based Applications}{13}%
+\contentsline {subsection}{\numberline {2.4.1}VR-based Applications}{13}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.4.2}Others}{17}%
+\contentsline {subsection}{\numberline {2.4.2}Others}{17}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Approach}{19}%
+\contentsline {chapter}{\numberline {3}Approach}{19}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Requirement Analysis}{19}%
+\contentsline {section}{\numberline {3.1}Requirement Analysis}{19}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.1}Non-functional Requirements}{20}%
+\contentsline {subsection}{\numberline {3.1.1}Non-functional Requirements}{20}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.2}Functional Requirements}{21}%
+\contentsline {subsection}{\numberline {3.1.2}Functional Requirements}{21}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Concept}{22}%
+\contentsline {section}{\numberline {3.2}Concept}{23}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Implementation}{25}%
+\contentsline {chapter}{\numberline {4}Implementation}{25}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}Architecture}{25}%
+\contentsline {section}{\numberline {4.1}Architecture}{25}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}Virtual Operating Room}{27}%
+\contentsline {section}{\numberline {4.2}Virtual Operating Room}{27}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.3}User Interface}{29}%
+\contentsline {section}{\numberline {4.3}User Interface}{29}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3.1}Graphical User Interface}{29}%
+\contentsline {subsection}{\numberline {4.3.1}Graphical User Interface}{29}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3.2}Voice User Interface}{30}%
+\contentsline {subsection}{\numberline {4.3.2}Voice User Interface}{31}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.4}Features}{32}%
+\contentsline {section}{\numberline {4.4}Features}{32}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.4.1}Visualization}{32}%
+\contentsline {subsection}{\numberline {4.4.1}Visualization}{32}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.4.2}Procedures}{35}%
+\contentsline {subsection}{\numberline {4.4.2}Procedures}{36}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Drilling}{37}%
+\contentsline {paragraph}{\nonumberline Drilling}{37}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Chiseling}{37}%
+\contentsline {paragraph}{\nonumberline Chiseling}{38}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Sawing}{38}%
+\contentsline {paragraph}{\nonumberline Sawing}{38}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Milling}{39}%
+\contentsline {paragraph}{\nonumberline Milling}{39}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Osteosynthesis plates}{39}%
+\contentsline {paragraph}{\nonumberline Osteosynthesis plates}{39}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Marking}{40}%
+\contentsline {paragraph}{\nonumberline Marking}{40}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.4.3}Training}{40}%
+\contentsline {subsection}{\numberline {4.4.3}Training}{41}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.5}Workflow}{42}%
+\contentsline {section}{\numberline {4.5}Workflow}{43}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.6}Interaction Flow}{46}%
+\contentsline {section}{\numberline {4.6}Interaction Flow}{47}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Evaluation}{49}%
+\contentsline {chapter}{\numberline {5}Evaluation}{49}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.1}User Study}{49}%
+\contentsline {section}{\numberline {5.1}User Study}{49}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.1.1}Preliminaries}{49}%
+\contentsline {subsection}{\numberline {5.1.1}Preliminaries}{49}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.1.2}Participants}{51}%
+\contentsline {subsection}{\numberline {5.1.2}Participants}{50}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.1.3}Procedure and Data Collection}{51}%
+\contentsline {subsection}{\numberline {5.1.3}Procedure and Data Collection}{51}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline \textbf {Procedure}}{51}%
+\contentsline {paragraph}{\nonumberline \textbf {Procedure}}{51}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline \textbf {Feedback}}{52}%
+\contentsline {paragraph}{\nonumberline \textbf {Feedback}}{52}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.2}Results}{52}%
+\contentsline {section}{\numberline {5.2}Results}{52}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline SSQ}{52}%
+\contentsline {paragraph}{\nonumberline Simultator Sickness Questionnaire}{52}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline SUS}{53}%
+\contentsline {paragraph}{\nonumberline System Usability Scale}{53}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline Application-specific questionnaire}{54}%
+\contentsline {paragraph}{\nonumberline Application-specific questionnaire}{53}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\nonumberline General feedback}{54}%
+\contentsline {paragraph}{\nonumberline General feedback}{54}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}Discussion}{57}%
+\contentsline {chapter}{\numberline {6}Discussion}{57}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}Conclusion}{59}%
+\contentsline {chapter}{\numberline {7}Conclusion}{59}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.1}Future Work}{60}%
+\contentsline {section}{\numberline {7.1}Future Work}{60}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Appendices}{69}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {A}A}{71}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {B}B}{79}% 
