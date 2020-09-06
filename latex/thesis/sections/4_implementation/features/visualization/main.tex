@@ -10,8 +10,15 @@ The user has to strike a balance between system performance and resolution of th
 
 \begin{figure}[ht]
   \centering
-  \includegraphics[width=375px]{images/todo.png}
-  \caption{\label{fig::LoadingProjectCase}Process of loading a Project Case}
+  \begin{minipage}{.5\textwidth}
+    \centering
+    \includegraphics[width=0.99\linewidth]{images/implementation/user_interface/project_case_pre_load.png}
+  \end{minipage}%
+  \begin{minipage}{.5\textwidth}
+    \centering
+    \includegraphics[width=0.99\linewidth]{images/implementation/user_interface/project_case_loaded.png}
+  \end{minipage}
+  \caption{\label{fig::LoadingProjectCase} Left: The user wants to start working on a project case and presses the B button to view the GUI. Right: The user has selected the "Study head" case and the patient model is loaded into the virtual OT.}
 \end{figure}
 
 After finishing this crucial preprocessing step, the file location of the model must be registered in the project case.
@@ -24,11 +31,11 @@ Loading of the project case depends on the resolution of the imported model, sin
   \centering
   \begin{minipage}{.5\textwidth}
     \centering
-    \includegraphics[width=0.95\linewidth]{images/implementation/features/visualization/segments_1.png}
+    \includegraphics[width=0.99\linewidth]{images/implementation/features/visualization/segments_1.png}
   \end{minipage}%
   \begin{minipage}{.5\textwidth}
     \centering
-    \includegraphics[width=0.915\linewidth]{images/implementation/features/visualization/segments_2.png}
+    \includegraphics[width=0.99\linewidth]{images/implementation/features/visualization/segments_2.png}
   \end{minipage}
   \caption{\label{fig::Segmentation}Segment submenu of the GUI. Segments are toggled on and off by pressing the button with the virtual hand.}
 \end{figure}
@@ -45,7 +52,7 @@ The slider is used by holding a finger on it and dragging it to the desired valu
 
 \begin{figure}[ht]
   \centering
-  \includegraphics[width=200px]{images/todo.png}
+  \includegraphics[width=\linewidth]{images/implementation/user_interface/patient_submenu.png}
   \caption{\label{fig::PatientVisualization}Patient submenu of the GUI. Users can scale patients and reset the scale and position to the default. Additional options such as projecting a 
   copy of the patient model or an explode view can be toggled on and off here. The current procedure can also be saved here.}
 \end{figure}
@@ -60,7 +67,7 @@ Serialization of the model is realized through a custom runtime OBJ exporter, wh
 
 \begin{figure}[ht]
   \centering
-  \includegraphics[width=200px]{images/implementation/features/visualization/project_copy.png}
+  \includegraphics[width=\linewidth]{images/implementation/features/visualization/project_copy.png}
   \caption{\label{fig::ProjectCopy} Projected copy of the unmodified patient model. Users can interact with the copy by grabbing it.}
 \end{figure}
 
@@ -73,7 +80,7 @@ Users can also interact with the projected copy, meaning they can move and rotat
 
 \begin{figure}[ht]
   \centering
-  \includegraphics[width=200px]{images/todo.png}
+  \includegraphics[width=\linewidth]{images/implementation/features/visualization/explode_view.png}
   \caption{\label{fig::ExplodeView} Exploded view of the segments. Here, individual segments are interactable, meaning the rotation and location can be adjusted.}
 \end{figure}
 
@@ -84,7 +91,7 @@ Each segment in the explode view is interactible in such a way that they can be 
 
 \begin{figure}[ht]
     \centering
-    \includegraphics[width=200px]{images/implementation/features/visualization/ruler.png}
+    \includegraphics[width=\linewidth]{images/implementation/features/visualization/ruler.png}
     \caption{\label{fig::FeatureRuler} Ruler for checking relative distances. Spatial relationships between tissue are inspected here.}
 \end{figure}
 
