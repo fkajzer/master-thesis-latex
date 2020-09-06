@@ -1,35 +1,34 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.11.9)  4 SEP 2020 15:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.8.25)  6 SEP 2020 03:06
 entering extended mode
- restricted \write18 enabled.
+ \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/Thesis.tex
-(/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/Thesis.tex
-LaTeX2e <2018-12-01>
-(/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/VRThesis.cls
+**c:/Users/Mark/Desktop/filipLol/latex/thesis/Thesis.tex
+(c:/Users/Mark/Desktop/filipLol/latex/thesis/Thesis.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-08-07> (c:/Users/Mark/Desktop/filipLol/latex/thesis/VRThesis.cls
 Document Class: VRThesis 2006/01/27 RWTH Aachen University
-(/usr/local/texlive/2019/texmf-dist/tex/latex/koma-script/scrbook.cls
-Document Class: scrbook 2019/02/01 v3.26b KOMA-Script document class (book)
-(/usr/local/texlive/2019/texmf-dist/tex/latex/koma-script/scrkbase.sty
-Package: scrkbase 2019/02/01 v3.26b KOMA-Script package (KOMA-Script-dependent basics and keyval usage)
- (/usr/local/texlive/2019/texmf-dist/tex/latex/koma-script/scrbase.sty
-Package: scrbase 2019/02/01 v3.26b KOMA-Script package (KOMA-Script-independent basics and keyval usage)
- (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+(c:/texlive/2020/texmf-dist/tex/latex/koma-script/scrbook.cls
+Document Class: scrbook 2020/07/22 v3.31 KOMA-Script document class (book)
+(c:/texlive/2020/texmf-dist/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2020/07/22 v3.31 KOMA-Script package (KOMA-Script-dependent basics and keyval usage)
+ (c:/texlive/2020/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2020/07/22 v3.31 KOMA-Script package (KOMA-Script-independent basics and keyval usage)
+ (c:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks14
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/koma-script/scrlfile.sty
-Package: scrlfile 2019/02/01 v3.26b KOMA-Script package (loading files)
-))) (/usr/local/texlive/2019/texmf-dist/tex/latex/koma-script/tocbasic.sty
-Package: tocbasic 2019/02/01 v3.26b KOMA-Script package (handling toc-files)
-\scr@dte@tocline@numberwidth=\skip41
-\scr@dte@tocline@numbox=\box27
+\KV@toks@=\toks15
+) (c:/texlive/2020/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2020/07/22 v3.31 KOMA-Script package (loading files)
+))) (c:/texlive/2020/texmf-dist/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2020/07/22 v3.31 KOMA-Script package (handling toc-files)
+\scr@dte@tocline@numberwidth=\skip47
+\scr@dte@tocline@numbox=\box45
 )
-Package tocbasic Info: omitting babel extension for `toc'
-(tocbasic)             because of feature `nobabel' available
-(tocbasic)             for `toc' on input line 136.
- (/usr/local/texlive/2019/texmf-dist/tex/latex/base/fleqn.clo
+Package tocbasic Info: babel extension for `toc' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 137.
+ (c:/texlive/2020/texmf-dist/tex/latex/base/fleqn.clo
 File: fleqn.clo 2016/12/29 v1.2b Standard LaTeX option (flush left equations)
-\mathindent=\dimen102
+\mathindent=\dimen134
 Applying: [2015/01/01] Make \[ robust on input line 50.
 LaTeX Info: Redefining \[ on input line 51.
 Already applied: [0000/00/00] Make \[ robust on input line 62.
@@ -43,17 +42,17 @@ Package scrbook Info: You've used standard option `12pt'.
 (scrbook)             If you'd like to set the option with \KOMAoptions,
 (scrbook)             you'd have to use `fontsize=12pt' there
 (scrbook)             instead of `12pt', too.
-Class scrbook Info: File `scrsize12pt.clo' used to setup font sizes on input line 2376.
- (/usr/local/texlive/2019/texmf-dist/tex/latex/koma-script/scrsize12pt.clo
-File: scrsize12pt.clo 2019/02/01 v3.26b KOMA-Script font size class option (12pt)
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/koma-script/typearea.sty
-Package: typearea 2019/02/01 v3.26b KOMA-Script package (type area)
-\ta@bcor=\skip42
-\ta@div=\count80
-\ta@hblk=\skip43
-\ta@vblk=\skip44
-\ta@temp=\skip45
-\footheight=\skip46
+Class scrbook Info: File `scrsize12pt.clo' used to setup font sizes on input line 2436.
+ (c:/texlive/2020/texmf-dist/tex/latex/koma-script/scrsize12pt.clo
+File: scrsize12pt.clo 2020/07/22 v3.31 KOMA-Script font size class option (12pt)
+) (c:/texlive/2020/texmf-dist/tex/latex/koma-script/typearea.sty
+Package: typearea 2020/07/22 v3.31 KOMA-Script package (type area)
+\ta@bcor=\skip48
+\ta@div=\count168
+\ta@hblk=\skip49
+\ta@vblk=\skip50
+\ta@temp=\skip51
+\footheight=\skip52
 Package typearea Info: These are the values describing the layout:
 (typearea)             DIV  = 12
 (typearea)             BCOR = 0.0pt
@@ -70,165 +69,164 @@ Package typearea Info: These are the values describing the layout:
 (typearea)              \topskip        = 12.0pt
 (typearea)              \footskip       = 50.75pt
 (typearea)              \baselineskip   = 14.5pt
-(typearea)              on input line 1715.
+(typearea)              on input line 1739.
 )
-\c@part=\count81
-\c@chapter=\count82
-\c@section=\count83
-\c@subsection=\count84
-\c@subsubsection=\count85
-\c@paragraph=\count86
-\c@subparagraph=\count87
-\scr@dte@chapter@maxnumwidth=\skip47
+\c@part=\count169
+\c@chapter=\count170
+\c@section=\count171
+\c@subsection=\count172
+\c@subsubsection=\count173
+\c@paragraph=\count174
+\c@subparagraph=\count175
+\scr@dte@chapter@maxnumwidth=\skip53
 Class scrbook Info: using compatibility default `afterindent=bysign'
-(scrbook)           for `\chapter on input line 5303.
-\scr@dte@section@maxnumwidth=\skip48
+(scrbook)           for `\chapter on input line 5624.
+\scr@dte@section@maxnumwidth=\skip54
 Class scrbook Info: using compatibility default `runin=bysign'
-(scrbook)           for `\section on input line 5313.
+(scrbook)           for `\section on input line 5635.
 Class scrbook Info: using compatibility default `afterindent=bysign'
-(scrbook)           for `\section on input line 5313.
-\scr@dte@part@maxnumwidth=\skip49
+(scrbook)           for `\section on input line 5635.
+\scr@dte@part@maxnumwidth=\skip55
 Class scrbook Info: using compatibility default `afterindent=true'
-(scrbook)           for `\part on input line 5322.
-\scr@dte@subsection@maxnumwidth=\skip50
+(scrbook)           for `\part on input line 5644.
+\scr@dte@subsection@maxnumwidth=\skip56
 Class scrbook Info: using compatibility default `runin=bysign'
-(scrbook)           for `\subsection on input line 5332.
+(scrbook)           for `\subsection on input line 5654.
 Class scrbook Info: using compatibility default `afterindent=bysign'
-(scrbook)           for `\subsection on input line 5332.
-\scr@dte@subsubsection@maxnumwidth=\skip51
+(scrbook)           for `\subsection on input line 5654.
+\scr@dte@subsubsection@maxnumwidth=\skip57
 Class scrbook Info: using compatibility default `runin=bysign'
-(scrbook)           for `\subsubsection on input line 5342.
+(scrbook)           for `\subsubsection on input line 5664.
 Class scrbook Info: using compatibility default `afterindent=bysign'
-(scrbook)           for `\subsubsection on input line 5342.
-\scr@dte@paragraph@maxnumwidth=\skip52
+(scrbook)           for `\subsubsection on input line 5664.
+\scr@dte@paragraph@maxnumwidth=\skip58
 Class scrbook Info: using compatibility default `runin=bysign'
-(scrbook)           for `\paragraph on input line 5352.
+(scrbook)           for `\paragraph on input line 5675.
 Class scrbook Info: using compatibility default `afterindent=bysign'
-(scrbook)           for `\paragraph on input line 5352.
-\scr@dte@subparagraph@maxnumwidth=\skip53
+(scrbook)           for `\paragraph on input line 5675.
+\scr@dte@subparagraph@maxnumwidth=\skip59
 Class scrbook Info: using compatibility default `runin=bysign'
-(scrbook)           for `\subparagraph on input line 5362.
+(scrbook)           for `\subparagraph on input line 5685.
 Class scrbook Info: using compatibility default `afterindent=bysign'
-(scrbook)           for `\subparagraph on input line 5362.
-\abovecaptionskip=\skip54
-\belowcaptionskip=\skip55
-\c@pti@nb@sid@b@x=\box28
-Package tocbasic Info: omitting babel extension for `lof'
-(tocbasic)             because of feature `nobabel' available
-(tocbasic)             for `lof' on input line 6617.
-\scr@dte@figure@maxnumwidth=\skip56
-\c@figure=\count88
-Package tocbasic Info: omitting babel extension for `lot'
-(tocbasic)             because of feature `nobabel' available
-(tocbasic)             for `lot' on input line 6638.
-\scr@dte@table@maxnumwidth=\skip57
-\c@table=\count89
-Class scrbook Info: Redefining `\numberline' on input line 6811.
-\bibindent=\dimen103
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2018/12/01 v2.17b AMS math features
-\@mathmargin=\skip58
+(scrbook)           for `\subparagraph on input line 5685.
+\abovecaptionskip=\skip60
+\belowcaptionskip=\skip61
+\c@pti@nb@sid@b@x=\box46
+Package tocbasic Info: babel extension for `lof' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 6928.
+\scr@dte@figure@maxnumwidth=\skip62
+\c@figure=\count176
+Package tocbasic Info: babel extension for `lot' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 6949.
+\scr@dte@table@maxnumwidth=\skip63
+\c@table=\count177
+Class scrbook Info: Redefining `\numberline' on input line 7122.
+\bibindent=\dimen135
+) (c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip64
 
 For additional information on amsmath, use the `?' option.
-(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
+(c:/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
- (/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty
+ (c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks15
-\ex@=\dimen104
-)) (/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty
+\@emptytoks=\toks16
+\ex@=\dimen136
+)) (c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen105
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty
+\pmbraise@=\dimen137
+) (c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count90
-LaTeX Info: Redefining \frac on input line 223.
-\uproot@=\count91
-\leftroot@=\count92
-LaTeX Info: Redefining \overline on input line 385.
-\classnum@=\count93
-\DOTSCASE@=\count94
-LaTeX Info: Redefining \ldots on input line 482.
-LaTeX Info: Redefining \dots on input line 485.
-LaTeX Info: Redefining \cdots on input line 606.
-\Mathstrutbox@=\box29
-\strutbox@=\box30
-\big@size=\dimen106
-LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
-\macc@depth=\count95
-\c@MaxMatrixCols=\count96
-\dotsspace@=\muskip10
-\c@parentequation=\count97
-\dspbrk@lvl=\count98
-\tag@help=\toks16
-\row@=\count99
-\column@=\count100
-\maxfields@=\count101
-\andhelp@=\toks17
-\eqnshift@=\dimen107
-\alignsep@=\dimen108
-\tagshift@=\dimen109
-\tagwidth@=\dimen110
-\totwidth@=\dimen111
-\lineht@=\dimen112
-\@envbody=\toks18
-\multlinegap=\skip59
-\multlinetaggap=\skip60
-\mathdisplay@stack=\toks19
-LaTeX Info: Redefining \[ on input line 2844.
-LaTeX Info: Redefining \] on input line 2845.
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amssymb.sty
+\inf@bad=\count178
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count179
+\leftroot@=\count180
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count181
+\DOTSCASE@=\count182
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen138
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count183
+\c@MaxMatrixCols=\count184
+\dotsspace@=\muskip16
+\c@parentequation=\count185
+\dspbrk@lvl=\count186
+\tag@help=\toks17
+\row@=\count187
+\column@=\count188
+\maxfields@=\count189
+\andhelp@=\toks18
+\eqnshift@=\dimen139
+\alignsep@=\dimen140
+\tagshift@=\dimen141
+\tagwidth@=\dimen142
+\totwidth@=\dimen143
+\lineht@=\dimen144
+\@envbody=\toks19
+\multlinegap=\skip65
+\multlinetaggap=\skip66
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+) (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
- (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+ (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (/usr/local/texlive/2019/texmf-dist/tex/latex/base/ifthen.sty
+)) (c:/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/calc.sty
+) (c:/texlive/2020/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count102
-\calc@Bcount=\count103
-\calc@Adimen=\dimen113
-\calc@Bdimen=\dimen114
-\calc@Askip=\skip61
-\calc@Bskip=\skip62
+\calc@Acount=\count190
+\calc@Bcount=\count191
+\calc@Adimen=\dimen145
+\calc@Bdimen=\dimen146
+\calc@Askip=\skip67
+\calc@Bskip=\skip68
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count104
-\calc@Cskip=\skip63
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/helvet.sty
-Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/courier.sty
-Package: courier 2005/04/12 PSNFSS-v9.2a (WaS) 
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/array.sty
-Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
-\col@sep=\dimen115
-\ar@mcellbox=\box31
-\extrarowheight=\dimen116
-\NC@list=\toks20
-\extratabsurround=\skip64
-\backup@length=\skip65
-\ar@cellbox=\box32
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
- (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
- (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
+\calc@Ccount=\count192
+\calc@Cskip=\skip69
+) (c:/texlive/2020/texmf-dist/tex/latex/psnfss/helvet.sty
+Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
+) (c:/texlive/2020/texmf-dist/tex/latex/psnfss/courier.sty
+Package: courier 2020/03/25 PSNFSS-v9.3 (WaS) 
+) (c:/texlive/2020/texmf-dist/tex/latex/tools/array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen147
+\ar@mcellbox=\box49
+\extrarowheight=\dimen148
+\NC@list=\toks21
+\extratabsurround=\skip70
+\backup@length=\skip71
+\ar@cellbox=\box50
+) (c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+) (c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: dvips.def on input line 99.
- (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/dvips.def
+Package graphics Info: Driver file: dvips.def on input line 105.
+ (c:/texlive/2020/texmf-dist/tex/latex/graphics-def/dvips.def
 File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
 ))
-\Gin@req@height=\dimen117
-\Gin@req@width=\dimen118
+\Gin@req@height=\dimen149
+\Gin@req@width=\dimen150
 )
 
 Class scrbook Warning: Usage of package `fancyhdr' together
@@ -244,296 +242,325 @@ Class scrbook Warning: Usage of package `fancyhdr' together
 (scrbook)              Nevertheless, using requested
 (scrbook)              package `fancyhdr' on input line 53.
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+(c:/texlive/2020/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
-\f@nch@headwidth=\skip66
-\f@nch@O@elh=\skip67
-\f@nch@O@erh=\skip68
-\f@nch@O@olh=\skip69
-\f@nch@O@orh=\skip70
-\f@nch@O@elf=\skip71
-\f@nch@O@erf=\skip72
-\f@nch@O@olf=\skip73
-\f@nch@O@orf=\skip74
-) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/hangcaption.sty
-\captionwidth=\skip75
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/base/makeidx.sty
+\f@nch@headwidth=\skip72
+\f@nch@O@elh=\skip73
+\f@nch@O@erh=\skip74
+\f@nch@O@olh=\skip75
+\f@nch@O@orh=\skip76
+\f@nch@O@elf=\skip77
+\f@nch@O@erf=\skip78
+\f@nch@O@olf=\skip79
+\f@nch@O@orf=\skip80
+) (c:/Users/Mark/Desktop/filipLol/latex/thesis/hangcaption.sty
+\captionwidth=\skip81
+) (c:/texlive/2020/texmf-dist/tex/latex/base/makeidx.sty
 Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption.sty
-Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
- (/usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
-Package caption3 Info: TeX engine: e-TeX on input line 64.
-\captionmargin=\dimen119
-\captionmargin@=\dimen120
-\captionwidth=\dimen121
-\caption@tempdima=\dimen122
-\caption@indent=\dimen123
-\caption@parindent=\dimen124
-\caption@hangindent=\dimen125
+) (c:/texlive/2020/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/05/30 v3.4k Customizing captions (AR)
+ (c:/texlive/2020/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/07/20 v1.12b caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen151
+\captionmargin@=\dimen152
+\captionwidth=\dimen153
+\caption@tempdima=\dimen154
+\caption@indent=\dimen155
+\caption@parindent=\dimen156
+\caption@hangindent=\dimen157
+Package caption Info: KOMA-Script document class detected.
 )
 Package caption Info: KOMA-Script document class.
-\c@caption@flags=\count105
-\c@ContinuedFloat=\count106
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/varwidth/varwidth.sty
+\c@caption@flags=\count193
+\c@continuedfloat=\count194
+) (c:/texlive/2020/texmf-dist/tex/latex/varwidth/varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
-\@vwid@box=\box33
-\sift@deathcycles=\count107
-\@vwid@loff=\dimen126
-\@vwid@roff=\dimen127
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/color.sty
-Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
- (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg
+\@vwid@box=\box51
+\sift@deathcycles=\count195
+\@vwid@loff=\dimen158
+\@vwid@roff=\dimen159
+) (c:/texlive/2020/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
+ (c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
- (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def
+ (c:/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
-)) (/usr/local/texlive/2019/texmf-dist/tex/latex/psfrag/psfrag.sty
+)) (c:/texlive/2020/texmf-dist/tex/latex/psfrag/psfrag.sty
 Package: psfrag 1998/04/11 v3.04 PSfrag (MCG)
-\pfg@pcount=\count108
-\pfg@scount=\count109
+\pfg@pcount=\count196
+\pfg@scount=\count197
 \pfg@temp=\write3
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/amscls/amsthm.sty
-Package: amsthm 2017/10/31 v2.20.4
-\thm@style=\toks21
-\thm@bodyfont=\toks22
-\thm@headfont=\toks23
-\thm@notefont=\toks24
-\thm@headpunct=\toks25
-\thm@preskip=\skip76
-\thm@postskip=\skip77
-\thm@headsep=\skip78
-\dth@everypar=\toks26
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/fancyref/fancyref.sty
-Package: fancyref 1999/02/03 v0.9c Fancy cross-referencing
- (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/varioref.sty
-Package: varioref 2016/02/16 v1.5c package for extended references (FMi)
-\c@vrcnt=\count110
+) (c:/texlive/2020/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks22
+\thm@bodyfont=\toks23
+\thm@headfont=\toks24
+\thm@notefont=\toks25
+\thm@headpunct=\toks26
+\thm@preskip=\skip82
+\thm@postskip=\skip83
+\thm@headsep=\skip84
+\dth@everypar=\toks27
+) (c:/texlive/2020/texmf-dist/tex/latex/xpatch/xpatch.sty (c:/texlive/2020/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2020-08-07 L3 programming layer (loader) 
+ (c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-08-07 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count198
+\l__pdf_internal_box=\box52
 ))
-\c@radius=\count111
-\c@diameter=\count112
-\c@linestart=\count113
-\c@lineend=\count114
-\@wchapnum=\skip79
-\@wchaptitle=\skip80
-\@chaptitle=\box34
-\@maxtitlewidth=\skip81
-\@wquad=\skip82
-\c@beweis=\count115
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/url/url.sty
-\Urlmuskip=\muskip11
+Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
+ (c:/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2020-05-15 L3 Experimental document command parser
+ (c:/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex
+\l__xparse_current_arg_int=\count199
+\g__xparse_grabber_int=\count266
+\l__xparse_m_args_int=\count267
+\l__xparse_v_nesting_int=\count268
+)) (c:/texlive/2020/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/07/15 v2.5i e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count269
+))
+Class scrbook Info: amsthm's \deferred@thm@head patched.
+ (c:/texlive/2020/texmf-dist/tex/latex/fancyref/fancyref.sty
+Package: fancyref 1999/02/03 v0.9c Fancy cross-referencing
+ (c:/texlive/2020/texmf-dist/tex/latex/tools/varioref.sty
+Package: varioref 2020/01/23 v1.6c package for extended references (FMi)
+\c@vrcnt=\count270
+))
+\c@radius=\count271
+\c@diameter=\count272
+\c@linestart=\count273
+\c@lineend=\count274
+\@wchapnum=\skip85
+\@wchaptitle=\skip86
+\@chaptitle=\box53
+\@maxtitlewidth=\skip87
+\@wquad=\skip88
+\c@beweis=\count275
+) (c:/texlive/2020/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/biblatex.sty
-Package: biblatex 2018/11/02 v3.12 programmable bibliographies (PK/MW)
- (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO)
- (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-) (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-) (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-) (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+) (c:/texlive/2020/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2020/08/23 v3.15a programmable bibliographies (PK/MW)
+ (c:/texlive/2020/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (c:/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (c:/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+) (c:/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
 )
-Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count116
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
- (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
- (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-))) (/usr/local/texlive/2019/texmf-dist/tex/latex/logreq/logreq.sty
+) (c:/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+ (c:/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)) (c:/texlive/2020/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count117
- (/usr/local/texlive/2019/texmf-dist/tex/latex/logreq/logreq.def
+\lrq@indent=\count276
+ (c:/texlive/2020/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-\c@tabx@nest=\count118
-\c@listtotal=\count119
-\c@listcount=\count120
-\c@liststart=\count121
-\c@liststop=\count122
-\c@citecount=\count123
-\c@citetotal=\count124
-\c@multicitecount=\count125
-\c@multicitetotal=\count126
-\c@instcount=\count127
-\c@maxnames=\count128
-\c@minnames=\count129
-\c@maxitems=\count130
-\c@minitems=\count131
-\c@citecounter=\count132
-\c@maxcitecounter=\count133
-\c@savedcitecounter=\count134
-\c@uniquelist=\count135
-\c@uniquename=\count136
-\c@refsection=\count137
-\c@refsegment=\count138
-\c@maxextratitle=\count139
-\c@maxextratitleyear=\count140
-\c@maxextraname=\count141
-\c@maxextradate=\count142
-\c@maxextraalpha=\count143
-\c@abbrvpenalty=\count144
-\c@highnamepenalty=\count145
-\c@lownamepenalty=\count146
-\c@maxparens=\count147
-\c@parenlevel=\count148
-\blx@tempcnta=\count149
-\blx@tempcntb=\count150
-\blx@tempcntc=\count151
-\blx@maxsection=\count152
-\blx@maxsegment@0=\count153
-\blx@notetype=\count154
-\blx@parenlevel@text=\count155
-\blx@parenlevel@foot=\count156
-\blx@sectionciteorder@0=\count157
-\blx@entrysetcounter=\count158
-\labelnumberwidth=\skip83
-\labelalphawidth=\skip84
-\biblabelsep=\skip85
-\bibitemsep=\skip86
-\bibnamesep=\skip87
-\bibinitsep=\skip88
-\bibparsep=\skip89
-\bibhang=\skip90
-\blx@bcfin=\read1
+\c@tabx@nest=\count277
+\c@listtotal=\count278
+\c@listcount=\count279
+\c@liststart=\count280
+\c@liststop=\count281
+\c@citecount=\count282
+\c@citetotal=\count283
+\c@multicitecount=\count284
+\c@multicitetotal=\count285
+\c@instcount=\count286
+\c@maxnames=\count287
+\c@minnames=\count288
+\c@maxitems=\count289
+\c@minitems=\count290
+\c@citecounter=\count291
+\c@maxcitecounter=\count292
+\c@savedcitecounter=\count293
+\c@uniquelist=\count294
+\c@uniquename=\count295
+\c@refsection=\count296
+\c@refsegment=\count297
+\c@maxextratitle=\count298
+\c@maxextratitleyear=\count299
+\c@maxextraname=\count300
+\c@maxextradate=\count301
+\c@maxextraalpha=\count302
+\c@abbrvpenalty=\count303
+\c@highnamepenalty=\count304
+\c@lownamepenalty=\count305
+\c@maxparens=\count306
+\c@parenlevel=\count307
+\blx@tempcnta=\count308
+\blx@tempcntb=\count309
+\blx@tempcntc=\count310
+\blx@maxsection=\count311
+\blx@maxsegment@0=\count312
+\blx@notetype=\count313
+\blx@parenlevel@text=\count314
+\blx@parenlevel@foot=\count315
+\blx@sectionciteorder@0=\count316
+\blx@entrysetcounter=\count317
+\blx@biblioinstance=\count318
+\labelnumberwidth=\skip89
+\labelalphawidth=\skip90
+\biblabelsep=\skip91
+\bibitemsep=\skip92
+\bibnamesep=\skip93
+\bibinitsep=\skip94
+\bibparsep=\skip95
+\bibhang=\skip96
+\blx@bcfin=\read2
 \blx@bcfout=\write4
-\c@mincomprange=\count159
-\c@maxcomprange=\count160
-\c@mincompwidth=\count161
+\blx@langwohyphens=\language86
+\c@mincomprange=\count319
+\c@maxcomprange=\count320
+\c@mincompwidth=\count321
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
- (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/blx-dm.def
-File: blx-dm.def 2018/11/02 v3.12 biblatex localization (PK/MW)
+ (c:/texlive/2020/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2020/08/23 v3.15a biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'numeric.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count162
-\c@savedafterword=\count163
-\c@annotator=\count164
-\c@savedannotator=\count165
-\c@author=\count166
-\c@savedauthor=\count167
-\c@bookauthor=\count168
-\c@savedbookauthor=\count169
-\c@commentator=\count170
-\c@savedcommentator=\count171
-\c@editor=\count172
-\c@savededitor=\count173
-\c@editora=\count174
-\c@savededitora=\count175
-\c@editorb=\count176
-\c@savededitorb=\count177
-\c@editorc=\count178
-\c@savededitorc=\count179
-\c@foreword=\count180
-\c@savedforeword=\count181
-\c@holder=\count182
-\c@savedholder=\count183
-\c@introduction=\count184
-\c@savedintroduction=\count185
-\c@namea=\count186
-\c@savednamea=\count187
-\c@nameb=\count188
-\c@savednameb=\count189
-\c@namec=\count190
-\c@savednamec=\count191
-\c@translator=\count192
-\c@savedtranslator=\count193
-\c@shortauthor=\count194
-\c@savedshortauthor=\count195
-\c@shorteditor=\count196
-\c@savedshorteditor=\count197
-\c@labelname=\count198
-\c@savedlabelname=\count199
-\c@institution=\count266
-\c@savedinstitution=\count267
-\c@lista=\count268
-\c@savedlista=\count269
-\c@listb=\count270
-\c@savedlistb=\count271
-\c@listc=\count272
-\c@savedlistc=\count273
-\c@listd=\count274
-\c@savedlistd=\count275
-\c@liste=\count276
-\c@savedliste=\count277
-\c@listf=\count278
-\c@savedlistf=\count279
-\c@location=\count280
-\c@savedlocation=\count281
-\c@organization=\count282
-\c@savedorganization=\count283
-\c@origlocation=\count284
-\c@savedoriglocation=\count285
-\c@origpublisher=\count286
-\c@savedorigpublisher=\count287
-\c@publisher=\count288
-\c@savedpublisher=\count289
-\c@language=\count290
-\c@savedlanguage=\count291
-\c@origlanguage=\count292
-\c@savedoriglanguage=\count293
-\c@pageref=\count294
-\c@savedpageref=\count295
-\shorthandwidth=\skip91
-\shortjournalwidth=\skip92
-\shortserieswidth=\skip93
-\shorttitlewidth=\skip94
-\shortauthorwidth=\skip95
-\shorteditorwidth=\skip96
-\locallabelnumberwidth=\skip97
-\locallabelalphawidth=\skip98
-\localshorthandwidth=\skip99
-\localshortjournalwidth=\skip100
-\localshortserieswidth=\skip101
-\localshorttitlewidth=\skip102
-\localshortauthorwidth=\skip103
-\localshorteditorwidth=\skip104
+\c@afterword=\count322
+\c@savedafterword=\count323
+\c@annotator=\count324
+\c@savedannotator=\count325
+\c@author=\count326
+\c@savedauthor=\count327
+\c@bookauthor=\count328
+\c@savedbookauthor=\count329
+\c@commentator=\count330
+\c@savedcommentator=\count331
+\c@editor=\count332
+\c@savededitor=\count333
+\c@editora=\count334
+\c@savededitora=\count335
+\c@editorb=\count336
+\c@savededitorb=\count337
+\c@editorc=\count338
+\c@savededitorc=\count339
+\c@foreword=\count340
+\c@savedforeword=\count341
+\c@holder=\count342
+\c@savedholder=\count343
+\c@introduction=\count344
+\c@savedintroduction=\count345
+\c@namea=\count346
+\c@savednamea=\count347
+\c@nameb=\count348
+\c@savednameb=\count349
+\c@namec=\count350
+\c@savednamec=\count351
+\c@translator=\count352
+\c@savedtranslator=\count353
+\c@shortauthor=\count354
+\c@savedshortauthor=\count355
+\c@shorteditor=\count356
+\c@savedshorteditor=\count357
+\c@labelname=\count358
+\c@savedlabelname=\count359
+\c@institution=\count360
+\c@savedinstitution=\count361
+\c@lista=\count362
+\c@savedlista=\count363
+\c@listb=\count364
+\c@savedlistb=\count365
+\c@listc=\count366
+\c@savedlistc=\count367
+\c@listd=\count368
+\c@savedlistd=\count369
+\c@liste=\count370
+\c@savedliste=\count371
+\c@listf=\count372
+\c@savedlistf=\count373
+\c@location=\count374
+\c@savedlocation=\count375
+\c@organization=\count376
+\c@savedorganization=\count377
+\c@origlocation=\count378
+\c@savedoriglocation=\count379
+\c@origpublisher=\count380
+\c@savedorigpublisher=\count381
+\c@publisher=\count382
+\c@savedpublisher=\count383
+\c@language=\count384
+\c@savedlanguage=\count385
+\c@origlanguage=\count386
+\c@savedoriglanguage=\count387
+\c@pageref=\count388
+\c@savedpageref=\count389
+\shorthandwidth=\skip97
+\shortjournalwidth=\skip98
+\shortserieswidth=\skip99
+\shorttitlewidth=\skip100
+\shortauthorwidth=\skip101
+\shorteditorwidth=\skip102
+\locallabelnumberwidth=\skip103
+\locallabelalphawidth=\skip104
+\localshorthandwidth=\skip105
+\localshortjournalwidth=\skip106
+\localshortserieswidth=\skip107
+\localshorttitlewidth=\skip108
+\localshortauthorwidth=\skip109
+\localshorteditorwidth=\skip110
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
- (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/blx-compat.def
-File: blx-compat.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
+ (c:/texlive/2020/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2020/08/23 v3.15a biblatex compatibility (PK/MW)
+)
+Package biblatex Info: expl3
+(biblatex)             2020-08-07 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+Package biblatex Info: Trying to load expl3 case changing code...
+Package biblatex Info: ... file 'blx-case-expl3.def' found.
+ (c:/texlive/2020/texmf-dist/tex/latex/biblatex/blx-case-expl3.def
+File: blx-case-expl3 2020/08/23 v3.15a expl3 case changing code for biblatex
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
- (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/biblatex.def
-File: biblatex.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
-\c@textcitecount=\count296
-\c@textcitetotal=\count297
-\c@textcitemaxnames=\count298
-\c@biburlnumpenalty=\count299
-\c@biburlucpenalty=\count300
-\c@biburllcpenalty=\count301
-\c@smartand=\count302
+ (c:/texlive/2020/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2020/08/23 v3.15a biblatex compatibility (PK/MW)
+\c@textcitecount=\count390
+\c@textcitetotal=\count391
+\c@textcitemaxnames=\count392
+\c@biburlbigbreakpenalty=\count393
+\c@biburlbreakpenalty=\count394
+\c@biburlnumpenalty=\count395
+\c@biburlucpenalty=\count396
+\c@biburllcpenalty=\count397
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count398
 )
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
- (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
-File: numeric.bbx 2018/11/02 v3.12 biblatex bibliography style (PK/MW)
+ (c:/texlive/2020/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2020/08/23 v3.15a biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
- (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
-File: standard.bbx 2018/11/02 v3.12 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count303
-\c@bbx:relatedtotal=\count304
+ (c:/texlive/2020/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2020/08/23 v3.15a biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count399
+\c@bbx:relatedtotal=\count400
 ))
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
- (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
-File: numeric.cbx 2018/11/02 v3.12 biblatex citation style (PK/MW)
+ (c:/texlive/2020/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
+File: numeric.cbx 2020/08/23 v3.15a biblatex citation style (PK/MW)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -548,73 +575,166 @@ Package biblatex Info: Redefining '\smartcites'.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
- (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/biblatex.cfg
+ (c:/texlive/2020/texmf-dist/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
-)) (/usr/local/texlive/2019/texmf-dist/tex/latex/enumitem/enumitem.sty
-Package: enumitem 2019/02/04 v3.8 Customized lists
-\labelindent=\skip105
-\enit@outerparindent=\dimen128
-\enit@toks=\toks27
-\enit@inbox=\box35
-\enit@count@id=\count305
-\enitdp@description=\count306
+)) (c:/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ (c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-\c@compactenumi=\count307
-\c@compactenumii=\count308
-\c@compactenumiii=\count309
-\c@compactenumiv=\count310
-\enitdp@compactenum=\count311
-Package biblatex Info: Trying to load language 'english'...
-Package biblatex Info: ... file 'english.lbx' found.
- (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/lbx/english.lbx
-File: english.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+ (c:/texlive/2020/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+\everycr=\toks28
+\minrowclearance=\skip111
 )
-\@quotelevel=\count312
-\@quotereset=\count313
- (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/Thesis.aux)
+LaTeX Info: Redefining \color on input line 709.
+\rownum=\count401
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) (c:/texlive/2020/texmf-dist/tex/latex/svg/svg.sty
+Package: svg 2020/06/23 v2.02h (include SVG pictures)
+ (c:/texlive/2020/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+) (c:/texlive/2020/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package shellesc Info: Unrestricted shell escape enabled on input line 75.
+) (c:/texlive/2020/texmf-dist/tex/latex/ifplatform/ifplatform.sty
+Package: ifplatform 2017/10/13 v0.4a Testing for the operating system
+ (c:/texlive/2020/texmf-dist/tex/generic/catchfile/catchfile.sty
+Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
+ (c:/texlive/2020/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)) (c:/texlive/2020/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+))
+\c@svg@param@lastpage=\count402
+\svg@box=\box54
+\c@svg@param@currpage=\count403
+) (c:/texlive/2020/texmf-dist/tex/latex/transparent/transparent.sty
+Package: transparent 2019/11/29 v1.4 Transparency via pdfTeX's color stack (HO)
+ (c:/texlive/2020/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)) (c:/texlive/2020/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (c:/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (c:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks29
+\pgfutil@tempdima=\dimen160
+\pgfutil@tempdimb=\dimen161
+ (c:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)) (c:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box55
+ (c:/texlive/2020/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+)) (c:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (c:/texlive/2020/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
+)) (c:/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
+ (c:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks30
+\pgfkeys@temptoks=\toks31
+ (c:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks32
+))
+\pgf@x=\dimen162
+\pgf@y=\dimen163
+\pgf@xa=\dimen164
+\pgf@ya=\dimen165
+\pgf@xb=\dimen166
+\pgf@yb=\dimen167
+\pgf@xc=\dimen168
+\pgf@yc=\dimen169
+\pgf@xd=\dimen170
+\pgf@yd=\dimen171
+\w@pgf@writea=\write5
+\r@pgf@reada=\read3
+\c@pgf@counta=\count404
+\c@pgf@countb=\count405
+\c@pgf@countc=\count406
+\c@pgf@countd=\count407
+\t@pgf@toka=\toks33
+\t@pgf@tokb=\toks34
+\t@pgf@tokc=\toks35
+\pgf@sys@id@count=\count408
+ (c:/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (c:/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2020/01/08 v3.1.5b (3.1.5b)
+ (c:/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
+))) (c:/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfsyssoftpath@smallbuffer@items=\count409
+\pgfsyssoftpath@bigbuffer@items=\count410
+) (c:/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)) (c:/texlive/2020/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip112
+\enit@outerparindent=\dimen172
+\enit@toks=\toks36
+\enit@inbox=\box56
+\enit@count@id=\count411
+\enitdp@description=\count412
+)
+\c@compactenumi=\count413
+\c@compactenumii=\count414
+\c@compactenumiii=\count415
+\c@compactenumiv=\count416
+\enitdp@compactenum=\count417
+\@quotelevel=\count418
+\@quotereset=\count419
+ (c:/Users/Mark/Desktop/filipLol/latex/thesis/Thesis.aux)
 \openout1 = `Thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+Package scrbase Info: activating english \contentsname on input line 52.
+Package scrbase Info: activating english \listfigurename on input line 52.
+Package scrbase Info: activating english \listtablename on input line 52.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
- (/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+ (c:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count314
-\scratchdimen=\dimen129
-\scratchbox=\box36
-\nofMPsegments=\count315
-\nofMParguments=\count316
-\everyMPshowfont=\toks28
-\MPscratchCnt=\count317
-\MPscratchDim=\dimen130
-\MPnumerator=\count318
-\makeMPintoPDFobject=\count319
-\everyMPtoPDFconversion=\toks29
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
- (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
- (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-))
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 438.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 456.
- (/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+\scratchcounter=\count420
+\scratchdimen=\dimen173
+\scratchbox=\box57
+\nofMPsegments=\count421
+\nofMParguments=\count422
+\everyMPshowfont=\toks37
+\MPscratchCnt=\count423
+\MPscratchDim=\dimen174
+\MPnumerator=\count424
+\makeMPintoPDFobject=\count425
+\everyMPtoPDFconversion=\toks38
+) (c:/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (c:/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+ (c:/texlive/2020/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2020/08/23 v3.15a biblatex localization (PK/MW)
+)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
@@ -622,29 +742,31 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Thesis.bbl' found.
- (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/Thesis.bbl)
-Package biblatex Info: Reference section=0 on input line 48.
-Package biblatex Info: Reference segment=0 on input line 48.
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 52.
- (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/ot1phv.fd
-File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+ (c:/Users/Mark/Desktop/filipLol/latex/thesis/Thesis.bbl)
+Package biblatex Info: Reference section=0 on input line 52.
+Package biblatex Info: Reference segment=0 on input line 52.
+ (|'inkscape' -V)
+runsystem(call "inkscape" -V > Thesis.svg.ink.ver.aux)...executed.
+
+runsystem(del Thesis.svg.ink.ver.aux)...executed.
+
+ ABD: EveryShipout initializing macros
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 56.
+ (c:/texlive/2020/texmf-dist/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
 )
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 52.
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 52.
+(Font)              scaled to size 11.03998pt on input line 56.
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 11.03998pt on input line 52.
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <24.88> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 52.
+(Font)              scaled to size 11.03998pt on input line 56.
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 22.88956pt on input line 52.
-LaTeX Font Info:    Try loading font information for U+msa on input line 52.
- (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
+(Font)              scaled to size 22.88956pt on input line 56.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 56.
+ (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 52.
- (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
+LaTeX Font Info:    Trying to load font information for U+msb on input line 56.
+ (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 Non-PDF special ignored!
@@ -654,18 +776,16 @@ Non-PDF special ignored!
 
 
 
-{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
+{c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
 
 
 ]
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 15.89755pt on input line 52.
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 52.
+(Font)              scaled to size 15.89755pt on input line 56.
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 15.89755pt on input line 52.
+(Font)              scaled to size 15.89755pt on input line 56.
 
-Overfull \hbox (56.29332pt too wide) in paragraph at lines 52--52
+Overfull \hbox (56.29329pt too wide) in paragraph at lines 56--56
  [] 
  []
 
@@ -674,66 +794,67 @@ Overfull \hbox (56.29332pt too wide) in paragraph at lines 52--52
 
 
 
-] [1] (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/abstract.tex) [0
+] [1] (c:/Users/Mark/Desktop/filipLol/latex/thesis/sections/abstract.tex) [0
 
 
 ]
 LaTeX Font Info:    Font shape `OT1/phv/m/sc' will be
-(Font)              scaled to size 11.03998pt on input line 67.
-<rwth_vci_bild_schwarz_grau_cmyk.pdf, id=26, 267.4562pt x 68.28632pt>
+(Font)              scaled to size 11.03998pt on input line 73.
+<rwth_vci_bild_schwarz_grau_cmyk.pdf, id=29, 267.4562pt x 68.28632pt>
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
-Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 67.
+Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 73.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
- [1 </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/rwth_vci_bild_schwarz_grau_cmyk.pdf>] [2
+ [1 <c:/Users/Mark/Desktop/filipLol/latex/thesis/rwth_vci_bild_schwarz_grau_cmyk.pdf>] [2
 
 
 ]
 LaTeX Font Info:    Font shape `OT1/phv/m/sc' will be
-(Font)              scaled to size 15.23514pt on input line 67.
+(Font)              scaled to size 15.23514pt on input line 73.
 LaTeX Font Info:    Font shape `OT1/phv/m/sc' will be
-(Font)              scaled to size 22.88956pt on input line 67.
-LaTeX Font Info:    Font shape `OT1/phv/bx/sc' in size <24.88> not available
-(Font)              Font shape `OT1/phv/b/sc' tried instead on input line 67.
+(Font)              scaled to size 22.88956pt on input line 73.
 LaTeX Font Info:    Font shape `OT1/phv/b/sc' will be
-(Font)              scaled to size 22.88956pt on input line 67.
- (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/Thesis.toc
+(Font)              scaled to size 22.88956pt on input line 73.
+ (c:/Users/Mark/Desktop/filipLol/latex/thesis/Thesis.toc
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
 Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 63.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
  [3])
-\tf@toc=\write5
-\openout5 = `Thesis.toc'.
+\tf@toc=\write6
+\openout6 = `Thesis.toc'.
 
  [4]
 chapter 1.
-(/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/1_introduction/main.tex
+(c:/Users/Mark/Desktop/filipLol/latex/thesis/sections/1_introduction/main.tex
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
-Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 26.
+Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 27.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
  [5
 
 
 ]
-Overfull \hbox (2.2028pt too wide) in paragraph at lines 50--60
+Overfull \hbox (2.2028pt too wide) in paragraph at lines 50--62
 \OT1/cmr/m/n/12 Patient spe-cific mod-els on the other hand are mod-eled af-ter in-di-vid-ual pa-tients. Through-
  []
 
-[6] (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/1_introduction/motivation.tex
+[6] (c:/Users/Mark/Desktop/filipLol/latex/thesis/sections/1_introduction/motivation.tex
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
-Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 36.
+Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 35.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
- [7]) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/1_introduction/goal.tex [8]
+ [7]) (c:/Users/Mark/Desktop/filipLol/latex/thesis/sections/1_introduction/goal.tex
+Underfull \vbox (badness 3690) has occurred while \output is active []
+
+ [8])
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
-Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 39.
+Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 77.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
- [9])) [10]
+ [9]) [10]
 chapter 2.
-(/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/2_related_work/main.tex (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/2_related_work/subsections/display_devices.tex)
+(c:/Users/Mark/Desktop/filipLol/latex/thesis/sections/2_related_work/main.tex (c:/Users/Mark/Desktop/filipLol/latex/thesis/sections/2_related_work/subsections/display_devices.tex)
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
 Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 12.
@@ -741,124 +862,135 @@ Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line
  [11
 
 
-] (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/2_related_work/subsections/input_devices.tex) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/2_related_work/subsections/frameworks_tools.tex) [12] (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/2_related_work/subsections/surgical_applications.tex)
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 24.
+] (c:/Users/Mark/Desktop/filipLol/latex/thesis/sections/2_related_work/subsections/input_devices.tex) (c:/Users/Mark/Desktop/filipLol/latex/thesis/sections/2_related_work/subsections/frameworks_tools.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12] (c:/Users/Mark/Desktop/filipLol/latex/thesis/sections/2_related_work/subsections/surgical_applications.tex)
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 13.24796pt on input line 24.
- (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/2_related_work/subsections/vr_based.tex
+(Font)              scaled to size 13.24796pt on input line 21.
+ (c:/Users/Mark/Desktop/filipLol/latex/thesis/sections/2_related_work/subsections/vr_based.tex
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
 Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 54.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
- [13] [14]
+ [13]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14]
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
-Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 92.
+Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 120.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
- [15]) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/2_related_work/subsections/others.tex [16]
+ [15]) (c:/Users/Mark/Desktop/filipLol/latex/thesis/sections/2_related_work/subsections/others.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16]
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
-Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 38.
+Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 32.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
  [17])) [18]
 chapter 3.
-(/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/3_approach/main.tex
+(c:/Users/Mark/Desktop/filipLol/latex/thesis/sections/3_approach/main.tex
 
-LaTeX Warning: Reference `sec::RelatedWork' on page 19 undefined on input line 8.
+LaTeX Warning: Reference `sec::RelatedWork' on page 19 undefined on input line 10.
 
-(/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/3_approach/requirement_analysis/main.tex (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/3_approach/requirement_analysis/non_functional.tex
-Underfull \vbox (badness 1521) has occurred while \output is active []
-
+(c:/Users/Mark/Desktop/filipLol/latex/thesis/sections/3_approach/requirement_analysis/main.tex (c:/Users/Mark/Desktop/filipLol/latex/thesis/sections/3_approach/requirement_analysis/non_functional.tex
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
-Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 10.
+Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 11.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
  [19
 
 
-] [20]) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/3_approach/requirement_analysis/functional.tex
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [20]) (c:/Users/Mark/Desktop/filipLol/latex/thesis/sections/3_approach/requirement_analysis/functional.tex
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
-Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 22.
+Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 23.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
- [21])) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/3_approach/concept/main.tex
+ [21])) (c:/Users/Mark/Desktop/filipLol/latex/thesis/sections/3_approach/concept/main.tex
 
 LaTeX Warning: Reference `sec::RelatedWork' on page 22 undefined on input line 1.
 
 [22]))
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
-Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 77.
+Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 83.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
  [23] [24]
 chapter 4.
-(/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/main.tex (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/architecture.tex
+(c:/Users/Mark/Desktop/filipLol/latex/thesis/sections/4_implementation/main.tex (c:/Users/Mark/Desktop/filipLol/latex/thesis/sections/4_implementation/architecture.tex
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
-Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 12.
+Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 13.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
  [25
 
 
 ]
-<images/implementation/architecture.png, id=128, 801.99625pt x 352.31625pt>
+<images/implementation/architecture.png, id=129, 801.99625pt x 352.31625pt>
 File: images/implementation/architecture.png Graphic file (type png)
 <use images/implementation/architecture.png>
-Package pdftex.def Info: images/implementation/architecture.png  used on input line 49.
+Package pdftex.def Info: images/implementation/architecture.png  used on input line 51.
 (pdftex.def)             Requested size: 376.40762pt x 165.35748pt.
-) [26] (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/virutal_ot.tex
-<images/implementation/operating_room_360.png, id=133, 1374.13374pt x 686.565pt>
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [26] (c:/Users/Mark/Desktop/filipLol/latex/thesis/sections/4_implementation/virutal_ot.tex
+<images/implementation/operating_room_360.png, id=134, 1374.13374pt x 686.565pt>
 File: images/implementation/operating_room_360.png Graphic file (type png)
 <use images/implementation/operating_room_360.png>
 Package pdftex.def Info: images/implementation/operating_room_360.png  used on input line 8.
 (pdftex.def)             Requested size: 212.86151pt x 106.34314pt.
-<images/implementation/walkabout_worlds.png, id=134, 1129.97156pt x 461.47406pt>
+<images/implementation/walkabout_worlds.png, id=135, 1129.97156pt x 461.47406pt>
 File: images/implementation/walkabout_worlds.png Graphic file (type png)
 <use images/implementation/walkabout_worlds.png>
 Package pdftex.def Info: images/implementation/walkabout_worlds.png  used on input line 12.
 (pdftex.def)             Requested size: 212.86151pt x 86.92754pt.
 
-Overfull \hbox (30.54602pt too wide) in paragraph at lines 17--23
+Overfull \hbox (30.54602pt too wide) in paragraph at lines 17--24
 []\OT1/cmr/m/n/12 The vir-tual op-er-at-ing room has been mod-eled with a cost-effective, sim-plis-tic photogrammatry-
  []
 
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
-Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 23.
+Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 24.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
-[27 </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/architecture.png>]
-<images/todo.png, id=139, 1927.2pt x 907.39pt>
+[27 <c:/Users/Mark/Desktop/filipLol/latex/thesis/images/implementation/architecture.png>]
+<images/todo.png, id=140, 1927.2pt x 907.39pt>
 File: images/todo.png Graphic file (type png)
 <use images/todo.png>
-Package pdftex.def Info: images/todo.png  used on input line 29.
+Package pdftex.def Info: images/todo.png  used on input line 30.
 (pdftex.def)             Requested size: 212.86151pt x 100.21472pt.
 File: images/todo.png Graphic file (type png)
 <use images/todo.png>
-Package pdftex.def Info: images/todo.png  used on input line 33.
+Package pdftex.def Info: images/todo.png  used on input line 34.
 (pdftex.def)             Requested size: 212.86151pt x 100.21472pt.
-) [28 </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/operating_room_360.png> </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/walkabout_worlds.png> </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/todo.png>] (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/user_interface/main.tex (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/user_interface/graphical_user_interface.tex
-<images/implementation/user_interface/project_cases.png, id=145, 439.6425pt x 383.18156pt>
+) [28 <c:/Users/Mark/Desktop/filipLol/latex/thesis/images/implementation/operating_room_360.png> <c:/Users/Mark/Desktop/filipLol/latex/thesis/images/implementation/walkabout_worlds.png> <c:/Users/Mark/Desktop/filipLol/latex/thesis/images/todo.png>] (c:/Users/Mark/Desktop/filipLol/latex/thesis/sections/4_implementation/user_interface/main.tex (c:/Users/Mark/Desktop/filipLol/latex/thesis/sections/4_implementation/user_interface/graphical_user_interface.tex
+<images/implementation/user_interface/project_cases.png, id=146, 439.6425pt x 383.18156pt>
 File: images/implementation/user_interface/project_cases.png Graphic file (type png)
 <use images/implementation/user_interface/project_cases.png>
 Package pdftex.def Info: images/implementation/user_interface/project_cases.png  used on input line 17.
 (pdftex.def)             Requested size: 200.75073pt x 174.96765pt.
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
-Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 30.
+Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 31.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
  [29]
-<images/implementation/user_interface/patient.png, id=149, 540.51938pt x 402.00188pt>
+<images/implementation/user_interface/patient.png, id=150, 540.51938pt x 402.00188pt>
 File: images/implementation/user_interface/patient.png Graphic file (type png)
 <use images/implementation/user_interface/patient.png>
-Package pdftex.def Info: images/implementation/user_interface/patient.png  used on input line 35.
+Package pdftex.def Info: images/implementation/user_interface/patient.png  used on input line 36.
 (pdftex.def)             Requested size: 212.86151pt x 158.30746pt.
-<images/implementation/user_interface/segments.png, id=150, 450.18187pt x 389.20406pt>
+<images/implementation/user_interface/segments.png, id=151, 450.18187pt x 389.20406pt>
 File: images/implementation/user_interface/segments.png Graphic file (type png)
 <use images/implementation/user_interface/segments.png>
-Package pdftex.def Info: images/implementation/user_interface/segments.png  used on input line 41.
+Package pdftex.def Info: images/implementation/user_interface/segments.png  used on input line 42.
 (pdftex.def)             Requested size: 212.86151pt x 184.03053pt.
-) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/user_interface/voice_user_inface.tex
+) (c:/Users/Mark/Desktop/filipLol/latex/thesis/sections/4_implementation/user_interface/voice_user_inface.tex
 Underfull \hbox (badness 1694) in paragraph at lines 7--7
 []|\OT1/cmr/m/n/12 Show all steps enu-
  []
@@ -869,29 +1001,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--12
  []
 
 
-Overfull \hbox (161.49138pt too wide) in paragraph at lines 3--17
+Overfull \hbox (161.49136pt too wide) in paragraph at lines 3--17
  [] 
  []
 
-)) [30 </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/user_interface/project_cases.png> </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/user_interface/patient.png> </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/user_interface/segments.png>]
+)) [30 <c:/Users/Mark/Desktop/filipLol/latex/thesis/images/implementation/user_interface/project_cases.png> <c:/Users/Mark/Desktop/filipLol/latex/thesis/images/implementation/user_interface/patient.png> <c:/Users/Mark/Desktop/filipLol/latex/thesis/images/implementation/user_interface/segments.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
 Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 13.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
- [31] (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/features/main.tex (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/features/visualization/main.tex
+ [31] (c:/Users/Mark/Desktop/filipLol/latex/thesis/sections/4_implementation/features/main.tex (c:/Users/Mark/Desktop/filipLol/latex/thesis/sections/4_implementation/features/visualization/main.tex
 File: images/todo.png Graphic file (type png)
 <use images/todo.png>
 Package pdftex.def Info: images/todo.png  used on input line 13.
 (pdftex.def)             Requested size: 376.40762pt x 177.22417pt.
  [32]
-<images/implementation/features/visualization/segments_1.png, id=161, 615.0478pt x 388.45125pt>
+<images/implementation/features/visualization/segments_1.png, id=162, 615.0478pt x 388.45125pt>
 File: images/implementation/features/visualization/segments_1.png Graphic file (type png)
 <use images/implementation/features/visualization/segments_1.png>
 Package pdftex.def Info: images/implementation/features/visualization/segments_1.png  used on input line 27.
 (pdftex.def)             Requested size: 212.86151pt x 134.43665pt.
-<images/implementation/features/visualization/segments_2.png, id=162, 481.04718pt x 316.93407pt>
+<images/implementation/features/visualization/segments_2.png, id=163, 481.04718pt x 316.93407pt>
 File: images/implementation/features/visualization/segments_2.png Graphic file (type png)
 <use images/implementation/features/visualization/segments_2.png>
 Package pdftex.def Info: images/implementation/features/visualization/segments_2.png  used on input line 31.
@@ -902,267 +1034,297 @@ Package pdftex.def Info: images/todo.png  used on input line 48.
 (pdftex.def)             Requested size: 200.75073pt x 94.51033pt.
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
-Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 50.
+Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 51.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
- [33 </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/features/visualization/segments_1.png> </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/features/visualization/segments_2.png>]
-<images/implementation/features/visualization/project_copy.png, id=166, 722.7pt x 433.62pt>
+ [33 <c:/Users/Mark/Desktop/filipLol/latex/thesis/images/implementation/features/visualization/segments_1.png> <c:/Users/Mark/Desktop/filipLol/latex/thesis/images/implementation/features/visualization/segments_2.png>]
+<images/implementation/features/visualization/project_copy.png, id=167, 722.7pt x 433.62pt>
 File: images/implementation/features/visualization/project_copy.png Graphic file (type png)
 <use images/implementation/features/visualization/project_copy.png>
-Package pdftex.def Info: images/implementation/features/visualization/project_copy.png  used on input line 62.
+Package pdftex.def Info: images/implementation/features/visualization/project_copy.png  used on input line 63.
 (pdftex.def)             Requested size: 200.75073pt x 120.44676pt.
- [34 </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/features/visualization/project_copy.png>]
+ [34 <c:/Users/Mark/Desktop/filipLol/latex/thesis/images/implementation/features/visualization/project_copy.png>]
 File: images/todo.png Graphic file (type png)
 <use images/todo.png>
-Package pdftex.def Info: images/todo.png  used on input line 73.
+Package pdftex.def Info: images/todo.png  used on input line 76.
 (pdftex.def)             Requested size: 200.75073pt x 94.51033pt.
-<images/implementation/features/visualization/ruler.png, id=170, 683.55376pt x 421.575pt>
+<images/implementation/features/visualization/ruler.png, id=171, 683.55376pt x 421.575pt>
 File: images/implementation/features/visualization/ruler.png Graphic file (type png)
 <use images/implementation/features/visualization/ruler.png>
-Package pdftex.def Info: images/implementation/features/visualization/ruler.png  used on input line 84.
+Package pdftex.def Info: images/implementation/features/visualization/ruler.png  used on input line 87.
 (pdftex.def)             Requested size: 200.75073pt x 123.81032pt.
-) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/features/procedures/main.tex
+) (c:/Users/Mark/Desktop/filipLol/latex/thesis/sections/4_implementation/features/procedures/main.tex
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
-Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 26.
+Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 30.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
- [35 </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/features/visualization/ruler.png>] (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/features/procedures/drilling.tex
+ [35 <c:/Users/Mark/Desktop/filipLol/latex/thesis/images/implementation/features/visualization/ruler.png>] (c:/Users/Mark/Desktop/filipLol/latex/thesis/sections/4_implementation/features/procedures/drilling.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [36]
-<images/implementation/features/procedures/drilling_attachment.png, id=177, 722.7pt x 433.62pt>
+<images/implementation/features/procedures/drilling_attachment.png, id=178, 722.7pt x 433.62pt>
 File: images/implementation/features/procedures/drilling_attachment.png Graphic file (type png)
 <use images/implementation/features/procedures/drilling_attachment.png>
 Package pdftex.def Info: images/implementation/features/procedures/drilling_attachment.png  used on input line 11.
 (pdftex.def)             Requested size: 200.75073pt x 120.44676pt.
-<images/implementation/features/procedures/drilling.png, id=178, 387.69844pt x 381.67593pt>
+<images/implementation/features/procedures/drilling.png, id=179, 387.69844pt x 381.67593pt>
 File: images/implementation/features/procedures/drilling.png Graphic file (type png)
 <use images/implementation/features/procedures/drilling.png>
 Package pdftex.def Info: images/implementation/features/procedures/drilling.png  used on input line 26.
 (pdftex.def)             Requested size: 200.75073pt x 197.63399pt.
-) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/features/procedures/chisel.tex
-<images/implementation/features/procedures/chisel.png, id=179, 435.87843pt x 408.02437pt>
+) (c:/Users/Mark/Desktop/filipLol/latex/thesis/sections/4_implementation/features/procedures/chisel.tex
+<images/implementation/features/procedures/chisel.png, id=180, 435.87843pt x 408.02437pt>
 File: images/implementation/features/procedures/chisel.png Graphic file (type png)
 <use images/implementation/features/procedures/chisel.png>
 Package pdftex.def Info: images/implementation/features/procedures/chisel.png  used on input line 5.
 (pdftex.def)             Requested size: 200.75073pt x 187.91762pt.
-) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/features/procedures/bonesaw.tex
+) (c:/Users/Mark/Desktop/filipLol/latex/thesis/sections/4_implementation/features/procedures/bonesaw.tex
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
 Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 1.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
- [37 </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/features/procedures/drilling_attachment.png>]
-<images/implementation/features/procedures/bonesaw.png, id=184, 612.78937pt x 424.58624pt>
+ [37 <c:/Users/Mark/Desktop/filipLol/latex/thesis/images/implementation/features/procedures/drilling_attachment.png>]
+<images/implementation/features/procedures/bonesaw.png, id=185, 612.78937pt x 424.58624pt>
 File: images/implementation/features/procedures/bonesaw.png Graphic file (type png)
 <use images/implementation/features/procedures/bonesaw.png>
 Package pdftex.def Info: images/implementation/features/procedures/bonesaw.png  used on input line 5.
 (pdftex.def)             Requested size: 200.75073pt x 139.09026pt.
 File: images/todo.png Graphic file (type png)
 <use images/todo.png>
-Package pdftex.def Info: images/todo.png  used on input line 19.
+Package pdftex.def Info: images/todo.png  used on input line 20.
 (pdftex.def)             Requested size: 200.75073pt x 94.51033pt.
-) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/features/procedures/piezo.tex
-Underfull \vbox (badness 3701) has occurred while \output is active []
-
- [38 </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/features/procedures/drilling.png>]
-<images/implementation/features/procedures/piezo.png, id=188, 585.68813pt x 426.84468pt>
+) (c:/Users/Mark/Desktop/filipLol/latex/thesis/sections/4_implementation/features/procedures/piezo.tex [38 <c:/Users/Mark/Desktop/filipLol/latex/thesis/images/implementation/features/procedures/drilling.png>]
+<images/implementation/features/procedures/piezo.png, id=189, 585.68813pt x 426.84468pt>
 File: images/implementation/features/procedures/piezo.png Graphic file (type png)
 <use images/implementation/features/procedures/piezo.png>
 Package pdftex.def Info: images/implementation/features/procedures/piezo.png  used on input line 5.
 (pdftex.def)             Requested size: 200.75073pt x 146.30414pt.
-) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/features/procedures/metal_plate.tex
-<images/implementation/features/procedures/metal_plates_1.png, id=189, 612.78937pt x 279.29344pt>
+) (c:/Users/Mark/Desktop/filipLol/latex/thesis/sections/4_implementation/features/procedures/metal_plate.tex
+<images/implementation/features/procedures/metal_plates_1.png, id=190, 612.78937pt x 279.29344pt>
 File: images/implementation/features/procedures/metal_plates_1.png Graphic file (type png)
 <use images/implementation/features/procedures/metal_plates_1.png>
 Package pdftex.def Info: images/implementation/features/procedures/metal_plates_1.png  used on input line 5.
 (pdftex.def)             Requested size: 200.75073pt x 91.49377pt.
-<images/implementation/features/procedures/metal_plates_2.png, id=190, 517.935pt x 408.02437pt>
+<images/implementation/features/procedures/metal_plates_2.png, id=191, 517.935pt x 408.02437pt>
 File: images/implementation/features/procedures/metal_plates_2.png Graphic file (type png)
 <use images/implementation/features/procedures/metal_plates_2.png>
 Package pdftex.def Info: images/implementation/features/procedures/metal_plates_2.png  used on input line 21.
 (pdftex.def)             Requested size: 212.86151pt x 167.68953pt.
-<images/implementation/features/procedures/metal_plates_3.png, id=191, 545.78906pt x 350.81062pt>
+<images/implementation/features/procedures/metal_plates_3.png, id=192, 545.78906pt x 350.81062pt>
 File: images/implementation/features/procedures/metal_plates_3.png Graphic file (type png)
 <use images/implementation/features/procedures/metal_plates_3.png>
 Package pdftex.def Info: images/implementation/features/procedures/metal_plates_3.png  used on input line 25.
 (pdftex.def)             Requested size: 212.86151pt x 136.81558pt.
-File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
-<use rwth_vci_bild_schwarz_grau_cmyk.pdf>
-Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 33.
-(pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
- [39 </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/features/procedures/chisel.png>]) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/features/procedures/marking.tex
-<images/implementation/features/procedures/marker.png, id=196, 629.35126pt x 429.85594pt>
+) (c:/Users/Mark/Desktop/filipLol/latex/thesis/sections/4_implementation/features/procedures/marking.tex
+<images/implementation/features/procedures/marker.png, id=193, 629.35126pt x 429.85594pt>
 File: images/implementation/features/procedures/marker.png Graphic file (type png)
 <use images/implementation/features/procedures/marker.png>
 Package pdftex.def Info: images/implementation/features/procedures/marker.png  used on input line 5.
 (pdftex.def)             Requested size: 200.75073pt x 137.11069pt.
-)) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/features/training/main.tex
-Underfull \vbox (badness 6758) has occurred while \output is active []
+))
+Underfull \vbox (badness 1092) has occurred while \output is active []
 
- [40 </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/features/procedures/bonesaw.png>]
-<images/implementation/features/training/training_flow.png, id=200, 412.54124pt x 516.93124pt>
+File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
+<use rwth_vci_bild_schwarz_grau_cmyk.pdf>
+Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 8.
+(pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
+ [39 <c:/Users/Mark/Desktop/filipLol/latex/thesis/images/implementation/features/procedures/chisel.png>] (c:/Users/Mark/Desktop/filipLol/latex/thesis/sections/4_implementation/features/training/main.tex [40 <c:/Users/Mark/Desktop/filipLol/latex/thesis/images/implementation/features/procedures/bonesaw.png>]
+<images/implementation/features/training/training_flow.png, id=201, 412.54124pt x 516.93124pt>
 File: images/implementation/features/training/training_flow.png Graphic file (type png)
 <use images/implementation/features/training/training_flow.png>
 Package pdftex.def Info: images/implementation/features/training/training_flow.png  used on input line 11.
 (pdftex.def)             Requested size: 225.84457pt x 282.9958pt.
-<images/implementation/features/training/train_guide.png, id=201, 727.96968pt x 418.56375pt>
+<images/implementation/features/training/train_guide.png, id=202, 727.96968pt x 418.56375pt>
 File: images/implementation/features/training/train_guide.png Graphic file (type png)
 <use images/implementation/features/training/train_guide.png>
 Package pdftex.def Info: images/implementation/features/training/train_guide.png  used on input line 28.
 (pdftex.def)             Requested size: 212.86151pt x 122.38948pt.
-<images/implementation/features/training/train_select.png, id=202, 717.43031pt x 432.86719pt>
+<images/implementation/features/training/train_select.png, id=203, 717.43031pt x 432.86719pt>
 File: images/implementation/features/training/train_select.png Graphic file (type png)
 <use images/implementation/features/training/train_select.png>
 Package pdftex.def Info: images/implementation/features/training/train_select.png  used on input line 32.
 (pdftex.def)             Requested size: 205.0184pt x 123.69867pt.
-<images/implementation/features/training/training.png, id=203, 723.45282pt x 432.86719pt>
+<images/implementation/features/training/training.png, id=204, 723.45282pt x 432.86719pt>
 File: images/implementation/features/training/training.png Graphic file (type png)
 <use images/implementation/features/training/training.png>
 Package pdftex.def Info: images/implementation/features/training/training.png  used on input line 36.
 (pdftex.def)             Requested size: 425.72302pt x 254.72891pt.
+))
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
-Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 39.
+Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 15.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
- [41 </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/features/procedures/piezo.png> </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/features/procedures/metal_plates_1.png>])) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/workflow/main.tex
-<images/project_plan.png, id=207, 2369.85374pt x 1147.28625pt>
+ [41 <c:/Users/Mark/Desktop/filipLol/latex/thesis/images/implementation/features/procedures/piezo.png> <c:/Users/Mark/Desktop/filipLol/latex/thesis/images/implementation/features/procedures/metal_plates_1.png>] (c:/Users/Mark/Desktop/filipLol/latex/thesis/sections/4_implementation/workflow/main.tex
+<images/project_plan.png, id=208, 2369.85374pt x 1147.28625pt>
 File: images/project_plan.png Graphic file (type png)
 <use images/project_plan.png>
 Package pdftex.def Info: images/project_plan.png  used on input line 3.
 (pdftex.def)             Requested size: 448.13095pt x 216.93628pt.
-
-Underfull \vbox (badness 5475) has occurred while \output is active []
-
- [42 </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/features/procedures/metal_plates_2.png> </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/features/procedures/metal_plates_3.png> </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/features/procedures/marker.png>]
-<images/implementation/workflow.png, id=211, 644.1666pt x 306.9066pt>
+ [42 <c:/Users/Mark/Desktop/filipLol/latex/thesis/images/implementation/features/procedures/metal_plates_2.png> <c:/Users/Mark/Desktop/filipLol/latex/thesis/images/implementation/features/procedures/metal_plates_3.png> <c:/Users/Mark/Desktop/filipLol/latex/thesis/images/implementation/features/procedures/marker.png>]
+<images/implementation/workflow.png, id=212, 644.1666pt x 306.9066pt>
 File: images/implementation/workflow.png Graphic file (type png)
 <use images/implementation/workflow.png>
 Package pdftex.def Info: images/implementation/workflow.png  used on input line 16.
 (pdftex.def)             Requested size: 351.31378pt x 167.38019pt.
- (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/workflow/project_case.tex
-<images/implementation/project_case.png, id=212, 192.72pt x 473.77pt>
+ (c:/Users/Mark/Desktop/filipLol/latex/thesis/sections/4_implementation/workflow/project_case.tex
+<images/implementation/project_case.png, id=213, 192.72pt x 473.77pt>
 File: images/implementation/project_case.png Graphic file (type png)
 <use images/implementation/project_case.png>
 Package pdftex.def Info: images/implementation/project_case.png  used on input line 5.
 (pdftex.def)             Requested size: 110.4129pt x 271.43246pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
-Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 7.
+Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 15.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
- [43 </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/features/training/training_flow.png>] [44 </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/features/training/train_guide.png> </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/features/training/train_select.png> </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/features/training/training.png>]))
+ [43 <c:/Users/Mark/Desktop/filipLol/latex/thesis/images/implementation/features/training/training_flow.png>] [44 <c:/Users/Mark/Desktop/filipLol/latex/thesis/images/implementation/features/training/train_guide.png> <c:/Users/Mark/Desktop/filipLol/latex/thesis/images/implementation/features/training/train_select.png> <c:/Users/Mark/Desktop/filipLol/latex/thesis/images/implementation/features/training/training.png>]))
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
 Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 17.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
- [45 </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/project_plan.png>] (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/4_implementation/interaction_flow/main.tex
-<images/implementation/interaction_flow.png, id=225, 370.38374pt x 623.32875pt>
+ [45 <c:/Users/Mark/Desktop/filipLol/latex/thesis/images/project_plan.png>] (c:/Users/Mark/Desktop/filipLol/latex/thesis/sections/4_implementation/interaction_flow/main.tex
+<images/implementation/interaction_flow.png, id=226, 370.38374pt x 623.32875pt>
 File: images/implementation/interaction_flow.png Graphic file (type png)
 <use images/implementation/interaction_flow.png>
 Package pdftex.def Info: images/implementation/interaction_flow.png  used on input line 3.
 (pdftex.def)             Requested size: 200.75073pt x 337.84799pt.
-)) [46 </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/workflow.png>]
+)) [46 <c:/Users/Mark/Desktop/filipLol/latex/thesis/images/implementation/workflow.png>]
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
-Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 81.
+Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 87.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
- [47 </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/project_case.png>] [48 </Users/fkajzer/Projects/uni/master-thesis/latex/thesis/images/implementation/interaction_flow.png>]
+ [47 <c:/Users/Mark/Desktop/filipLol/latex/thesis/images/implementation/project_case.png>] [48 <c:/Users/Mark/Desktop/filipLol/latex/thesis/images/implementation/interaction_flow.png>]
 chapter 5.
-(/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/5_evaluation/main.tex (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/5_evaluation/methology/main.tex (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/5_evaluation/methology/preliminaries.tex
+(c:/Users/Mark/Desktop/filipLol/latex/thesis/sections/5_evaluation/main.tex (c:/Users/Mark/Desktop/filipLol/latex/thesis/sections/5_evaluation/methology/main.tex (c:/Users/Mark/Desktop/filipLol/latex/thesis/sections/5_evaluation/methology/preliminaries.tex
 
 LaTeX Warning: Reference `sec::Workflow)' on page 49 undefined on input line 3.
 
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
-Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 11.
+Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 13.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
 [49
 
 
-]) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/5_evaluation/methology/participants.tex)
+]) (c:/Users/Mark/Desktop/filipLol/latex/thesis/sections/5_evaluation/methology/participants.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [50] (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/5_evaluation/methology/execution.tex
+ [50] (c:/Users/Mark/Desktop/filipLol/latex/thesis/sections/5_evaluation/methology/execution.tex
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
-Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 34.
+Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 35.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
- [51])) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/5_evaluation/results/main.tex (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/5_evaluation/results/quantative.tex) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/5_evaluation/results/qualitative.tex [52]) (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/5_evaluation/results/think_aloud.tex)))
+ [51])) (c:/Users/Mark/Desktop/filipLol/latex/thesis/sections/5_evaluation/results/main.tex (c:/Users/Mark/Desktop/filipLol/latex/thesis/sections/5_evaluation/results/results.tex
+<images/evaluation/VR-SSQ.png, id=249, 376.40625pt x 282.05376pt>
+File: images/evaluation/VR-SSQ.png Graphic file (type png)
+<use images/evaluation/VR-SSQ.png>
+Package pdftex.def Info: images/evaluation/VR-SSQ.png  used on input line 17.
+(pdftex.def)             Requested size: 200.75073pt x 150.4346pt.
+ [52]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 34.
+
+(c:/Users/Mark/Desktop/filipLol/latex/thesis/sections/5_evaluation/results/appendix_questionnaire.tex
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 1.
+
+
+Overfull \hbox (162.9714pt too wide) in paragraph at lines 3--11
+ [][] 
+ []
+
+)
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
-Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 84.
+Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 88.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
- [53] [54
+ [53 <c:/Users/Mark/Desktop/filipLol/latex/thesis/images/evaluation/VR-SSQ.png>] [54]
+<images/evaluation/VR-SET1.png, id=260, 1129.21875pt x 376.40625pt>
+File: images/evaluation/VR-SET1.png Graphic file (type png)
+<use images/evaluation/VR-SET1.png>
+Package pdftex.def Info: images/evaluation/VR-SET1.png  used on input line 163.
+(pdftex.def)             Requested size: 200.75073pt x 66.91739pt.
+<images/evaluation/VR-SET2.png, id=261, 1129.21875pt x 376.40625pt>
+File: images/evaluation/VR-SET2.png Graphic file (type png)
+<use images/evaluation/VR-SET2.png>
+Package pdftex.def Info: images/evaluation/VR-SET2.png  used on input line 169.
+(pdftex.def)             Requested size: 200.75073pt x 66.91739pt.
+)))
+File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
+<use rwth_vci_bild_schwarz_grau_cmyk.pdf>
+Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 90.
+(pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
+ [55 <c:/Users/Mark/Desktop/filipLol/latex/thesis/images/evaluation/VR-SET1.png> <c:/Users/Mark/Desktop/filipLol/latex/thesis/images/evaluation/VR-SET2.png>] [56
 
 
 ]
 chapter 6.
-(/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/6_discussion/main.tex (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/2_related_work/subsections/discussion.tex
+(c:/Users/Mark/Desktop/filipLol/latex/thesis/sections/6_discussion/main.tex)
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
-Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 9.
+Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 92.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
- [55]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [56]))
-File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
-<use rwth_vci_bild_schwarz_grau_cmyk.pdf>
-Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 87.
-(pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
- [57] [58
-
-
-]
+ [57] [58]
 chapter 7.
-(/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/7_conclusion/main.tex (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/sections/7_conclusion/future_work.tex))
+(c:/Users/Mark/Desktop/filipLol/latex/thesis/sections/7_conclusion/main.tex
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
-Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 90.
+Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 42.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
- [59] [60
+ [59
 
 
-]
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 90.
- (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+] (c:/Users/Mark/Desktop/filipLol/latex/thesis/sections/7_conclusion/future_work.tex)) [60]
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 96.
+ (c:/texlive/2020/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
+Overfull \hbox (13.94545pt too wide) in paragraph at lines 97--97
+[]\OT1/cmr/m/n/12 Oleksii Bashkanov, Patrick Saalfeld, Har-i-ha-ra-sud-han Gu-nasekaran, Math-ews Jabaraj,
+ []
+
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
-Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 90.
+Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 96.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
- [61] [62]
-Overfull \hbox (12.882pt too wide) in paragraph at lines 91--91
+[61
+
+
+]
+Overfull \hbox (3.4776pt too wide) in paragraph at lines 97--97
+[]\OT1/cmr/m/it/12 GNU Gen-eral Pub-lic Li-cense v3.0\OT1/cmr/m/n/12 . Ac-cessed: 2020-08-21. \OT1/cmr/m/sc/12 url\OT1/cmr/m/n/12 : $\OT1/pcr/m/n/12 %5Curl % 7Bhttps :
+ []
+
+[62]
+Overfull \hbox (12.882pt too wide) in paragraph at lines 97--97
 []\OT1/cmr/m/it/12 Leap Mo-tion\OT1/cmr/m/n/12 . Ac-cessed: 2020-08-21. \OT1/cmr/m/sc/12 url\OT1/cmr/m/n/12 : $\OT1/pcr/m/n/12 %5Curl % 7Bhttps : / / www . ultraleap .
  []
 
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
-Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 90.
+Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 96.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
 [63] [64]
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
-Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 90.
+Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 96.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
  [65]
-Overfull \hbox (15.39633pt too wide) in paragraph at lines 91--91
+Overfull \hbox (15.39633pt too wide) in paragraph at lines 97--97
 \OT1/pcr/m/n/12 spiedigitallibrary . org / conference -[] proceedings -[] of -[] spie / 10576 /
  []
 
 
-Overfull \hbox (9.69633pt too wide) in paragraph at lines 91--91
+Overfull \hbox (9.69633pt too wide) in paragraph at lines 97--97
 \OT1/pcr/m/n/12 1057612 / high -[] fidelity -[] virtual -[] reality -[] orthognathic -[] surgery -[]
  []
 
 [66]
 File: rwth_vci_bild_schwarz_grau_cmyk.pdf Graphic file (type pdf)
 <use rwth_vci_bild_schwarz_grau_cmyk.pdf>
-Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 91.
+Package pdftex.def Info: rwth_vci_bild_schwarz_grau_cmyk.pdf  used on input line 97.
 (pdftex.def)             Requested size: 89.15048pt x 22.76228pt.
- [67] (/Users/fkajzer/Projects/uni/master-thesis/latex/thesis/Thesis.aux)
+ [67] (c:/Users/Mark/Desktop/filipLol/latex/thesis/Thesis.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -1171,18 +1333,18 @@ Package logreq Info: Writing requests to 'Thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 14314 strings out of 492616
- 274766 string characters out of 6129481
- 790513 words of memory out of 5000000
- 17848 multiletter control sequences out of 15000+600000
- 30589 words of font info for 75 fonts, out of 8000000 for 9000
+ 18670 strings out of 480893
+ 375308 string characters out of 5911972
+ 1135781 words of memory out of 5000000
+ 33783 multiletter control sequences out of 15000+600000
+ 562037 words of font info for 90 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 48i,16n,68p,9141b,1428s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on /Users/fkajzer/Projects/uni/master-thesis/latex/thesis/Thesis.pdf (73 pages, 8239496 bytes).
+ 57i,15n,76p,10646b,1457s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
+Output written on c:/Users/Mark/Desktop/filipLol/latex/thesis/Thesis.pdf (73 pages, 8330620 bytes).
 PDF statistics:
- 345 PDF objects out of 1000 (max. 8388607)
- 213 compressed objects within 3 object streams
+ 344 PDF objects out of 1000 (max. 8388607)
+ 210 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 146 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 173 words of extra memory for PDF output out of 10000 (max. 10000000)
 

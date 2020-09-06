@@ -1,6 +1,6 @@
 Visualization features are dependant on the imaging acquisiton process as depicted in Section \ref{sec::Workflow}.
-In this preprocessing step, the user performing the imaging acquistion decides on a two deciding visualization components.
-\\ First, the user needs to decide which patient specific tissues are relevant to the procedure, i.e. arteries, bone, skin, and segment them.
+In this preprocessing step, the user performing the imaging acquistion decides on two deciding visualization components.
+\\ First, the user needs to decide which patient specific tissues is relevant to the procedure, i.e. arteries, bone, skin, and segment them.
 Then, the material, which decides how the 3D model will be rendered in the engine (i.e., Unity3D), needs to be set.
 These segment specific materials can be given a color in such a way that visualization is improved, i.e. highlight specific critical tissue.
 By setting the alpha value of the materials lower than one, segments can be set to be transparent.
@@ -37,8 +37,8 @@ In Figure \ref{fig::Segmentation}, the process of activating and deactivating sp
 Initially, all segments of the loaded patients model will be toggled on.
 This is indicated by the blue color and the orientation to the right of the UI element.
 Individual segments can be toggled on and off by pressing the virtual button as described in Section \ref{sec::GraphicalUserInterface}.
-The GUI will indicate whether a segment is toggled on and of as depicted in Figure \ref{fig::Segmentation}.
-Segments which are toggled off are indicated by the gray color and the orientation to the left of the UI element.
+The GUI will indicate, whether a segment is toggled on and of as depicted in Figure \ref{fig::Segmentation}.
+Segments, which are toggled off are indicated by the gray color and the orientation to the left of the UI element.
 Users can also decide to adjust the transparency of segments as desired.
 The transparency slider sets the alpha value of the segments material from between 0 to 1.
 The slider is used by holding a finger on it and dragging it to the desired transparency.
@@ -46,13 +46,14 @@ The slider is used by holding a finger on it and dragging it to the desired tran
 \begin{figure}[ht]
   \centering
   \includegraphics[width=200px]{images/todo.png}
-  \caption{\label{fig::PatientVisualization}Patient submenu of the GUI. Users can scale patients and reset the scale and position to the default. Additional options such as projecting a copy of the patient model or an explode view can be toggled on and off here. The current procedure can also be saved here.}
+  \caption{\label{fig::PatientVisualization}Patient submenu of the GUI. Users can scale patients and reset the scale and position to the default. Additional options such as projecting a 
+  copy of the patient model or an explode view can be toggled on and off here. The current procedure can also be saved here.}
 \end{figure}
 
 In the Patient submenu of the GUI, additional, visualization tools which are not patient specific are located.
 Here, the whole virtual patient can be scaled and up and down via their respective button (Figure \ref{fig::PatientVisualization}).
 Since procedure steps are subcomponents of the virtual patient, done procedures are also scaled correctly and relative spatial relationships can be investigated. 
-At any time, users can reset the scale, position and rotation of the patients 3D model at any time to their defaults.
+At any time, users can reset the scale, position and rotation of the patients 3D model to their defaults.
 The currently planned procedure can also be saved at any point here by pressing the button at the bottom \ref{req::F6}.
 Saving the current procedure will persist the current patient model to the users hard disk without overwriting the initial model.
 Serialization of the model is realized through a custom runtime OBJ exporter, which basically writes the models representation, including materials, to a text file.
@@ -63,10 +64,12 @@ Serialization of the model is realized through a custom runtime OBJ exporter, wh
   \caption{\label{fig::ProjectCopy} Projected copy of the unmodified patient model. Users can interact with the copy by grabbing it.}
 \end{figure}
 
-Additionally, by pressing the respective button, the user can at any time project a copy of the default patient in front of himself, without any procedure steps, for comparison as depicted in Figure \ref{fig::ProjectCopy}.
-In comparison to the heavily modified patient model to the right, the initial patient model is used to visualize the patient specific anatomy and pathalogy without any friction (Requirement \ref{req::F3.2}).
+Additionally, by pressing the respective button, the user can at any time project a copy of the default patient in front of himself, without any procedure steps, for comparison as 
+depicted in Figure \ref{fig::ProjectCopy}.
+In contrast to the heavily modified patient model to the right, the initial patient model is used to visualize the patient specific anatomy and pathology without any 
+friction (Requirement \ref{req::F3.2}).
 The projected copy is a literal copy of the loaded patients model which is created simultaneously when loading a project case.
-Users can also interact with the projected copy, meaning they can scale and rotate it by grabbing it.
+Users can also interact with the projected copy, meaning they can move and rotate it by grabbing it.
 
 \begin{figure}[ht]
   \centering

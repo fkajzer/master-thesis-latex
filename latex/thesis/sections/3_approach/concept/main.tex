@@ -1,15 +1,16 @@
 As shown in the scientific literature in Section \ref{sec::RelatedWork}, there exist different development environments, levels of interaction, visualization and immersion for VR surgery simulations.
-\\ The goal of this thesis is to apply virtual reality in oral and maxillofacial surgery treatment planning.
+\\ The goal of this thesis is to apply virtual reality in OMFS treatment planning.
 Haptic devices are a challenging aspect of most VR training simulators.
 Especially for training motor skills, haptic devices are a necessity.
 However, the percieved realism of such devices is still not accurate enough for most applications.
 Since the goal of this thesis is not an accurate physical representation of surgery, no haptic devices will be utilized.
 
-Besides, the developed application is embedded in a VR-AR-based workflow in the context of the research project by the department of oral and maxillofacial surgery in the University Hospital of the RWTH Aachen and the Virtual Reality and Immersive Visualization group of RWTH Aachen University.
-The results of the pre-operative planning might be used intra-operatively to provide assistance via Augmented Reality (AR) as described in the workflow (Figure \ref{fig::ProjectPlan}).
-Planned steps should be storable in a format in which they can be loaded and viewed in both the virtual and augmented reality applications bi-directionally as described (Figure \ref{fig::ProjectPlan}).
+Besides, the developed application is embedded in a VR-AR-based workflow in the context of the research project by the department of OMFS in the University 
+Hospital of the RWTH Aachen and the VR and Immersive Visualization group of RWTH Aachen University.
+The results of the pre-operative planning might be used intra-operatively to provide assistance via AR as described in the workflow (Figure \ref{fig::ProjectPlan}).
+Planned steps should be storable in a format in which they can be loaded and viewed in both the VR and AR applications bi-directionally as described (Figure \ref{fig::ProjectPlan}).
 \\ For this purpose, a common storage format in form of a project case was designed and is utilized for both projects in the AR-VR workflow.
-Project cases will store data about the case, such as patient information, finding, and steps which are planned in text format.
+Project cases will store data about the case, such as patient information, finding, and steps which are planned, in text format.
 To enable easier sharing of project cases, the patients 3D model will be stored on users hard drives and the file location will be stored in the project case. 
 This way, the original model can be retained simply by copying it the first time it is saved.
 Additionally, modifications made to the patients 3D model should be persisted so that they can be easily accessed by another VR or AR user. 
@@ -17,20 +18,20 @@ However, this will require some sort of run-time import and export of 3D models.
 
 In contrast to the presented work, this thesis aims to provide a useful tool not only for learning, but also for planning patient specific surgery.
 Because of technology advancing rapidly, VR and AR become more and more affordable options.
-Mentioned limitations for patient specific 3D models are not an issue anymore.
+Mentioned limitations in regards to performance for high resolution patient specific 3D models are not an issue anymore.
 \\ By using patient anatomy and pathology specific models, surgeons can profit from the mentioned benefits of VR simulation not only as a learning tool.
-Moreover, the goal is to give trained surgeons a useful tool which adds to the arsenal of existing planning techniques.
+Moreover, the goal is to give trained surgeons a useful system which adds to the arsenal of existing planning techniques.
 However, trainees can also benefit immensely by studying and reproducing planned procedures of experts.
 \\ The first step in realizing these requirements is to develop a software architecture with an interface to the AR application in mind.
-Since this is a bi-directional data exchange which does not need to be real time, one obvious approach would be to use a simple object notation language such as JSON.
-A humanly readable format should be used so that operation plans can even be constructed without the need of an HMD.
+Since this is a bi-directional data exchange, which does not need to be real time, one obvious approach would be to use a simple object notation language such as JSON.
+A humanly readable format should be used, so that operation plans can even be constructed without the need of an HMD.
 \\ In principle, a procedure can be planned completely outside of the VR application in a 3D modeling application of choice, i.e. Blender 3D.
-By creating appropriate models and adding them as steps to the patients model, a complete project case can be created.
+By creating appropriate geometry and adding them as steps to the patients model, a complete project case can be created.
 Then, in VR as well as AR, the project case can be viewed, or "played" step by step as a training and visualization tool.
 \\ Although possible, the preferred way of planning should be utilizing the VR applications advantages.
-In an immersive virtual operating theatre (OT), users will be able to plan and train surgical procedures for OMFS.
+In an immersive virtual OT, users will be able to plan and train surgical procedures for OMFS.
 Many tools which are used in real procedures during surgery in the OMFS department of the UHA will be available to the user to plan procedures.
-Any on those tools could be used to add an procedure step to the project case.
-\\ Moreover, by planning the operational steps in virtual reality, planned procedures can easily be shown to other staff involved by simply sharing the project cases.
+Any on those tools could be used to add procedure steps to the project case.
+\\ Moreover, by planning the operational steps in VR, planned procedures can easily be shown to other staff involved by simply sharing the project cases.
 Naturally, it will be of uttermost importance that medical equipment and an appropriate virtual environment is recreated remarkably close to reality in the VR application.
 In addition, contrary to the AR part of the workflow, in VR users should be able to either create steps for the project case or modify existing ones.

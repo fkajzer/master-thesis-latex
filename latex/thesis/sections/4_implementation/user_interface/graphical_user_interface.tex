@@ -7,7 +7,7 @@ It also allows for better interaction with the virtual hands (Requirements \ref{
 Another press of the button will hide the GUI.
 \\ The GUI consists of the Restart, Case, Patient and Segment submenu.
 To interact with the GUI, users use their virtual hands and simulate a real button press by virutally "pressing" their fingers on the GUI.
-The GUI acts as a wall collides with the virtual hands, meaning the hands will not pass through the GUI.
+The GUI, acting as a wall, collides with the virtual hands, meaning the hands will not pass through the GUI.
 This collision detection has been set up in such a way that the GUI can only collide with the virtual hands.
 A slight haptic feedback in the form of the controller vibrating and visual feedback, i.e. toggling elements on and off, signals the user that a button has been pressed.
 By pressing the Restart button, the user will be teleported back to the OT selection as described in Section \ref{sec::VitualOperatingRoom}.
@@ -20,7 +20,8 @@ By pressing the Restart button, the user will be teleported back to the OT selec
 
 This submenu shows all available project cases to the user.
 The buttons for loading a case are created dynamically and depend on the number of project case JSON files found in the specified folder.
-By pressing the button with the representation of the users hand in the virtual operating room, the project case will be loaded and the patient model and case information written down in the project case will be display from within the virtual operting room.
+By pressing the button with the virtual hands, the project case will be loaded and the patient model and case information 
+written down in the project case will be displayed from within the virtual OT.
 The default position when a patient is loaded is hovering over the operating table in the OT.
 On the left side of the GUI, the individual submenus can be selected.
 Visualization tools can be selected via clicking on the Patient submenu, as depicted in Figure \ref{fig::UIPatient}.
@@ -39,6 +40,7 @@ Project cases can also be saved from this menu (Figure \ref{fig::UIPatient}).
     \begin{minipage}{.5\textwidth}
       \centering
       \includegraphics[width=0.95\linewidth]{images/implementation/user_interface/segments.png}
-      \caption{\label{fig::UIPatientSegments}User Interface for Patient specific Segments. Individual segments can be toggled on and of. If a segments material is transparent, the transparency can be set.}
+      \caption{\label{fig::UIPatientSegments}User Interface for Patient specific Segments. Individual segments can be toggled on and of. If a segments material is transparent, 
+      the transparency can be set.}
     \end{minipage}
   \end{figure}
