@@ -10,7 +10,7 @@ The drill handle initially has no attachment; users have to attach a drill bit f
     \centering
     \includegraphics[width=\linewidth]{images/implementation/features/procedures/drilling_attachment.png}
     \caption{\label{fig::FeatureDrillingAttachments}Process of attaching drill bit to the drill handle. With the right hand, the user performs the indicate action by touching 
-    the respective button. With the other hand, the bit is picked up by grabbing it and moved into the pink sphere to attach the attachment.}
+    the respective button. With the other hand, the drill bit is picked up by grabbing it and moved into the pink sphere to attach the bit.}
 \end{figure}
 
 In total, there are fifteen bits which can be used as an attachment for the drilling procedure.
@@ -24,8 +24,8 @@ To perform the procedure, the drill handle must have a bit attached.
 \begin{figure}[ht]
     \centering
     \includegraphics[width=\linewidth]{images/implementation/features/procedures/drilling.png}
-    \caption{\label{fig::FeatureDrilling}Drilling procedure. The pink object represents the last performed step, which was performed using the currently selected tool by pressing 
-    the respective button all the way.}
+    \caption{\label{fig::FeatureDrilling}Drilling procedure. The pink object represents the last performed step, which was performed using the drill by pressing 
+    the perform button all the way.}
 \end{figure}
 
 By triggering the perform action of the hand holding the drill, a copy of the currently attached drill bit is created and added to the project case. 

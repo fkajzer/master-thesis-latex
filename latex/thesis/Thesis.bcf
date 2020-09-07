@@ -2112,13 +2112,13 @@
     <bcf:citekey order="96">Pulijala.2017</bcf:citekey>
     <bcf:citekey order="97">WalkaboutWorlds</bcf:citekey>
     <bcf:citekey order="98">WavefrontOBJ</bcf:citekey>
-    <bcf:citekey order="99">kennedy1993simulator</bcf:citekey>
-    <bcf:citekey order="100">brooke1996sus</bcf:citekey>
-    <bcf:citekey order="101">sauro2016quantifying</bcf:citekey>
+    <bcf:citekey order="99">mitsuhashi2009bodyparts3d</bcf:citekey>
+    <bcf:citekey order="100">kennedy1993simulator</bcf:citekey>
+    <bcf:citekey order="101">brooke1996sus</bcf:citekey>
     <bcf:citekey order="102">sauro2016quantifying</bcf:citekey>
-    <bcf:citekey order="103">HASSFELD20012</bcf:citekey>
-    <bcf:citekey order="104">RN43</bcf:citekey>
-    <bcf:citekey order="105">gpl</bcf:citekey>
+    <bcf:citekey order="103">sauro2016quantifying</bcf:citekey>
+    <bcf:citekey order="104">HASSFELD20012</bcf:citekey>
+    <bcf:citekey order="105">RN43</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">

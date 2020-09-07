@@ -48,16 +48,16 @@ Solely the Graphical User Interface (GUI) and the execution of procedures is per
 
 \begin{figure}[ht]
     \centering
-    \includegraphics[width=375px]{images/implementation/architecture.png}
+    \includegraphics[width=400px]{images/implementation/architecture.png}
     \caption{\label{fig::ImplementationArchitecture}High-level overview of the applications architecture. Interactions between system components are visualized.}
 \end{figure}
 
 The broad overview of how individual system components interact with each other is depicted in Figure \ref{fig::ImplementationArchitecture}.
-The \emph{CaseController} component is responsible for handling all project case related information.
-Via the GUI, users load a project case into the CaseController.
-Inside of the CaseController, users can choose to switch the currently active mode via the VUI.
-The mode will decide how steps, which are added by the user via the currently selected surgical instrument, are handled inside of the CaseController.
+The \emph{Case Controller} component is responsible for handling all project case related information.
+Via the GUI, users load a project case into the Case Controller.
+Inside of the Case Controller, users can choose to switch the currently active mode via the VUI.
+The mode will decide how steps, which are added by the user via the currently selected surgical instrument, are handled inside of the Case Controller.
 In planning mode, steps are directly added to the project case, while in training mode the correct execution of the procedure will be checked.
-Either way, the CaseController calls the Auditory Feedback component to play auditory confirmations or errors to the user.
+Either way, the Case Controller calls the Auditory Feedback component to play audible confirmations or errors to the user.
 Surgical instruments are abstracted in such a way, that it does not matter which instrument is currently selected.
-New steps get passed to the CaseController in form of a geometric representation of the procedure with a new material attached to it.
+New steps get passed to the Case Controller in form of a geometric representation of the procedure with a new material attached to it.

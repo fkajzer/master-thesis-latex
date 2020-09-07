@@ -337,7 +337,7 @@
 	\vspace{1.5em} 
 	{\@secondsupervisor} \\ % second Prof.
 	\vspace{1.5em} 
-	\begin{minipage}[b]{90mm}
+	\begin{minipage}[b]{140mm}
 	\begin{center}
 	\begin{tabular}{ll}
 	\if@VRThesisgerman{Betreuer: }\else{Supervisors: }\fi & {\@tutor}
@@ -720,7 +720,7 @@ Hiermit versichere ich, dass ich die vorliegende Arbeit selbst\"andig im Rahmen 
 Hiermit versichere ich, dass ich die vorliegende Arbeit selbst\"andig im Rahmen der an der RWTH Aachen \"ublichen Betreuung angefertigt und keine anderen als die angegebenen Quellen und Hilfsmittel benutzt habe.
 \vspace{10mm}
 \\
-I guarantee herewith that this thesis has been done independently, with support of the Virtual Reality Group at the RWTH Aachen University and the Oral and Maxillofacial Department of the University Hospital Aachen, and that no other than the referenced sources were used.
+I guarantee herewith that this thesis has been done independently, with support of the Virtual Reality Group at the RWTH Aachen University and the Department of Oral and Maxillofacial at the University Hospital Aachen, and that no other than the referenced sources were used.
 }
 \fi
 \vspace{30mm}

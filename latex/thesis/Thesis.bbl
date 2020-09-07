@@ -635,19 +635,6 @@
       \verb https://www.ncbi.nlm.nih.gov/pubmed/15650649
       \endverb
     \endentry
-    \entry{gpl}{misc}{}
-      \field{sortinit}{G}
-      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
-      \field{labeltitlesource}{title}
-      \field{note}{Accessed: 2020-08-21}
-      \field{title}{GNU General Public License v3.0}
-      \verb{urlraw}
-      \verb https://www.gnu.org/licenses/gpl-3.0.en.html/
-      \endverb
-      \verb{url}
-      \verb https://www.gnu.org/licenses/gpl-3.0.en.html/
-      \endverb
-    \endentry
     \entry{gomez2019techniques}{article}{}
       \name{author}{7}{}{%
         {{hash=ef4ee7f81dd54bc84840fe74e360cd83}{%
@@ -1199,6 +1186,60 @@
       \field{year}{1994}
       \field{pages}{1321\bibrangedash 1329}
       \range{pages}{9}
+    \endentry
+    \entry{mitsuhashi2009bodyparts3d}{article}{}
+      \name{author}{6}{}{%
+        {{hash=1ccab69e66fcdd3200c7a4679608fea8}{%
+           family={Mitsuhashi},
+           familyi={M\bibinitperiod},
+           given={Nobutaka},
+           giveni={N\bibinitperiod}}}%
+        {{hash=654945783d398613b56a862eebd7eebe}{%
+           family={Fujieda},
+           familyi={F\bibinitperiod},
+           given={Kaori},
+           giveni={K\bibinitperiod}}}%
+        {{hash=c76d35468592eb4f67263b37bb9264ff}{%
+           family={Tamura},
+           familyi={T\bibinitperiod},
+           given={Takuro},
+           giveni={T\bibinitperiod}}}%
+        {{hash=50ad237b2b94077f113421a89eef0c59}{%
+           family={Kawamoto},
+           familyi={K\bibinitperiod},
+           given={Shoko},
+           giveni={S\bibinitperiod}}}%
+        {{hash=500ef72ac957c9f02ef61c9913ebb503}{%
+           family={Takagi},
+           familyi={T\bibinitperiod},
+           given={Toshihisa},
+           giveni={T\bibinitperiod}}}%
+        {{hash=97243c3dc6f6f571dc7d5d534e43ecaa}{%
+           family={Okubo},
+           familyi={O\bibinitperiod},
+           given={Kousaku},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{d5714dac334d5d8def4a6a29707bcf03}
+      \strng{fullhash}{aa936fbc00c1443003cc3575a2ea1565}
+      \strng{bibnamehash}{aa936fbc00c1443003cc3575a2ea1565}
+      \strng{authorbibnamehash}{aa936fbc00c1443003cc3575a2ea1565}
+      \strng{authornamehash}{d5714dac334d5d8def4a6a29707bcf03}
+      \strng{authorfullhash}{aa936fbc00c1443003cc3575a2ea1565}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nucleic acids research}
+      \field{number}{suppl\_1}
+      \field{title}{BodyParts3D: 3D structure database for anatomical concepts}
+      \field{volume}{37}
+      \field{year}{2009}
+      \field{pages}{D782\bibrangedash D785}
+      \range{pages}{-1}
     \endentry
     \entry{RN71}{report}{}
       \name{author}{7}{}{%

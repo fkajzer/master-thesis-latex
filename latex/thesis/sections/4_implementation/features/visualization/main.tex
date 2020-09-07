@@ -18,7 +18,7 @@ The user has to strike a balance between system performance and resolution of th
     \centering
     \includegraphics[width=0.99\linewidth]{images/implementation/user_interface/project_case_loaded.png}
   \end{minipage}
-  \caption{\label{fig::LoadingProjectCase} Left: The user wants to start working on a project case and presses the B button to view the GUI. Right: The user has selected the "Study head" case and the patient model is loaded into the virtual OT.}
+  \caption{\label{fig::LoadingProjectCase} Left: The user is about to start working on a project case and presses the B button to view the GUI. Right: The user has selected the "Study head" case and the patient model is loaded into the virtual OT.}
 \end{figure}
 
 After finishing this crucial preprocessing step, the file location of the model must be registered in the project case.
@@ -37,7 +37,7 @@ Loading of the project case depends on the resolution of the imported model, sin
     \centering
     \includegraphics[width=0.99\linewidth]{images/implementation/features/visualization/segments_2.png}
   \end{minipage}
-  \caption{\label{fig::Segmentation}Segment submenu of the GUI. Segments are toggled on and off by pressing the button with the virtual hand.}
+  \caption{\label{fig::Segmentation}Segment submenu of the GUI. Segments are toggled on and off by pressing the button with the virtual hand. Muscle tissue has been toggled off to get a better view on the underlying pathalogy of the patient.}
 \end{figure}
 
 In Figure \ref{fig::Segmentation}, the process of activating and deactivating specific segments is described.
@@ -52,6 +52,15 @@ The slider is used by holding a finger on it and dragging it to the desired valu
 
 \begin{figure}[ht]
   \centering
+  \includegraphics[width=\linewidth]{images/implementation/features/visualization/show_all.png}
+  \caption{\label{fig::ShowAll}Patients can invoke the show all command of the VUI at any time to get an overview of the current procedure. Procedure steps are enumerated so that the sequence of the procedure can be followed.}
+\end{figure}
+
+To get a complete overview of the planned procedure it is possible to use the voice command "show all" to get a numbered overview of all procedure steps as depicted in Figure 3. 
+This way users can prepare themselves for the procedure, e.g. by putting the necessary instruments together on the operating table.
+
+\begin{figure}[ht]
+  \centering
   \includegraphics[width=\linewidth]{images/implementation/user_interface/patient_submenu.png}
   \caption{\label{fig::PatientVisualization}Patient submenu of the GUI. Users can scale patients and reset the scale and position to the default. Additional options such as projecting a 
   copy of the patient model or an explode view can be toggled on and off here. The current procedure can also be saved here.}
@@ -59,7 +68,7 @@ The slider is used by holding a finger on it and dragging it to the desired valu
 
 In the \emph{Patient} submenu of the GUI additional visualization tools which are not patient specific are located.
 Here, the whole virtual patient can be scaled and up or down via their respective button (Figure \ref{fig::PatientVisualization}).
-Since procedure steps are subcomponents of the virtual patient, done procedures are also scaled correctly and relative spatial relationships can be investigated. 
+Since procedure steps are subcomponents of the virtual patient, done procedures are also scaled correctly and relative spatial relationships can be investigated.
 At any time, users can reset the scale, position and rotation of the patient's 3D model to their defaults.
 The currently planned procedure can also be saved at any point here by pressing the button at the bottom \ref{req::F6}.
 Saving the current procedure will persist the current patient model to the users hard disk without overwriting the initial model.
