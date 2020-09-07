@@ -6,7 +6,7 @@ These segment specific materials can be given a color in such a way that visuali
 By setting the alpha value of the materials lower than one, segments can be set to be transparent.
 \\ Second, the user has to decide on the resolution of the 3D models segments, meaning the number of polygons which represent the model.
 This is especially important when factoring in the VR-AR-based workflow, in which the AR glasses capabilities limit the resolution of the model.
-The user has to strike a balance between system performance and resolution of the model, but the resolution of the model still has to be high enough so that patient data is displayed realisticly.
+The user has to strike a balance between system performance and resolution of the model, but the resolution of the model still has to be high enough so that patient data is displayed realistically.
 
 \begin{figure}[ht]
   \centering
@@ -47,7 +47,7 @@ Individual segments can be toggled on and off by pressing the virtual button as 
 The GUI will indicate whether a segment is toggled on or off as depicted in Figure \ref{fig::Segmentation}.
 Segments which are toggled off are indicated by the gray color and the orientation to the left of the UI element.
 Users can also decide to adjust the transparency of segments as desired.
-The transparency slider sets the alpha value for the opacity of the segments material from between 0 to 1.
+The transparency slider sets the alpha value for the opacity of the segment‘s material to a value between 0 and 1.
 The slider is used by holding a finger on it and dragging it to the desired value.
 
 \begin{figure}[ht]
@@ -67,10 +67,10 @@ This way users can prepare themselves for the procedure, e.g. by putting the nec
 \end{figure}
 
 In the \emph{Patient} submenu of the GUI additional visualization tools which are not patient specific are located.
-Here, the whole virtual patient can be scaled and up or down via their respective button (Figure \ref{fig::PatientVisualization}).
+Here, the whole virtual patient can be scaled up or down via their respective button (Figure \ref{fig::PatientVisualization}).
 Since procedure steps are subcomponents of the virtual patient, done procedures are also scaled correctly and relative spatial relationships can be investigated.
 At any time, users can reset the scale, position and rotation of the patient's 3D model to their defaults.
-The currently planned procedure can also be saved at any point here by pressing the button at the bottom \ref{req::F6}.
+The currently planned procedure can also be saved at any point here by pressing the button at the bottom (Requirement \ref{req::F6}).
 Saving the current procedure will persist the current patient model to the users hard disk without overwriting the initial model.
 Serialization of the model is realized through a custom runtime OBJ exporter, which writes the models representation, including materials, to a text file.
 
@@ -80,7 +80,7 @@ Serialization of the model is realized through a custom runtime OBJ exporter, wh
   \caption{\label{fig::ProjectCopy} Projected copy of the unmodified patient model. Users can interact with the copy by grabbing it.}
 \end{figure}
 
-Additionally, by pressing the respective button, the user can at any time project a copy of the unmodified patient's model in front of himself, without any procedure steps, for comparison as 
+Additionally, by pressing the respective button, the user can project a copy of the unmodified patient's model in front of himself at any time, without any procedure steps, for comparison as 
 depicted in Figure \ref{fig::ProjectCopy}.
 In contrast to the heavily modified patient model to the right, the initial patient model is used to visualize the patient specific anatomy and pathology without any 
 friction (Requirement \ref{req::F3.2}).
@@ -96,7 +96,7 @@ Users can also interact with the projected copy, meaning they can move and rotat
 The main model of the patient can also be exploded as depicted in Figure \ref{fig::ExplodeView}.
 Segments are exploded in a way to allow for individual inspection.
 The explode view starts at a specified point in the operating room and each segment is then seperated by a specified distance.
-Each segment in the explode view is interactible in such a way that they can be rotated and translated by grabbing it (\ref{req::F3.3}).
+Each segment in the explode view is interactible in such a way that they can be rotated and translated by grabbing it (Requirement \ref{req::F3.3}).
 
 \begin{figure}[ht]
     \centering

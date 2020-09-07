@@ -1,8 +1,8 @@
 As this thesis aims to offer an open-source framework for VR surgery, the most obvious choice for hardware was used.
-A combination of commercially available HMDs and open-source software is used to develop an easily accessible framework.
+A combination of commercially available HMDs and open-source software was used to develop an easily accessible framework.
 For this thesis, the HTC Vive \cite{Vive} together with the recent Valve Index Controllers \cite{ValveIndex} were used.
-However, any commercially available headset and controllers, which is compatible with SteamVR will work with this system.
-OpenVR \cite{OpenVR} (also called SteamVR), the from Steam developed open-source framework for VR development, abstracts the HMD and specifics of controllers for the end user.
+However, any commercially available headset and controllers, which are compatible with SteamVR will work with this system.
+OpenVR \cite{OpenVR} (also called SteamVR), the open-source framework for VR development made by Steam, abstracts the HMD and specifics of controllers for the end user.
 By utilizing SteamVR, requirement \ref{req::N9} is practically ensured.
 
 Since running virtual reality software is computationally expensive, a desktop computer with the following hardware is recommended to comply with the given robustness 
@@ -28,11 +28,11 @@ Full "walkability" can be realized by utilizing an OT sized tracking space.
 To complement natural walking in smaller spaces, teleportation is realized by pressing the teleportation button to visualize a teleport area and teleport destination.
 When letting go of the button, the user will teleport to the destination.
 Obstructed or non available destinations are visualized through a red cross at the teleport destination.
-Turning of the users field of vision is realized via "Snap Turn", in which the users view rotates by 45 degrees to the left or right.
+Turning of the user's field of vision is realized via "Snap Turn", in which the user's view rotates by 45 degrees to the left or right.
 Snap turn, in contrast to continuously rotating alternatives such as "Smooth Turn", has shown to work best to avoid nausea, especially for VR first timers. 
 \\ Additionally, SteamVR's interaction toolkit allows for natural hand interaction.
 By using SteamVR, virtual hands are projected into the VR.
-Important to note is that Steam, the platform on which SteamVR is running, has to be running in the background for this to work.
+It is important to note that Steam, the platform on which SteamVR is running, has to be running in the background for this to work.
 Otherwise, the virtual hands will not appear inside the application.
 \\ According to button input, the poses of the virtual hands change so that users can understand the underlying intentions of button presses.
 For example, by pressing the grip button on the HTC Vive Controller, the virtual hand will make a grab motion with middle, ring and pinky finger.

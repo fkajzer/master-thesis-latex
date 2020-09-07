@@ -1,11 +1,11 @@
 At this point, six procedures are implemented in the system.
-However, as described in Section \ref{sec::Architecture}, the system was designed with extensibility in mind, so that new instruments can be implemented seemlessly.
+However, as described in Section \ref{sec::Architecture}, the system was designed with extensibility in mind, so that new instruments can be implemented seamlessly.
 Currently, the implemented instruments are based on the workflow of OMF surgeons of the UHA: Users can perform drilling, hammer and chisel, bonesaw and milling operations (Requirement \ref{req::F3.6}).
 Additionally, users can place markings and osteosynthesis plates on the virtual patient.
 \\ To perform procedures, a project case has to be loaded first, as described in Section \ref{sec::GraphicalUserInterface}.
 In the sense of SteamVR's interaction system described in Section \ref{sec::Architecture}, for each procedure there is an 'indicate' action when the user touches the 
 'perform' button, as well as a 'perform' action when the user presses the button all the way.
-This way, users get visual feedback, when they are about to perform a procedure, as well as having visual indications of where the procedure will start (i.e. tip of the surgical instrument) (Requirement \ref{req::N3}).
+This way, users get visual feedback when they are about to perform a procedure, as well as having visual indications of where the procedure will start (i.e. tip of the surgical instrument) (Requirement \ref{req::N3}).
 \\ Each procedure will add a step to the project case.
 Procedures consist of either a copy of the object concerning the current procedure, meaning the geometry of i.e. the drill bit, chisel, or osteosynthesis plate.
 In other cases, simple geometry indicates to the user where a procedure is to be done. This is the case for the sawing, marker and milling procedures, as will be elaborated upon 

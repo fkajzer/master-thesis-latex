@@ -1,21 +1,21 @@
 [0] Config.pm:304> INFO - This is Biber 2.12
 [0] Config.pm:307> INFO - Logfile is 'Thesis.blg'
-[58] biber-darwin:315> INFO - === Mon Sep  7, 2020, 06:29:09
-[91] Biber.pm:371> INFO - Reading 'Thesis.bcf'
-[307] Biber.pm:889> INFO - Found 59 citekeys in bib section 0
-[352] Biber.pm:4093> INFO - Processing section 0
-[385] Biber.pm:4254> INFO - Looking for bibtex format file 'ms_endnote.bib' for section 0
-[390] bibtex.pm:1523> INFO - LaTeX decoding ...
-[449] bibtex.pm:1340> INFO - Found BibTeX data source 'ms_endnote.bib'
-[631] Biber.pm:4254> INFO - Looking for bibtex format file 'ms_thesis_citavi_refs.bib' for section 0
-[647] bibtex.pm:1523> INFO - LaTeX decoding ...
-[1016] bibtex.pm:1340> INFO - Found BibTeX data source 'ms_thesis_citavi_refs.bib'
-[1207] Biber.pm:4254> INFO - Looking for bibtex format file 'ms_thesis.bib' for section 0
-[1210] bibtex.pm:1523> INFO - LaTeX decoding ...
-[1302] bibtex.pm:1340> INFO - Found BibTeX data source 'ms_thesis.bib'
-[1765] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1765] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1765] Biber.pm:3921> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
-[1765] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
-[1856] bbl.pm:636> INFO - Writing 'Thesis.bbl' with encoding 'UTF-8'
-[1889] bbl.pm:739> INFO - Output to Thesis.bbl
+[54] biber-darwin:315> INFO - === Mon Sep  7, 2020, 06:43:36
+[88] Biber.pm:371> INFO - Reading 'Thesis.bcf'
+[221] Biber.pm:889> INFO - Found 59 citekeys in bib section 0
+[237] Biber.pm:4093> INFO - Processing section 0
+[254] Biber.pm:4254> INFO - Looking for bibtex format file 'ms_endnote.bib' for section 0
+[258] bibtex.pm:1523> INFO - LaTeX decoding ...
+[313] bibtex.pm:1340> INFO - Found BibTeX data source 'ms_endnote.bib'
+[479] Biber.pm:4254> INFO - Looking for bibtex format file 'ms_thesis_citavi_refs.bib' for section 0
+[497] bibtex.pm:1523> INFO - LaTeX decoding ...
+[790] bibtex.pm:1340> INFO - Found BibTeX data source 'ms_thesis_citavi_refs.bib'
+[974] Biber.pm:4254> INFO - Looking for bibtex format file 'ms_thesis.bib' for section 0
+[978] bibtex.pm:1523> INFO - LaTeX decoding ...
+[1040] bibtex.pm:1340> INFO - Found BibTeX data source 'ms_thesis.bib'
+[1345] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1346] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1346] Biber.pm:3921> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[1346] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[1435] bbl.pm:636> INFO - Writing 'Thesis.bbl' with encoding 'UTF-8'
+[1474] bbl.pm:739> INFO - Output to Thesis.bbl
